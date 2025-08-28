@@ -2,9 +2,6 @@
   "lastUpdate": "June 6, 2025 6 AM",
   "links": [
     {
-      "lastUpdate": "",
-      "status": "",
-      "changes": "",
       "linkName": "Warden",
       "linkBonus": "Increases Healing Effect by 4%",
       "driftersNeeded": "2",
@@ -24,9 +21,6 @@
       ]
     },
     {
-      "lastUpdate": "",
-      "status": "",
-      "changes": "",
       "linkName": "Skillful",
       "linkBonus": "Enhancement to Skill Damage and Healing by 2.5%",
       "driftersNeeded": "3",
@@ -43,9 +37,6 @@
       ]
     },
     {
-      "lastUpdate": "",
-      "status": "",
-      "changes": "",
       "linkName": "Resilient Mind",
       "linkBonus": "Increases Crowd Control Resistance by 5",
       "driftersNeeded": "2",
@@ -65,9 +56,6 @@
       ]
     },
     {
-      "lastUpdate": "",
-      "status": "",
-      "changes": "",
       "linkName": "Powerhouse",
       "linkBonus": "Boosts Agility by 10",
       "driftersNeeded": "3",
@@ -84,9 +72,7 @@
       ]
     },
     {
-      "lastUpdate": "",
-      "status": "",
-      "changes": "",
+     
       "linkName": "Stalwart",
       "linkBonus": "Damage Resistance Enhanced by 2%",
       "driftersNeeded": "2",
@@ -106,9 +92,6 @@
       ]
     },
     {
-      "lastUpdate": "",
-      "status": "",
-      "changes": "",
       "linkName": "Task Force",
       "linkBonus": "Increases Melee Damage by 4%",
       "driftersNeeded": "2",
@@ -128,9 +111,6 @@
       ]
     },
     {
-      "lastUpdate": "",
-      "status": "",
-      "changes": "",
       "linkName": "Premonition",
       "linkBonus": "Increases Skill Cooldown by 2.5%",
       "driftersNeeded": "3",
@@ -147,9 +127,6 @@
       ]
     },
     {
-      "lastUpdate": "",
-      "status": "",
-      "changes": "",
       "linkName": "Strategic Mind",
       "linkBonus": "Increases Ranged Damage by 4%",
       "driftersNeeded": "2",
@@ -169,9 +146,6 @@
       ]
     },
     {
-      "lastUpdate": "",
-      "status": "",
-      "changes": "",
       "linkName": "Vibrant Bloodline",
       "linkBonus": "HP increased by 4%",
       "driftersNeeded": "3",
@@ -188,9 +162,6 @@
       ]
     },
     {
-      "lastUpdate": "",
-      "status": "",
-      "changes": "",
       "linkName": "Ancestral Heritage",
       "linkBonus": "Increases Intelligence by 10",
       "driftersNeeded": "3",
@@ -207,9 +178,6 @@
       ]
     },
     {
-      "lastUpdate": "",
-      "status": "",
-      "changes": "",
       "linkName": "Force of Nature",
       "linkBonus": "Increases Critical Damage of Basic Attack by 8%",
       "driftersNeeded": "2",
@@ -229,9 +197,6 @@
       ]
     },
     {
-      "lastUpdate": "",
-      "status": "",
-      "changes": "",
       "linkName": "Exotic Brawn",
       "linkBonus": "Increases Strength by 10",
       "driftersNeeded": "3",

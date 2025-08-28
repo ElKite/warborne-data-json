@@ -1,0 +1,101 @@
+{
+  "lastUpdate": "June 6, 2025 6 AM",
+  "chest_intelligence": [
+    {
+      "gameId": "Cloth_Int_3",
+      "gearName": "Vigorcloak",
+      "skillName": "Heal",
+      "manaCost": "",
+      "cooldown": "32",
+      "castingRange": "7",
+      "type": "Skill",
+      "description": "Instantly restores [Healing Rate: 100%] HP to nearby\nallies.",
+      "unlock": "1",
+      "rarity": "1"
+    },
+    {
+      "gameId": "Cloth_Int_1",
+      "gearName": "Cleansing Robe",
+      "skillName": "Purify",
+      "manaCost": "",
+      "cooldown": "28",
+      "castingRange": "6",
+      "type": "Skill",
+      "description": "Immediately removes all control effects, restores \n[Healing Rate: 150%] HP, and grants Control Immunity for 2s.\nCan be used while skills are disabled",
+      "unlock": "1",
+      "rarity": "2"
+    },
+    {
+      "gameId": "Cloth_Int_4",
+      "gearName": "Archaneweaver",
+      "skillName": "Mana Font",
+      "manaCost": "",
+      "cooldown": "32",
+      "castingRange": "7",
+      "type": "Skill",
+      "description": "Creates a 7m radius Mana Font around the caster, lasting 6s\nRestores 10 MP to allies in range every 1s\nIncreases casting speed of friendly units within by 80%",
+      "unlock": "1",
+      "rarity": "2"
+    },
+    {
+      "gameId": "Cloth_Int_5",
+      "gearName": "Exorcist's Robe",
+      "skillName": "Dispel",
+      "manaCost": "",
+      "cooldown": "28",
+      "castingRange": "16",
+      "type": "Skill",
+      "description": "Launches a dispel projectile that deals [Damage Rate:\n120%] Magic Damage to enemies in the impact area,\nremoves all buffs and Shield effects. Reduces target's physical damage dealt by 40%",
+      "unlock": "1",
+      "rarity": "2"
+    },
+    {
+      "gameId": "Cloth_Int_7",
+      "gearName": "Repulsor Mantle",
+      "skillName": "Repulse",
+      "manaCost": "",
+      "cooldown": "30",
+      "castingRange": "6",
+      "type": "Skill",
+      "description": "Deals [Damage Rate: 200%] Magic Damage to nearby\nenemies, disarms them for 4s and knocks them back 10m, and reduces their\nMovement Speed by 40% for 4s.",
+      "unlock": "1",
+      "rarity": "2"
+    },
+    {
+      "gameId": "Cloth_Int_8",
+      "gearName": "Warding Shroud",
+      "skillName": "Barrier",
+      "manaCost": "",
+      "cooldown": "28",
+      "castingRange": "6",
+      "type": "Skill",
+      "description": "Gains a [Target-based Max HP 45%] shield for 6s. While\nthe shield exists, restores 20 MP each time taking\ndamage.",
+      "unlock": "1",
+      "rarity": "3",
+      "stats": {
+        "hp": "755",
+        "dmgBonus": "56%",
+        "armor": "64",
+        "magicResi": "119"
+      }
+    },
+    {
+      "gameId": "Cloth_Int_2",
+      "gearName": "Dreadcloak",
+      "skillName": "Panic",
+      "manaCost": "",
+      "cooldown": "46",
+      "castingRange": "",
+      "type": "Skill",
+      "description": "Creates a panic curse field around the caster that lasts\n6s\nEnemies within 6m who use skills take [Damage Rate:\n200%] Magic Damage and are affected by Fear for 1.5s",
+      "unlock": "1",
+      "rarity": "3",
+      "stats": {
+        "hp": "755",
+        "dmgBonus": "56%",
+        "armor": "64",
+        "magicResi": "119"
+      }
+    }
+  ]
+}

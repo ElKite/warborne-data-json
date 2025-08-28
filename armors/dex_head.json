@@ -1,0 +1,124 @@
+{
+  "lastUpdate": "June 6, 2025 6 AM",
+  "head_dexterity": [
+    {
+      "gameId": "Helm_Dex_2",
+      "gearName": "Vital Mantle",
+      "skillName": "Life Flash",
+      "manaCost": "",
+      "cooldown": "60",
+      "castingRange": "",
+      "type": "Passive",
+      "description": "When taking damage at below 30% HP, immediately\nrestores [Healing Rate: 40%] HP every second for 5s.\nTrigger Interval: 60s",
+      "unlock": "1",
+      "rarity": "1",
+      "stats": {
+        "hp": "714",
+        "dmgBonus": "9.8%",
+        "mpRecovery": "5"
+      }
+    },
+    {
+      "gameId": "Helm_Dex_3",
+      "gearName": "Stormcaller's Hood",
+      "skillName": "Electrified Strike",
+      "manaCost": "",
+      "cooldown": "30",
+      "castingRange": "",
+      "type": "Passive",
+      "description": "When using Basic Attack, the next 5 Basic Attacks\n(including the triggering one) within 8s cast additional\nChain Lightning onto enemy targets. Upon hitting, it\nautomatically ricochets to the nearest target, up to 5\ntimes, dealing [Damage Rate: 60%] Physical Damage per\nhit. (Trigger Interval: 0.6 seconds)\nDamage is influenced by Basic Attack damage boost and\ncan crit based on Basic Attack critical rate.\nCooldown: 30s",
+      "unlock": "1",
+      "rarity": "2",
+      "stats": {
+        "hp": "714",
+        "dmgBonus": "9.8%",
+        "mpRecovery": "5"
+      }
+    },
+    {
+      "gameId": "Helm_Dex_5",
+      "gearName": "Shadeveil Mask",
+      "skillName": "Fade Out",
+      "manaCost": "",
+      "cooldown": "60",
+      "castingRange": "",
+      "type": "Passive",
+      "description": "When taking damage at below 30% HP, instantly enters\nStealth and increases Movement Speed by 30% for 5s.\nAfter 1.5 seconds in Stealth, using a skill, dealing\ndamage, or inflicting healing will break Stealth.\nTrigger Interval: 60s",
+      "unlock": "1",
+      "rarity": "2",
+      "stats": {
+        "hp": "714",
+        "dmgBonus": "9.8%",
+        "mpRecovery": "5"
+      }
+    },
+    {
+      "gameId": "Helm_Dex_8",
+      "gearName": "Purifier's Shroud",
+      "skillName": "Dodge",
+      "manaCost": "",
+      "cooldown": "25",
+      "castingRange": "",
+      "type": "Passive",
+      "description": "When taking damage from Basic Attacks, immediately\ngains +70% Dodge Enhancement for 6s.\nTrigger Interval: 25",
+      "unlock": "1",
+      "rarity": "2",
+      "stats": {
+        "hp": "714",
+        "dmgBonus": "9.8%",
+        "mpRecovery": "5"
+      }
+    },
+    {
+      "gameId": "Helm_Dex_7",
+      "gearName": "Wrathveil Shade",
+      "skillName": "Rage",
+      "manaCost": "",
+      "cooldown": "25",
+      "castingRange": "",
+      "type": "Passive",
+      "description": "When dealing direct damage with Basic Attacks, grants\n+10% Critical Rate and +35% Attack Speed for 9s.\nTrigger Interval: 25s",
+      "unlock": "1",
+      "rarity": "2",
+      "stats": {
+        "hp": "714",
+        "dmgBonus": "9.8%",
+        "mpRecovery": "5"
+      }
+    },
+    {
+      "gameId": "Helm_Dex_1",
+      "gearName": "Ironwill veil",
+      "skillName": "Defiance",
+      "manaCost": "",
+      "cooldown": "120",
+      "castingRange": "",
+      "type": "Passive",
+      "description": "When taking damage at below 20% HP, prevents HP from\nfalling below 1 and regenerates [Healing Rate: 30%] HP\nevery second for 4s. Cannot be dispelled.\nTrigger Interval: 120s",
+      "unlock": "1",
+      "rarity": "3",
+      "stats": {
+        "hp": "755",
+        "dmgBonus": "9.9%",
+        "mpRecovery": "5"
+      }
+    },
+    {
+      "gameId": "Helm_Dex_4",
+      "gearName": "Folly Helm",
+      "skillName": "Break Free",
+      "manaCost": "",
+      "cooldown": "45",
+      "castingRange": "",
+      "type": "Passive",
+      "description": "When affected by hard control effects (Stun, Fear, Freeze,\nKnockup, Petrify, Sleep), Silence, or Immobilize:\nInstantly removes all control effects and debuffs, and\ngrants immunity to control effects and Silence, and\nincreases Speed by 25% for 4s.\nTrigger Interval: 45s.",
+      "unlock": "1",
+      "rarity": "3",
+      "stats": {
+        "hp": "755",
+        "dmgBonus": "9.9%",
+        "mpRecovery": "5"
+      }
+    }
+  ]
+}

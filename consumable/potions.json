@@ -1,2 +1,111 @@
-
+{
+  "lastUpdate": "June 6, 2025 6 AM",
+  "potions": [
+    {
+      "id": "vitalis-potion",
+      "name": "Vitalis Potion",
+      "description": "Immune to movement restrictions (Slow, Immobilize), increases Control Resistance by 86 and Control Reduction by 30% for 9s",
+      "category": "potion",
+      "rarity": "common"
+    },
+    {
+      "id": "enhanced-vitalis-potion",
+      "name": "Enhanced Vitalis Potion",
+      "description": "Immune to movement restrictions (Slow, Immobilize), increases Control Resistance by 143 and Control Reduction by 45% for 9s",
+      "category": "potion",
+      "rarity": "enhanced"
+    },
+    {
+      "id": "advanced-vitalis-potion",
+      "name": "Advanced Vitalis Potion",
+      "description": "Immune to movement restrictions (Slow, Immobilize), increases Control Resistance by 190 and Control Reduction by 60% for 9s",
+      "category": "potion",
+      "rarity": "advanced"
+    },
+    {
+      "id": "titan-potion",
+      "name": "Titan Potion",
+      "description": "Grows in size and grants Forced Movement immunity (Knockback, Pull), boosts HP by 96%, and increases both Armor and Magic Resistance by 60 for 6s.",
+      "category": "potion",
+      "rarity": "common"
+    },
+    {
+      "id": "enhanced-titan-potion",
+      "name": "Enhanced Titan Potion",
+      "description": "Grows in size and grants Forced Movement immunity (Knockback, Pull), boosts HP by 159%, and increases both Armor and Magic Resistance by 96 for 6s.",
+      "category": "potion",
+      "rarity": "enhanced"
+    },
+    {
+      "id": "advanced-titan-potion",
+      "name": "Advanced Titan Potion",
+      "description": "Grows in size and grants Forced Movement immunity (Knockback, Pull), boosts HP by 211%, and increases both Armor and Magic Resistance by 124 for 6s.",
+      "category": "potion",
+      "rarity": "advanced"
+    },
+    {
+      "id": "rejuvenix-flask",
+      "name": "Rejuvenix Flask",
+      "description": "Recovers 2.5% HP every second for 9s",
+      "category": "potion",
+      "rarity": "common"
+    },
+    {
+      "id": "enhanced-rejuvenix-flask",
+      "name": "Enhanced Rejuvenix Flask",
+      "description": "Recovers 3.2% HP every second for 9s",
+      "category": "potion",
+      "rarity": "enhanced"
+    },
+    {
+      "id": "advanced-rejuvenix-flask",
+      "name": "Advanced Rejuvenix Flask",
+      "description": "Recovers 4% HP every second for 9s",
+      "category": "potion",
+      "rarity": "advanced"
+    },
+    {
+      "id": "psyche-infusion",
+      "name": "Psyche Infusion",
+      "description": "Restores 2.9% MP every second and increases skill cooldown rate by 30% for 9s",
+      "category": "potion",
+      "rarity": "common"
+    },
+    {
+      "id": "enhanced-psyche-infusion",
+      "name": "Enhanced Psyche Infusion",
+      "description": "Restores 4.8% MP every second and increases skill cooldown rate by 40% for 9s",
+      "category": "potion",
+      "rarity": "enhanced"
+    },
+    {
+      "id": "advanced-psyche-infusion",
+      "name": "Advanced Psyche Infusion",
+      "description": "Restores 6.4% MP every second and increases skill cooldown rate by 50% for 9s",
+      "category": "potion",
+      "rarity": "advanced"
+    },
+    {
+      "id": "enhanced-warding-potion",
+      "name": "Enhanced Warding Potion",
+      "description": "Use to instantly remove all debuffs and DoT effects from self, restore 25% HP. Increases Healing Received by 150% for 6s",
+      "category": "potion",
+      "rarity": "enhanced"
+    },
+    {
+      "id": "advanced-warding-potion",
+      "name": "Advanced Warding Potion",
+      "description": "Use to instantly remove all debuffs and DoT effects from self, restore 30% HP. Increases Healing Received by 200% for 6s",
+      "category": "potion",
+      "rarity": "advanced"
+    },
+    {
+      "id": "stealth-potion",
+      "name": "Stealth Potion",
+      "description": "Use to enter Stealth for 8s.\nUsing a skill, dealing or taking damage, or inflicting healing breaks Stealth.",
+      "category": "potion",
+      "rarity": "common"
+    }
+  ]
+}
 

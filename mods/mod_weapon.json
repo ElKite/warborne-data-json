@@ -3,9 +3,6 @@
   "mods": [
     {
       "name": "Advance",
-      "lastUpdate": "",
-      "status": "",
-      "changes": "",
       "iconName": "WeaponRare1",
       "rarity": "2",
       "slot": "all",
@@ -19,9 +16,6 @@
     },
     {
       "name": "Tactics",
-      "lastUpdate": "",
-      "status": "",
-      "changes": "",
       "iconName": "WeaponRare2",
       "rarity": "2",
       "slot": "all",
@@ -35,9 +29,6 @@
     },
     {
       "name": "Armor Breaker",
-      "lastUpdate": "",
-      "status": "",
-      "changes": "",
       "iconName": "WeaponEpic1",
       "rarity": "2",
       "slot": "all",
@@ -55,9 +46,6 @@
     },
     {
       "name": "Fortify",
-      "lastUpdate": "",
-      "status": "",
-      "changes": "",
       "iconName": "WeaponEpic2",
       "rarity": "2",
       "slot": "all",
@@ -79,9 +67,6 @@
     },
     {
       "name": "Dominate",
-      "lastUpdate": "",
-      "status": "",
-      "changes": "",
       "iconName": "WeaponEpic3",
       "rarity": "2",
       "slot": "all",
@@ -99,9 +84,6 @@
     },
     {
       "name": "Upperhand",
-      "lastUpdate": "",
-      "status": "",
-      "changes": "",
       "iconName": "WeaponEpic4",
       "rarity": "2",
       "slot": "all",
@@ -119,9 +101,6 @@
     },
     {
       "name": "Pursuit",
-      "lastUpdate": "",
-      "status": "",
-      "changes": "",
       "iconName": "WeaponEpic5",
       "rarity": "2",
       "slot": "all",
@@ -143,9 +122,6 @@
     },
     {
       "name": "Ravage",
-      "lastUpdate": "",
-      "status": "",
-      "changes": "",
       "iconName": "WeaponEpic6",
       "rarity": "2",
       "slot": "all",
@@ -163,9 +139,6 @@
     },
     {
       "name": "Magic Break",
-      "lastUpdate": "",
-      "status": "",
-      "changes": "",
       "iconName": "WeaponEpic7",
       "rarity": "2",
       "slot": "all",
@@ -183,9 +156,6 @@
     },
     {
       "name": "Charge",
-      "lastUpdate": "",
-      "status": "",
-      "changes": "",
       "iconName": "WeaponEpic8",
       "rarity": "2",
       "slot": "all",
@@ -203,9 +173,6 @@
     },
     {
       "name": "Fortify",
-      "lastUpdate": "",
-      "status": "",
-      "changes": "",
       "iconName": "WeaponEpic9",
       "rarity": "2",
       "slot": "all",
@@ -243,9 +210,6 @@
     },
     {
       "name": "Disrupt",
-      "lastUpdate": "",
-      "status": "",
-      "changes": "",
       "iconName": "WeaponExclusiveLgdr2",
       "rarity": "3",
       "slot": "mace",
@@ -263,9 +227,6 @@
     },
     {
       "name": "Seize Chance",
-      "lastUpdate": "",
-      "status": "",
-      "changes": "",
       "iconName": "WeaponExclusiveLgdr3",
       "rarity": "3",
       "slot": "axe",
@@ -303,9 +264,6 @@
     },
     {
       "name": "Synergy",
-      "lastUpdate": "",
-      "status": "",
-      "changes": "",
       "iconName": "WeaponExclusiveLgdr5",
       "rarity": "3",
       "slot": "spear",
@@ -323,9 +281,6 @@
     },
     {
       "name": "Annihilate",
-      "lastUpdate": "",
-      "status": "",
-      "changes": "",
       "iconName": "WeaponExclusiveLgdr6",
       "rarity": "3",
       "slot": "dagger",
@@ -343,9 +298,6 @@
     },
     {
       "name": "Wild Growth",
-      "lastUpdate": "",
-      "status": "",
-      "changes": "",
       "iconName": "WeaponExclusiveLgdr7",
       "rarity": "3",
       "slot": "nature",
@@ -363,9 +315,6 @@
     },
     {
       "name": "Ice Blast",
-      "lastUpdate": "",
-      "status": "",
-      "changes": "",
       "iconName": "WeaponExclusiveLgdr8",
       "rarity": "3",
       "slot": "ice",
@@ -383,9 +332,6 @@
     },
     {
       "name": "Flame Blast",
-      "lastUpdate": "",
-      "status": "",
-      "changes": "",
       "iconName": "WeaponExclusiveLgdr9",
       "rarity": "3",
       "slot": "fire",
@@ -403,9 +349,6 @@
     },
     {
       "name": "Blessing",
-      "lastUpdate": "",
-      "status": "",
-      "changes": "",
       "iconName": "WeaponExclusiveLgdr10",
       "rarity": "3",
       "slot": "holy",
@@ -423,9 +366,6 @@
     },
     {
       "name": "Curse",
-      "lastUpdate": "",
-      "status": "",
-      "changes": "",
       "iconName": "WeaponExclusiveLgdr11",
       "rarity": "3",
       "slot": "curse",
@@ -443,9 +383,6 @@
     },
     {
       "name": "Renovate",
-      "lastUpdate": "",
-      "status": "",
-      "changes": "",
       "iconName": "WeaponExclusiveLgdr12",
       "rarity": "3",
       "slot": "gun",
@@ -463,9 +400,6 @@
     },
     {
       "name": "EarthQuake",
-      "lastUpdate": "",
-      "status": "",
-      "changes": "",
       "iconName": "WeaponLgdr1",
       "rarity": "3",
       "slot": "all",
@@ -487,9 +421,6 @@
     },
     {
       "name": "Rend",
-      "lastUpdate": "",
-      "status": "",
-      "changes": "",
       "iconName": "WeaponLgdr2",
       "rarity": "3",
       "slot": "all",
@@ -511,9 +442,6 @@
     },
     {
       "name": "Retribution",
-      "lastUpdate": "",
-      "status": "",
-      "changes": "",
       "iconName": "WeaponLgdr3",
       "rarity": "3",
       "slot": "all",

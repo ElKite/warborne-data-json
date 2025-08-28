@@ -1,0 +1,124 @@
+{
+  "lastUpdate": "June 6, 2025 6 AM",
+  "head_intelligence": [
+    {
+      "gameId": "Helm_Int_7",
+      "gearName": "Breezeweaver",
+      "skillName": "Amplify",
+      "manaCost": "",
+      "cooldown": "30",
+      "castingRange": "",
+      "type": "Passive",
+      "description": "When casting skills, increases Magic Damage dealt by\n20% for 6s\nTrigger Interval: 30s",
+      "unlock": "1",
+      "rarity": "1",
+      "stats": {
+        "hp": "675",
+        "dmgBonus": "9.6%",
+        "mpRecovery": "10"
+      }
+    },
+    {
+      "gameId": "Helm_Int_1",
+      "gearName": "Healer's Hood",
+      "skillName": "Swift Aid",
+      "manaCost": "",
+      "cooldown": "20",
+      "castingRange": "",
+      "type": "Passive",
+      "description": "When healing, grants target a [Target-based Max HP 20%]\nshield for 6s\nTrigger Interval: 20s",
+      "unlock": "1",
+      "rarity": "2",
+      "stats": {
+        "hp": "714",
+        "dmgBonus": "9.8%",
+        "mpRecovery": "10"
+      }
+    },
+    {
+      "gameId": "Helm_Int_2",
+      "gearName": "Crimson Breeze",
+      "skillName": "Grievous Wounds",
+      "manaCost": "",
+      "cooldown": "25",
+      "castingRange": "",
+      "type": "Passive",
+      "description": "When the skill damages an enemy target, it triggers an\nexplosion at their location, dealing [Damage Rate: 180%]\nMagic Damage to enemies in range and reducing their\nhealing received by 25% for 6s.\nTrigger Interval: 25s.",
+      "unlock": "1",
+      "rarity": "2",
+      "stats": {
+        "hp": "714",
+        "dmgBonus": "9.8%",
+        "mpRecovery": "10"
+      }
+    },
+    {
+      "gameId": "Helm_Int_3",
+      "gearName": "Earth Vein Hood",
+      "skillName": "Venom",
+      "manaCost": "",
+      "cooldown": "30",
+      "castingRange": "",
+      "type": "Passive",
+      "description": "When skills deal direct damage, creates a poison zone\nlasting 6s. Enemies within 5m take [Damage Rate: 25%]\nMagic Damage every second and have their Magic\nResistance reduced by 20%.\nTrigger Interval: 30s",
+      "unlock": "1",
+      "rarity": "2",
+      "stats": {
+        "hp": "714",
+        "dmgBonus": "9.8%",
+        "mpRecovery": "10"
+      }
+    },
+    {
+      "gameId": "Helm_Int_4",
+      "gearName": "Mystic Surge",
+      "skillName": "Overflow",
+      "manaCost": "",
+      "cooldown": "45",
+      "castingRange": "",
+      "type": "Passive",
+      "description": "When casting skills with MP below 40%, gains 10 MP\nevery second for 8s.\nTrigger Interval: 45s",
+      "unlock": "1",
+      "rarity": "2",
+      "stats": {
+        "hp": "714",
+        "dmgBonus": "9.8%",
+        "mpRecovery": "10"
+      }
+    },
+    {
+      "gameId": "Helm_Int_5",
+      "gearName": "Sanctum Shroud",
+      "skillName": "Repulsion",
+      "manaCost": "",
+      "cooldown": "45",
+      "castingRange": "",
+      "type": "Passive",
+      "description": "When taking damage at below 40% HP, gains a\n[Target-based Max HP 25%] shield and generates a\nrepulsion field lasting 6s. Enemies touching the field take\nDamage Rate: 100%] Magic Damage and are knocked\nback 7m.\nTrigger Interval: 45s",
+      "unlock": "1",
+      "rarity": "3",
+      "stats": {
+        "hp": "755",
+        "dmgBonus": "9.9%",
+        "mpRecovery": "10"
+      }
+    },
+    {
+      "gameId": "Helm_Int_8",
+      "gearName": "Twilight Mantle",
+      "skillName": "Last Stand",
+      "manaCost": "",
+      "cooldown": "45",
+      "castingRange": "",
+      "type": "Passive",
+      "description": "When damage taken within 3s exceeds 35% of max HP,\ncreates a healing wave that restores [Healing Rate: 200%]\nHP to nearby allies and removes control effects.\nTrigger Interval: 45s",
+      "unlock": "1",
+      "rarity": "3",
+      "stats": {
+        "hp": "755",
+        "dmgBonus": "9.9%",
+        "mpRecovery": "10"
+      }
+    }
+  ]
+}
