@@ -1,0 +1,26 @@
+{
+  "lastUpdate": "June 16, 2025 22 AM",
+  "stats": {
+    "str": {
+      "blockChance": "0.5",
+      "baseDamageAndHealing": "0.05",
+      "maxHp": "0.25",
+      "pveDamage": "0.1",
+      "controlResistance": "0.1"
+    },
+    "dex": {
+      "physicalDamage": "0.25",
+      "armor": "0.15",
+      "tenacityPen": "0.15",
+      "attackSpeed": "0.18",
+      "critRate": "0.05"
+    },
+    "int": {
+      "maxMp": "0.18",
+      "magicResistance": "0.15",
+      "castinSpeed": "0.3",
+      "cooldownReduction": "0.25",
+      "healing": "0.25"
+    }
+  }
+}

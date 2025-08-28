@@ -1,0 +1,251 @@
+{
+  "lastUpdate": "June 6, 2025 6 AM",
+  "links": [
+    {
+      "lastUpdate": "",
+      "status": "",
+      "changes": "",
+      "linkName": "Warden",
+      "linkBonus": "Increases Healing Effect by 4%",
+      "driftersNeeded": "2",
+      "drifters": [
+        {
+          "drifterId": "paragon_int_2"
+        },
+        {
+          "drifterId": "paragon_int_7"
+        },
+        {
+          "drifterId": "paragon_int_11"
+        },
+        {
+          "drifterId": "paragon_int_10"
+        }
+      ]
+    },
+    {
+      "lastUpdate": "",
+      "status": "",
+      "changes": "",
+      "linkName": "Skillful",
+      "linkBonus": "Enhancement to Skill Damage and Healing by 2.5%",
+      "driftersNeeded": "3",
+      "drifters": [
+        {
+          "drifterId": "paragon_str_4"
+        },
+        {
+          "drifterId": "paragon_dex_1"
+        },
+        {
+          "drifterId": "paragon_int_2"
+        }
+      ]
+    },
+    {
+      "lastUpdate": "",
+      "status": "",
+      "changes": "",
+      "linkName": "Resilient Mind",
+      "linkBonus": "Increases Crowd Control Resistance by 5",
+      "driftersNeeded": "2",
+      "drifters": [
+        {
+          "drifterId": "paragon_str_2"
+        },
+        {
+          "drifterId": "paragon_str_4"
+        },
+        {
+          "drifterId": "paragon_str_5"
+        },
+        {
+          "drifterId": "paragon_str_7"
+        }
+      ]
+    },
+    {
+      "lastUpdate": "",
+      "status": "",
+      "changes": "",
+      "linkName": "Powerhouse",
+      "linkBonus": "Boosts Agility by 10",
+      "driftersNeeded": "3",
+      "drifters": [
+        {
+          "drifterId": "paragon_str_5"
+        },
+        {
+          "drifterId": "paragon_dex_3"
+        },
+        {
+          "drifterId": "paragon_int_6"
+        }
+      ]
+    },
+    {
+      "lastUpdate": "",
+      "status": "",
+      "changes": "",
+      "linkName": "Stalwart",
+      "linkBonus": "Damage Resistance Enhanced by 2%",
+      "driftersNeeded": "2",
+      "drifters": [
+        {
+          "drifterId": "paragon_str_6"
+        },
+        {
+          "drifterId": "paragon_str_1"
+        },
+        {
+          "drifterId": "paragon_str_3"
+        },
+        {
+          "drifterId": "paragon_str_8"
+        }
+      ]
+    },
+    {
+      "lastUpdate": "",
+      "status": "",
+      "changes": "",
+      "linkName": "Task Force",
+      "linkBonus": "Increases Melee Damage by 4%",
+      "driftersNeeded": "2",
+      "drifters": [
+        {
+          "drifterId": "paragon_dex_1"
+        },
+        {
+          "drifterId": "paragon_dex_7"
+        },
+        {
+          "drifterId": "paragon_dex_9"
+        },
+        {
+          "drifterId": "paragon_dex_3"
+        }
+      ]
+    },
+    {
+      "lastUpdate": "",
+      "status": "",
+      "changes": "",
+      "linkName": "Premonition",
+      "linkBonus": "Increases Skill Cooldown by 2.5%",
+      "driftersNeeded": "3",
+      "drifters": [
+        {
+          "drifterId": "paragon_str_9"
+        },
+        {
+          "drifterId": "paragon_int_9"
+        },
+        {
+          "drifterId": "paragon_dex_7"
+        }
+      ]
+    },
+    {
+      "lastUpdate": "",
+      "status": "",
+      "changes": "",
+      "linkName": "Strategic Mind",
+      "linkBonus": "Increases Ranged Damage by 4%",
+      "driftersNeeded": "2",
+      "drifters": [
+        {
+          "drifterId": "paragon_int_1"
+        },
+        {
+          "drifterId": "paragon_int_6"
+        },
+        {
+          "drifterId": "paragon_int_4"
+        },
+        {
+          "drifterId": "paragon_int_3"
+        }
+      ]
+    },
+    {
+      "lastUpdate": "",
+      "status": "",
+      "changes": "",
+      "linkName": "Vibrant Bloodline",
+      "linkBonus": "HP increased by 4%",
+      "driftersNeeded": "3",
+      "drifters": [
+        {
+          "drifterId": "paragon_str_2"
+        },
+        {
+          "drifterId": "paragon_dex_7"
+        },
+        {
+          "drifterId": "paragon_int_3"
+        }
+      ]
+    },
+    {
+      "lastUpdate": "",
+      "status": "",
+      "changes": "",
+      "linkName": "Ancestral Heritage",
+      "linkBonus": "Increases Intelligence by 10",
+      "driftersNeeded": "3",
+      "drifters": [
+        {
+          "drifterId": "paragon_str_3"
+        },
+        {
+          "drifterId": "paragon_dex_4"
+        },
+        {
+          "drifterId": "paragon_int_7"
+        }
+      ]
+    },
+    {
+      "lastUpdate": "",
+      "status": "",
+      "changes": "",
+      "linkName": "Force of Nature",
+      "linkBonus": "Increases Critical Damage of Basic Attack by 8%",
+      "driftersNeeded": "2",
+      "drifters": [
+        {
+          "drifterId": "paragon_dex_2"
+        },
+        {
+          "drifterId": "paragon_dex_5"
+        },
+        {
+          "drifterId": "paragon_dex_6"
+        },
+        {
+          "drifterId": "paragon_dex_8"
+        }
+      ]
+    },
+    {
+      "lastUpdate": "",
+      "status": "",
+      "changes": "",
+      "linkName": "Exotic Brawn",
+      "linkBonus": "Increases Strength by 10",
+      "driftersNeeded": "3",
+      "drifters": [
+        {
+          "drifterId": "paragon_str_1"
+        },
+        {
+          "drifterId": "paragon_dex_9"
+        },
+        {
+          "drifterId": "paragon_int_4"
+        }
+      ]
+    }
+  ]
+}
