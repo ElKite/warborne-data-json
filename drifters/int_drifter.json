@@ -39,9 +39,9 @@
           "manaCost": "34",
           "cooldown": "46",
           "castingRange": "20",
-          "type": "Skill",
+          "type": "skill",
           "description": "Channel void energy for 5s and send forth 37 Void Orbs,\neach dealing [Damage Rate: 35%] Magic Damage and\ninflicting [Void Toxin]\nSkill cannot be interrupted.\n[Void Toxin]: Deals [Damage Rate: 10%] Magic Damage\nevery second (increases based on stacks) for 12s,\nstacking up to 5 times. [Void Toxin] from different sources\nshare stacks.",
-          "unlock": "1"
+          "tierUnlock": "1"
         },
         {
           "gameId": "Paragon_Skill_Int_1_Passive",
@@ -50,9 +50,9 @@
           "manaCost": "",
           "cooldown": "",
           "castingRange": "",
-          "type": "Passive",
+          "type": "passive",
           "description": "Gains 5% Movement Speed for 3s when inflicting an\nenemy with a DoT effect, stacking up to 6 times.",
-          "unlock": "4"
+          "tierUnlock": "4"
         }
       ]
     },
@@ -94,9 +94,9 @@
           "manaCost": "30",
           "cooldown": "42",
           "castingRange": "10",
-          "type": "Skill",
+          "type": "skill",
           "description": "Links to 8 targets within 10m around the caster,\nchanneling for 4s. Restores [Healing Rate: 40%] HP to the\ncaster and linked allies every 0.5s, while dealing \n[Damage Rate: 70%] Magic Damage to linked enemies.\nCannot be interrupted while channeling.",
-          "unlock": "1"
+          "tierUnlock": "1"
         },
         {
           "gameId": "Paragon_Skill_Int_2_Passive",
@@ -105,9 +105,9 @@
           "manaCost": "",
           "cooldown": "",
           "castingRange": "",
-          "type": "Passive",
+          "type": "passive",
           "description": "Other allies within 12m receive +20% healing.",
-          "unlock": "4"
+          "tierUnlock": "4"
         }
       ]
     },
@@ -149,9 +149,9 @@
           "manaCost": "28",
           "cooldown": "46",
           "castingRange": "5",
-          "type": "Skill",
+          "type": "skill",
           "description": "Removes all control effects and gains [Submerge] for\n2.5s\n[Submerge]: Dives underground, becoming immune to all\ndamage and control effects. Increases Movement Speed\nby 40% and recovers[Healing Rate: 49%] HP every\nsecond.\nPress skill again to exit [Submerge] early.\nUpon exiting [Submerge], deals [Damage Rate: 200%]\nMagic Damage to nearby enemies.\nCan be used while skills are disabled",
-          "unlock": "1"
+          "tierUnlock": "1"
         },
         {
           "gameId": "Paragon_Skill_Int_3_Passive",
@@ -160,9 +160,9 @@
           "manaCost": "",
           "cooldown": "0.5",
           "castingRange": "",
-          "type": "Passive",
+          "type": "passive",
           "description": "Dealing damage with a skill grants 1 stack of Swarm,\nrestoring [Healing Rate: 7.5%] HP every 2s for 6s\n(stacks do not boost healing effect). During this time,\nDamage Resistance increases by 5%, stacking up to 5\ntimes. (Cooldown: 0.5s)",
-          "unlock": "4"
+          "tierUnlock": "4"
         }
       ]
     },
@@ -204,9 +204,9 @@
           "manaCost": "28",
           "cooldown": "46",
           "castingRange": "14",
-          "type": "Skill",
+          "type": "skill",
           "description": "Applies Serpent's Whisper to the caster or an allied target,\npreventing movement and skill usage for 4s and granting\nimmunity to damage and control. Deals [Damage Rate:\n58%] Magic Damage to nearby enemies every 0.5s and\napplies [Creeping Stone]\n[Creeping Stone]: Lasts 1s, stacking up to 4 times. Target\nis Petrified and has their Armor reduced by 25% for 2 at\nmax stacks (cannot gain [Creeping Stone] for 6)\nCan be used while skills are disabled. Serpent's Whisper\ncannot be dispelled.",
-          "unlock": "1"
+          "tierUnlock": "1"
         },
         {
           "gameId": "Paragon_Skill_Int_4_Passive",
@@ -215,9 +215,9 @@
           "manaCost": "",
           "cooldown": "",
           "castingRange": "",
-          "type": "Passive",
+          "type": "passive",
           "description": "Retains 1 HP upon taking lethal damage, transforming\ninto a spirit serpent, cleansing all negative effects\n(control, DoT, and debuffs), gaining immunity to control,\ndebuffs and damage for 2s, and +100% Movement Speed,\nand healing 5% HP every 0.5s. (CD: 120s)",
-          "unlock": "4"
+          "tierUnlock": "4"
         }
       ]
     },
@@ -259,9 +259,9 @@
           "manaCost": "29",
           "cooldown": "28",
           "castingRange": "12",
-          "type": "Skill",
+          "type": "skill",
           "description": "Creates a Genetic Cascade link with the target, lasting\n15s.\nFor allied targets: Restores [Healing Rate: 25%] HP every\nsecond and increases damage dealt by 3% for 5s. Stacks\nup to 10 times.\nFor enemy targets: Deals [Damage Rate: 50%] Magic\nDamage every second and reduces damage dealt by 3%\nfor 5s. Stacks up to 10 times.\nCan link to another target of a different type while a link is\nactive.\nLink breaks if the target moves over 25m away.",
-          "unlock": "1"
+          "tierUnlock": "1"
         },
         {
           "lastUpdate": "",
@@ -273,9 +273,9 @@
           "manaCost": "",
           "cooldown": "0.5",
           "castingRange": "",
-          "type": "Passive",
+          "type": "passive",
           "description": "After dealing damage 5 times, creates two Yin Vortexes\naround the caster that deal [Damage Rate: 100%] Magic\nDamage to enemies hit and reduce healing received by 5%\nfor 4s. Stacks up to 3 times. (Cooldown: 0.5s)\nAfter healing 5 times, creates two Yang Vortexes around\nself that restore [Healing Rate: 50%] HP to allies hit and\nincrease healing received by 5% for 4s. Stacks up to 3\ntimes. (Cooldown: 0.5s)",
-          "unlock": "4"
+          "tierUnlock": "4"
         }
       ]
     },
@@ -317,9 +317,9 @@
           "manaCost": "29",
           "cooldown": "28",
           "castingRange": "14",
-          "type": "Skill",
+          "type": "skill",
           "description": "Select an enemy target to summon ravens. After 2\nseconds, ravens dive to attack, dealing [Damage Rate:\n210%] Magic Damage to up to 10 enemies in range,\ndispelling all buffs, shields, and HoT effects. Applies 50%\nSlow and reduces damage dealt by 50% for 6s. Targets\ncannot gain buffs, shields, or HoT effects during this time.",
-          "unlock": "1"
+          "tierUnlock": "1"
         },
         {
           "gameId": "Paragon_Skill_Int_6_Passive",
@@ -328,9 +328,9 @@
           "manaCost": "",
           "cooldown": "0.5",
           "castingRange": "",
-          "type": "Passive",
+          "type": "passive",
           "description": "Skills dealing damage grant the caster Raven's Call. At 6\nstacks, the next skill damage within 8s that hits an enemy\ntarget will summon ravens at the location, dealing\n[Damage Rate: 120%] Magic Damage to up to 5 enemy\ntargets in range. This effect removes 1 stack of buffs from\nhit targets and restores [Healing Rate: 60%] HP to self.\n(Trigger Interval: 0.5s)",
-          "unlock": "4"
+          "tierUnlock": "4"
         }
       ]
     },
@@ -372,9 +372,9 @@
           "manaCost": "22",
           "cooldown": "42",
           "castingRange": "10",
-          "type": "Skill",
+          "type": "skill",
           "description": "Creates a Lunar Domain and channels for 8s. Enemies\nwithin are struck by starlight on skill use, taking \n[Damage Rate: 200%] Magic Damage and losing 20 MP. Allies\nwithin recover 8 MP every second and gain \n[Target-based Max HP 15%] Shield lasting 4s.\nSkill cannot be interrupted. +20% Movement Speed while\nchanneling.",
-          "unlock": "1"
+          "tierUnlock": "1"
         },
         {
           "gameId": "Paragon_Skill_Int_7_Passive",
@@ -383,9 +383,9 @@
           "manaCost": "",
           "cooldown": "",
           "castingRange": "12",
-          "type": "Passive",
+          "type": "passive",
           "description": "Every 2s restores Moonveil Max MP + 3% MP to other\nallies within 12m",
-          "unlock": "4"
+          "tierUnlock": "4"
         }
       ]
     },
@@ -427,9 +427,9 @@
           "manaCost": "30",
           "cooldown": "42",
           "castingRange": "16",
-          "type": "Skill",
+          "type": "skill",
           "description": "Creates an expanding Sanctification Field at the target\nlocation and channels for 5s.\nCannot be interrupted while channeling.\nCleanses control effects every 0.5s, all debuffs, and 2 DoT\neffects, from up to 20 allies in the field and restores\n[Healing Rate: 25%] HP.",
-          "unlock": "1"
+          "tierUnlock": "1"
         },
         {
           "gameId": "Paragon_Skill_Int_11_Passive",
@@ -438,9 +438,9 @@
           "manaCost": "",
           "cooldown": "",
           "castingRange": "",
-          "type": "Passive",
+          "type": "passive",
           "description": "When healing with skills, the target gains 5% additional\nDamage Resistance for 4s. Stacks up to 6 times",
-          "unlock": "4"
+          "tierUnlock": "4"
         }
       ]
     },
@@ -482,9 +482,9 @@
           "manaCost": "38",
           "cooldown": "93",
           "castingRange": "40",
-          "type": "Skill",
+          "type": "skill",
           "description": "Creates an astral field beneath the caster. After 3s,\nteleports up to 15 teammates in range to the target\nlocation. Upon arrival, deals [Damage Rate: 200%] Magic\nDamage to surrounding enemies and Stuns them for 1s.\nAllies gain [Target-based Max HP 20%] Shield, +30%\nMovement Speed effects for 4s.\nIf there's unpassable terrain in the teleportation path,\nteleport to that position instead ..\n Target cannot be teleported by Astral Gate for 10 seconds after teleportation.",
-          "unlock": "1"
+          "tierUnlock": "1"
         },
         {
           "gameId": "Paragon_Skill_Int_9_Passive",
@@ -493,9 +493,9 @@
           "manaCost": "",
           "cooldown": "0.5",
           "castingRange": "",
-          "type": "Passive",
+          "type": "passive",
           "description": "Reduces the cooldown of all skills (not including Tactical\nItem skills) by 0.3s when this skill deals damage.\n(Cooldown: 0.5s)",
-          "unlock": "4"
+          "tierUnlock": "4"
         }
       ]
     },
@@ -520,9 +520,9 @@
           "manaCost": "N/A",
           "cooldown": "N/A",
           "castingRange": "N/A",
-          "type": "Skill",
+          "type": "skill",
           "description": "N/A",
-          "unlock": "1"
+          "tierUnlock": "1"
         },
         {
           "gameId": "Paragon_Skill_Int_13_Passive",
@@ -531,9 +531,9 @@
           "manaCost": "N/A",
           "cooldown": "N/A",
           "castingRange": "N/A",
-          "type": "Passive",
+          "type": "passive",
           "description": "N/A",
-          "unlock": "4"
+          "tierUnlock": "4"
         }
       ]
     }

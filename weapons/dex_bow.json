@@ -104,7 +104,7 @@
       "type": "skill",
       "description": "Rains arrows down at the target location, dealing\n[Damage Rate: 180%] Physical Damage to players\n([Damage Rate: 270%] Physical Damage to mobs) and\ninflicting 30% Slow for 3s.\nGains 1 charge every 12s, up to 3 charges",
       "tierUnlock": "3",
-      "rarity": "uncommon",
+      "rarity": "rare",
       "stats": {
         "attackPower": "148",
         "as": "1"

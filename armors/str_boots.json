@@ -8,10 +8,10 @@
       "manaCost": "",
       "cooldown": "28",
       "castingRange": "6",
-      "type": "Skill",
+      "type": "skill",
       "description": "Increases Movement Speed by 50% and restores [Healing Rate: 20%] HP every second for 5s.",
-      "unlock": "1",
-      "rarity": "1",
+      "tierUnlock": "1",
+      "rarity": "rare",
       "stats": {
         "hp": "675",
         "dmgBonus": "9.6%"
@@ -24,10 +24,10 @@
       "manaCost": "",
       "cooldown": "28",
       "castingRange": "6",
-      "type": "Skill",
+      "type": "skill",
       "description": "For every 10% HP lost, gains 1 stack of Movement Speed Increase by 17.5% and damage by 4.5% for 5s. Stacks up to 7 times.",
-      "unlock": "1",
-      "rarity": "2",
+      "tierUnlock": "1",
+      "rarity": "epic",
       "stats": {
         "hp": "714",
         "dmgBonus": "9.8%"
@@ -40,10 +40,10 @@
       "manaCost": "",
       "cooldown": "28",
       "castingRange": "10",
-      "type": "Skill",
+      "type": "skill",
       "description": "Leap to the target location. Upon landing, grants [Target-based Max HP 22%] Shield to nearby allies for 6s.",
-      "unlock": "1",
-      "rarity": "2",
+      "tierUnlock": "1",
+      "rarity": "epic",
       "stats": {
         "hp": "714",
         "dmgBonus": "9.8%"
@@ -56,10 +56,10 @@
       "manaCost": "",
       "cooldown": "42",
       "castingRange": "6",
-      "type": "Skill",
+      "type": "skill",
       "description": "Enhances Movement Speed by 30%, Max HP and Current HP by 80%, and grants Immunity to Forced Movement (Pull, Knockback) for 6s.",
-      "unlock": "1",
-      "rarity": "2",
+      "tierUnlock": "1",
+      "rarity": "epic",
       "stats": {
         "hp": "714",
         "dmgBonus": "9.8%"
@@ -72,10 +72,10 @@
       "manaCost": "",
       "cooldown": "28",
       "castingRange": "6",
-      "type": "Skill",
+      "type": "skill",
       "description": "Remove Slow and immobilize effects. Increases Movement Speed by 80% and gains immunity to Slow and immobilize effects for 4s.",
-      "unlock": "1",
-      "rarity": "2",
+      "tierUnlock": "1",
+      "rarity": "epic",
       "stats": {
         "hp": "714",
         "dmgBonus": "9.8%"
@@ -88,10 +88,10 @@
       "manaCost": "",
       "cooldown": "37",
       "castingRange": "14",
-      "type": "Skill",
+      "type": "skill",
       "description": "Charges forward 5 times, dealing [Damage Rate: 50%]. Physical Damage to enemies in path and knocking them back 4m each time. If knocked into terrain, enemies are stunned for 2s. Immune to control effects and gains +80% Damage. Resistance while charging.",
-      "unlock": "1",
-      "rarity": "3",
+      "tierUnlock": "1",
+      "rarity": "legendary",
       "stats": {
         "hp": "755",
         "dmgBonus": "9.9%"
@@ -104,10 +104,10 @@
       "manaCost": "",
       "cooldown": "28",
       "castingRange": "9",
-      "type": "Skill",
+      "type": "skill",
       "description": "Leaps to the target location, dealing [Damage Rate: 150%] Physical Damage and inflicting Knockup for 1s to enemies upon landing. Then adjusts direction and leaps again toward the target, dealing another [Damage Rate: 150%] Physical Damage and inflicting Knockup for 1s on enemies upon landing. During the skill's duration, immune to control effects and gains +80% Damage Resistance.",
-      "unlock": "1",
-      "rarity": "3",
+      "tierUnlock": "1",
+      "rarity": "legendary",
       "stats": {
         "hp": "755",
         "dmgBonus": "9.9%"

@@ -8,10 +8,10 @@
       "manaCost": "",
       "cooldown": "32",
       "castingRange": "6 ",
-      "type": "Skill",
+      "type": "skill",
       "description": "Channels for 2.5s, increasing Damage Resistance by 90%. Can move during channeling but Speed is reduced by -90%",
-      "unlock": "1",
-      "rarity": "1"
+      "tierUnlock": "1",
+      "rarity": "rare"
     },
     {
       "gameId": "Cloth_Str_1",
@@ -20,10 +20,10 @@
       "manaCost": "",
       "cooldown": "32",
       "castingRange": "7 ",
-      "type": "Skill",
+      "type": "skill",
       "description": "> Grants a shield with [Target-based Max HP 20%] Shield Value to nearby allies for 6s. When HP is below 40%, the Shield Value increases to [Target-based Max HP 35%].",
-      "unlock": "1",
-      "rarity": "2"
+      "tierUnlock": "1",
+      "rarity": "epic"
     },
     {
       "gameId": "Cloth_Str_2",
@@ -32,10 +32,10 @@
       "manaCost": "",
       "cooldown": "28",
       "castingRange": "7 ",
-      "type": "Skill",
+      "type": "skill",
       "description": "Deals [Damage Rate: 300%] Physical Damage to nearby enemies, stunning them for 1.5s and reducing their Speed by 40% for 4s.",
-      "unlock": "1",
-      "rarity": "2"
+      "tierUnlock": "1",
+      "rarity": "epic"
     },
     {
       "gameId": "Cloth_Str_6",
@@ -44,10 +44,10 @@
       "manaCost": "",
       "cooldown": "32",
       "castingRange": "7 ",
-      "type": "Skill",
+      "type": "skill",
       "description": "Sounds a war horn, lasting 5s. Allies within 7m gain 30% Damage Resistance, 50 Control Resistance, and immunity to Forced Movement effects (Knockback, Pull).",
-      "unlock": "1",
-      "rarity": "2"
+      "tierUnlock": "1",
+      "rarity": "epic"
     },
     {
       "gameId": "Cloth_Str_8",
@@ -56,10 +56,10 @@
       "manaCost": "",
       "cooldown": "32",
       "castingRange": "16 ",
-      "type": "Skill",
+      "type": "skill",
       "description": "Shoots a grappling rope that deals [Damage Rate: 100%] Physical Damage to the target, Immobilizes them for 2s, and pulls both toward the middle.",
-      "unlock": "1",
-      "rarity": "2"
+      "tierUnlock": "1",
+      "rarity": "epic"
     },
     {
       "gameId": "Cloth_Str_3",
@@ -68,10 +68,10 @@
       "manaCost": "",
       "cooldown": "37",
       "castingRange": "7 ",
-      "type": "Skill",
+      "type": "skill",
       "description": "Increases Damage Resistance by 30% and creates a weakening field around the caster, lasting 6s. Enemies within 7m deal 80% less damage and cannot enter Stealth.",
-      "unlock": "1",
-      "rarity": "3",
+      "tierUnlock": "1",
+      "rarity": "legendary",
       "stats": {
         "armor": "331",
         "magicResi": "251"
@@ -84,10 +84,10 @@
       "manaCost": "",
       "cooldown": "22",
       "castingRange": "7 ",
-      "type": "Skill",
+      "type": "skill",
       "description": "Creates a converging force field. After 1.5s, deals Damage Rate: 250%] Physical Damage to enemies within 7m, pulls them to the center, Stuns them for 0.5s, and Slows them by 30% for 4s.",
-      "unlock": "1",
-      "rarity": "3",
+      "tierUnlock": "1",
+      "rarity": "legendary",
       "stats": {
         "armor": "331",
         "magicResi": "251"

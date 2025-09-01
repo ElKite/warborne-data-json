@@ -1,260 +1,190 @@
 {
   "lastUpdate": "June 6, 2025 6 AM",
-  "fire": [
+  "passive": {
+    "gameId": "Fire_Passive",
+    "skillName": "Burst",
+    "manaCost": "",
+    "cooldown": "",
+    "castingRange": "",
+    "type": "passive",
+    "description": "Damage dealt inflicts [Burn], dealing [Damage Rate: 25%]\nMagic Damage every second for 8s, stacking up to 6 times\n(stacks do not boost damage).\nWhen [Burn] reaches max stacks, deals [Damage Rate:\n80%] Magic Damage to up to 5 enemies near the carrier\nand removes all [Burn] stacks."
+  },
+  "basicAttacks": [
     {
-      "lastUpdate": "June 6, 2025 02:46:00 AM",
-      "status": "buff",
-      "changes": "- Damage Rate 90% -> 120%",
       "gameId": "FireStaffAttack_1",
-      "gearName": "",
       "skillName": "Magma Burst",
       "manaCost": "",
       "cooldown": "0.5",
       "castingRange": "14",
-      "type": "Basic_Attack",
+      "type": "basic",
       "description": "Deals [Damage Rate: 120%] Magic Damage and applies 1\nstack of [Burn].",
-      "unlock": "2"
+      "tierUnlock": "2"
     },
     {
-      "lastUpdate": "June 6, 2025 02:46:00 AM",
-      "status": "balance",
-      "changes": "- Cooldown 3s -> 0.5s\n- Casting Time 0.5s -> 1.2s",
       "gameId": "FireStaffAttack_2",
-      "gearName": "",
       "skillName": "Scorching Shard",
       "manaCost": "",
       "cooldown": "0.5",
       "castingRange": "14",
-      "type": "Basic_Attack",
+      "type": "basic",
       "description": "Replaces Basic Attack with [Scorching Shard].\nAfter 1.2s cast, fires 3 scorching shards in the target\ndirection, dealing [Damage Rate: 120%] Magic Damage to\nenemies hit and inflicting 1 stack of [Burn]. When multiple\nshards hit the same target, additional shards deal 25%\nless damage to the original damage.",
-      "unlock": "4"
+      "tierUnlock": "4"
     },
     {
-      "lastUpdate": "June 6, 2025 02:46:00 AM",
-      "status": "buff",
-      "changes": "- Damage Rate 100% -> 120%\n- Cooldown 3s -> 0.5s",
       "gameId": "FireStaffAttack_3",
-      "gearName": "",
       "skillName": "Wildfire Shard",
       "manaCost": "2.8",
       "cooldown": "0.5",
       "castingRange": "18",
-      "type": "Basic_Attack",
-      "description": "Replaces Basic Attack with [Wildfire Shard].\nAfter 2s cast, fires a wildfire shard at the target location\nthat bounces forward twice. Explodes on contact with\nenemies, dealing [Damage Rate: 120%] Magic Damage\nand inflicting 1 stack of [Burn] to enemies in range",
-      "unlock": "6"
-    },
+      "type": "basic",
+      "description": "Replaces Basic Attack with [Wildfire Shard].\nAfter 2s cast, fires a wildfire shard at the target location\nthat bounces forward twice. Explodes on contact with\nenemies, dealing [Damage Rate: 120%] Magic Damage\nand inflicting 1 stack of [Burn] to enemies in range.",
+      "tierUnlock": "6"
+    }
+  ],
+  "commonSkills": [
     {
-      "lastUpdate": "June 6, 2025 02:46:00 AM",
-      "status": "buff",
-      "changes": "- Cooldown 9s -> 6s\n- Added: 75% Increased Damage against Monsters",
       "gameId": "FireStaff_Common_Skill_1",
-      "gearName": "",
       "skillName": "Inferno Blast",
       "manaCost": "14",
       "cooldown": "6",
       "castingRange": "14",
-      "type": "Common_Skill",
-      "description": "Continuously channels flames in target direction for 3s,\ndealing [Damage Rate: 50%] Magic Damage and inflicting\nBurn] to all enemies in range every 0.5s.\nCan rotate but cannot move while channeling\n75% Increased Damage against Monsters",
-      "unlock": "1"
+      "type": "common",
+      "description": "Continuously channels flames in target direction for 3s,\ndealing [Damage Rate: 50%] Magic Damage and inflicting\n[Burn] to all enemies in range every 0.5s.\nCan rotate but cannot move while channeling\n75% Increased Damage against Monsters.",
+      "tierUnlock": "1"
     },
     {
-      "lastUpdate": "",
-      "status": "",
-      "changes": "",
-      "gameId": "FireStaff_Passive",
-      "gearName": "",
-      "skillName": "Burst",
-      "manaCost": "",
-      "cooldown": "",
-      "castingRange": "",
-      "type": "Passive",
-      "description": "Damage dealt inflicts [Burn], dealing [Damage Rate: 25%]\nMagic Damage every second for 8s, stacking up to 6 times\n(stacks do not boost damage).\nWhen [Burn] reaches max stacks, deals [Damage Rate:\n80%] Magic Damage to up to 5 enemies near the carrier\nand removes all [Burn] stacks.",
-      "unlock": "0"
-    },
-    {
-      "lastUpdate": "June 6, 2025 02:46:00 AM",
-      "status": "buff",
-      "changes": "- Damage Rate 90% -> 110%",
       "gameId": "FireStaff_Common_Skill_2",
-      "gearName": "",
       "skillName": "Molten Orb",
       "manaCost": "16",
       "cooldown": "11",
       "castingRange": "18",
-      "type": "Common_Skill",
+      "type": "common",
       "description": "Channels for 0.5s and then launches a molten orb in\ntarget direction that sticks to the first enemy hit, lasting\n5s and dealing [Damage Rate: 110%] Magic Damage to\nenemies within 5m every 2s while inflicting 1 stack of\n[Burn].",
-      "unlock": "3"
+      "tierUnlock": "3"
     },
     {
-      "lastUpdate": "June 6, 2025 02:46:00 AM",
-      "status": "buff",
-      "changes": "- Damage Rate 200% -> 250%",
       "gameId": "FireStaff_Common_Skill_3",
-      "gearName": "",
       "skillName": "Blast Jump",
       "manaCost": "17",
       "cooldown": "11",
       "castingRange": "10",
-      "type": "Common_Skill",
+      "type": "common",
       "description": "Jumps in target direction, dealing [Damage Rate: 250%]\nMagic Damage and inflicting 2 stacks of [Burn] to nearby\nenemies upon takeoff.",
-      "unlock": "5"
+      "tierUnlock": "5"
     },
     {
-      "lastUpdate": "",
-      "status": "",
-      "changes": "",
       "gameId": "FireStaff_Common_Skill_4",
-      "gearName": "",
       "skillName": "Oil Blast",
       "manaCost": "23",
       "cooldown": "18",
       "castingRange": "6",
-      "type": "Common_Skill",
+      "type": "common",
       "description": "Sprays oil lasting 8s in front, inflicting [Oil Coating] to\nenemies who enter.\n[Oil Coating]: Reduces Movement Speed by 50% for 4s.\nWhen affected by [Burn], [Oil Coating] is replaced with\n[Volatile Burn] and cannot be inflicted again for 6s.\n[Volatile Burn]: Causes Fear and deals [Damage Rate:\n56%] Magic Damage every 0.5s for 1.5s.",
-      "unlock": "7"
+      "tierUnlock": "7"
     },
     {
-      "lastUpdate": "June 6, 2025 02:46:00 AM",
-      "status": "nerf",
-      "changes": "- Attack Speed Increase Effect Removed",
       "gameId": "FireStaff_Common_Skill_5",
-      "gearName": "",
       "skillName": "Overdrive Mode",
       "manaCost": "21",
       "cooldown": "9.3",
       "castingRange": "6",
-      "type": "Common_Skill",
-      "description": "Activates Overdrive Mode, increasing Casting Speed by\n60% and Magic Damage by 20%.\nConsumes 5 MP every second.\nUse skill again to deactivate Overdrive. Automatically\ndeactivates when MP is insufficient",
-      "unlock": "8"
-    },
+      "type": "common",
+      "description": "Activates Overdrive Mode, increasing Casting Speed by\n60% and Magic Damage by 20%.\nConsumes 5 MP every second.\nUse skill again to deactivate Overdrive. Automatically\ndeactivates when MP is insufficient.",
+      "tierUnlock": "8"
+    }
+  ],
+  "skills": [
     {
-      "lastUpdate": "",
-      "status": "",
-      "changes": "",
       "gameId": "FireStaff_Blazing",
       "gearName": "Blazing Catalyst",
       "skillName": "Hellfire",
       "manaCost": "21",
       "cooldown": "18",
       "castingRange": "14",
-      "type": "Skill",
-      "description": "After 1s cast, launches scorching flames at the target\nlocation to create Hellfire.\nHellfire lasts 6s, dealing [Damage Rate: 70%] Magic\nDamage to all players ([Damage Rate: 140%] Magic\nDamage to mobs) within and inflicting 1 stack of [Burn]\nevery 1s",
-      "unlock": "2",
-      "rarity": "1",
+      "type": "skill",
+      "description": "After 1s cast, launches scorching flames at the target\nlocation to create Hellfire.\nHellfire lasts 6s, dealing [Damage Rate: 70%] Magic\nDamage to all players ([Damage Rate: 140%] Magic\nDamage to mobs) within and inflicting 1 stack of [Burn]\nevery 1s.",
+      "tierUnlock": "2",
+      "rarity": "rare",
       "stats": {
         "attackPower": "148",
         "as": "0.58"
       }
     },
     {
-      "lastUpdate": "June 6, 2025 02:46:00 AM",
-      "status": "buff",
-      "changes": "- Max Charge Time 3s -> 2s\n- Knockback Distance 3m -> 8m",
       "gameId": "FireStaff_1HandStaff",
       "gearName": "Flame Maw",
       "skillName": "Molten Blast",
       "manaCost": "20",
       "cooldown": "2",
       "castingRange": "10",
-      "type": "Skill",
+      "type": "skill",
       "description": "Fires a Molten Blast in target direction that explodes on\nimpact, dealing [Damage Rate: 150%] Magic Damage to\nenemies in range and inflicting 1 stack of [Burn].\nCan be charged. At 3s charge time, the Molten Blast can\npenetrate enemies along its path, dealing [Damage Rate:\n50%] Magic Damage and exploding at the end point to\ndeal [Damage Rate: 250%] Magic Damage, inflicting 2\nstacks of [Burn], and applying Knockback to enemies\nwithin the explosion range by 3m.\nGains 1 charge every 18s, up to 2 charges.",
-      "unlock": "2",
-      "rarity": "2",
+      "tierUnlock": "2",
+      "rarity": "epic",
       "stats": {
         "attackPower": "155",
         "as": "0.58"
       }
     },
     {
-      "lastUpdate": "June 6, 2025 02:46:00 AM",
-      "status": "balance",
-      "changes": "- Cast Range 14m -> 17m\n- Subsequent Damages Reduced from 25% -> 50%",
       "gameId": "FireStaff_Brimstone",
       "gearName": "Doomfire",
       "skillName": "Scorching Surge",
       "manaCost": "22",
       "cooldown": "20",
       "castingRange": "17",
-      "type": "Skill",
-      "description": "After a 1s cast, launches three scorching surges at the\ntarget location. After 1s, the flames erupt, each dealing\nDamage Rate: 240%] Magic Damage and inflicting 1\nstack of [Burn] and Knockup for 1s to enemies in range.\nDamage reduces to 50% for enemies that take damage\nfrom more than one scorching surge.",
-      "unlock": "2",
-      "rarity": "2",
+      "type": "skill",
+      "description": "After a 1s cast, launches three scorching surges at the\ntarget location. After 1s, the flames erupt, each dealing\n[Damage Rate: 240%] Magic Damage and inflicting 1\nstack of [Burn] and Knockup for 1s to enemies in range.\nDamage reduces to 50% for enemies that take damage\nfrom more than one scorching surge.",
+      "tierUnlock": "2",
+      "rarity": "epic",
       "stats": {
         "attackPower": "155",
         "as": "0.58"
       }
     },
     {
-      "lastUpdate": "",
-      "status": "",
-      "changes": "",
-      "gameId": "FireStaff_Flare",
-      "gearName": "Inferno Core",
-      "skillName": "Core Flare",
-      "manaCost": "13",
-      "cooldown": "1.5",
-      "castingRange": "18",
-      "type": "Skill",
-      "description": "Launches 3 Core Flare orbs at the target location. Each\nnova deals [Damage Rate: 180%] Magic Damage to\nenemies hit and inflicts 1 stack of [Burn] and 1 stack of\n[Scorch]. Additional novas hitting the same target deal\n30% reduced damage.\nGains 1 charge every 15s, up to 3 charges.\n[Scorch]: Reduces healing received by 5% for 4s. Stacks\nup to 3 times",
-      "unlock": "2",
-      "rarity": "2",
-      "stats": {
-        "attackPower": "155",
-        "as": "0.58"
-      }
-    },
-    {
-      "lastUpdate": "June 6, 2025 02:46:00 AM",
-      "status": "buff",
-      "changes": "- Damage Rate 40% -> 45%\n- Magic Resistance Reduction 5% -> 8%",
       "gameId": "FireStaff_Fanning",
       "gearName": "Blazruptor",
       "skillName": "Hell Salvo",
       "manaCost": "23",
       "cooldown": "23",
       "castingRange": "18",
-      "type": "Skill",
+      "type": "skill",
       "description": "After a 1s cast, channels for 3s, continuously firing at\ntarget. Each projectile deals [Damage Rate: 45%] Magic\nDamage to enemies hit, inflicts 1 stack of [Burn], and\nreduces Magic Resistance by 8% for 4s. Stacks up to 6\ntimes.",
-      "unlock": "2",
-      "rarity": "2",
+      "tierUnlock": "2",
+      "rarity": "epic",
       "stats": {
         "attackPower": "155",
         "as": "0.58"
       }
     },
     {
-      "lastUpdate": "June 6, 2025 02:46:00 AM",
-      "status": "buff",
-      "changes": "- Damage Rate 75% -> 85%\n- Shield Ratio 15% -> 25%",
       "gameId": "FireStaff_Dawnsong",
       "gearName": "Solarflare",
       "skillName": "Starforge Beam",
       "manaCost": "30",
       "cooldown": "23",
       "castingRange": "20",
-      "type": "Skill",
+      "type": "skill",
       "description": "Channels a starforge beam for 4s after a 1s cast. Deals\n[Damage Rate: 85%] Magic Damage to enemies in range\nevery 0.5s, inflicting 1 stack of [Burn] and [Scorch].\nEach hit increases damage by 10%, up to 50%.\nCannot be interrupted during channeling and grants a\n[Target-based Max HP 25%] shield.\n[Scorch]: Reduces healing received by 5% for 4s. Stacks\nup to 3 times.",
-      "unlock": "2",
-      "rarity": "3",
+      "tierUnlock": "2",
+      "rarity": "legendary",
       "stats": {
         "attackPower": "163",
         "as": "0.58"
       }
     },
     {
-      "lastUpdate": "June 6, 2025 02:46:00 AM",
-      "status": "balance",
-      "changes": "- Stiffness Time After Skill Ends 1.9s -> 1.5s\n- Bombardment Cooldown 1.5s -> 0.5s\n- Bullet Collision Range Slightly Increased\n- Bullet Rolling Speed Reduced, Each Bullet Can Hit Enemies Up to 1 Time -> 2 Times\n- Damage Rate 110% -> 90%",
       "gameId": "FireStaff_LavaCannonade",
       "gearName": "Molten Mortar",
       "skillName": "Molten Volley",
       "manaCost": "20",
       "cooldown": "9.3",
       "castingRange": "23",
-      "type": "Skill",
+      "type": "skill",
       "description": "Enter Molten Volley Mode for 20s. Cannot move while\nactive but can cancel manually.\nBasic Attack replaced: Fires magma at the target location\nthat rolls forward after impact, dealing \n[Damage Rate: 90%] Magic Damage to those hit and inflicting 1 stack of\n[Burn]. Damage increases by 10% after each enemy hit, up\nto 40%.",
-      "unlock": "2",
-      "rarity": "3",
+      "tierUnlock": "2",
+      "rarity": "legendary",
       "stats": {
         "attackPower": "163",
         "as": "0.58"

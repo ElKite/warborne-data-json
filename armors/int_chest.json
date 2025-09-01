@@ -8,10 +8,10 @@
       "manaCost": "",
       "cooldown": "32",
       "castingRange": "7",
-      "type": "Skill",
+      "type": "skill",
       "description": "Instantly restores [Healing Rate: 100%] HP to nearby\nallies.",
-      "unlock": "1",
-      "rarity": "1"
+      "tierUnlock": "1",
+      "rarity": "rare"
     },
     {
       "gameId": "Cloth_Int_1",
@@ -20,10 +20,10 @@
       "manaCost": "",
       "cooldown": "28",
       "castingRange": "6",
-      "type": "Skill",
+      "type": "skill",
       "description": "Immediately removes all control effects, restores \n[Healing Rate: 150%] HP, and grants Control Immunity for 2s.\nCan be used while skills are disabled",
-      "unlock": "1",
-      "rarity": "2"
+      "tierUnlock": "1",
+      "rarity": "epic"
     },
     {
       "gameId": "Cloth_Int_4",
@@ -32,10 +32,10 @@
       "manaCost": "",
       "cooldown": "32",
       "castingRange": "7",
-      "type": "Skill",
+      "type": "skill",
       "description": "Creates a 7m radius Mana Font around the caster, lasting 6s\nRestores 10 MP to allies in range every 1s\nIncreases casting speed of friendly units within by 80%",
-      "unlock": "1",
-      "rarity": "2"
+      "tierUnlock": "1",
+      "rarity": "epic"
     },
     {
       "gameId": "Cloth_Int_5",
@@ -44,10 +44,10 @@
       "manaCost": "",
       "cooldown": "28",
       "castingRange": "16",
-      "type": "Skill",
+      "type": "skill",
       "description": "Launches a dispel projectile that deals [Damage Rate:\n120%] Magic Damage to enemies in the impact area,\nremoves all buffs and Shield effects. Reduces target's physical damage dealt by 40%",
-      "unlock": "1",
-      "rarity": "2"
+      "tierUnlock": "1",
+      "rarity": "epic"
     },
     {
       "gameId": "Cloth_Int_7",
@@ -56,10 +56,10 @@
       "manaCost": "",
       "cooldown": "30",
       "castingRange": "6",
-      "type": "Skill",
+      "type": "skill",
       "description": "Deals [Damage Rate: 200%] Magic Damage to nearby\nenemies, disarms them for 4s and knocks them back 10m, and reduces their\nMovement Speed by 40% for 4s.",
-      "unlock": "1",
-      "rarity": "2"
+      "tierUnlock": "1",
+      "rarity": "epic"
     },
     {
       "gameId": "Cloth_Int_8",
@@ -68,10 +68,10 @@
       "manaCost": "",
       "cooldown": "28",
       "castingRange": "6",
-      "type": "Skill",
+      "type": "skill",
       "description": "Gains a [Target-based Max HP 45%] shield for 6s. While\nthe shield exists, restores 20 MP each time taking\ndamage.",
-      "unlock": "1",
-      "rarity": "3",
+      "tierUnlock": "1",
+      "rarity": "legendary",
       "stats": {
         "hp": "755",
         "dmgBonus": "56%",
@@ -86,10 +86,10 @@
       "manaCost": "",
       "cooldown": "46",
       "castingRange": "",
-      "type": "Skill",
+      "type": "skill",
       "description": "Creates a panic curse field around the caster that lasts\n6s\nEnemies within 6m who use skills take [Damage Rate:\n200%] Magic Damage and are affected by Fear for 1.5s",
-      "unlock": "1",
-      "rarity": "3",
+      "tierUnlock": "1",
+      "rarity": "legendary",
       "stats": {
         "hp": "755",
         "dmgBonus": "56%",

@@ -8,10 +8,10 @@
       "manaCost": "",
       "cooldown": "28",
       "castingRange": "9",
-      "type": "Skill",
+      "type": "skill",
       "description": "Step 9m toward target direction. Increases Movement\nSpeed by 40% for 4s.",
-      "unlock": "1",
-      "rarity": "1",
+      "tierUnlock": "1",
+      "rarity": "rare",
       "stats": {
         "hp": "675",
         "dmgBonus": "9.6%",
@@ -25,10 +25,10 @@
       "manaCost": "",
       "cooldown": "28",
       "castingRange": "6",
-      "type": "Skill",
+      "type": "skill",
       "description": "Increases Movement Speed by 60% and Attack Speed by\n45% for 6s.",
-      "unlock": "1",
-      "rarity": "2"
+      "tierUnlock": "1",
+      "rarity": "epic"
     },
     {
       "gameId": "Shoes_Dex_2",
@@ -37,10 +37,10 @@
       "manaCost": "",
       "cooldown": "25",
       "castingRange": "6",
-      "type": "Skill",
+      "type": "skill",
       "description": "Dashes 6m in target direction. Gains 15% Critical Rate for\n5s. Stacks up to 2 times.\nCan be used again within 4s.",
-      "unlock": "1",
-      "rarity": "2"
+      "tierUnlock": "1",
+      "rarity": "epic"
     },
     {
       "gameId": "Shoes_Dex_4",
@@ -49,10 +49,10 @@
       "manaCost": "",
       "cooldown": "1.5",
       "castingRange": "11",
-      "type": "Skill",
+      "type": "skill",
       "description": "Quickly dash behind target, dealing [Damage Rate: 150%]\nPhysical Damage and increasing Basic Attack Damage by\n40% for 6s.\nGains 1 charge every 20s, up to 2 charges",
-      "unlock": "1",
-      "rarity": "2"
+      "tierUnlock": "1",
+      "rarity": "epic"
     },
     {
       "gameId": "Shoes_Dex_7",
@@ -61,10 +61,10 @@
       "manaCost": "",
       "cooldown": "28",
       "castingRange": "6",
-      "type": "Skill",
+      "type": "skill",
       "description": "Increases Movement Speed by 30%, enters Stealth after\n1s, gaining +60% Movement Speed for 4s.\nUsing a skill, dealing damage or inflicting healing breaks\nStealth",
-      "unlock": "1",
-      "rarity": "2"
+      "tierUnlock": "1",
+      "rarity": "epic"
     },
     {
       "gameId": "Shoes_Dex_5",
@@ -73,10 +73,10 @@
       "manaCost": "",
       "cooldown": "18",
       "castingRange": "14",
-      "type": "Skill",
+      "type": "skill",
       "description": "Remove control effects and dash toward target direction.\nGain Control Immunity for 2s.\nCan be used while skills are disabled",
-      "unlock": "1",
-      "rarity": "3",
+      "tierUnlock": "1",
+      "rarity": "legendary",
       "stats": {
         "hp": "755",
         "dmgBonus": "9.9%",
@@ -90,10 +90,10 @@
       "manaCost": "",
       "cooldown": "16",
       "castingRange": "10",
-      "type": "Skill",
+      "type": "skill",
       "description": "Leave a mark at current position and dash to the target\nlocation. Upon arrival, deal [Damage Rate: 200%] Physical\nDamage to enemies in range and reduce their Damage\nResistance by 15% for 4s. Can be cast again within 5\nseconds to return to original position and gain 40%\nMovement Speed for 3s.",
-      "unlock": "1",
-      "rarity": "3",
+      "tierUnlock": "1",
+      "rarity": "legendary",
       "stats": {
         "hp": "755",
         "dmgBonus": "9.9%",

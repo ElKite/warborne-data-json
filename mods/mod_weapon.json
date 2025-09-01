@@ -4,7 +4,7 @@
     {
       "name": "Advance",
       "iconName": "WeaponRare1",
-      "rarity": "2",
+      "rarity": "epic",
       "slot": "all",
       "description": "Increases Basic Attack Damage by %s1%",
       "arguments": [
@@ -17,7 +17,7 @@
     {
       "name": "Tactics",
       "iconName": "WeaponRare2",
-      "rarity": "2",
+      "rarity": "epic",
       "slot": "all",
       "description": "Increases Skill Effect by %s1%",
       "arguments": [
@@ -30,9 +30,9 @@
     {
       "name": "Armor Breaker",
       "iconName": "WeaponEpic1",
-      "rarity": "2",
+      "rarity": "epic",
       "slot": "all",
-      "description": "When weapon skills deal direct Physical Damage,\nhas a %s1% chance to modifify the target's Armor by \n %s2% for 4s.\nTrigger Interval: 30s",
+      "description": "When weapon skills deal direct Physical Damage,\nhas a %s1% chance to modify the target's Armor by \n %s2% for 4s.\nTrigger Interval: 30s",
       "arguments": [
         {
           "argumentName": "s1",
@@ -47,7 +47,7 @@
     {
       "name": "Fortify",
       "iconName": "WeaponEpic2",
-      "rarity": "2",
+      "rarity": "epic",
       "slot": "all",
       "description": "When Basic Attacks deal direct damage, has a\n(melee weapons %s1% / ranged weapons %s2%)\nchance to gain [Target-based Max HP %s3%] Shield\nfor 4s.\nTrigger Interval: 30s.",
       "arguments": [
@@ -68,7 +68,7 @@
     {
       "name": "Dominate",
       "iconName": "WeaponEpic3",
-      "rarity": "2",
+      "rarity": "epic",
       "slot": "all",
       "description": "When weapon skills or Basic Attacks deal Direct\nDamage to enemies under Hard Control effects\n(Stun, Fear, Freeze, Knockup, Petrify), there is a\n%s1% chance to reduce their Damage Resistance by\n%s2% for 4s.\nCooldown: 30s.",
       "arguments": [
@@ -85,7 +85,7 @@
     {
       "name": "Upperhand",
       "iconName": "WeaponEpic4",
-      "rarity": "2",
+      "rarity": "epic",
       "slot": "all",
       "description": "When dealing direct damage with Basic Attacks,\nhas a %s1% chance to increase Basic Attack\nDamage by %s2% for 6s.\nTrigger Interval: 30s.",
       "arguments": [
@@ -102,7 +102,7 @@
     {
       "name": "Pursuit",
       "iconName": "WeaponEpic5",
-      "rarity": "2",
+      "rarity": "epic",
       "slot": "all",
       "description": "When dealing direct damage with Basic Attacks,\nhas a (melee weapons %s1% / ranged weapons %s2%)\nchance to modify the target's Movement Speed by\n%s3% for 4s.\nTrigger Interval: 10s",
       "arguments": [
@@ -123,7 +123,7 @@
     {
       "name": "Ravage",
       "iconName": "WeaponEpic6",
-      "rarity": "2",
+      "rarity": "epic",
       "slot": "all",
       "description": "When scoring a Critical Hit, has a %s1% chance to\nmodify the target's Damage Resistance by %s2% for\n4s.\nTrigger Interval: 30s.",
       "arguments": [
@@ -140,7 +140,7 @@
     {
       "name": "Magic Break",
       "iconName": "WeaponEpic7",
-      "rarity": "2",
+      "rarity": "epic",
       "slot": "all",
       "description": "When weapon skills deal direct Magic Damage, has\na %s1% chance to modify the target's Magic\nResistance by %s2% for 4s.\nTrigger Interval: 30s",
       "arguments": [
@@ -157,7 +157,7 @@
     {
       "name": "Charge",
       "iconName": "WeaponEpic8",
-      "rarity": "2",
+      "rarity": "epic",
       "slot": "all",
       "description": "When weapon skills deal direct damage, has a %s1%\nchance to restore %s2% MP.\nTrigger Interval: 10s.",
       "arguments": [
@@ -174,7 +174,7 @@
     {
       "name": "Fortify",
       "iconName": "WeaponEpic9",
-      "rarity": "2",
+      "rarity": "epic",
       "slot": "all",
       "description": "When casting weapon skills, has a %s1% chance to\nincrease Cooldown Speed by %s2% for 4s.\nTrigger Interval: 30s.",
       "arguments": [
@@ -194,7 +194,7 @@
       "status": "nerf",
       "changes": "- Sword Momentum Layers Gained After Trigger: 2 -> 1",
       "iconName": "WeaponExclusiveLgdr1",
-      "rarity": "3",
+      "rarity": "legendary",
       "slot": "sword",
       "description": "Only triggers with Greatswords\nWhen weapon skills or Basic Attacks deal direct\ndamage, has a %s1% chance to gain 1 stacks of\nSword Momentum and increase Damage\nResistance by %s2% for 4s.\nTrigger Interval: 15s.\nSword Momentum: Damage Boost: +3% (3% per\nstack, can stack)\nDamage Resistance: +4% (4% per stack, can stack)\nAttack Speed: +4% (4% per stack, can stack)",
       "arguments": [
@@ -211,7 +211,7 @@
     {
       "name": "Disrupt",
       "iconName": "WeaponExclusiveLgdr2",
-      "rarity": "3",
+      "rarity": "legendary",
       "slot": "mace",
       "description": "Only triggers with Maces\nWhen weapon skills or Basic Attacks deal Direct\nDamage, has a 35% chance to create a disruption\nfield around the caster. Enemies within take %s1%\nreduced Damage and have their Attack Speed\nreduced by %s2% for 4s.\nCooldown: 15s.",
       "arguments": [
@@ -228,7 +228,7 @@
     {
       "name": "Seize Chance",
       "iconName": "WeaponExclusiveLgdr3",
-      "rarity": "3",
+      "rarity": "legendary",
       "slot": "axe",
       "description": "Only triggers with Axes\nWhen gaining the [Bloodthirst] buff, has a 25%\nchance to increase Attack Speed by %s2% and\nDamage by %s1% for 6s.\nTrigger Interval: 20s.",
       "arguments": [
@@ -248,7 +248,7 @@
       "status": "balance",
       "changes": "- Cooldown: 10s -> 15s\n- Added: 2 Seconds of Immobilization for Enemies from Explosion",
       "iconName": "WeaponExclusiveLgdr4",
-      "rarity": "3",
+      "rarity": "legendary",
       "slot": "bow",
       "description": "Only triggers with Bows\nWhen arrows deal direct damage, has a %s1%\nchance of creating an explosion at the target\nlocation dealing [Damage Rate: %s2%] Physical Damage\n and applying[Target Mark].\n Also stun for 2 seconds.\nTrigger Interval: 15s.",
       "arguments": [
@@ -265,7 +265,7 @@
     {
       "name": "Synergy",
       "iconName": "WeaponExclusiveLgdr5",
-      "rarity": "3",
+      "rarity": "legendary",
       "slot": "spear",
       "description": "Only triggers with Spears\nWhen scoring a Critical Hit, has a %s1% chance to\nincrease Attack Speed by %s2% for 6s.\nCooldown: 15s",
       "arguments": [
@@ -282,7 +282,7 @@
     {
       "name": "Annihilate",
       "iconName": "WeaponExclusiveLgdr6",
-      "rarity": "3",
+      "rarity": "legendary",
       "slot": "dagger",
       "description": "Only triggers with Daggers\nAgainst targets below 40%, Basic Attacks have a\n%s1% chance to deal additional [Damage Rate: %s2%]Physical Damage\nand apply 2 stacks of [Bleed].\nTrigger Interval: 15s.\n[Bleed]: Deals [Damage Rate: 30%] Physical\nDamage every second for 8s, stacking up to 6\ntimes. At max stacks, causes Hemorrhage,\nremoving all stacks and instantly dealing \n[Damage Rate: 100%] Physical Damage.",
       "arguments": [
@@ -299,7 +299,7 @@
     {
       "name": "Wild Growth",
       "iconName": "WeaponExclusiveLgdr7",
-      "rarity": "3",
+      "rarity": "legendary",
       "slot": "nature",
       "description": "Only triggers with Bloom Staves\nWhen weapon skills or Basic Attacks directly heal\nan ally with Recovery, has a %s1% * Recovery stacks\nchance to grant [Target-based Max HP %s2%] Shield\nfor 4s.\nTrigger Interval: 15s.\nRecovery: Restores [Healing Rate: 12%] HP every\nsecond for 12s, stacking up to 3 times.",
       "arguments": [
@@ -316,7 +316,7 @@
     {
       "name": "Ice Blast",
       "iconName": "WeaponExclusiveLgdr8",
-      "rarity": "3",
+      "rarity": "legendary",
       "slot": "ice",
       "description": "Only triggers with Ice Foci\nWhen weapon skills or Basic Attacks deal direct\ndamage, has a %s1% chance to trigger a frost\nexplosion at the target location \nthat deals [Damage Rate: %s2%] Magic Damage\n to all enemies within 4m and inflicts Frost.\nTrigger Interval: 20s.\nFrost: Movement Speed is reduced by -40% for 4s,\nSlow gradually diminishes over time",
       "arguments": [
@@ -333,7 +333,7 @@
     {
       "name": "Flame Blast",
       "iconName": "WeaponExclusiveLgdr9",
-      "rarity": "3",
+      "rarity": "legendary",
       "slot": "fire",
       "description": "Only triggers with Cannonades\nWhen weapon skills or Basic Attacks deal direct\ndamage, has a %s1% chance to trigger a flame\nexplosion at the target location \nthat deals [Damage Rate: %s2%] Magic Damage \nto all enemies within 4m and inflicts 2\nstacks of Burn.\nTrigger Interval: 15s.\nBurn: Deals [Damage Rate: 25%] Magic Damage\nevery second for 8s, stacking up to 6 times. At 6\nstacks, removes the effect and deals \n[Damage Rate: 80%] Magic Damage to enemy targets within\n4m of the carrier.",
       "arguments": [
@@ -350,7 +350,7 @@
     {
       "name": "Blessing",
       "iconName": "WeaponExclusiveLgdr10",
-      "rarity": "3",
+      "rarity": "legendary",
       "slot": "holy",
       "description": "Only triggers with Radiant Fluxes\nWhen weapon skills or Basic Attacks apply direct\nhealing to allies, has a %s1% chance to increase\ntarget's Damage Resistance by %s2% for 5s.\nTrigger Interval: 15s.",
       "arguments": [
@@ -367,7 +367,7 @@
     {
       "name": "Curse",
       "iconName": "WeaponExclusiveLgdr11",
-      "rarity": "3",
+      "rarity": "legendary",
       "slot": "curse",
       "description": "Only triggers with Voidcallers\nWhen weapon skills or Basic Attacks inflict DoT\neffects on enemies, has a %s1% chance to inflict 2\nstacks of Plague.\nTrigger Interval: %s2%s.\nPlague: Deals [Damage Rate: 20%] Magic Damage\nevery 3s for 13s. Stacks up to 10 times.",
       "arguments": [
@@ -384,7 +384,7 @@
     {
       "name": "Renovate",
       "iconName": "WeaponExclusiveLgdr12",
-      "rarity": "3",
+      "rarity": "legendary",
       "slot": "gun",
       "description": "When Weapon Skills or Basic Attacks deal direct\n damage, has a %s1% chance to restore 1 bullet and \n boosts Basic Attack Damage by %s2% for 5s.\nTrigger Interval: 15s.",
       "arguments": [
@@ -401,7 +401,7 @@
     {
       "name": "EarthQuake",
       "iconName": "WeaponLgdr1",
-      "rarity": "3",
+      "rarity": "legendary",
       "slot": "all",
       "description": "When a weapon skill inflicts Hard Control effects\n(Stun, Fear, Frozen, Knockup, Petrify) or Pull\neffects, it has a %s1% chance to create an\nearthquake at the target's location. After a\n1.5-second delay, it deals\n [Damage Rate: %s2%] Physical Damage and\napplies Stun for %s3% seconds.\nCooldown: 30s.",
       "arguments": [
@@ -422,7 +422,7 @@
     {
       "name": "Rend",
       "iconName": "WeaponLgdr2",
-      "rarity": "3",
+      "rarity": "legendary",
       "slot": "all",
       "description": "When dealing direct damage with Basic Attacks,\nhas a %s1% chance to deal additional\n [Damage Rate: %s2%] Physical Damage \nto the current target and reduce\nMovement Speed by %s3% for 2s.\nTrigger Interval: 30s",
       "arguments": [
@@ -443,7 +443,7 @@
     {
       "name": "Retribution",
       "iconName": "WeaponLgdr3",
-      "rarity": "3",
+      "rarity": "legendary",
       "slot": "all",
       "description": "When weapon skills deal direct damage, there is a\n%s1% chance to trigger an explosion at the target\nlocation, dealing\n[Damage Rate: %s2%]Magic Damage \n and increasing\nDamage Resistance by %s3% for 4s.\nTrigger Interval: 30s.",
       "arguments": [
