@@ -190,9 +190,6 @@
     },
     {
       "name": "Valor",
-      "lastUpdate": "June 6, 2025 02:46:00 AM",
-      "status": "nerf",
-      "changes": "- Sword Momentum Layers Gained After Trigger: 2 -> 1",
       "iconName": "WeaponExclusiveLgdr1",
       "rarity": "legendary",
       "slot": "sword",
@@ -244,9 +241,6 @@
     },
     {
       "name": "Detonate",
-      "lastUpdate": "June 6, 2025 02:46:00 AM",
-      "status": "balance",
-      "changes": "- Cooldown: 10s -> 15s\n- Added: 2 Seconds of Immobilization for Enemies from Explosion",
       "iconName": "WeaponExclusiveLgdr4",
       "rarity": "legendary",
       "slot": "bow",
