@@ -4,7 +4,7 @@
     {
       "name": "Advance",
       "iconName": "WeaponRare1",
-      "rarity": "epic",
+      "rarity": "rare",
       "slot": "all",
       "description": "Increases Basic Attack Damage by %s1%",
       "arguments": [
@@ -17,7 +17,7 @@
     {
       "name": "Tactics",
       "iconName": "WeaponRare2",
-      "rarity": "epic",
+      "rarity": "rare",
       "slot": "all",
       "description": "Increases Skill Effect by %s1%",
       "arguments": [
