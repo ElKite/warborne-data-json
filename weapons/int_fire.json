@@ -1,7 +1,7 @@
 {
   "lastUpdate": "June 6, 2025 6 AM",
   "passive": {
-    "gameId": "Fire_Passive",
+    "gameId": "FireStaff_Passive",
     "skillName": "Burst",
     "manaCost": "",
     "cooldown": "",

@@ -1,7 +1,7 @@
 {
   "lastUpdate": "June 6, 2025 6 AM",
   "passive": {
-    "gameId": "Gun_Passive",
+    "gameId": "Gun_BulletCharge",
     "skillName": "Reload",
     "manaCost": "",
     "cooldown": "",
