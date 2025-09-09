@@ -1,7 +1,7 @@
 {
   "lastUpdate": "June 6, 2025 6 AM",
   "passive": {
-    "gameId": "FrostStaff_Passive",
+    "gameId": "IceStaff_Passive",
     "skillName": "Glacial Shield",
     "manaCost": "",
     "cooldown": "",
