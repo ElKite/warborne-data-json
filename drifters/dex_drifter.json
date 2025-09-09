@@ -426,7 +426,7 @@
         "cooldown": "28",
         "castingRange": "8",
         "type": "skill",
-        "description": "",
+        "description": "Launches a flurry of slashes at the target and nearby enemies, eache dealing \n [Damage Rate: 120%] Physical Damage. Damage reduces tp 50% after the first hit on the same target. Flurry for 4s with Unstoppable and damage immunity. Can critical hit. Higher attack speed increases attack count.",
         "tierUnlock": "1"
       },
       "passive": {
