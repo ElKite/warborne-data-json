@@ -9,7 +9,7 @@
       "cooldown": "32",
       "castingRange": "6",
       "type": "skill",
-      "description": "Channel for 5s, recovering [Healing Rate: 70%] HP every\nsecond.\nCan move slowly while channeling",
+      "description": "Channel for 5s, recovering \n[Healing Rate: 70%] HP every second. Can move slowly while channeling",
       "tierUnlock": "1",
       "rarity": "rare"
     },
@@ -21,7 +21,7 @@
       "cooldown": "32",
       "castingRange": "7",
       "type": "skill",
-      "description": "Deals [Damage Rate: 100%] True Damage to nearby\nenemies. Damage increases by 15% for every 10% HP the\ntarget is missing.",
+      "description": "Deals \n[Damage Rate: 100%] True Damage to nearby enemies. Damage increases by 15% for every 10% HP the target is missing.",
       "tierUnlock": "1",
       "rarity": "epic"
     },
@@ -33,7 +33,7 @@
       "cooldown": "37",
       "castingRange": "6",
       "type": "skill",
-      "description": "Increases Damage Resistance by 30% for 6s. During this\ntime, reflects 100% of damage taken as Magic Damage to\nthe attacker.",
+      "description": "Increases Damage Resistance by 30% for 6s. During this time, reflects 100% of damage taken as Magic Damage to the attacker.",
       "tierUnlock": "1",
       "rarity": "epic"
     },
@@ -45,7 +45,7 @@
       "cooldown": "46",
       "castingRange": "12",
       "type": "skill",
-      "description": "Creates a 12m smoke screen, lasting 6s. Enter Stealth for\n6s. Every 0.5s in the smoke screen grants 1 stack of +60%\nAttack Speed for the next Basic Attack, lasting 6s. Stacks\nup to 8 times.\nUsing a skill, causing direct healing or damage, or leaving\nthe smoke clears the smoke and removes stealth.",
+      "description": "Creates a 12m smoke screen, lasting 6s. Enter Stealth for 6s. Every 0.5s in the smoke screen grants 1 stack of +60% Attack Speed for the next Basic Attack, lasting 6s. Stacks up to 8 times. Using a skill, causing direct healing or damage, or leaving the smoke clears the smoke and removes stealth.",
       "tierUnlock": "1",
       "rarity": "epic"
     },
@@ -57,7 +57,7 @@
       "cooldown": "32",
       "castingRange": "12",
       "type": "skill",
-      "description": "Snarls toward the target direction, dealing [Damage Rate:\n200%] Physical Damage to enemies in range. Reduces\ntheir Movement Speed by 40%, damage dealt by 50%, and\ndisables Stealth for 5s",
+      "description": "Snarls toward the target direction, dealing \n[Damage Rate: 200%] Physical Damage to enemies in range. Reduces\ntheir Movement Speed by 40%, damage dealt by 50%, and\ndisables Stealth for 5s",
       "tierUnlock": "1",
       "rarity": "epic"
     },
@@ -69,7 +69,7 @@
       "cooldown": "18",
       "castingRange": "7",
       "type": "skill",
-      "description": "Deals [Damage Rate: 200%] Physical Damage to nearby\nenemies, reduces their Damage Resistance by 20% for 6s\nand increases own damage by 15% for 6s",
+      "description": "Deals \n[Damage Rate: 200%] Physical Damage to nearby enemies, reduces their Damage Resistance by 20% for 6s\nand increases own damage by 15% for 6s",
       "tierUnlock": "1",
       "rarity": "legendary",
       "stats": {

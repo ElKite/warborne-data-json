@@ -9,7 +9,7 @@
       "cooldown": "30",
       "castingRange": "",
       "type": "passive",
-      "description": "When casting skills, increases Magic Damage dealt by\n20% for 6s\nTrigger Interval: 30s",
+      "description": "When casting skills, increases Magic Damage dealt by 20% for 6s Trigger Interval: 30s",
       "tierUnlock": "1",
       "rarity": "rare",
       "stats": {
@@ -26,7 +26,7 @@
       "cooldown": "20",
       "castingRange": "",
       "type": "passive",
-      "description": "When healing, grants target a [Target-based Max HP 20%]\nshield for 6s\nTrigger Interval: 20s",
+      "description": "When healing, grants target a  \n[Target-based Max HP 20%] shield for 6s Trigger Interval: 20s",
       "tierUnlock": "1",
       "rarity": "epic",
       "stats": {
@@ -43,7 +43,7 @@
       "cooldown": "25",
       "castingRange": "",
       "type": "passive",
-      "description": "When the skill damages an enemy target, it triggers an\nexplosion at their location, dealing [Damage Rate: 180%]\nMagic Damage to enemies in range and reducing their\nhealing received by 25% for 6s.\nTrigger Interval: 25s.",
+      "description": "When the skill damages an enemy target, it triggers an explosion at their location, dealing  \n[Damage Rate: 180%] Magic Damage to enemies in range and reducing their healing received by 25% for 6s. Trigger Interval: 25s.",
       "tierUnlock": "1",
       "rarity": "epic",
       "stats": {
@@ -60,7 +60,7 @@
       "cooldown": "30",
       "castingRange": "",
       "type": "passive",
-      "description": "When skills deal direct damage, creates a poison zone\nlasting 6s. Enemies within 5m take [Damage Rate: 25%]\nMagic Damage every second and have their Magic\nResistance reduced by 20%.\nTrigger Interval: 30s",
+      "description": "When skills deal direct damage, creates a poison zone\nlasting 6s. Enemies within 5m take \n[Damage Rate: 25%]\nMagic Damage every second and have their Magic\nResistance reduced by 20%.\nTrigger Interval: 30s",
       "tierUnlock": "1",
       "rarity": "epic",
       "stats": {
@@ -94,7 +94,7 @@
       "cooldown": "45",
       "castingRange": "",
       "type": "passive",
-      "description": "When taking damage at below 40% HP, gains a\n[Target-based Max HP 25%] shield and generates a\nrepulsion field lasting 6s. Enemies touching the field take\nDamage Rate: 100%] Magic Damage and are knocked\nback 7m.\nTrigger Interval: 45s",
+      "description": "When taking damage at below 40% HP, gains a\n \n[Target-based Max HP 25%] shield and generates a\nrepulsion field lasting 6s. Enemies touching the field take\nDamage Rate: 100%] Magic Damage and are knocked\nback 7m.\nTrigger Interval: 45s",
       "tierUnlock": "1",
       "rarity": "legendary",
       "stats": {
@@ -111,7 +111,7 @@
       "cooldown": "45",
       "castingRange": "",
       "type": "passive",
-      "description": "When damage taken within 3s exceeds 35% of max HP,\ncreates a healing wave that restores [Healing Rate: 200%]\nHP to nearby allies and removes control effects.\nTrigger Interval: 45s",
+      "description": "When damage taken within 3s exceeds 35% of max HP,\ncreates a healing wave that restores \n[Healing Rate: 200%]\nHP to nearby allies and removes control effects.\nTrigger Interval: 45s",
       "tierUnlock": "1",
       "rarity": "legendary",
       "stats": {

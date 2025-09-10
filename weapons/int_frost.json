@@ -7,7 +7,7 @@
     "cooldown": "",
     "castingRange": "",
     "type": "passive",
-    "description": "After not taking damage for 15s, gains [Target-based Max\nHP 20%] Shield. When hit by Basic Attacks, applies [Frost]\nto the attacker.\n[Frost]: Reduces Attack Speed and Movement Speed by\n40% for 4s, gradually weakening over time."
+    "description": "After not taking damage for 15s, gains  \n[Target-based Max HP 20%] Shield. When hit by Basic Attacks, applies [Frost] to the attacker. [Frost]: Reduces Attack Speed and Movement Speed by 40% for 4s, gradually weakening over time."
   },
   "basicAttacks": [
     {
@@ -17,7 +17,7 @@
       "cooldown": "0.5",
       "castingRange": "16",
       "type": "basic",
-      "description": "[Basic Attack]:Deals [Damage Rate: 90%] Magic Damage.\n\nCan cast [Ice Burst] every 5s.\nDeals [Damage Rate: 150%] Magic Damage to the target\nand Immobilizes them for 1.5s",
+      "description": "[Basic Attack]:Deals \n[Damage Rate: 90%] Magic Damage.Can cast [Ice Burst] every 5s. Deals \n[Damage Rate: 150%] Magic Damage to the target and Immobilizes them for 1.5s",
       "tierUnlock": "2"
     },
     {
@@ -27,7 +27,7 @@
       "cooldown": "2.8",
       "castingRange": "16",
       "type": "basic",
-      "description": "Replaces Basic Attack with [Frostbite Zone]\nCreates a zone of deep frost in the target direction,\ndealing [Damage Rate: 130%] Magic Damage to enemies\nin range and reducing their Movement Speed by 25% for\n4s",
+      "description": "Replaces Basic Attack with [Frostbite Zone]\nCreates a zone of deep frost in the target direction,\ndealing \n[Damage Rate: 130%] Magic Damage to enemies\nin range and reducing their Movement Speed by 25% for\n4s",
       "tierUnlock": "4"
     },
     {
@@ -37,7 +37,7 @@
       "cooldown": "1.4",
       "castingRange": "16",
       "type": "basic",
-      "description": "Replaces Basic Attack with [Frost Burst].\nLaunches three frost shards in the target direction after a\ndelay, each dealing [Damage Rate: 110%] Magic Damage\nto enemies hit. The damage from shards beyond the first\nis reduced by 25%.",
+      "description": "Replaces Basic Attack with [Frost Burst].\nLaunches three frost shards in the target direction after a\ndelay, each dealing \n[Damage Rate: 110%] Magic Damage\nto enemies hit. The damage from shards beyond the first\nis reduced by 25%.",
       "tierUnlock": "6"
     }
   ],
@@ -49,7 +49,7 @@
       "cooldown": "11",
       "castingRange": "16",
       "type": "common",
-      "description": "Channels for 3s, continuously firing a frost beam in the\ntarget direction that deals [Damage Rate: 60%] Magic\nDamage to players ([Damage Rate: 120%] Magic Damage\nto mobs) every 0.5s to those hit and inflicts [Frost Beam\nSlow] for 3s, stacking up to 5 times.\n\n[Frost Beam Slow]\nMovement Speed Bonus: -8% (-8% per stack, can stack)",
+      "description": "Channels for 3s, continuously firing a frost beam in the\ntarget direction that deals \n[Damage Rate: 60%] Magic\nDamage to players (\n[Damage Rate: 120%] Magic Damage\nto mobs) every 0.5s to those hit and inflicts [Frost Beam\nSlow] for 3s, stacking up to 5 times. \n[Frost Beam Slow]\nMovement Speed Bonus: -8% (-8% per stack, can stack)",
       "tierUnlock": "1"
     },
     {
@@ -59,7 +59,7 @@
       "cooldown": "18",
       "castingRange": "16",
       "type": "common",
-      "description": "Launches crystalline frost in the target direction. Upon\nhitting the first enemy, it explodes to deal [Damage Rate:\n250%] Magic Damage and Immobilize enemies in range\nfor 2s.",
+      "description": "Launches crystalline frost in the target direction. Upon\nhitting the first enemy, it explodes to deal \n[Damage Rate: 250%] Magic Damage and Immobilize enemies in range\nfor 2s.",
       "tierUnlock": "3"
     },
     {
@@ -69,7 +69,7 @@
       "cooldown": "11",
       "castingRange": "10",
       "type": "common",
-      "description": "Deals [Damage Rate: 200%] Magic Damage to nearby\nenemies and Freezes them for 0.5s, then blinks in the\ntarget direction.",
+      "description": "Deals \n[Damage Rate: 200%] Magic Damage to nearby\nenemies and Freezes them for 0.5s, then blinks in the\ntarget direction.",
       "tierUnlock": "5"
     },
     {
@@ -79,7 +79,7 @@
       "cooldown": "18",
       "castingRange": "6",
       "type": "common",
-      "description": "Creates a frost wall before the caster that lasts 8s.\nEnemies inside are Slowed by 70%, take [Damage Rate:\n50%] Magic Damage every second, and gain [Chill] stacks.\nStacks up to 2 times.\n[Chill]: At max stacks, targets are Frozen for 1.5s and\nbecome immune to [Chill] for 6s.",
+      "description": "Creates a frost wall before the caster that lasts 8s.\nEnemies inside are Slowed by 70%, take \n[Damage Rate: 50%] Magic Damage every second, and gain [Chill] stacks.\nStacks up to 2 times.\n[Chill]: At max stacks, targets are Frozen for 1.5s and\nbecome immune to [Chill] for 6s.",
       "tierUnlock": "7"
     },
     {
@@ -89,7 +89,7 @@
       "cooldown": "18",
       "castingRange": "9",
       "type": "common",
-      "description": "Unleashes a freezing roar in the target direction, dealing\n[Damage Rate: 200%] Magic Damage and knocking\nenemies back 10m. Reduces Movement Speed by 30% and\nAttack Speed by 30% for 4s.",
+      "description": "Unleashes a freezing roar in the target direction, dealing \n[Damage Rate: 200%] Magic Damage and knocking\nenemies back 10m. Reduces Movement Speed by 30% and\nAttack Speed by 30% for 4s.",
       "tierUnlock": "8"
     }
   ],
@@ -102,7 +102,7 @@
       "cooldown": "18",
       "castingRange": "11",
       "type": "skill",
-      "description": "Channels for 3s, releasing frost winds in the target\ndirection that deal [Damage Rate: 100%] Magic Damage\nto players ([Damage Rate: 200%] Magic Damage to mobs)\nevery 0.5s and reduce Movement Speed by 30% for 3s.\nCan move slowly while channeling",
+      "description": "Channels for 3s, releasing frost winds in the target\ndirection that deal \n[Damage Rate: 100%] Magic Damage\nto players (\n[Damage Rate: 200%] Magic Damage to mobs)\nevery 0.5s and reduce Movement Speed by 30% for 3s.\nCan move slowly while channeling",
       "tierUnlock": "2",
       "rarity": "rare",
       "stats": {
@@ -118,7 +118,7 @@
       "cooldown": "23",
       "castingRange": "12",
       "type": "skill",
-      "description": "Creates a freezing cyclone at the target location, lasting\n5s. Enemies inside are Slowed by 60% and take \n[Damage Rate: 90%] Magic Damage every second.",
+      "description": "Creates a freezing cyclone at the target location, lasting\n5s. Enemies inside are Slowed by 60% and take  \n[Damage Rate: 90%] Magic Damage every second.",
       "tierUnlock": "2",
       "rarity": "epic",
       "stats": {
@@ -134,7 +134,7 @@
       "cooldown": "14",
       "castingRange": "17",
       "type": "skill",
-      "description": "Launches ice in the target direction. Upon hitting an\nenemy, it splits into 3 ice shards that bounce between\nnearby enemies up to 5 times. Each target can be hit up to\n3 times.\nEach hit deals [Damage Rate: 70%] Magic Damage and\nreduces Attack Speed by 15% for 4s. Stacks up to 3 times.",
+      "description": "Launches ice in the target direction. Upon hitting an\nenemy, it splits into 3 ice shards that bounce between\nnearby enemies up to 5 times. Each target can be hit up to\n3 times.\nEach hit deals \n[Damage Rate: 70%] Magic Damage and\nreduces Attack Speed by 15% for 4s. Stacks up to 3 times.",
       "tierUnlock": "2",
       "rarity": "epic",
       "stats": {
@@ -150,7 +150,7 @@
       "cooldown": "1.5",
       "castingRange": "14",
       "type": "skill",
-      "description": "Places a Frost Nova at the target location, lasting 15s.\nWhen triggered by an enemy, deals [Damage Rate: 250%]\nMagic Damage and reduces Movement Speed by 35% and\n15% reduced healing for 6s.\nGains 1 charge every 15s, up to 3 charges",
+      "description": "Places a Frost Nova at the target location, lasting 15s.\nWhen triggered by an enemy, deals \n[Damage Rate: 250%]\nMagic Damage and reduces Movement Speed by 35% and\n15% reduced healing for 6s.\nGains 1 charge every 15s, up to 3 charges",
       "tierUnlock": "2",
       "rarity": "epic",
       "stats": {
@@ -166,7 +166,7 @@
       "cooldown": "23",
       "castingRange": "20",
       "type": "skill",
-      "description": "Launches a frost orb in the target direction that deals\n[Damage Rate: 70%] Magic Damage every second and\nreduces Movement Speed by 40% for 3s to enemies in\nrange. Within 3s, can recast to blink to the orb's location,\ndealing [Damage Rate: 250%] Magic Damage and\nFreezing nearby enemies for 1.5s.",
+      "description": "Launches a frost orb in the target direction that deals \n[Damage Rate: 70%] Magic Damage every second and\nreduces Movement Speed by 40% for 3s to enemies in\nrange. Within 3s, can recast to blink to the orb's location,\ndealing \n[Damage Rate: 250%] Magic Damage and\nFreezing nearby enemies for 1.5s.",
       "tierUnlock": "2",
       "rarity": "epic",
       "stats": {
@@ -182,7 +182,7 @@
       "cooldown": "22",
       "castingRange": "14",
       "type": "skill",
-      "description": "Creates a frost crystal at the target location that forms\nafter 0.7s, dealing [Damage Rate: 75%] Magic Damage\nand Freezing enemies for 1.5s.\nAfter 1s, the crystal shatters, dealing [Damage Rate:\n400%] Magic Damage, and reducing Movement Speed by\n40% and Attack Speed by 40% for 6s",
+      "description": "Creates a frost crystal at the target location that forms\nafter 0.7s, dealing \n[Damage Rate: 75%] Magic Damage\nand Freezing enemies for 1.5s.\nAfter 1s, the crystal shatters, dealing \n[Damage Rate: 400%] Magic Damage, and reducing Movement Speed by\n40% and Attack Speed by 40% for 6s",
       "tierUnlock": "2",
       "rarity": "legendary",
       "stats": {
@@ -198,7 +198,7 @@
       "cooldown": "18",
       "castingRange": "6",
       "type": "skill",
-      "description": "Grants the power of arctic frost for 20s. Becomes immune\nto Slows and Immobilize effects, and gains access to the\n[Frost Slash] and [Frost Drift] skills.\n-[Frost Slash]-\nLaunches ice blades forward that deal [Damage Rate:\n110%] Magic Damage to enemies in their path, inflicting 1\nstack of [Hypothermia] and reducing Movement Speed by\n30% for 4s.\nAt 6 stacks of [Hypothermia], the target gains [Deep\nFrost].\n[Deep Frost]: Cannot attack or move for 1.5s.\n-[Frost Drift] --\nInstantly removes control effects and leaps in the target\ndirection.",
+      "description": "Grants the power of arctic frost for 20s. Becomes immune\nto Slows and Immobilize effects, and gains access to the\n[Frost Slash] and [Frost Drift] skills.\n-[Frost Slash]-\nLaunches ice blades forward that deal \n[Damage Rate: 110%] Magic Damage to enemies in their path, inflicting 1\nstack of [Hypothermia] and reducing Movement Speed by\n30% for 4s.\nAt 6 stacks of [Hypothermia], the target gains [Deep\nFrost].\n[Deep Frost]: Cannot attack or move for 1.5s.\n-[Frost Drift] --\nInstantly removes control effects and leaps in the target\ndirection.",
       "tierUnlock": "2",
       "rarity": "legendary",
       "stats": {

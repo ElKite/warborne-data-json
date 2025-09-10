@@ -7,7 +7,7 @@
     "cooldown": "",
     "castingRange": "",
     "type": "passive",
-    "description": "Gains 1 stack of Natural Armor every 5s, stacking up to 4\ntimes. Each stack increases Damage Resistance by 8%. 1\nstack is lost for each instance of damage taken."
+    "description": "Gains 1 stack of Natural Armor every 5s, stacking up to 4 times. Each stack increases Damage Resistance by 8%. 1 stack is lost for each instance of damage taken."
   },
   "basicAttacks": [
     {
@@ -17,7 +17,7 @@
       "cooldown": "0.5",
       "castingRange": "14",
       "type": "basic",
-      "description": "[Basic Attack]:Deals [Damage Rate: 80%] Magic Damage.\n\nThrows an [Evil Seed] after 5 Basic Attacks.\nThrows an Evil Seed at the target location, creating a\nthorn zone that lasts 5s. The zone deals [Damage Rate:\n40%] Magic Damage every second to up to 5 enemies and\nreduces their Movement Speed by 25%.",
+      "description": "[Basic Attack]:Deals \n[Damage Rate: 80%] Magic Damage. Throws an [Evil Seed] after 5 Basic Attacks.\nThrows an Evil Seed at the target location, creating a\nthorn zone that lasts 5s. The zone deals \n[Damage Rate: 40%] Magic Damage every second to up to 5 enemies and\nreduces their Movement Speed by 25%.",
       "tierUnlock": "2"
     },
     {
@@ -27,7 +27,7 @@
       "cooldown": "1.4",
       "castingRange": "16",
       "type": "basic",
-      "description": "Basic Attacks become [Soothing Mist].\nReleases Soothing Mist in the target direction, dealing\n[Damage Rate: 70%] Magic Damage to enemies hit, while\napplying 1 stack of [Recovery] to allies.\n[Recovery]: Restores HP every second for 12s, stacking up\nto 3 times.\nHP recovery at 1 | 2 | 3 stacks:\n[Healing Rate: 10%] | [Healing Rate: 15%] | [Healing Rate:\n20%]",
+      "description": "Basic Attacks become [Soothing Mist].\nReleases Soothing Mist in the target direction, dealing \n[Damage Rate: 70%] Magic Damage to enemies hit, while\napplying 1 stack of [Recovery] to allies.\n[Recovery]: Restores HP every second for 12s, stacking up\nto 3 times.\nHP recovery at 1 | 2 | 3 stacks: \n[Healing Rate: 10%] | \n[Healing Rate: 15%] | \n[Healing Rate: 20%]",
       "tierUnlock": "4"
     },
     {
@@ -37,7 +37,7 @@
       "cooldown": "2.3",
       "castingRange": "14",
       "type": "basic",
-      "description": "Basic Attacks become [Healing Seed].\nThrows a healing seed at the target location that blooms,\nhealing nearby allies for [Healing Rate: 55%] HP and\napplying 1 stack of [Recovery]\n[Recovery]: Restores HP every second for 12s, stacking up\nto 3 times.\nHP recovery at 1 | 2 | 3 stacks:\n[Healing Rate: 10%] | [Healing Rate: 15%] | [Healing Rate:\n20%]",
+      "description": "Basic Attacks become [Healing Seed].\nThrows a healing seed at the target location that blooms,\nhealing nearby allies for \n[Healing Rate: 55%] HP and\napplying 1 stack of [Recovery]\n[Recovery]: Restores HP every second for 12s, stacking up\nto 3 times.\nHP recovery at 1 | 2 | 3 stacks: \n[Healing Rate: 10%] | \n[Healing Rate: 15%] | \n[Healing Rate: 20%]",
       "tierUnlock": "6"
     }
   ],
@@ -49,7 +49,7 @@
       "cooldown": "14",
       "castingRange": "12",
       "type": "common",
-      "description": "After a brief delay, creates an entangling zone lasting 4s.\nDeals [Damage Rate: 90%] Magic Damage every second\nand immobilizes enemies that enter for 1.5s.",
+      "description": "After a brief delay, creates an entangling zone lasting 4s.\nDeals \n[Damage Rate: 90%] Magic Damage every second\nand immobilizes enemies that enter for 1.5s.",
       "tierUnlock": "1"
     },
     {
@@ -59,7 +59,7 @@
       "cooldown": "14",
       "castingRange": "8",
       "type": "common",
-      "description": "Creates an energizing aura around the caster, lasting 5s.\nRestores [Healing Rate: 39%] HP and 12 MP every second\nto up to 10 nearby allies.",
+      "description": "Creates an energizing aura around the caster, lasting 5s.\nRestores \n[Healing Rate: 39%] HP and 12 MP every second\nto up to 10 nearby allies.",
       "tierUnlock": "3"
     },
     {
@@ -69,7 +69,7 @@
       "cooldown": "14",
       "castingRange": "8",
       "type": "common",
-      "description": "Applies Vitality Seeds to up to 5 nearby allies, healing for\n[Healing Rate: 80%] HP and applying 1 stack of\n[Recovery].\nVitality Seeds increase Cast Speed by 40% and\nAttack Speed by 25% for 6s.\n[Recovery]: Restores HP every second for 12s, stacking up\nto 3 times\nHP recovery at 1 | 2 | 3 stacks:\n[Healing Rate: 10%] | [Healing Rate: 15%] | [Healing Rate: 20%]",
+      "description": "Applies Vitality Seeds to up to 5 nearby allies, healing for \n[Healing Rate: 80%] HP and applying 1 stack of\n[Recovery].\nVitality Seeds increase Cast Speed by 40% and\nAttack Speed by 25% for 6s.\n[Recovery]: Restores HP every second for 12s, stacking up\nto 3 times\nHP recovery at 1 | 2 | 3 stacks: \n[Healing Rate: 10%] | \n[Healing Rate: 15%] | \n[Healing Rate: 20%]",
       "tierUnlock": "5"
     },
     {
@@ -79,7 +79,7 @@
       "cooldown": "14",
       "castingRange": "14",
       "type": "common",
-      "description": "Releases restorative energy at the target location, healing\nallies. Healing amount increases based on target's\n[Recovery] stacks.\n[Recovery] stacks: 0|1 |2|3\nRecovers HP: [Healing Rate: 75%] | [Healing Rate: 95%] |\n[Healing Rate: 115%] | [Healing Rate: 135%]",
+      "description": "Releases restorative energy at the target location, healing\nallies. Healing amount increases based on target's\n[Recovery] stacks.\n[Recovery] stacks: 0|1 |2|3\nRecovers HP: \n[Healing Rate: 75%] | \n[Healing Rate: 95%] | \n[Healing Rate: 115%] | \n[Healing Rate: 135%]",
       "tierUnlock": "8"
     },
     {
@@ -89,7 +89,7 @@
       "cooldown": "18",
       "castingRange": "14",
       "type": "common",
-      "description": "Cleanses all Hard Control (Stun, Fear, Freeze, Knockup,\nPetrify, Sleep), Silence, and 2 DoT effects on the caster\nand up to 20 nearby allies. Also heals for [Healing Rate:\n60%] HP, applies 1 stack of [Recovery], and prevents the\nnext 3 Hard Control or Silence effects. The effect lasts 4s.\nCan be used while skills are disabled.\n[Recovery]: Restores HP every second for 12s, stacking up\nto 3 times.\nHP recovery at 1 | 2 | 3 stacks\n[Healing Rate: 10%] | [Healing Rate: 15%] | [Healing Rate: 20%]",
+      "description": "Cleanses all Hard Control (Stun, Fear, Freeze, Knockup,\nPetrify, Sleep), Silence, and 2 DoT effects on the caster\nand up to 20 nearby allies. Also heals for \n[Healing Rate: 60%] HP, applies 1 stack of [Recovery], and prevents the\nnext 3 Hard Control or Silence effects. The effect lasts 4s.\nCan be used while skills are disabled.\n[Recovery]: Restores HP every second for 12s, stacking up\nto 3 times.\nHP recovery at 1 | 2 | 3 stacks \n[Healing Rate: 10%] | \n[Healing Rate: 15%] | \n[Healing Rate: 20%]",
       "tierUnlock": "7"
     }
   ],
@@ -102,7 +102,7 @@
       "cooldown": "18",
       "castingRange": "12",
       "type": "skill",
-      "description": "Creates 3 explosions in the target area. Each explosion\ndeals [Damage Rate: 100%] Magic Damage to players\n([Damage Rate: 200%] Magic Damage to mobs). The\ncaster is healed for [Healing Rate: 60%] HP if at least one\nenemy is hit.",
+      "description": "Creates 3 explosions in the target area. Each explosion\ndeals \n[Damage Rate: 100%] Magic Damage to players\n(\n[Damage Rate: 200%] Magic Damage to mobs). The\ncaster is healed for \n[Healing Rate: 60%] HP if at least one\nenemy is hit.",
       "tierUnlock": "2",
       "rarity": "rare",
       "stats": {
@@ -118,7 +118,7 @@
       "cooldown": "18",
       "castingRange": "8",
       "type": "skill",
-      "description": "Grants Thorn Barrier to up to 5 nearby allies.\nThorn Barrier increases Damage Resistance by 20%, Cast Speed by 40% and\nAttack Speed by 25% for 6s.\nWhen taking direct damage, recovers [Healing Rate: 55%]\nHP up to 6 times; also Slows the attacker by 25% for 3s.",
+      "description": "Grants Thorn Barrier to up to 5 nearby allies.\nThorn Barrier increases Damage Resistance by 20%, Cast Speed by 40% and\nAttack Speed by 25% for 6s.\nWhen taking direct damage, recovers \n[Healing Rate: 55%]\nHP up to 6 times; also Slows the attacker by 25% for 3s.",
       "tierUnlock": "2",
       "rarity": "epic",
       "stats": {
@@ -134,7 +134,7 @@
       "cooldown": "23",
       "castingRange": "12",
       "type": "skill",
-      "description": "Creates a Rain of Serenity at the target location for 8s.\nAllies in the rain gain 25% Damage Resistance and\nrecover [Healing Rate: 25%] HP every second.\n Deals [Damage Rate: 50%] Magic Damage to enemies in the field every 1 second",
+      "description": "Creates a Rain of Serenity at the target location for 8s.\nAllies in the rain gain 25% Damage Resistance and\nrecover \n[Healing Rate: 25%] HP every second.\n Deals \n[Damage Rate: 50%] Magic Damage to enemies in the field every 1 second",
       "tierUnlock": "2",
       "rarity": "epic",
       "stats": {
@@ -150,7 +150,7 @@
       "cooldown": "4.6",
       "castingRange": "12",
       "type": "skill",
-      "description": "Creates a Healing Bloom aura. Allies within gain 15%\nincreased healing. Consumes 3 MP every second to\nrestore [Healing Rate: 20%] HP to nearby allies",
+      "description": "Creates a Healing Bloom aura. Allies within gain 15%\nincreased healing. Consumes 3 MP every second to\nrestore \n[Healing Rate: 20%] HP to nearby allies",
       "tierUnlock": "2",
       "rarity": "epic",
       "stats": {
@@ -166,7 +166,7 @@
       "cooldown": "18",
       "castingRange": "16",
       "type": "skill",
-      "description": "Launches Root Worms in the target direction. Upon\nhitting an enemy target, it will bounce to other enemy\ntargets within 7 meters up to 9 times. Each target can be\nhit a maximum of 3 times.\nEach hit deals [Damage Rate: 120%] Magic Damage\nStuns the target for 1s, and reduces damage dealt by 20% for 9s.",
+      "description": "Launches Root Worms in the target direction. Upon\nhitting an enemy target, it will bounce to other enemy\ntargets within 7 meters up to 9 times. Each target can be\nhit a maximum of 3 times.\nEach hit deals \n[Damage Rate: 120%] Magic Damage\nStuns the target for 1s, and reduces damage dealt by 20% for 9s.",
       "tierUnlock": "2",
       "rarity": "epic",
       "stats": {
@@ -182,7 +182,7 @@
       "cooldown": "23",
       "castingRange": "24",
       "type": "skill",
-      "description": "Heals all allies hit for [Healing Rate: 100%], cleansing all\ncontrol effects and 5 DoT stacks. Also grants immunity to\nDoTs and increases healing received by 35% for 6s.",
+      "description": "Heals all allies hit for \n[Healing Rate: 100%], cleansing all\ncontrol effects and 5 DoT stacks. Also grants immunity to\nDoTs and increases healing received by 35% for 6s.",
       "tierUnlock": "2",
       "rarity": "legendary",
       "stats": {
@@ -198,7 +198,7 @@
       "cooldown": "46",
       "castingRange": "14",
       "type": "skill",
-      "description": "Plants a Divine Rootfall that lasts 20s. After 1s, the tree\nmatures and restores [Healing Rate: 20%] HP every\nsecond to nearby allies. When enemies cast skills in\nrange, it shoots sleep seeds that deal [Damage Rate:\n200%] Magic Damage and inflict Sleep for 2.5s.\nThe tree is destroyed after taking 10 Basic Attack hits",
+      "description": "Plants a Divine Rootfall that lasts 20s. After 1s, the tree\nmatures and restores \n[Healing Rate: 20%] HP every\nsecond to nearby allies. When enemies cast skills in\nrange, it shoots sleep seeds that deal \n[Damage Rate: 200%] Magic Damage and inflict Sleep for 2.5s.\nThe tree is destroyed after taking 10 Basic Attack hits",
       "tierUnlock": "2",
       "rarity": "legendary",
       "stats": {

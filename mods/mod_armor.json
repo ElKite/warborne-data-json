@@ -58,7 +58,7 @@
       "iconName": "ArmorEpic1",
       "rarity": "epic",
       "slot": "all",
-      "description": "When taking direct damage from Basic Attacks, has\na (melee weapons %s1% / ranged weapons %s2%)\nchance to increase the attacker's Attack Speed by\n-%s3% for 4s.\nTrigger Interval: 30s",
+      "description": "When taking direct damage from Basic Attacks, has a (melee weapons %s1% / ranged weapons %s2%) chance to increase the attacker's Attack Speed by\n-%s3% for 4s. Trigger Interval: 30s",
       "arguments": [
         {
           "argumentName": "s1",
@@ -79,7 +79,7 @@
       "iconName": "ArmorEpic2",
       "rarity": "epic",
       "slot": "all",
-      "description": "When taking direct Physical Damage, has a %s1%\nchance to increase Armor by %s2% for 4s.\nTrigger Interval: 30s.",
+      "description": "When taking direct Physical Damage, has a \n%s1%chance to increase Armor by %s2% for 4s. Trigger Interval: 30s.",
       "arguments": [
         {
           "argumentName": "s1",
@@ -185,7 +185,7 @@
       "iconName": "ArmorEpic8",
       "rarity": "epic",
       "slot": "all",
-      "description": "When taking direct damage from skills, has a %s1%\nchance to gain [Target-based Max HP %s2%] Shield\nPoints for 4s.\nTrigger Interval: 30s.",
+      "description": "When taking direct damage from skills, has a %s1%\nchance to gain  \n[Target-based Max HP %s2%] Shield\nPoints for 4s.\nTrigger Interval: 30s.",
       "arguments": [
         {
           "argumentName": "s1",
@@ -223,7 +223,7 @@
       "iconName": "ArmorExclusiveLgdr1",
       "rarity": "legendary",
       "slot": "Chest",
-      "description": "When using Chest skills, deals [Damage Rate:\n%s1%] Magic Damage to nearby enemies\nand reduces their Movement Speed by %s3% and\ndamage dealt by %s2% for 4s.\nTrigger Interval: 10s",
+      "description": "When using Chest skills, deals \n[Damage Rate: %s1%] Magic Damage to nearby enemies\nand reduces their Movement Speed by %s3% and\ndamage dealt by %s2% for 4s.\nTrigger Interval: 10s",
       "arguments": [
         {
           "argumentName": "s1",
@@ -244,7 +244,7 @@
       "iconName": "ArmorExclusiveLgdr2",
       "rarity": "legendary",
       "slot": "Chest",
-      "description": "When using Chest skills, detonates after 1s to deal\n[Damage Rate: %s1%] Physical\nDamage to nearby enemies and modify Attack\nSpeed by %s2% for 4s.\nTrigger Interval: 10s",
+      "description": "When using Chest skills, detonates after 1s to deal \n[Damage Rate: %s1%] Physical\nDamage to nearby enemies and modify Attack\nSpeed by %s2% for 4s.\nTrigger Interval: 10s",
       "arguments": [
         {
           "argumentName": "s1",
@@ -278,7 +278,7 @@
       "iconName": "ArmorExclusiveLgdr4",
       "rarity": "legendary",
       "slot": "Boots",
-      "description": "When using Boots Skills, the character gains an\nadditional [Target-based Max HP %s1%] Shield Value\nfor 4s.\nTrigger Interval: 20s",
+      "description": "When using Boots Skills, the character gains an\nadditional  \n[Target-based Max HP %s1%] Shield Value\nfor 4s.\nTrigger Interval: 20s",
       "arguments": [
         {
           "argumentName": "s1",
@@ -291,7 +291,7 @@
       "iconName": "ArmorExclusiveLgdr5",
       "rarity": "legendary",
       "slot": "Boots",
-      "description": "When using Boots skills,\n throw a trap at your feet;\n When triggered by an enemy,\n deal [Damage Rate: %s1%] Physical Damage\n and stuns them for %s2%.\nTrigger Interval: 20s",
+      "description": "When using Boots skills,\n throw a trap at your feet;\n When triggered by an enemy,\n deal \n[Damage Rate: %s1%] Physical Damage\n and stuns them for %s2%.\nTrigger Interval: 20s",
       "arguments": [
         {
           "argumentName": "s1",
@@ -321,7 +321,7 @@
       "iconName": "ArmorLgdr1",
       "rarity": "legendary",
       "slot": "all",
-      "description": "When affected by hard control effects (Stun, Fear,\nFreeze, Knockup, Petrify), has a %s1% chance to cast\na Bellow that deals [Damage Rate: %s2%]\n Physical Damage to nearby\nenemies and inflicts Fear for 1.5s.\nTrigger Interval: 30s.",
+      "description": "When affected by hard control effects (Stun, Fear,\nFreeze, Knockup, Petrify), has a %s1% chance to cast\na Bellow that deals \n[Damage Rate: %s2%]\n Physical Damage to nearby\nenemies and inflicts Fear for 1.5s.\nTrigger Interval: 30s.",
       "arguments": [
         {
           "argumentName": "s1",
@@ -359,7 +359,7 @@
       "iconName": "ArmorLgdr3",
       "rarity": "legendary",
       "slot": "all",
-      "description": "When taking direct damage from skills, has a %s1%\nchance to deal [Damage Rate: %s2%] Magic Damage\n to all enemy targets within the damage source's range,\n drain %s4% MP, and\nreduce the damage they deal by %s3% for 4s.\nTrigger Interval: 30s",
+      "description": "When taking direct damage from skills, has a %s1%\nchance to deal \n[Damage Rate: %s2%] Magic Damage\n to all enemy targets within the damage source's range,\n drain %s4% MP, and\nreduce the damage they deal by %s3% for 4s.\nTrigger Interval: 30s",
       "arguments": [
         {
           "argumentName": "s1",

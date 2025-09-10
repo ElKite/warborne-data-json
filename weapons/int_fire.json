@@ -7,7 +7,7 @@
     "cooldown": "",
     "castingRange": "",
     "type": "passive",
-    "description": "Damage dealt inflicts [Burn], dealing [Damage Rate: 25%]\nMagic Damage every second for 8s, stacking up to 6 times\n(stacks do not boost damage).\nWhen [Burn] reaches max stacks, deals [Damage Rate:\n80%] Magic Damage to up to 5 enemies near the carrier\nand removes all [Burn] stacks."
+    "description": "Damage dealt inflicts [Burn], dealing \n[Damage Rate: 25%] Magic Damage every second for 8s, stacking up to 6 times (stacks do not boost damage). When [Burn] reaches max stacks, deals \n[Damage Rate: 80%] Magic Damage to up to 5 enemies near the carrier and removes all [Burn] stacks."
   },
   "basicAttacks": [
     {
@@ -17,7 +17,7 @@
       "cooldown": "0.5",
       "castingRange": "14",
       "type": "basic",
-      "description": "Deals [Damage Rate: 120%] Magic Damage and applies 1\nstack of [Burn].",
+      "description": "Deals \n[Damage Rate: 120%] Magic Damage and applies 1 stack of [Burn].",
       "tierUnlock": "2"
     },
     {
@@ -27,7 +27,7 @@
       "cooldown": "0.5",
       "castingRange": "14",
       "type": "basic",
-      "description": "Replaces Basic Attack with [Scorching Shard].\nAfter 1.2s cast, fires 3 scorching shards in the target\ndirection, dealing [Damage Rate: 120%] Magic Damage to\nenemies hit and inflicting 1 stack of [Burn]. When multiple\nshards hit the same target, additional shards deal 25%\nless damage to the original damage.",
+      "description": "Replaces Basic Attack with [Scorching Shard]. After 1.2s cast, fires 3 scorching shards in the target direction, dealing \n[Damage Rate: 120%] Magic Damage to\nenemies hit and inflicting 1 stack of [Burn]. When multiple\nshards hit the same target, additional shards deal 25%\nless damage to the original damage.",
       "tierUnlock": "4"
     },
     {
@@ -37,7 +37,7 @@
       "cooldown": "0.5",
       "castingRange": "18",
       "type": "basic",
-      "description": "Replaces Basic Attack with [Wildfire Shard].\nAfter 2s cast, fires a wildfire shard at the target location\nthat bounces forward twice. Explodes on contact with\nenemies, dealing [Damage Rate: 120%] Magic Damage\nand inflicting 1 stack of [Burn] to enemies in range.",
+      "description": "Replaces Basic Attack with [Wildfire Shard]. After 2s cast, fires a wildfire shard at the target location\nthat bounces forward twice. Explodes on contact with\nenemies, dealing \n[Damage Rate: 120%] Magic Damage\nand inflicting 1 stack of [Burn] to enemies in range.",
       "tierUnlock": "6"
     }
   ],
@@ -49,7 +49,7 @@
       "cooldown": "6",
       "castingRange": "14",
       "type": "common",
-      "description": "Continuously channels flames in target direction for 3s,\ndealing [Damage Rate: 50%] Magic Damage and inflicting\n[Burn] to all enemies in range every 0.5s.\nCan rotate but cannot move while channeling\n75% Increased Damage against Monsters.",
+      "description": "Continuously channels flames in target direction for 3s,\ndealing \n[Damage Rate: 50%] Magic Damage and inflicting\n[Burn] to all enemies in range every 0.5s.\nCan rotate but cannot move while channeling\n75% Increased Damage against Monsters.",
       "tierUnlock": "1"
     },
     {
@@ -59,7 +59,7 @@
       "cooldown": "11",
       "castingRange": "18",
       "type": "common",
-      "description": "Channels for 0.5s and then launches a molten orb in\ntarget direction that sticks to the first enemy hit, lasting\n5s and dealing [Damage Rate: 110%] Magic Damage to\nenemies within 5m every 2s while inflicting 1 stack of\n[Burn].",
+      "description": "Channels for 0.5s and then launches a molten orb in\ntarget direction that sticks to the first enemy hit, lasting\n5s and dealing \n[Damage Rate: 110%] Magic Damage to\nenemies within 5m every 2s while inflicting 1 stack of\n[Burn].",
       "tierUnlock": "3"
     },
     {
@@ -69,7 +69,7 @@
       "cooldown": "11",
       "castingRange": "10",
       "type": "common",
-      "description": "Jumps in target direction, dealing [Damage Rate: 250%]\nMagic Damage and inflicting 2 stacks of [Burn] to nearby\nenemies upon takeoff.",
+      "description": "Jumps in target direction, dealing \n[Damage Rate: 250%]\nMagic Damage and inflicting 2 stacks of [Burn] to nearby\nenemies upon takeoff.",
       "tierUnlock": "5"
     },
     {
@@ -79,7 +79,7 @@
       "cooldown": "18",
       "castingRange": "6",
       "type": "common",
-      "description": "Sprays oil lasting 8s in front, inflicting [Oil Coating] to\nenemies who enter.\n[Oil Coating]: Reduces Movement Speed by 50% for 4s.\nWhen affected by [Burn], [Oil Coating] is replaced with\n[Volatile Burn] and cannot be inflicted again for 6s.\n[Volatile Burn]: Causes Fear and deals [Damage Rate:\n56%] Magic Damage every 0.5s for 1.5s.",
+      "description": "Sprays oil lasting 8s in front, inflicting [Oil Coating] to\nenemies who enter.\n[Oil Coating]: Reduces Movement Speed by 50% for 4s.\nWhen affected by [Burn], [Oil Coating] is replaced with\n[Volatile Burn] and cannot be inflicted again for 6s.\n[Volatile Burn]: Causes Fear and deals \n[Damage Rate: 56%] Magic Damage every 0.5s for 1.5s.",
       "tierUnlock": "7"
     },
     {
@@ -102,7 +102,7 @@
       "cooldown": "18",
       "castingRange": "14",
       "type": "skill",
-      "description": "After 1s cast, launches scorching flames at the target\nlocation to create Hellfire.\nHellfire lasts 6s, dealing [Damage Rate: 70%] Magic\nDamage to all players ([Damage Rate: 140%] Magic\nDamage to mobs) within and inflicting 1 stack of [Burn]\nevery 1s.",
+      "description": "After 1s cast, launches scorching flames at the target\nlocation to create Hellfire.\nHellfire lasts 6s, dealing \n[Damage Rate: 70%] Magic\nDamage to all players (\n[Damage Rate: 140%] Magic\nDamage to mobs) within and inflicting 1 stack of [Burn]\nevery 1s.",
       "tierUnlock": "2",
       "rarity": "rare",
       "stats": {
@@ -118,7 +118,7 @@
       "cooldown": "2",
       "castingRange": "10",
       "type": "skill",
-      "description": "Fires a Molten Blast in target direction that explodes on\nimpact, dealing [Damage Rate: 150%] Magic Damage to\nenemies in range and inflicting 1 stack of [Burn].\nCan be charged. At 3s charge time, the Molten Blast can\npenetrate enemies along its path, dealing [Damage Rate:\n50%] Magic Damage and exploding at the end point to\ndeal [Damage Rate: 250%] Magic Damage, inflicting 2\nstacks of [Burn], and applying Knockback to enemies\nwithin the explosion range by 3m.\nGains 1 charge every 18s, up to 2 charges.",
+      "description": "Fires a Molten Blast in target direction that explodes on\nimpact, dealing \n[Damage Rate: 150%] Magic Damage to\nenemies in range and inflicting 1 stack of [Burn].\nCan be charged. At 3s charge time, the Molten Blast can\npenetrate enemies along its path, dealing \n[Damage Rate: 50%] Magic Damage and exploding at the end point to\ndeal \n[Damage Rate: 250%] Magic Damage, inflicting 2\nstacks of [Burn], and applying Knockback to enemies\nwithin the explosion range by 3m.\nGains 1 charge every 18s, up to 2 charges.",
       "tierUnlock": "2",
       "rarity": "epic",
       "stats": {
@@ -134,7 +134,7 @@
       "cooldown": "20",
       "castingRange": "17",
       "type": "skill",
-      "description": "After a 1s cast, launches three scorching surges at the\ntarget location. After 1s, the flames erupt, each dealing\n[Damage Rate: 240%] Magic Damage and inflicting 1\nstack of [Burn] and Knockup for 1s to enemies in range.\nDamage reduces to 50% for enemies that take damage\nfrom more than one scorching surge.",
+      "description": "After a 1s cast, launches three scorching surges at the\ntarget location. After 1s, the flames erupt, each dealing \n[Damage Rate: 240%] Magic Damage and inflicting 1\nstack of [Burn] and Knockup for 1s to enemies in range.\nDamage reduces to 50% for enemies that take damage\nfrom more than one scorching surge.",
       "tierUnlock": "2",
       "rarity": "epic",
       "stats": {
@@ -150,7 +150,7 @@
       "cooldown": "23",
       "castingRange": "18",
       "type": "skill",
-      "description": "After a 1s cast, channels for 3s, continuously firing at\ntarget. Each projectile deals [Damage Rate: 45%] Magic\nDamage to enemies hit, inflicts 1 stack of [Burn], and\nreduces Magic Resistance by 8% for 4s. Stacks up to 6\ntimes.",
+      "description": "After a 1s cast, channels for 3s, continuously firing at\ntarget. Each projectile deals \n[Damage Rate: 45%] Magic\nDamage to enemies hit, inflicts 1 stack of [Burn], and\nreduces Magic Resistance by 8% for 4s. Stacks up to 6\ntimes.",
       "tierUnlock": "2",
       "rarity": "epic",
       "stats": {
@@ -166,7 +166,7 @@
       "cooldown": "23",
       "castingRange": "20",
       "type": "skill",
-      "description": "Channels a starforge beam for 4s after a 1s cast. Deals\n[Damage Rate: 85%] Magic Damage to enemies in range\nevery 0.5s, inflicting 1 stack of [Burn] and [Scorch].\nEach hit increases damage by 10%, up to 50%.\nCannot be interrupted during channeling and grants a\n[Target-based Max HP 25%] shield.\n[Scorch]: Reduces healing received by 5% for 4s. Stacks\nup to 3 times.",
+      "description": "Channels a starforge beam for 4s after a 1s cast. Deals \n[Damage Rate: 85%] Magic Damage to enemies in range\nevery 0.5s, inflicting 1 stack of [Burn] and [Scorch].\nEach hit increases damage by 10%, up to 50%.\nCannot be interrupted during channeling and grants a\n \n[Target-based Max HP 25%] shield.\n[Scorch]: Reduces healing received by 5% for 4s. Stacks\nup to 3 times.",
       "tierUnlock": "2",
       "rarity": "legendary",
       "stats": {
@@ -182,7 +182,7 @@
       "cooldown": "9.3",
       "castingRange": "23",
       "type": "skill",
-      "description": "Enter Molten Volley Mode for 20s. Cannot move while\nactive but can cancel manually.\nBasic Attack replaced: Fires magma at the target location\nthat rolls forward after impact, dealing \n[Damage Rate: 90%] Magic Damage to those hit and inflicting 1 stack of\n[Burn]. Damage increases by 10% after each enemy hit, up\nto 40%.",
+      "description": "Enter Molten Volley Mode for 20s. Cannot move while\nactive but can cancel manually.\nBasic Attack replaced: Fires magma at the target location\nthat rolls forward after impact, dealing  \n[Damage Rate: 90%] Magic Damage to those hit and inflicting 1 stack of\n[Burn]. Damage increases by 10% after each enemy hit, up\nto 40%.",
       "tierUnlock": "2",
       "rarity": "legendary",
       "stats": {

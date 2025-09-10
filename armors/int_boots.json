@@ -9,7 +9,7 @@
         "cooldown": "28",
         "castingRange": "6",
         "type": "skill",
-        "description": "Increases Movement Speed by 50% and restores 8 MP\nevery second for 5s.",
+        "description": "Increases Movement Speed by 50% and restores 8 MP every second for 5s.",
         "tierUnlock": "1",
         "rarity": "rare",
         "stats": {
@@ -26,7 +26,7 @@
         "cooldown": "23",
         "castingRange": "12",
         "type": "skill",
-        "description": "Move 12m in target direction. Restore [Healing Rate:\n150%] HP and 20 MP.",
+        "description": "Move 12m in target direction. Restore  \n[Healing Rate: 150%] HP and 20 MP.",
         "tierUnlock": "1",
         "rarity": "epic"
       },
@@ -38,7 +38,7 @@
         "cooldown": "28",
         "castingRange": "6",
         "type": "skill",
-        "description": "Increases Movement Speed by 55% for 5s. Creates a frost\npath that lasts 4s. Enemies in the path are slowed by 40%\nand their Attack Speed is reduced by 45% for 2s.",
+        "description": "Increases Movement Speed by 55% for 5s. Creates a frost path that lasts 4s. Enemies in the path are slowed by 40% and their Attack Speed is reduced by 45% for 2s.",
         "tierUnlock": "1",
         "rarity": "epic"
       },
@@ -50,7 +50,7 @@
         "cooldown": "28",
         "castingRange": "6",
         "type": "skill",
-        "description": "Increases Movement Speed by 55%, lasting 5s; creates a\npath of corruption lasting 4s along movement path.\nEnemies in the path suffer 35% reduced damage dealt and\n30% reduced healing received for 5s.",
+        "description": "Increases Movement Speed by 55%, lasting 5s; creates a path of corruption lasting 4s along movement path.\nEnemies in the path suffer 35% reduced damage dealt and\n30% reduced healing received for 5s.",
         "tierUnlock": "1",
         "rarity": "epic"
       },
@@ -62,7 +62,7 @@
         "cooldown": "28",
         "castingRange": "16",
         "type": "skill",
-        "description": "Grants a [Target-based Max HP 25%] shield lasting 4s and\nswaps positions with target player.",
+        "description": "Grants a  \n[Target-based Max HP 25%] shield lasting 4s and\nswaps positions with target player.",
         "tierUnlock": "1",
         "rarity": "epic"
       },
@@ -74,7 +74,7 @@
         "cooldown": "46",
         "castingRange": "6",
         "type": "skill",
-        "description": "After 1.5s cast time, enters Ghost Form, increases\nMovement Speed by 70% and becomes immune to\ndamage and control effects for 4s. Cannot cast other\nskills or attack while in Ghost form.",
+        "description": "After 1.5s cast time, enters Ghost Form, increases Movement Speed by 70% and becomes immune to\ndamage and control effects for 4s. Cannot cast other\nskills or attack while in Ghost form.",
         "tierUnlock": "1",
         "rarity": "legendary",
         "stats": {

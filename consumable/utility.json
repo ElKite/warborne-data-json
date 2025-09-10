@@ -151,28 +151,28 @@
     {
       "id": "heavy-blaster-turret-kit",
       "name": "Heavy Blaster Turret Kit",
-      "description": "Deploys a powerful Heavy Blaster Turret. Shares the deployment limit with other heavy structures, which can be increased through Warband Technology\n--[HMG Fire]-- \nEvery 0.5s consumes 3 MP to spray radioactive bullets in specified direction (Range: 6–40m), dealing 10% Max HP as Physical Damage with a 10% chance to apply Radiation Lingering.\n\nRadiation Lingering: Reduces healing received by 35% for 30s, stacking up to 2 times\n--[Shockwave]-- \nFires shockwave at target causing 5s Stun, after brief delay explodes reducing MP by 500 for enemies in range",
+      "description": "Deploys a powerful Heavy Blaster Turret. Shares the deployment limit with other heavy structures, which can be increased through Warband Technology\n--[HMG Fire]-- \nEvery 0.5s consumes 3 MP to spray radioactive bullets in specified direction (Range: 6–40m), dealing 10% Max HP as Physical Damage with a 10% chance to apply Radiation Lingering. \nRadiation Lingering: Reduces healing received by 35% for 30s, stacking up to 2 times\n--[Shockwave]-- \nFires shockwave at target causing 5s Stun, after brief delay explodes reducing MP by 500 for enemies in range",
       "category": "structure-kit",
       "rarity": "rare"
     },
     {
       "id": "heavy-railgun-turret-kit",
       "name": "Heavy Railgun Turret Kit",
-      "description": "Deploys a powerful Heavy Railgun Turret, a siege weapon that requires two people to operate. Shares the deployment limit with other heavy structures, which can be increased through Warband Technology\n--[Tesla Railgun]-- \nFires powerful tesla railgun in target direction (Range: 200m), dealing 30% of Max HP to as Physical Damage to players (5% to mobs) and knocking them back 6m with a 10% chance to apply Ionize. Deals [Damage Rate: 100%] + 0.8% of Max Durability as Siege Damage to buildings.\n\nIonize: Reduces Armor and Magic Resistance by 100% for 30s",
+      "description": "Deploys a powerful Heavy Railgun Turret, a siege weapon that requires two people to operate. Shares the deployment limit with other heavy structures, which can be increased through Warband Technology\n--[Tesla Railgun]-- \nFires powerful tesla railgun in target direction (Range: 200m), dealing 30% of Max HP to as Physical Damage to players (5% to mobs) and knocking them back 6m with a 10% chance to apply Ionize. Deals \n[Damage Rate: 100%] + 0.8% of Max Durability as Siege Damage to buildings. \nIonize: Reduces Armor and Magic Resistance by 100% for 30s",
       "category": "structure-kit",
       "rarity": "epic"
     },
     {
       "id": "sabo-explosive",
       "name": "Sabo-Explosive",
-      "description": "Places a Sabo-Explosive that detonates after 3 minutes. Immune to conventional attacks but can be dismantled by other players\n\n--[Sabo-Explosive Detonation]-- \nDeals [Damage Rate: 2000%] Physical Damage to players / [Damage Rate: 500%] Physical Damage to mobs within 7m; Deals [Damage Rate: 1000%] + [Target-based Building Durability Cap 15%] Max Durability as Siege Damage to buildings",
+      "description": "Places a Sabo-Explosive that detonates after 3 minutes. Immune to conventional attacks but can be dismantled by other players \n--[Sabo-Explosive Detonation]-- \nDeals \n[Damage Rate: 2000%] Physical Damage to players / \n[Damage Rate: 500%] Physical Damage to mobs within 7m; Deals \n[Damage Rate: 1000%] +  \n[Target-based Building Durability Cap 15%] Max Durability as Siege Damage to buildings",
       "category": "explosive",
       "rarity": "rare"
     },
     {
       "id": "vision-lens",
       "name": "Vision Lens",
-      "description": "Summons a fargazing device lasting 24 hours to observe enemies from afar and detect stealth units. Up to 1 can exist at a time\n\n--[Scout]-- \nScans target area for 15s, inflicting Scout Mark to enemies within.\n\n\n[Scout Mark]\nStealth removed, damage taken increased by 20%",
+      "description": "Summons a fargazing device lasting 24 hours to observe enemies from afar and detect stealth units. Up to 1 can exist at a time \n--[Scout]-- \nScans target area for 15s, inflicting Scout Mark to enemies within. \n\n[Scout Mark]\nStealth removed, damage taken increased by 20%",
       "category": "detection",
       "rarity": "uncommon"
     },
@@ -235,7 +235,7 @@
     {
       "id": "shadowveil-thicket",
       "name": "Shadowveil Thicket",
-      "description": "Summons a Shadowveil Thicket lasting 1 hour that grants stealth to any units entering it. These thickets have extremely low magic resistance and a maximum of 3 can exist at a time\n\nThickets can only be planted to grow in dark underground areas such as your Depth Rift, Harvester Vaults and Veinhold Extraction",
+      "description": "Summons a Shadowveil Thicket lasting 1 hour that grants stealth to any units entering it. These thickets have extremely low magic resistance and a maximum of 3 can exist at a time \nThickets can only be planted to grow in dark underground areas such as your Depth Rift, Harvester Vaults and Veinhold Extraction",
       "category": "deployable",
       "rarity": "uncommon"
     },
@@ -277,7 +277,7 @@
     {
       "id": "spiked-trap",
       "name": "Spiked Trap",
-      "description": "Summons Spiked Trap, Sets Movement Speed cap to 1m/s and Bleed effect dealing [Damage Rate: 200%] Physical Damage every second for 12s, lasting 24 hours. Up to 2 can exist at a time; cannot be placed in instance maps such as Veinhold Extraction and Depth Rift",
+      "description": "Summons Spiked Trap, Sets Movement Speed cap to 1m/s and Bleed effect dealing \n[Damage Rate: 200%] Physical Damage every second for 12s, lasting 24 hours. Up to 2 can exist at a time; cannot be placed in instance maps such as Veinhold Extraction and Depth Rift",
       "category": "trap",
       "rarity": "uncommon"
     }
