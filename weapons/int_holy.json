@@ -69,7 +69,7 @@
       "cooldown": "13",
       "castingRange": "14",
       "type": "common",
-      "description": "Projects holy energy at the target location. On impact,\nrestores \n[Healing Rate: 75%] HP and grants a\n \n[Target-based Max HP 20%] shield for 4s to allies in\nrange.",
+      "description": "Projects holy energy at the target location. On impact,\nrestores \n[Healing Rate: 75%] HP and grants a\n[Target-based Max HP 20%] shield for 4s to allies in\nrange.",
       "tierUnlock": "5"
     },
     {
@@ -79,7 +79,7 @@
       "cooldown": "15",
       "castingRange": "3",
       "type": "common",
-      "description": "Creates multiple holy walls in front. Enemies who touch\nthem take \n[Damage Rate: 150%] Magic Damage and are\nstunned for 1.5s, while the caster gains \n \n[Target-based Max HP 12%] Shield for 6s, stacking up to 4 times.",
+      "description": "Creates multiple holy walls in front. Enemies who touch\nthem take \n[Damage Rate: 150%] Magic Damage and are\nstunned for 1.5s, while the caster gains \n[Target-based Max HP 12%] Shield for 6s, stacking up to 4 times.",
       "tierUnlock": "7"
     },
     {

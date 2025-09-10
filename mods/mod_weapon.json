@@ -397,7 +397,7 @@
       "iconName": "WeaponLgdr1",
       "rarity": "legendary",
       "slot": "all",
-      "description": "When a weapon skill inflicts Hard Control effects\n(Stun, Fear, Frozen, Knockup, Petrify) or Pull\neffects, it has a %s1% chance to create an\nearthquake at the target's location. After a\n1.5-second delay, it deals\n \n[Damage Rate: %s2%] Physical Damage and\napplies Stun for %s3% seconds.\nCooldown: 30s.",
+      "description": "When a weapon skill inflicts Hard Control effects\n(Stun, Fear, Frozen, Knockup, Petrify) or Pull\neffects, it has a %s1% chance to create an\nearthquake at the target's location. After a\n1.5-second delay, it deals\n[Damage Rate: %s2%] Physical Damage and\napplies Stun for %s3% seconds.\nCooldown: 30s.",
       "arguments": [
         {
           "argumentName": "s1",
@@ -418,7 +418,7 @@
       "iconName": "WeaponLgdr2",
       "rarity": "legendary",
       "slot": "all",
-      "description": "When dealing direct damage with Basic Attacks,\nhas a %s1% chance to deal additional\n \n[Damage Rate: %s2%] Physical Damage \nto the current target and reduce\nMovement Speed by %s3% for 2s.\nTrigger Interval: 30s",
+      "description": "When dealing direct damage with Basic Attacks,\nhas a %s1% chance to deal additional\n[Damage Rate: %s2%] Physical Damage \nto the current target and reduce\nMovement Speed by %s3% for 2s.\nTrigger Interval: 30s",
       "arguments": [
         {
           "argumentName": "s1",

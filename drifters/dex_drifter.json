@@ -162,7 +162,7 @@
         "cooldown": "",
         "castingRange": "",
         "type": "passive",
-        "description": "While without Armor, gains 5 Energy per second, and\ngains 5 Energy on Basic Attack Crit. When Energy reaches\n100, restores  \n[Target-based Max HP 15%] Armor.\nWhile with Armor, gains  \n[Target-based Max HP 3%] Armor\non Basic Attack Crit. Armor restored cannot exceed\n \n[Target-based Max HP 25%]. (Trigger Interval: a cooldown\nof 1 seconds)",
+        "description": "While without Armor, gains 5 Energy per second, and\ngains 5 Energy on Basic Attack Crit. When Energy reaches\n100, restores  \n[Target-based Max HP 15%] Armor.\nWhile with Armor, gains  \n[Target-based Max HP 3%] Armor\non Basic Attack Crit. Armor restored cannot exceed\n[Target-based Max HP 25%]. (Trigger Interval: a cooldown\nof 1 seconds)",
         "tierUnlock": "4"
       }
     },
@@ -206,7 +206,7 @@
         "cooldown": "18",
         "castingRange": "9",
         "type": "skill",
-        "description": "Releases a Null Pulse in the target direction, dealing\n \n[Damage Rate: 50%] Physical Damage to enemies in\nrange, knocking them back 12m, and applying Silence and\n40% Slow for 3s.",
+        "description": "Releases a Null Pulse in the target direction, dealing\n[Damage Rate: 50%] Physical Damage to enemies in\nrange, knocking them back 12m, and applying Silence and\n40% Slow for 3s.",
         "tierUnlock": "1"
       },
       "passive": {
@@ -426,7 +426,7 @@
         "cooldown": "28",
         "castingRange": "8",
         "type": "skill",
-        "description": "Launches a flurry of slashes at the target and nearby enemies, eache dealing \n \n[Damage Rate: 120%] Physical Damage. Damage reduces tp 50% after the first hit on the same target. Flurry for 4s with Unstoppable and damage immunity. Can critical hit. Higher attack speed increases attack count.",
+        "description": "Launches a flurry of slashes at the target and nearby enemies, eache dealing \n[Damage Rate: 120%] Physical Damage. Damage reduces tp 50% after the first hit on the same target. Flurry for 4s with Unstoppable and damage immunity. Can critical hit. Higher attack speed increases attack count.",
         "tierUnlock": "1"
       },
       "passive": {

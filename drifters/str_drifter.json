@@ -41,7 +41,7 @@
         "cooldown": "28",
         "castingRange": "8",
         "type": "skill",
-        "description": "Creates a Sandstorm around the caster, pushing all enemies outside. Channels for 6s with +45% Damage\nResistance and control immunity. Enemies touching the\nfield take \n[Damage Rate: 300%] Physical Damage,\nSlowed by 60% for 4s and dispelled from all buffs. Also knocks them\nback 11m from center. The Sandstorm applies 60% Slow.",
+        "description": "Creates a Sandstorm around the caster, pushing all enemies outside. Channels for 6s with +45% Damage Resistance and control immunity. Enemies touching the field take \n[Damage Rate: 300%] Physical Damage, Slowed by 60% for 4s and dispelled from all buffs. Also knocks them back 11m from center. The Sandstorm applies 60% Slow.",
         "tierUnlock": "1"
       },
       "passive": {
@@ -52,7 +52,7 @@
         "cooldown": "20",
         "castingRange": "",
         "type": "passive",
-        "description": "Creates a circular storm field around the caster for 4s when causing Forced Movement (Pull, Knockback). Deals \n[Damage Rate: 100%] Physical Damage to enemies in\nfield, inflicting Silence and a 40% chance to miss Basic\nAttacks for 3s. (Cooldown: 20s)",
+        "description": "Creates a circular storm field around the caster for 4s when causing Forced Movement (Pull, Knockback). Deals \n[Damage Rate: 100%] Physical Damage to enemies in field, inflicting Silence and a 40% chance to miss Basic Attacks for 3s. (Cooldown: 20s)",
         "tierUnlock": "4"
       }
     },
@@ -96,7 +96,7 @@
         "cooldown": "28",
         "castingRange": "10",
         "type": "skill",
-        "description": "After a brief charge-up, unleash a Frozen Maelstrom forward, dealing \n[Damage Rate: 200%] Magic Damage to enemies in the area, applying Slow by 40%% and reducing Attack Speed by 40%%, lasting 6s. The punch also deals \n[Damage Rate: 300%] additional Magic\nDamage to enemies directly in front and applies Frozen\nfor 3s.",
+        "description": "After a brief charge-up, unleash a Frozen Maelstrom forward, dealing \n[Damage Rate: 200%] Magic Damage to enemies in the area, applying Slow by 40%% and reducing Attack Speed by 40%%, lasting 6s. The punch also deals \n[Damage Rate: 300%] additional Magic Damage to enemies directly in front and applies Frozen for 3s.",
         "tierUnlock": "1"
       },
       "passive": {
@@ -107,7 +107,7 @@
         "cooldown": "20",
         "castingRange": "",
         "type": "passive",
-        "description": "Gains 25% Damage Resistance if damage is dealt within 5s, lasts for 6s. When taking damage during this time,sends forth freezing air in all directions, dealing \n[Damage Rate: 80%] Magic Damage to targets within range, reducing Attack Speed by 30% and Movement\nSpeed by 30% for 4s. Minimum interval of 1s. (Cooldown:\n20s)",
+        "description": "Gains 25% Damage Resistance if damage is dealt within 5s, lasts for 6s. When taking damage during this time,sends forth freezing air in all directions, dealing \n[Damage Rate: 80%] Magic Damage to targets within range, reducing Attack Speed by 30% and Movement Speed by 30% for 4s. Minimum interval of 1s. (Cooldown: 20s)",
         "tierUnlock": "4"
       }
     },
@@ -206,7 +206,7 @@
         "cooldown": "18",
         "castingRange": "10",
         "type": "skill",
-        "description": "Leaps to the target location. Gains immunity to control\nduring leap. Deals\n[Damage Rate: 350%] Physical\nDamage and knocks enemies in the area up for 1.5s.",
+        "description": "Leaps to the target location. Gains immunity to control during leap. Deals\n[Damage Rate: 350%] Physical Damage and knocks enemies in the area up for 1.5s.",
         "tierUnlock": "1"
       },
       "passive": {
@@ -217,7 +217,7 @@
         "cooldown": "5",
         "castingRange": "",
         "type": "passive",
-        "description": "When inflicting Immobilize or Hard Control (Stun, Fear,\nFreeze, Knockup, Petrify), drops a meteor after 1s, dealing\n480\n[Damage Rate: 150%] Physical Damage and 30% Slow\nfor 3s. (Cooldown: 5s)",
+        "description": "When inflicting Immobilize or Hard Control (Stun, Fear, Freeze, Knockup, Petrify), drops a meteor after 1s, dealing\n[Damage Rate: 150%] Physical Damage and 30% Slow for 3s. (Cooldown: 5s)",
         "tierUnlock": "4"
       }
     },
@@ -261,7 +261,7 @@
         "cooldown": "42",
         "castingRange": "7",
         "type": "skill",
-        "description": "Grants Shield of Conviction to up to 5 allies around the\ncaster for 6s. Allies with Shield of Conviction gain\n \n[Target-based Max HP 30%] Shield effect, and 30% of\ndamage dealt will be converted into shield value, up to\n \n[Target-based Max HP 15%] additional Shield. After 6s, if\nthe shield remains unbroken, deals \n[Damage Rate: 300%]\nMagic Damage to nearby enemies. Subsequent\nexplosions deal reduced damage (15%).",
+        "description": "Grants Shield of Conviction to up to 5 allies around the caster for 6s. Allies with Shield of Conviction gain \n[Target-based Max HP 30%] Shield effect, and 30% of damage dealt will be converted into shield value, up to \n[Target-based Max HP 15%] additional Shield. After 6s, if  the shield remains unbroken, deals \n[Damage Rate: 300%]  Magic Damage to nearby enemies. Subsequent  explosions deal reduced damage (15%).",
         "tierUnlock": "1"
       },
       "passive": {
@@ -272,7 +272,7 @@
         "cooldown": "20",
         "castingRange": "",
         "type": "passive",
-        "description": "Gains immunity to control effects and 20% Damage\nResistance whenever gaining shield for as long as the\nshield remains. (Cooldown: 20s)",
+        "description": "Gains immunity to control effects and 20% Damage  Resistance whenever gaining shield for as long as the  shield remains. (Cooldown: 20s)",
         "tierUnlock": "4"
       }
     },
@@ -316,7 +316,7 @@
         "cooldown": "42",
         "castingRange": "10",
         "type": "skill",
-        "description": "Channel for 6s, gaining immunity to control. Allies on the field gain +40% Max HP and immunity to Forced Movement (Pull, Knockback). Each 5000 total damage taken by allies grants 1 Energy stack, up to 5.\nUse again within 12s of starting the channeling to\nunleash absorbed energy, dealing \n[Damage Rate: 350%]-[Damage Rate: 700%] Magic Damage based on stacks and reducing Movement Speed by 30% for 4s.",
+        "description": "Channel for 6s, gaining immunity to control. Allies on the field gain +40% Max HP and immunity to Forced Movement (Pull, Knockback). Each 5000 total damage taken by allies grants 1 Energy stack, up to 5.  Use again within 12s of starting the channeling to  unleash absorbed energy, dealing \n[Damage Rate: 350%]-[Damage Rate: 700%] Magic Damage based on stacks and reducing Movement Speed by 30% for 4s.",
         "tierUnlock": "1"
       },
       "passive": {
@@ -371,7 +371,7 @@
         "cooldown": "28",
         "castingRange": "4",
         "type": "skill",
-        "description": "Channel for 4s with control immunity and 30% increased Movement Speed. On hit, deals \n[Damage Rate: 215%] Physical Damage and creates a chain link (max 5 chains). Chains break at range limit. After the channeling ends, pull all chained targets to deal \n[Damage Rate: 215%]\nPhysical Damage and Stun them for 1.5s.",
+        "description": "Channel for 4s with control immunity and 30% increased Movement Speed. On hit, deals \n[Damage Rate: 215%] Physical Damage and creates a chain link (max 5 chains). Chains break at range limit. After the channeling ends, pull all chained targets to deal \n[Damage Rate: 215%]  Physical Damage and Stun them for 1.5s.",
         "tierUnlock": "1"
       },
       "passive": {
@@ -426,7 +426,7 @@
         "cooldown": "42",
         "castingRange": "16",
         "type": "skill",
-        "description": "Creates a protection zone at the target location that grants allies within +30% Damage Resistance, +40% Healing Received, +40% Dodge and heals for  \n[Healing Rate: 50%] HP every second. Then leaps to the target\nlocation, dealing \n[Damage Rate: 250%] Physical Damage\nto those hit and knocking them up for 1s.\nImmune to control during prep and leap.",
+        "description": "Creates a protection zone at the target location that grants allies within +30% Damage Resistance, +40% Healing Received, +40% Dodge and heals for  \n[Healing Rate: 50%] HP every second. Then leaps to the target  location, dealing \n[Damage Rate: 250%] Physical Damage  to those hit and knocking them up for 1s.  Immune to control during prep and leap.",
         "tierUnlock": "1"
       },
       "passive": {
@@ -437,7 +437,7 @@
         "cooldown": "20",
         "castingRange": "",
         "type": "passive",
-        "description": "Gains 25% Damage Resistance for 1s if HP is below 75%. Sends healing radiation waves in all directions, healing allies in range for \n[Healing Rate: 50%] HP and granting\n \n[Target-based Max HP 5%] Shield every 1s for 4s.\n(Cooldown: 20s)",
+        "description": "Gains 25% Damage Resistance for 1s if HP is below 75%. Sends healing radiation waves in all directions, healing allies in range for \n[Healing Rate: 50%] HP and granting \n[Target-based Max HP 5%] Shield every 1s for 4s.  (Cooldown: 20s)",
         "tierUnlock": "4"
       }
     },
@@ -481,7 +481,7 @@
         "cooldown": "9.3",
         "castingRange": "30",
         "type": "skill",
-        "description": "Transform into a turret for 25s. Basic Attacks become\nartillery strikes, firing projectiles at targets beyond 8m,\ndealing \n[Damage Rate: 250%] Physical Damage.\nArtillery Critical Damage is 150%.\n While in turret form gain increased Magic Resistance",
+        "description": "Transform into a turret for 25s. Basic Attacks become  artillery strikes, firing projectiles at targets beyond 8m,  dealing \n[Damage Rate: 250%] Physical Damage.  Artillery Critical Damage is 150%.   While in turret form gain increased Magic Resistance",
         "tierUnlock": "1"
       },
       "passive": {
@@ -492,7 +492,7 @@
         "cooldown": "",
         "castingRange": "",
         "type": "passive",
-        "description": "While standing still, gain 1 stack of [Steadfast] every\nsecond.\n[Steadfast]: +2% Critical Rate, +1.5% damage for 3s.\nStacks up to 15 times",
+        "description": "While standing still, gain 1 stack of [Steadfast] every  second.  [Steadfast]: +2% Critical Rate, +1.5% damage for 3s.  Stacks up to 15 times",
         "tierUnlock": "4"
       }
     }

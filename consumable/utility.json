@@ -172,7 +172,7 @@
     {
       "id": "vision-lens",
       "name": "Vision Lens",
-      "description": "Summons a fargazing device lasting 24 hours to observe enemies from afar and detect stealth units. Up to 1 can exist at a time \n--[Scout]-- \nScans target area for 15s, inflicting Scout Mark to enemies within. \n\n[Scout Mark]\nStealth removed, damage taken increased by 20%",
+      "description": "Summons a fargazing device lasting 24 hours to observe enemies from afar and detect stealth units. Up to 1 can exist at a time \n--[Scout]-- \nScans target area for 15s, inflicting Scout Mark to enemies within. \n[Scout Mark]\nStealth removed, damage taken increased by 20%",
       "category": "detection",
       "rarity": "uncommon"
     },

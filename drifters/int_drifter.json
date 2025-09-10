@@ -371,7 +371,7 @@
         "cooldown": "42",
         "castingRange": "10",
         "type": "skill",
-        "description": "Creates a Lunar Domain and channels for 8s. Enemies\nwithin are struck by starlight on skill use, taking  \n[Damage Rate: 200%] Magic Damage and losing 20 MP. Allies\nwithin recover 8 MP every second and gain \n \n[Target-based Max HP 15%] Shield lasting 4s.\nSkill cannot be interrupted. +20% Movement Speed while\nchanneling.",
+        "description": "Creates a Lunar Domain and channels for 8s. Enemies\nwithin are struck by starlight on skill use, taking  \n[Damage Rate: 200%] Magic Damage and losing 20 MP. Allies\nwithin recover 8 MP every second and gain \n[Target-based Max HP 15%] Shield lasting 4s.\nSkill cannot be interrupted. +20% Movement Speed while\nchanneling.",
         "tierUnlock": "1"
       },
       "passive": {
@@ -526,29 +526,29 @@
         "supportBonus": "N/A",
         "supportMalus": "",
         "supportBonusValue": "",
-        "supportMalusValue": "",
-        "skill": {
-          "gameId": "Paragon_Skill_Int_13",
-          "gearName": "N/A",
-          "skillName": "N/A",
-          "manaCost": "N/A",
-          "cooldown": "N/A",
-          "castingRange": "N/A",
-          "type": "skill",
-          "description": "N/A",
-          "tierUnlock": "1"
-        },
-        "passive": {
-          "gameId": "Paragon_Skill_Int_13_Passive",
-          "gearName": "N/A",
-          "skillName": "N/A",
-          "manaCost": "N/A",
-          "cooldown": "N/A",
-          "castingRange": "N/A",
-          "type": "passive",
-          "description": "N/A",
-          "tierUnlock": "4"
-        }
+        "supportMalusValue": ""
+      },
+      "skill": {
+        "gameId": "Paragon_Skill_Int_13",
+        "gearName": "N/A",
+        "skillName": "N/A",
+        "manaCost": "N/A",
+        "cooldown": "N/A",
+        "castingRange": "N/A",
+        "type": "skill",
+        "description": "N/A",
+        "tierUnlock": "1"
+      },
+      "passive": {
+        "gameId": "Paragon_Skill_Int_13_Passive",
+        "gearName": "N/A",
+        "skillName": "N/A",
+        "manaCost": "N/A",
+        "cooldown": "N/A",
+        "castingRange": "N/A",
+        "type": "passive",
+        "description": "N/A",
+        "tierUnlock": "4"
       }
     }
   }

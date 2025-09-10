@@ -94,7 +94,7 @@
       "cooldown": "45",
       "castingRange": "",
       "type": "passive",
-      "description": "When taking damage at below 40% HP, gains a\n \n[Target-based Max HP 25%] shield and generates a\nrepulsion field lasting 6s. Enemies touching the field take\nDamage Rate: 100%] Magic Damage and are knocked\nback 7m.\nTrigger Interval: 45s",
+      "description": "When taking damage at below 40% HP, gains a\n[Target-based Max HP 25%] shield and generates a\nrepulsion field lasting 6s. Enemies touching the field take\nDamage Rate: 100%] Magic Damage and are knocked\nback 7m.\nTrigger Interval: 45s",
       "tierUnlock": "1",
       "rarity": "legendary",
       "stats": {

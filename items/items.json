@@ -199,7 +199,7 @@
     {
       "id": "driftmark-crisis-defense-module",
       "name": "Driftmark Crisis Defense Module",
-      "description": "Use to grant allied Driftmarks in this scene Driftmark Defense, lasting 120s. \n\n[Driftmark Defense]\nReduces damage taken by 50%",
+      "description": "Use to grant allied Driftmarks in this scene Driftmark Defense, lasting 120s. \n[Driftmark Defense]\nReduces damage taken by 50%",
       "category": "defense",
       "rarity": "rare"
     },
@@ -362,7 +362,7 @@
     {
       "id": "hell-scourge-com-station-kit",
       "name": "Hell-Scourge Com-Station Kit",
-      "description": "Places a Hell-Scourge Com-Station, enabling low-orbit strikes on adjacent maps. Only 1 can exist at a time\n--[Railgun Strike]-- \nChannel orbital railgun to continuously bombard the target location for 120s. Every 0.5s, deals  \n[Target-based Max HP 20%] Physical Damage based on Max HP to enemies within 12m and inflicts Quantum Collapse. Buildings take \n[Damage Rate: 600%] +  \n[Target-based Building Durability Cap 0.4%] Max Durability as Siege Damage. \nBombarded ground cannot be built on for 2 days \n\n[Quantum Collapse]\nMax HP reduced by 5%, stacks up to 10 times, lasts 1800s (Effect persists on mobs even after leaving combat)",
+      "description": "Places a Hell-Scourge Com-Station, enabling low-orbit strikes on adjacent maps. Only 1 can exist at a time\n--[Railgun Strike]-- \nChannel orbital railgun to continuously bombard the target location for 120s. Every 0.5s, deals  \n[Target-based Max HP 20%] Physical Damage based on Max HP to enemies within 12m and inflicts Quantum Collapse. Buildings take \n[Damage Rate: 600%] +  \n[Target-based Building Durability Cap 0.4%] Max Durability as Siege Damage. \nBombarded ground cannot be built on for 2 days \n[Quantum Collapse]\nMax HP reduced by 5%, stacks up to 10 times, lasts 1800s (Effect persists on mobs even after leaving combat)",
       "category": "structure-kit",
       "rarity": "legendary"
     },

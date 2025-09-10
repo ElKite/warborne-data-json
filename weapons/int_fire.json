@@ -166,7 +166,7 @@
       "cooldown": "23",
       "castingRange": "20",
       "type": "skill",
-      "description": "Channels a starforge beam for 4s after a 1s cast. Deals \n[Damage Rate: 85%] Magic Damage to enemies in range\nevery 0.5s, inflicting 1 stack of [Burn] and [Scorch].\nEach hit increases damage by 10%, up to 50%.\nCannot be interrupted during channeling and grants a\n \n[Target-based Max HP 25%] shield.\n[Scorch]: Reduces healing received by 5% for 4s. Stacks\nup to 3 times.",
+      "description": "Channels a starforge beam for 4s after a 1s cast. Deals \n[Damage Rate: 85%] Magic Damage to enemies in range\nevery 0.5s, inflicting 1 stack of [Burn] and [Scorch].\nEach hit increases damage by 10%, up to 50%.\nCannot be interrupted during channeling and grants a\n[Target-based Max HP 25%] shield.\n[Scorch]: Reduces healing received by 5% for 4s. Stacks\nup to 3 times.",
       "tierUnlock": "2",
       "rarity": "legendary",
       "stats": {
