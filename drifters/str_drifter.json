@@ -495,6 +495,61 @@
         "description": "While standing still, gain 1 stack of [Steadfast] every  second.  [Steadfast]: +2% Critical Rate, +1.5% damage for 3s.  Stacks up to 15 times",
         "tierUnlock": "4"
       }
+    },
+    "paragon_str_10": {
+      "gameId": "paragon_str_10",
+      "name": "Hela",
+      "strBonus": "N/A",
+      "dexBonus": "N/A",
+      "intBonus": "N/A",
+      "baseStr": "",
+      "baseDex": "",
+      "baseInt": "",
+      "stats": {
+        "Max HP Bonus": "%",
+        "Max MP Bonus": "%",
+        "Attack Speed Bonus": "%",
+        "Casting Speed Bonus": "%",
+        "Skill Cooldown Rate Bonus": "%",
+        "Physical Damage Bonus": "%",
+        "Magic Damage Bonus": "%",
+        "Healing Bonus": "%",
+        "Damage Bonus (PvE)": "%",
+        "Critical Rate": "%",
+        "Tenacity Penetration": "%",
+        "Armor": "",
+        "Magic Resistance": "",
+        "Block": "",
+        "Control Resistance": ""
+      },
+      "supportStationBonus": {
+        "supportBonus": "N/A",
+        "supportMalus": "",
+        "supportBonusValue": "",
+        "supportMalusValue": ""
+      },
+      "skill": {
+        "gameId": "Paragon_Skill_Str_10",
+        "gearName": "N/A",
+        "skillName": "N/A",
+        "manaCost": "N/A",
+        "cooldown": "N/A",
+        "castingRange": "N/A",
+        "type": "skill",
+        "description": "N/A",
+        "tierUnlock": "1"
+      },
+      "passive": {
+        "gameId": "Paragon_Skill_Str_10_Passive",
+        "gearName": "N/A",
+        "skillName": "N/A",
+        "manaCost": "N/A",
+        "cooldown": "N/A",
+        "castingRange": "N/A",
+        "type": "passive",
+        "description": "N/A",
+        "tierUnlock": "4"
+      }
     }
   }
 }

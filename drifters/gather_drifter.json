@@ -1,5 +1,170 @@
 {
   "lastUpdate": "June 6, 2025 6 AM",
   "drifters": {
+    "paragon_gather_1": {
+      "gameId": "paragon_gather_1",
+      "name": "To Be Announced",
+      "strBonus": "N/A",
+      "dexBonus": "N/A",
+      "intBonus": "N/A",
+      "baseStr": "",
+      "baseDex": "",
+      "baseInt": "",
+      "stats": {
+        "Max HP Bonus": "%",
+        "Max MP Bonus": "%",
+        "Attack Speed Bonus": "%",
+        "Casting Speed Bonus": "%",
+        "Skill Cooldown Rate Bonus": "%",
+        "Physical Damage Bonus": "%",
+        "Magic Damage Bonus": "%",
+        "Healing Bonus": "%",
+        "Damage Bonus (PvE)": "%",
+        "Critical Rate": "%",
+        "Tenacity Penetration": "%",
+        "Armor": "",
+        "Magic Resistance": "",
+        "Block": "",
+        "Control Resistance": ""
+      },
+      "supportStationBonus": {
+        "supportBonus": "N/A",
+        "supportMalus": "",
+        "supportBonusValue": "",
+        "supportMalusValue": ""
+      },
+      "skill": {
+        "gameId": "Avatar_Skill_Gather_1",
+        "gearName": "N/A",
+        "skillName": "N/A",
+        "manaCost": "N/A",
+        "cooldown": "N/A",
+        "castingRange": "N/A",
+        "type": "skill",
+        "description": "N/A",
+        "tierUnlock": "1"
+      },
+      "passive": {
+        "gameId": "Avatar_Skill_Gather_1_Passive",
+        "gearName": "N/A",
+        "skillName": "N/A",
+        "manaCost": "N/A",
+        "cooldown": "N/A",
+        "castingRange": "N/A",
+        "type": "passive",
+        "description": "N/A",
+        "tierUnlock": "4"
+      }
+    },
+    "paragon_gather_4": {
+      "gameId": "paragon_gather_4",
+      "name": "Engineer",
+      "strBonus": "N/A",
+      "dexBonus": "N/A",
+      "intBonus": "N/A",
+      "baseStr": "",
+      "baseDex": "",
+      "baseInt": "",
+      "stats": {
+        "Max HP Bonus": "%",
+        "Max MP Bonus": "%",
+        "Attack Speed Bonus": "%",
+        "Casting Speed Bonus": "%",
+        "Skill Cooldown Rate Bonus": "%",
+        "Physical Damage Bonus": "%",
+        "Magic Damage Bonus": "%",
+        "Healing Bonus": "%",
+        "Damage Bonus (PvE)": "%",
+        "Critical Rate": "%",
+        "Tenacity Penetration": "%",
+        "Armor": "",
+        "Magic Resistance": "",
+        "Block": "",
+        "Control Resistance": ""
+      },
+      "supportStationBonus": {
+        "supportBonus": "N/A",
+        "supportMalus": "",
+        "supportBonusValue": "",
+        "supportMalusValue": ""
+      },
+      "skill": {
+        "gameId": "Avatar_Skill_Gather_Engineer_Shield",
+        "gearName": "N/A",
+        "skillName": "N/A",
+        "manaCost": "N/A",
+        "cooldown": "N/A",
+        "castingRange": "N/A",
+        "type": "skill",
+        "description": "N/A",
+        "tierUnlock": "1"
+      },
+      "passive": {
+        "gameId": "Avatar_Skill_Gather_Engineer_Passive",
+        "gearName": "N/A",
+        "skillName": "N/A",
+        "manaCost": "N/A",
+        "cooldown": "N/A",
+        "castingRange": "N/A",
+        "type": "passive",
+        "description": "N/A",
+        "tierUnlock": "4"
+      }
+    },
+    "paragon_gather_3": {
+      "gameId": "paragon_gather_3",
+      "name": "Scout",
+      "strBonus": "N/A",
+      "dexBonus": "N/A",
+      "intBonus": "N/A",
+      "baseStr": "",
+      "baseDex": "",
+      "baseInt": "",
+      "stats": {
+        "Max HP Bonus": "%",
+        "Max MP Bonus": "%",
+        "Attack Speed Bonus": "%",
+        "Casting Speed Bonus": "%",
+        "Skill Cooldown Rate Bonus": "%",
+        "Physical Damage Bonus": "%",
+        "Magic Damage Bonus": "%",
+        "Healing Bonus": "%",
+        "Damage Bonus (PvE)": "%",
+        "Critical Rate": "%",
+        "Tenacity Penetration": "%",
+        "Armor": "",
+        "Magic Resistance": "",
+        "Block": "",
+        "Control Resistance": ""
+      },
+      "supportStationBonus": {
+        "supportBonus": "N/A",
+        "supportMalus": "",
+        "supportBonusValue": "",
+        "supportMalusValue": ""
+      },
+      "skill": {
+        "gameId": "Avatar_Skill_Gather_Scout_Passive",
+        "gearName": "N/A",
+        "skillName": "N/A",
+        "manaCost": "N/A",
+        "cooldown": "N/A",
+        "castingRange": "N/A",
+        "type": "skill",
+        "description": "N/A",
+        "tierUnlock": "1"
+      },
+      "passive": {
+        "gameId": "Avatar_Skill_Gather_Scout_StunTrap",
+        "gearName": "N/A",
+        "skillName": "N/A",
+        "manaCost": "N/A",
+        "cooldown": "N/A",
+        "castingRange": "N/A",
+        "type": "passive",
+        "description": "N/A",
+        "tierUnlock": "4"
+      }
+    }
   }
 }
