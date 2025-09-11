@@ -144,7 +144,7 @@
         "supportMalusValue": ""
       },
       "skill": {
-        "gameId": "Avatar_Skill_Gather_Scout_Passive",
+        "gameId": "Avatar_Skill_Gather_Scout_StunTrap",
         "gearName": "N/A",
         "skillName": "N/A",
         "manaCost": "N/A",
@@ -155,7 +155,7 @@
         "tierUnlock": "1"
       },
       "passive": {
-        "gameId": "Avatar_Skill_Gather_Scout_StunTrap",
+        "gameId": "Avatar_Skill_Gather_Scout_Passive",
         "gearName": "N/A",
         "skillName": "N/A",
         "manaCost": "N/A",
