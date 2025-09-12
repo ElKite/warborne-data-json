@@ -536,7 +536,7 @@
         "cooldown": "44",
         "castingRange": "7",
         "type": "skill",
-        "description": "Channels for 5s, scattering 8 Blood Seeds (up to 40 total)\naround the caster every second. Each seed explodes I .5s after landing, dealing \n[Damage Rate: 100%] Magic\nDamage to up to 5 enemies in range. If at least one enemy\nis hit by the explosion, the caster regenerates \n[Healing Rate: 1 Vitality. Skill cannot be interrupted. Increases\nMovement Speed by 30% (decaying over time)",
+        "description": "Channels for 5s, scattering 8 Blood Seeds (up to 40 total) around the caster every second. Each seed explodes 1.5s after landing, dealing \n[Damage Rate: 100%] Magic\nDamage to up to 5 enemies in range. If at least one enemy\nis hit by the explosion, the caster regenerates \n[Healing Rate: 15] Vitality. Skill cannot be interrupted. Increases Movement Speed by 30% (decaying over time)",
         "tierUnlock": "1"
       },
       "passive": {
