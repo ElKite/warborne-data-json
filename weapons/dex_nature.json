@@ -198,7 +198,7 @@
       "cooldown": "46",
       "castingRange": "14",
       "type": "skill",
-      "description": "Plants a Divine Rootfall that lasts 20s. After 1s, the tree\nmatures and restores \n[Healing Rate: 20%] HP every\nsecond to nearby allies. When enemies cast skills in\nrange, it shoots sleep seeds that deal \n[Damage Rate: 200%] Magic Damage and inflict Sleep for 2.5s.\nThe tree is destroyed after taking 10 Basic Attack hits",
+      "description": "Plants a Divine Rootfall that lasts 20s. After 1s, the tree\nmatures and restores \n[Healing Rate: 20%] HP every\nsecond to nearby allies. When enemies cast skills in\nrange, it shoots sleep seeds that deal \n[Damage Rate: 200%] Magic Damage and inflict Sleep for 2.5s. The tree is destroyed after taking 10 Basic Attack hits",
       "tierUnlock": "2",
       "rarity": "legendary",
       "stats": {
@@ -208,15 +208,15 @@
     },
     {
       "gameId": "Nature_NatureToxin",
-      "gearName": "Viper's Staff",
-      "skillName": "Toxine",
-      "manaCost": "",
-      "cooldown": "",
-      "castingRange": "",
+      "gearName": "VenomStave",
+      "skillName": "Toxine Injection",
+      "manaCost": "23",
+      "cooldown": "19",
+      "castingRange": "14",
       "type": "skill",
-      "description": "",
+      "description": "Injects a natural toxin into the target, dealing \n[Damage Rate: 80%] Magic Damage every second while reducing\nAttack Speed by 30% and Movement Speed by 30% for 4s. The toxin's duration refreshes if the caster damages the enemy with a weapon skill",
       "tierUnlock": "2",
-      "rarity": "legendary",
+      "rarity": "epic",
       "stats": {
         "attackPower": "",
         "as": ""

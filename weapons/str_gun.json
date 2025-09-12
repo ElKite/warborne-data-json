@@ -192,15 +192,15 @@
     },
     {
       "gameId": "Gun_RayGun",
-      "gearName": "RayGun",
-      "skillName": "RayGun",
-      "manaCost": "",
-      "cooldown": "",
-      "castingRange": "",
+      "gearName": "Photonic Rifle",
+      "skillName": "Photon Bolt",
+      "manaCost": "23",
+      "cooldown": "19",
+      "castingRange": "20",
       "type": "skill",
-      "description": "",
+      "description": "Scans enemies in a frontal cone, locking onto a target every 0.3 seconds (prioritizing new ones) up to 6 enemies. Then fires a photon bolt at each locked target, consuming bullets equal to the number Of targets locked. Each hit deals \n[Damage Rate: 175%] Magic Damage, reveals Stealth, and renders their basic attacks a 40% chance to miss for 6s",
       "tierUnlock": "2",
-      "rarity": "legendary",
+      "rarity": "epic",
       "stats": {
         "attackPower": "",
         "as": ""
