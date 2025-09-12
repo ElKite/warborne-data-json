@@ -57,7 +57,7 @@
       "cooldown": "30",
       "castingRange": "6",
       "type": "skill",
-      "description": "Deals [Damage  200%] Magic Damage to nearby enemies, disarms them for 4s and knocks them back 10m, and reduces their Movement Speed by 40% for 4s.",
+      "description": "Deals [Damage Rate: 200%] Magic Damage to nearby enemies, disarms them for 4s and knocks them back 10m, and reduces their Movement Speed by 40% for 4s.",
       "tierUnlock": "1",
       "rarity": "epic"
     },
@@ -95,6 +95,23 @@
         "dmgBonus": "56%",
         "armor": "64",
         "magicResi": "119"
+      }
+    },
+    {
+      "gameId": "Cloth_Int_10",
+      "gearName": "Cloth_Int_10",
+      "skillName": "Cloth_Int_10",
+      "manaCost": "",
+      "cooldown": "",
+      "castingRange": "",
+      "type": "skill",
+      "description": "",
+      "tierUnlock": "1",
+      "rarity": "legendary",
+      "stats": {
+        "hp": "",
+        "dmgBonus": "",
+        "mpRecovery": ""
       }
     }
   ]

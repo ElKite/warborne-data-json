@@ -99,6 +99,23 @@
           "dmgBonus": "9.9%",
           "mpRecovery": "10"
         }
+      },
+      {
+        "gameId": "Shoes_Int_8",
+        "gearName": "Shoes_Int_8",
+        "skillName": "Shoes_Int_8",
+        "manaCost": "",
+        "cooldown": "",
+        "castingRange": "",
+        "type": "skill",
+        "description": "",
+        "tierUnlock": "1",
+        "rarity": "legendary",
+        "stats": {
+          "hp": "",
+          "dmgBonus": "",
+          "mpRecovery": ""
+        }
       }
     ]
 }

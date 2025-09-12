@@ -205,6 +205,22 @@
         "attackPower": "163",
         "as": "1"
       }
+    },
+    {
+      "gameId": "Nature_NatureToxin",
+      "gearName": "Viper's Staff",
+      "skillName": "Toxine",
+      "manaCost": "",
+      "cooldown": "",
+      "castingRange": "",
+      "type": "skill",
+      "description": "",
+      "tierUnlock": "2",
+      "rarity": "legendary",
+      "stats": {
+        "attackPower": "",
+        "as": ""
+      }
     }
   ]
 }

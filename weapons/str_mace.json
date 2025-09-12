@@ -226,6 +226,22 @@
         "ms": "0.3",
         "as": "0.83"
       }
+    },
+    {
+      "gameId": "Mace_Paladin_Shield",
+      "gearName": "Paladin's Mace",
+      "skillName": "Paladin's Shield",
+      "manaCost": "",
+      "cooldown": "",
+      "castingRange": "",
+      "type": "skill",
+      "description": "",
+      "tierUnlock": "2",
+      "rarity": "legendary",
+      "stats": {
+        "attackPower": "",
+        "as": ""
+      }
     }
   ]
 }

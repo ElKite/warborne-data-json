@@ -112,6 +112,23 @@
         "hp": "755",
         "dmgBonus": "9.9%"
       }
+    },
+    {
+      "gameId": "Helm_Str_9",
+      "gearName": "Helm_Str_9",
+      "skillName": "Helm_Str_9",
+      "manaCost": "",
+      "cooldown": "",
+      "castingRange": "",
+      "type": "skill",
+      "description": "",
+      "tierUnlock": "1",
+      "rarity": "legendary",
+      "stats": {
+        "hp": "",
+        "dmgBonus": "",
+        "mpRecovery": ""
+      }
     }
   ]
 }

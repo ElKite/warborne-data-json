@@ -205,6 +205,22 @@
         "attackPower": "163",
         "as": "1"
       }
+    },
+    {
+      "gameId": "HolyStaff_Fulgent",
+      "gearName": "Fulgent Staff",
+      "skillName": "",
+      "manaCost": "",
+      "cooldown": "",
+      "castingRange": "",
+      "type": "skill",
+      "description": "",
+      "tierUnlock": "2",
+      "rarity": "legendary",
+      "stats": {
+        "attackPower": "",
+        "as": ""
+      }
     }
   ]
 }

@@ -219,6 +219,22 @@
         "ms": "0.3",
         "as": "0.76"
       }
+    },
+    {
+      "gameId": "Sword_BloodSword_skill",
+      "gearName": "Blood Sword",
+      "skillName": "",
+      "manaCost": "",
+      "cooldown": "",
+      "castingRange": "",
+      "type": "skill",
+      "description": "",
+      "tierUnlock": "2",
+      "rarity": "legendary",
+      "stats": {
+        "attackPower": "",
+        "as": ""
+      }
     }
   ]
 }

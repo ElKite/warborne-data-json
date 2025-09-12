@@ -85,12 +85,29 @@
       "cooldown": "22",
       "castingRange": "7 ",
       "type": "skill",
-      "description": "Creates a converging force field. After 1.5s, deals Damage Rate: 250%] Physical Damage to enemies within 7m, pulls them to the center, Stuns them for 0.5s, and Slows them by 30% for 4s.",
+      "description": "Creates a converging force field. After 1.5s, deals \n[Damage Rate: 250%] Physical Damage to enemies within 7m, pulls them to the center, Stuns them for 0.5s, and Slows them by 30% for 4s.",
       "tierUnlock": "1",
       "rarity": "legendary",
       "stats": {
         "armor": "331",
         "magicResi": "251"
+      }
+    },
+    {
+      "gameId": "Cloth_Str_9",
+      "gearName": "Cloth_Str_9",
+      "skillName": "Cloth_Str_9",
+      "manaCost": "",
+      "cooldown": "",
+      "castingRange": "",
+      "type": "skill",
+      "description": "",
+      "tierUnlock": "1",
+      "rarity": "legendary",
+      "stats": {
+        "hp": "",
+        "dmgBonus": "",
+        "mpRecovery": ""
       }
     }
   ]
