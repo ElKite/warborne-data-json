@@ -214,7 +214,7 @@
       "cooldown": "19",
       "castingRange": "6",
       "type": "skill",
-      "description": "Removes control effects and summons 6 ice shards to orbit the caster for 1 Os- While active, gain 40% Casting Speed and +25% Damage Resistance. When Other weapon skills deal damage, a shard fires at the target, dealing \n[Damage Rate: 100%) Magic Damage and reducing their Attack Speed by 10% for 4s. Stacks up to 4 times",
+      "description": "Removes control effects and summons 6 ice shards to orbit the caster for 1 Os- While active, gain 40% Casting Speed and +25% Damage Resistance. When Other weapon skills deal damage, a shard fires at the target, dealing \n[Damage Rate: 100%] Magic Damage and reducing their Attack Speed by 10% for 4s. Stacks up to 4 times",
       "tierUnlock": "2",
       "rarity": "epic",
       "stats": {
