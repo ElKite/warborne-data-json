@@ -219,6 +219,45 @@
       ]
     },
     {
+      "name": "TBA",
+      "iconName": "ArmorEpic10",
+      "rarity": "epic",
+      "slot": "all",
+      "description": "",
+      "arguments": [
+        {
+          "argumentName": "s1",
+          "argumentRange": "[15%~30%]"
+        }
+      ]
+    },
+    {
+      "name": "TBA",
+      "iconName": "ArmorEpic11",
+      "rarity": "epic",
+      "slot": "all",
+      "description": "",
+      "arguments": [
+        {
+          "argumentName": "s1",
+          "argumentRange": "[15%~30%]"
+        }
+      ]
+    },
+    {
+      "name": "TBA",
+      "iconName": "ArmorEpic12",
+      "rarity": "epic",
+      "slot": "all",
+      "description": "",
+      "arguments": [
+        {
+          "argumentName": "s1",
+          "argumentRange": "[15%~30%]"
+        }
+      ]
+    },
+    {
       "name": "Intimidate",
       "iconName": "ArmorExclusiveLgdr1",
       "rarity": "legendary",
@@ -376,6 +415,32 @@
         {
           "argumentName": "s4",
           "argumentRange": "[5~25]"
+        }
+      ]
+    },
+    {
+      "name": "TBA",
+      "iconName": "ArmorLgdr4",
+      "rarity": "legendary",
+      "slot": "all",
+      "description": "",
+      "arguments": [
+        {
+          "argumentName": "s1",
+          "argumentRange": "[15%~30%]"
+        }
+      ]
+    },
+    {
+      "name": "TBA",
+      "iconName": "ArmorLgdr5",
+      "rarity": "legendary",
+      "slot": "all",
+      "description": "",
+      "arguments": [
+        {
+          "argumentName": "s1",
+          "argumentRange": "[15%~30%]"
         }
       ]
     }

@@ -1,27 +1,7 @@
 {
   "lastUpdate": "June 6, 2025 6 AM",
   "utility": [
-    {
-      "id": "mass-haste-matrix",
-      "name": "Mass Haste Matrix",
-      "description": "Increases Movement Speed by 60% for allies within a certain range around the caster, lasting 9s.",
-      "category": "utility",
-      "rarity": "common"
-    },
-    {
-      "id": "instant-aid-vial",
-      "name": "Instant Aid Vial",
-      "description": "Use to instantly restore 16% Max HP plus 1600 HP.",
-      "category": "healing",
-      "rarity": "common"
-    },
-    {
-      "id": "aegis-draught",
-      "name": "Aegis Draught",
-      "description": "Use to remove and gain immunity to Damage Over Time and Debuff effects. For 6s, immune to damage, Damage Over Time, Debuffs, and Control, while dealing 50% reduced damage.",
-      "category": "protection",
-      "rarity": "common"
-    },
+
     {
       "id": "cleansing-herb",
       "name": "Cleansing Herb",

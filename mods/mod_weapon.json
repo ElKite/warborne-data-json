@@ -189,6 +189,45 @@
       ]
     },
     {
+      "name": "TBA",
+      "iconName": "WeaponEpic10",
+      "rarity": "epic",
+      "slot": "all",
+      "description": "%s1%",
+      "arguments": [
+        {
+          "argumentName": "s1",
+          "argumentRange": "[5%~10%]"
+        }
+      ]
+    },
+    {
+      "name": "TBA",
+      "iconName": "WeaponEpic11",
+      "rarity": "epic",
+      "slot": "all",
+      "description": "%s1%",
+      "arguments": [
+        {
+          "argumentName": "s1",
+          "argumentRange": "[5%~10%]"
+        }
+      ]
+    },
+    {
+      "name": "TBA",
+      "iconName": "WeaponEpic12",
+      "rarity": "epic",
+      "slot": "all",
+      "description": "%s1%",
+      "arguments": [
+        {
+          "argumentName": "s1",
+          "argumentRange": "[5%~10%]"
+        }
+      ]
+    },
+    {
       "name": "Valor",
       "iconName": "WeaponExclusiveLgdr1",
       "rarity": "legendary",
@@ -452,6 +491,32 @@
         {
           "argumentName": "s3",
           "argumentRange": "[-4%~-20%]"
+        }
+      ]
+    },
+    {
+      "name": "TBA",
+      "iconName": "WeaponLgdr4",
+      "rarity": "legendary",
+      "slot": "all",
+      "description": "%s1%",
+      "arguments": [
+        {
+          "argumentName": "s1",
+          "argumentRange": "[5%~10%]"
+        }
+      ]
+    },
+    {
+      "name": "TBA",
+      "iconName": "WeaponLgdr5",
+      "rarity": "legendary",
+      "slot": "all",
+      "description": "%s1%",
+      "arguments": [
+        {
+          "argumentName": "s1",
+          "argumentRange": "[5%~10%]"
         }
       ]
     }
