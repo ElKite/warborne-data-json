@@ -5,6 +5,7 @@
     {
       "id": "cleansing-herb",
       "name": "Cleansing Herb",
+      "iconName": "RecoverRatioHPAndDisperse",
       "description": "Immediately removes all control effects and restores 35% Max HP.\nCan be used while skills are disabled",
       "category": "healing",
       "rarity": "common"
@@ -61,6 +62,7 @@
     {
       "id": "phoenix-matrix",
       "name": "Phoenix Matrix",
+      "iconName": "RebornDevice",
       "description": "Grants a downed ally the ability to instantly revive themselves.",
       "category": "support",
       "rarity": "rare"
@@ -68,6 +70,7 @@
     {
       "id": "instant-aid-vial-ex",
       "name": "Instant Aid Vial EX",
+      "iconName": "RecoverRatioHP",
       "description": "Use to instantly restore 20% Max HP plus 2000 HP.",
       "category": "healing",
       "rarity": "enhanced"

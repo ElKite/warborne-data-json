@@ -116,6 +116,7 @@
     {
       "id": "stealth-potion",
       "name": "Stealth Potion",
+      "iconName": "icon_Stealth",
       "description": "Use to enter Stealth for 8s.\nUsing a skill, dealing or taking damage, or inflicting healing breaks Stealth.",
       "category": "potion",
       "rarity": "rare"
@@ -137,6 +138,7 @@
     {
       "id": "aegis-draught",
       "name": "Aegis Draught",
+      "iconName": "Invincible_Potion",
       "description": "Use to remove and gain immunity to Damage Over Time and Debuff effects. For 6s, immune to damage, Damage Over Time, Debuffs, and Control, while dealing 50% reduced damage.",
       "category": "protection",
       "rarity": "legendary"
