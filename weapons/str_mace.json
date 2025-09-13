@@ -228,6 +228,7 @@
       }
     },
     {
+      "isActive": false,
       "gameId": "Mace_Paladin_Shield",
       "gearName": "Paladin's Mace",
       "skillName": "Paladin's Shield",

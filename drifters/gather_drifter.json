@@ -57,6 +57,7 @@
       }
     },
     "paragon_gather_4": {
+      "isActive": false,
       "gameId": "paragon_gather_4",
       "name": "TBA",
       "strBonus": "N/A",
@@ -112,6 +113,7 @@
       }
     },
     "paragon_gather_3": {
+      "isActive": false,
       "gameId": "paragon_gather_3",
       "name": "TBA",
       "strBonus": "N/A",

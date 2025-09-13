@@ -497,6 +497,7 @@
       }
     },
     "paragon_str_10": {
+      "isActive": false,
       "gameId": "paragon_str_10",
       "name": "Hela",
       "strBonus": "N/A",

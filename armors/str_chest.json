@@ -94,6 +94,7 @@
       }
     },
     {
+      "isActive": false,
       "gameId": "Cloth_Str_9",
       "gearName": "Cloth_Str_9",
       "skillName": "Cloth_Str_9",

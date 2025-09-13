@@ -101,6 +101,7 @@
         }
       },
       {
+        "isActive": false,
         "gameId": "Shoes_Int_8",
         "gearName": "Shoes_Int_8",
         "skillName": "Shoes_Int_8",

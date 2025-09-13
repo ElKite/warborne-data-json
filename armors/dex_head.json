@@ -121,6 +121,7 @@
       }
     },
     {
+      "isActive": false,
       "gameId": "Helm_Dex_9",
       "gearName": "Helm_Dex_9",
       "skillName": "Helm_Dex_9",

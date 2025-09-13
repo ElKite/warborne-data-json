@@ -221,6 +221,7 @@
       }
     },
     {
+      "isActive": false,
       "gameId": "Sword_BloodSword_skill",
       "gearName": "Blood Sword",
       "skillName": "",
