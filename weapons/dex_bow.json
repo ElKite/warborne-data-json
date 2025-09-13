@@ -111,7 +111,7 @@
       }
     },
     {
-      "gameId": "Bow_Eighteen",
+      "gameId": "Bow_War",
       "gearName": "Predator's Splitbow",
       "skillName": "Splintershot",
       "manaCost": "25",
@@ -127,7 +127,7 @@
       }
     },
     {
-      "gameId": "Bow_War",
+      "gameId": "Bow_Eighteen",
       "gearName": "Kinetic Arc",
       "skillName": "PowerShot",
       "manaCost": "23",
