@@ -207,6 +207,7 @@
       }
     },
     {
+      "isActive": false,
       "gameId": "HolyStaff_Fulgent",
       "gearName": "Fulgent Staff",
       "skillName": "",
