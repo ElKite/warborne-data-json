@@ -132,14 +132,14 @@
       "name": "Instant Aid Vial",
       "description": "Use to instantly restore 16% Max HP plus 1600 HP.",
       "category": "healing",
-      "rarity": "epic"
+      "rarity": "rare"
     },
     {
       "id": "aegis-draught",
       "name": "Aegis Draught",
       "description": "Use to remove and gain immunity to Damage Over Time and Debuff effects. For 6s, immune to damage, Damage Over Time, Debuffs, and Control, while dealing 50% reduced damage.",
       "category": "protection",
-      "rarity": "epic"
+      "rarity": "legendary"
     },
     {
       "id": "frost-potion",

@@ -219,41 +219,53 @@
       ]
     },
     {
-      "name": "TBA",
+      "name": "Aggression",
       "iconName": "ArmorEpic10",
       "rarity": "epic",
       "slot": "all",
-      "description": "",
+      "description": "When gaining a Shield, %s1% chance to increase\nBasic Attack Critical Rate by %s2% for 4s\nCooldown: 30s.",
       "arguments": [
         {
           "argumentName": "s1",
-          "argumentRange": "[15%~30%]"
+          "argumentRange": "[8%~40%]"
+        },
+        {
+          "argumentName": "s2",
+          "argumentRange": "[2.5%~12%]"
         }
       ]
     },
     {
-      "name": "TBA",
+      "name": "Relentlessness",
       "iconName": "ArmorEpic11",
       "rarity": "epic",
       "slot": "all",
-      "description": "",
+      "description": "When gaining a Shield, %s1% chance to increase\nSkill Critical Rate by %s2% for 4s\nCooldown: 30s.",
       "arguments": [
         {
           "argumentName": "s1",
-          "argumentRange": "[15%~30%]"
+          "argumentRange": "[8%~40%]"
+        },
+        {
+          "argumentName": "s2",
+          "argumentRange": "[1.5%~7.5%]"
         }
       ]
     },
     {
-      "name": "TBA",
+      "name": "Footwork",
       "iconName": "ArmorEpic12",
       "rarity": "epic",
       "slot": "all",
-      "description": "",
+      "description": "When dodging a Basic Attack, %s1% chance to\nheal for %s2%.\nCooldown: 20s.",
       "arguments": [
         {
           "argumentName": "s1",
-          "argumentRange": "[15%~30%]"
+          "argumentRange": "[10%~50%]"
+        },
+        {
+          "argumentName": "s2",
+          "argumentRange": "[1.6%~8%]"
         }
       ]
     },
@@ -419,28 +431,40 @@
       ]
     },
     {
-      "name": "TBA",
+      "name": "Fortune",
       "iconName": "ArmorLgdr4",
       "rarity": "legendary",
       "slot": "all",
-      "description": "",
+      "description": "When taking damage equal to more than 25%\nMax HP within 2s, %s1% chance to recover %s2%\nHP and gain Damage Immunity for %s3%\nCooldown: 30s.",
       "arguments": [
         {
           "argumentName": "s1",
-          "argumentRange": "[15%~30%]"
+          "argumentRange": "[6%~30%]"
+        },
+        {
+          "argumentName": "s2",
+          "argumentRange": "[1.6%~8%]"
+        },
+        {
+          "argumentName": "s3",
+          "argumentRange": "[0.4%~2%]"
         }
       ]
     },
     {
-      "name": "TBA",
+      "name": "Resolve",
       "iconName": "ArmorLgdr5",
       "rarity": "legendary",
       "slot": "all",
-      "description": "",
+      "description": "When affected by Hard Control effects (Stun, Fear, Freeze, Knockup, Petrify, Sleep), %s1% chance to increase Crowd Control Resistance Rate by %s2% for 4s\nCooldown: 30s",
       "arguments": [
         {
           "argumentName": "s1",
-          "argumentRange": "[15%~30%]"
+          "argumentRange": "[6%~30%%]"
+        },
+        {
+          "argumentName": "s2",
+          "argumentRange": "[1.9%~9.5%]"
         }
       ]
     }

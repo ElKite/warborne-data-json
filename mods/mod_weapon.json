@@ -189,41 +189,53 @@
       ]
     },
     {
-      "name": "TBA",
+      "name": "Nimbleness",
       "iconName": "WeaponEpic10",
       "rarity": "epic",
       "slot": "all",
-      "description": "%s1%",
+      "description": "When landing a Basic Attack crit, %s1% chance to\nincrease Dodge by %s2% for 4s\nCooldown: s30.",
       "arguments": [
         {
           "argumentName": "s1",
-          "argumentRange": "[5%~10%]"
+          "argumentRange": "[8%~40%]"
+        },
+        {
+          "argumentName": "s2",
+          "argumentRange": "[3%~15%]"
         }
       ]
     },
     {
-      "name": "TBA",
+      "name": "Piercing Chill",
       "iconName": "WeaponEpic11",
       "rarity": "epic",
       "slot": "all",
-      "description": "%s1%",
+      "description": "When inflicting Hard Control effects (Stun,\nFear, Freeze, Knockup, Petrify, Sleep) with a\nWeapon Skill, %s1% chance to lower the enemy's\nHealing Received by %s2% for 4s\nCooldown: 30s.",
       "arguments": [
         {
           "argumentName": "s1",
-          "argumentRange": "[5%~10%]"
+          "argumentRange": "[9%~45%]"
+        },
+        {
+          "argumentName": "s2",
+          "argumentRange": "[-4%~-20%]"
         }
       ]
     },
     {
-      "name": "TBA",
+      "name": "Drain",
       "iconName": "WeaponEpic12",
       "rarity": "epic",
       "slot": "all",
-      "description": "%s1%",
+      "description": "When inflicting a DOT with a Weapon Basic\nttack or Skill, %s1% chance to recover %s2% HP\nCooldown: 20s.",
       "arguments": [
         {
           "argumentName": "s1",
-          "argumentRange": "[5%~10%]"
+          "argumentRange": "[8%~40%]"
+        },
+        {
+          "argumentName": "s2",
+          "argumentRange": "[2%~10%]"
         }
       ]
     },
@@ -495,28 +507,36 @@
       ]
     },
     {
-      "name": "TBA",
+      "name": "Bloodgrudge",
       "iconName": "WeaponLgdr4",
       "rarity": "legendary",
       "slot": "all",
-      "description": "%s1%",
+      "description": "When dealing Direct Damage with a Weapon\nBasic Attack or Skill, %s1% chance to gain 1 stack\nof a %s2% damage boost buff for every 10% of\nmissing HP. The buff lasts 4s and stacks up to\n5 times\nCooldown: 30s.",
       "arguments": [
         {
           "argumentName": "s1",
-          "argumentRange": "[5%~10%]"
+          "argumentRange": "[8%~40%]"
+        },
+        {
+          "argumentName": "s2",
+          "argumentRange": "[0.6%~3%]"
         }
       ]
     },
     {
-      "name": "TBA",
+      "name": "Shadowstep",
       "iconName": "WeaponLgdr5",
       "rarity": "legendary",
       "slot": "all",
-      "description": "%s1%",
+      "description": "When using a Weapon Skill, %s1% chance to\nreduce the CD of weapon-exclusive skills by %s2% s\nCooldown: 30s.",
       "arguments": [
         {
           "argumentName": "s1",
-          "argumentRange": "[5%~10%]"
+          "argumentRange": "[9%~45%]"
+        },
+        {
+          "argumentName": "s2",
+          "argumentRange": "[0.4%~2%]"
         }
       ]
     }
