@@ -1,0 +1,472 @@
+{
+  "lastUpdate": "June 6, 2025 6 AM",
+  "mods": [
+    {
+      "name": "Vitality",
+      "iconName": "ArmorRare1",
+      "rarity": "rare",
+      "slot": "all",
+      "description": "Increases Max HP by %s1%",
+      "arguments": [
+        {
+          "argumentName": "s1",
+          "argumentRange": "[60~300]"
+        }
+      ]
+    },
+    {
+      "name": "Armor",
+      "iconName": "ArmorRare2",
+      "rarity": "rare",
+      "slot": "all",
+      "description": "Increases Armor by %s1%",
+      "arguments": [
+        {
+          "argumentName": "s1",
+          "argumentRange": "[4.8~24]"
+        }
+      ]
+    },
+    {
+      "name": "Magic Armor",
+      "iconName": "ArmorRare3",
+      "rarity": "rare",
+      "slot": "all",
+      "description": "Increases Magic Resistance by %s1%",
+      "arguments": [
+        {
+          "argumentName": "s1",
+          "argumentRange": "[4.8~24]"
+        }
+      ]
+    },
+    {
+      "name": "Psyche",
+      "iconName": "ArmorRare4",
+      "rarity": "rare",
+      "slot": "all",
+      "description": "Increases Max MP by %s1%",
+      "arguments": [
+        {
+          "argumentName": "s1",
+          "argumentRange": "[4~20]"
+        }
+      ]
+    },
+    {
+      "name": "Punish",
+      "iconName": "ArmorEpic1",
+      "rarity": "epic",
+      "slot": "all",
+      "description": "When taking direct damage from Basic Attacks, has a (melee weapons %s1% / ranged weapons %s2%) chance to increase the attacker's Attack Speed by\n-%s3% for 4s. Trigger Interval: 30s",
+      "arguments": [
+        {
+          "argumentName": "s1",
+          "argumentRange": "[10%~20%]"
+        },
+        {
+          "argumentName": "s2",
+          "argumentRange": "[-20%~40%]"
+        },
+        {
+          "argumentName": "s3",
+          "argumentRange": "[-8%~-40%]"
+        }
+      ]
+    },
+    {
+      "name": "Physical Resistance",
+      "iconName": "ArmorEpic2",
+      "rarity": "epic",
+      "slot": "all",
+      "description": "When taking direct Physical Damage, has a \n%s1%chance to increase Armor by %s2% for 4s. Trigger Interval: 30s.",
+      "arguments": [
+        {
+          "argumentName": "s1",
+          "argumentRange": "[17%~35%]"
+        },
+        {
+          "argumentName": "s2",
+          "argumentRange": "[8%~40%]"
+        }
+      ]
+    },
+    {
+      "name": "Valor Force",
+      "iconName": "ArmorEpic3",
+      "rarity": "epic",
+      "slot": "all",
+      "description": "When affected by hard control effects (Stun, Fear,\nFrozen, Knockup, Petrify), has a %s1% chance to\nincrease Crowd Control Resistance by %s2% for 4s.\nCooldown: 30s",
+      "arguments": [
+        {
+          "argumentName": "s1",
+          "argumentRange": "[17%~35%]"
+        },
+        {
+          "argumentName": "s2",
+          "argumentRange": "[10~50]"
+        }
+      ]
+    },
+    {
+      "name": "Rebound",
+      "iconName": "ArmorEpic4",
+      "rarity": "epic",
+      "slot": "all",
+      "description": "Taking direct damage from Basic Attacks has a\nchance (%s2% for ranged weapons / %s1% for melee\nweapons) to grant a buff for 5s: Taking direct\ndamage from Basic Attacks has a chance (%s2% for\nranged weapons / %s1% for melee weapons) to deal\n%s3% Physical Damage to the attacker.\nTrigger Interval: 25s.",
+      "arguments": [
+        {
+          "argumentName": "s1",
+          "argumentRange": "[10%~20%]"
+        },
+        {
+          "argumentName": "s2",
+          "argumentRange": "[15%~30%]"
+        },
+        {
+          "argumentName": "s3",
+          "argumentRange": "[40%~200%]"
+        }
+      ]
+    },
+    {
+      "name": "Frenzy",
+      "iconName": "ArmorEpic5",
+      "rarity": "epic",
+      "slot": "all",
+      "description": "When taking direct damage from Basic Attacks, has\na %s1% chance to increase Attack Speed by %s2% for\n5s.\nTrigger Interval: 30s.",
+      "arguments": [
+        {
+          "argumentName": "s1",
+          "argumentRange": "[20%~40%]"
+        },
+        {
+          "argumentName": "s2",
+          "argumentRange": "[8%~40%]"
+        }
+      ]
+    },
+    {
+      "name": "Emulate",
+      "iconName": "ArmorEpic6",
+      "rarity": "epic",
+      "slot": "all",
+      "description": "When hit by a critical hit, has %s1% chance\n to increase Basic Attack's Critical Chance\n by %s2% for 5s.\nTrigger Interval: 30s.",
+      "arguments": [
+        {
+          "argumentName": "s1",
+          "argumentRange": "[20%~40%]"
+        },
+        {
+          "argumentName": "s2",
+          "argumentRange": "[10%~50%]"
+        }
+      ]
+    },
+    {
+      "name": "Magic Resistance",
+      "iconName": "ArmorEpic7",
+      "rarity": "epic",
+      "slot": "all",
+      "description": "When hit by Magic Damage, has a %s1% chance to\nincrease Magic Resistance by %s2% for 4s.\nTrigger Interval: 30s.",
+      "arguments": [
+        {
+          "argumentName": "s1",
+          "argumentRange": "[17%~35%]"
+        },
+        {
+          "argumentName": "s2",
+          "argumentRange": "[8%~40%]"
+        }
+      ]
+    },
+    {
+      "name": "Barrier",
+      "iconName": "ArmorEpic8",
+      "rarity": "epic",
+      "slot": "all",
+      "description": "When taking direct damage from skills, has a %s1%\nchance to gain  \n[Target-based Max HP %s2%] Shield\nPoints for 4s.\nTrigger Interval: 30s.",
+      "arguments": [
+        {
+          "argumentName": "s1",
+          "argumentRange": "[17%~35%]"
+        },
+        {
+          "argumentName": "s2",
+          "argumentRange": "[3%~15%]"
+        }
+      ]
+    },
+    {
+      "name": "Absorb",
+      "iconName": "ArmorEpic9",
+      "rarity": "epic",
+      "slot": "all",
+      "description": "When taking direct damage from skills, has a %s1%\nchance to restore %s2% HP and %s3% MP.\nTrigger Interval: 30s.",
+      "arguments": [
+        {
+          "argumentName": "s1",
+          "argumentRange": "[15%~30%]"
+        },
+        {
+          "argumentName": "s2",
+          "argumentRange": "[1.6%~8%]"
+        },
+        {
+          "argumentName": "s3",
+          "argumentRange": "[5~25]"
+        }
+      ]
+    },
+    {
+      "name": "Aggression",
+      "iconName": "ArmorEpic10",
+      "rarity": "epic",
+      "slot": "all",
+      "description": "When gaining a Shield, %s1% chance to increase\nBasic Attack Critical Rate by %s2% for 4s\nCooldown: 30s.",
+      "arguments": [
+        {
+          "argumentName": "s1",
+          "argumentRange": "[8%~40%]"
+        },
+        {
+          "argumentName": "s2",
+          "argumentRange": "[2.5%~12%]"
+        }
+      ]
+    },
+    {
+      "name": "Relentlessness",
+      "iconName": "ArmorEpic11",
+      "rarity": "epic",
+      "slot": "all",
+      "description": "When gaining a Shield, %s1% chance to increase\nSkill Critical Rate by %s2% for 4s\nCooldown: 30s.",
+      "arguments": [
+        {
+          "argumentName": "s1",
+          "argumentRange": "[8%~40%]"
+        },
+        {
+          "argumentName": "s2",
+          "argumentRange": "[1.5%~7.5%]"
+        }
+      ]
+    },
+    {
+      "name": "Footwork",
+      "iconName": "ArmorEpic12",
+      "rarity": "epic",
+      "slot": "all",
+      "description": "When dodging a Basic Attack, %s1% chance to\nheal for %s2%.\nCooldown: 20s.",
+      "arguments": [
+        {
+          "argumentName": "s1",
+          "argumentRange": "[10%~50%]"
+        },
+        {
+          "argumentName": "s2",
+          "argumentRange": "[1.6%~8%]"
+        }
+      ]
+    },
+    {
+      "name": "Intimidate",
+      "iconName": "ArmorExclusiveLgdr1",
+      "rarity": "legendary",
+      "slot": "Chest",
+      "description": "When using Chest skills, deals \n[Damage Rate: %s1%] Magic Damage to nearby enemies\nand reduces their Movement Speed by %s3% and\ndamage dealt by %s2% for 4s.\nTrigger Interval: 10s",
+      "arguments": [
+        {
+          "argumentName": "s1",
+          "argumentRange": "[12%~60%]"
+        },
+        {
+          "argumentName": "s2",
+          "argumentRange": "[-3%~-15%]"
+        },
+        {
+          "argumentName": "s3",
+          "argumentRange": "[-6%~-30%]"
+        }
+      ]
+    },
+    {
+      "name": "Charge Up",
+      "iconName": "ArmorExclusiveLgdr2",
+      "rarity": "legendary",
+      "slot": "Chest",
+      "description": "When using Chest skills, detonates after 1s to deal \n[Damage Rate: %s1%] Physical\nDamage to nearby enemies and modify Attack\nSpeed by %s2% for 4s.\nTrigger Interval: 10s",
+      "arguments": [
+        {
+          "argumentName": "s1",
+          "argumentRange": "[20%~100%]"
+        },
+        {
+          "argumentName": "s2",
+          "argumentRange": "[-12%~-60%]"
+        }
+      ]
+    },
+    {
+      "name": "Pain Relief",
+      "iconName": "ArmorExclusiveLgdr3",
+      "rarity": "legendary",
+      "slot": "Chest",
+      "description": "When using Chest skills, restores %s1% HP and \n %s2%MP to nearby allies.\nTrigger Interval: 10s.",
+      "arguments": [
+        {
+          "argumentName": "s1",
+          "argumentRange": "[1.3%~6.5%]"
+        },
+        {
+          "argumentName": "s2",
+          "argumentRange": "[8~40]"
+        }
+      ]
+    },
+    {
+      "name": "Protection",
+      "iconName": "ArmorExclusiveLgdr4",
+      "rarity": "legendary",
+      "slot": "Boots",
+      "description": "When using Boots Skills, the character gains an\nadditional  \n[Target-based Max HP %s1%] Shield Value\nfor 4s.\nTrigger Interval: 20s",
+      "arguments": [
+        {
+          "argumentName": "s1",
+          "argumentRange": "[4%~20%]"
+        }
+      ]
+    },
+    {
+      "name": "Deception",
+      "iconName": "ArmorExclusiveLgdr5",
+      "rarity": "legendary",
+      "slot": "Boots",
+      "description": "When using Boots skills,\n throw a trap at your feet;\n When triggered by an enemy,\n deal \n[Damage Rate: %s1%] Physical Damage\n and stuns them for %s2%.\nTrigger Interval: 20s",
+      "arguments": [
+        {
+          "argumentName": "s1",
+          "argumentRange": "[12%~60%]"
+        },
+        {
+          "argumentName": "s2",
+          "argumentRange": "[0.4~0.4]"
+        }
+      ]
+    },
+    {
+      "name": "Divine Blessing",
+      "iconName": "ArmorExclusiveLgdr6",
+      "rarity": "legendary",
+      "slot": "Boots",
+      "description": "When using Boot skills, restores %s1% HP and\nbecomes immune to control effects for 2s.\nCooldown: 20s",
+      "arguments": [
+        {
+          "argumentName": "s1",
+          "argumentRange": "[0.9%~4.5%]"
+        }
+      ]
+    },
+    {
+      "name": "Roar",
+      "iconName": "ArmorLgdr1",
+      "rarity": "legendary",
+      "slot": "all",
+      "description": "When affected by hard control effects (Stun, Fear,\nFreeze, Knockup, Petrify), has a %s1% chance to cast\na Bellow that deals \n[Damage Rate: %s2%]\n Physical Damage to nearby\nenemies and inflicts Fear for 1.5s.\nTrigger Interval: 30s.",
+      "arguments": [
+        {
+          "argumentName": "s1",
+          "argumentRange": "[17%~35%]"
+        },
+        {
+          "argumentName": "s2",
+          "argumentRange": "[20%~100%]"
+        }
+      ]
+    },
+    {
+      "name": "Counter",
+      "iconName": "ArmorLgdr2",
+      "rarity": "legendary",
+      "slot": "all",
+      "description": "When taking direct damage from Basic Attacks, has\na %s1% chance to trigger: for the next 5 seconds,\nany direct damage from Basic Attacks reflects %s2%\nMagic Damage to the attacker and modifies their\nArmor by %s3% for 4s.\nCooldown: 25s.",
+      "arguments": [
+        {
+          "argumentName": "s1",
+          "argumentRange": "[15%~30%]"
+        },
+        {
+          "argumentName": "s2",
+          "argumentRange": "[16%~80%]"
+        },
+        {
+          "argumentName": "s3",
+          "argumentRange": "[-4%~-20%]"
+        }
+      ]
+    },
+    {
+      "name": "Muzzle",
+      "iconName": "ArmorLgdr3",
+      "rarity": "legendary",
+      "slot": "all",
+      "description": "When taking direct damage from skills, has a %s1%\nchance to deal \n[Damage Rate: %s2%] Magic Damage\n to all enemy targets within the damage source's range,\n drain %s4% MP, and\nreduce the damage they deal by %s3% for 4s.\nTrigger Interval: 30s",
+      "arguments": [
+        {
+          "argumentName": "s1",
+          "argumentRange": "[15%~30%]"
+        },
+        {
+          "argumentName": "s2",
+          "argumentRange": "[12%~60%]"
+        },
+        {
+          "argumentName": "s3",
+          "argumentRange": "[-4%~-20%]"
+        },
+        {
+          "argumentName": "s4",
+          "argumentRange": "[5~25]"
+        }
+      ]
+    },
+    {
+      "name": "Fortune",
+      "iconName": "ArmorLgdr4",
+      "rarity": "legendary",
+      "slot": "all",
+      "description": "When taking damage equal to more than 25%\nMax HP within 2s, %s1% chance to recover %s2%\nHP and gain Damage Immunity for %s3%\nCooldown: 30s.",
+      "arguments": [
+        {
+          "argumentName": "s1",
+          "argumentRange": "[6%~30%]"
+        },
+        {
+          "argumentName": "s2",
+          "argumentRange": "[1.6%~8%]"
+        },
+        {
+          "argumentName": "s3",
+          "argumentRange": "[0.4%~2%]"
+        }
+      ]
+    },
+    {
+      "name": "Resolve",
+      "iconName": "ArmorLgdr5",
+      "rarity": "legendary",
+      "slot": "all",
+      "description": "When affected by Hard Control effects (Stun, Fear, Freeze, Knockup, Petrify, Sleep), %s1% chance to increase Crowd Control Resistance Rate by %s2% for 4s\nCooldown: 30s",
+      "arguments": [
+        {
+          "argumentName": "s1",
+          "argumentRange": "[6%~30%%]"
+        },
+        {
+          "argumentName": "s2",
+          "argumentRange": "[1.9%~9.5%]"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "lastUpdate": "June 6, 2025 6 AM",
+  "head_strength": [
+    {
+      "gameId": "Helm_Str_5",
+      "gearName": "Furor's Helm",
+      "skillName": "Enrage",
+      "manaCost": "",
+      "cooldown": "30",
+      "castingRange": "",
+      "type": "passive",
+      "description": "When dealing direct damage with Basic Attacks, increases Physical Damage by 20% for 6s. Trigger Interval: 30s",
+      "tierUnlock": "0",
+      "rarity": "rare",
+      "stats": {
+        "hp": "675",
+        "dmgBonus": "9.6%"
+      }
+    },
+    {
+      "gameId": "Helm_Str_4",
+      "gearName": "Reptilian Helm",
+      "skillName": "Iron Wall",
+      "manaCost": "",
+      "cooldown": "60",
+      "castingRange": "",
+      "type": "passive",
+      "description": "When taking damage at below 30% HP, increases Damage Resistance by 50% for 6s. Trigger Interval: 60s",
+      "tierUnlock": "1",
+      "rarity": "epic",
+      "stats": {
+        "hp": "714",
+        "dmgBonus": "9.8%"
+      }
+    },
+    {
+      "gameId": "Helm_Str_3",
+      "gearName": "Hellfire Visor",
+      "skillName": "Flame Star",
+      "manaCost": "",
+      "cooldown": "30",
+      "castingRange": "",
+      "type": "passive",
+      "description": "When dealing direct Basic Attack Damage, creates a Flame Star around the caster, lasting 6s. Reduces enemies' Magic Resistance by 50% (Magic Resistance Reduction), and deals \n[Damage Rate: 50%] Magic Damage every 1s. Trigger Interval: 30s",
+      "tierUnlock": "1",
+      "rarity": "epic",
+      "stats": {
+        "hp": "714",
+        "dmgBonus": "9.8%"
+      }
+    },
+    {
+      "gameId": "Helm_Str_1",
+      "gearName": "Ironclad Helm",
+      "skillName": "Scale Armor",
+      "manaCost": "",
+      "cooldown": "30",
+      "castingRange": "",
+      "type": "passive",
+      "description": "When affected by hard control effects (Stun, Fear, Deep Freeze, Knockup, Petrify): Gains a  \n[Target-based Max HP 25%] shield for 6s. Trigger Interval: 30s Skill",
+      "tierUnlock": "1",
+      "rarity": "epic",
+      "stats": {
+        "hp": "714",
+        "dmgBonus": "9.8%"
+      }
+    },
+    {
+      "gameId": "Helm_Str_6",
+      "gearName": "Savage Helm",
+      "skillName": "EMP Blast",
+      "manaCost": "",
+      "cooldown": "30",
+      "castingRange": "",
+      "type": "passive",
+      "description": "When dealing direct Basic Attack Damage, triggers an EMP blast at current position. After 1s, deals \n[Damage Rate: 250%] Physical Damage to enemies within 6m, Stuns them for 1s and reduces their damage dealt by 20% for 6s Trigger Interval: 30s",
+      "tierUnlock": "1",
+      "rarity": "epic",
+      "stats": {
+        "hp": "714",
+        "dmgBonus": "9.8%"
+      }
+    },
+    {
+      "gameId": "Helm_Str_7",
+      "gearName": "Stormveil Mask",
+      "skillName": "Sandstorm",
+      "manaCost": "",
+      "cooldown": "30",
+      "castingRange": "",
+      "type": "passive",
+      "description": "When dealing direct Basic Attack Damage, creates a sandstorm around the caster, lasting 6s. Enemies within 6m are slowed by 40% and disarmed. Trigger Interval: 30s",
+      "tierUnlock": "1",
+      "rarity": "legendary",
+      "stats": {
+        "hp": "755",
+        "dmgBonus": "9.9%"
+      }
+    },
+    {
+      "gameId": "Helm_Str_8",
+      "gearName": "Warden's Gaze",
+      "skillName": "Forward Guard",
+      "manaCost": "",
+      "cooldown": "30",
+      "castingRange": "",
+      "type": "passive",
+      "description": "When affected by Immobilize or Forced Movement (Knockback, Pull): Immediately removes all Immobilize, Slow and Forced Movement effects, and increases Damage Resistance by 25%, grants immunity to Slow, Immobilize, and Forced Movement for 8s. Trigger Interval: 30s.",
+      "tierUnlock": "1",
+      "rarity": "legendary",
+      "stats": {
+        "hp": "755",
+        "dmgBonus": "9.9%"
+      }
+    },
+    {
+      "gameId": "Helm_Str_9",
+      "gearName": "Riposte Helm",
+      "skillName": "Hardened Guard",
+      "manaCost": "",
+      "cooldown": "25",
+      "castingRange": "",
+      "type": "passive",
+      "description": "Taking damage from 3 basic attacks within 5s grants 220 Block for 6s\nTrigger Interval: 25s",
+      "tierUnlock": "1",
+      "rarity": "epic",
+      "stats": {
+        "hp": "",
+        "dmgBonus": "",
+        "mpRecovery": ""
+      }
+    }
+  ]
+}

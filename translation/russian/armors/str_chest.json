@@ -1,0 +1,115 @@
+{
+  "lastUpdate": "June 6, 2025 6 AM",
+  "chest_strength": [
+    {
+      "gameId": "Cloth_Str_4",
+      "gearName": "Guardian's Blessing",
+      "skillName": "Block",
+      "manaCost": "",
+      "cooldown": "32",
+      "castingRange": "6 ",
+      "type": "skill",
+      "description": "Channels for 2.5s, increasing Damage Resistance by 90%. Can move during channeling but Speed is reduced by -90%",
+      "tierUnlock": "1",
+      "rarity": "rare"
+    },
+    {
+      "gameId": "Cloth_Str_1",
+      "gearName": "Aegis Plate",
+      "skillName": "Shield",
+      "manaCost": "",
+      "cooldown": "32",
+      "castingRange": "7 ",
+      "type": "skill",
+      "description": "> Grants a shield with  \n[Target-based Max HP 20%] Shield Value to nearby allies for 6s. When HP is below 40%, the Shield Value increases to  \n[Target-based Max HP 35%].",
+      "tierUnlock": "1",
+      "rarity": "epic"
+    },
+    {
+      "gameId": "Cloth_Str_2",
+      "gearName": "Dazzling Guard",
+      "skillName": "Stun",
+      "manaCost": "",
+      "cooldown": "28",
+      "castingRange": "7 ",
+      "type": "skill",
+      "description": "Deals \n[Damage Rate: 300%] Physical Damage to nearby enemies, stunning them for 1.5s and reducing their Speed by 40% for 4s.",
+      "tierUnlock": "1",
+      "rarity": "epic"
+    },
+    {
+      "gameId": "Cloth_Str_6",
+      "gearName": "Tempest Charge",
+      "skillName": "Charge",
+      "manaCost": "",
+      "cooldown": "32",
+      "castingRange": "7 ",
+      "type": "skill",
+      "description": "Sounds a war horn, lasting 5s. Allies within 7m gain 30% Damage Resistance, 50 Control Resistance, and immunity to Forced Movement effects (Knockback, Pull).",
+      "tierUnlock": "1",
+      "rarity": "epic"
+    },
+    {
+      "gameId": "Cloth_Str_8",
+      "gearName": "Tangle Guard",
+      "skillName": "Root Grip",
+      "manaCost": "",
+      "cooldown": "32",
+      "castingRange": "16 ",
+      "type": "skill",
+      "description": "Shoots a grappling rope that deals \n[Damage Rate: 100%] Physical Damage to the target, Immobilizes them for 2s, and pulls both toward the middle.",
+      "tierUnlock": "1",
+      "rarity": "epic"
+    },
+    {
+      "gameId": "Cloth_Str_3",
+      "gearName": "Warden's Shell",
+      "skillName": "Vulnerability",
+      "manaCost": "",
+      "cooldown": "37",
+      "castingRange": "7 ",
+      "type": "skill",
+      "description": "Increases Damage Resistance by 30% and creates a weakening field around the caster, lasting 6s. Enemies within 7m deal 80% less damage and cannot enter Stealth.",
+      "tierUnlock": "1",
+      "rarity": "legendary",
+      "stats": {
+        "armor": "331",
+        "magicResi": "251"
+      }
+    },
+    {
+      "gameId": "Cloth_Str_5",
+      "gearName": "Magsurge Armor",
+      "skillName": "Converge",
+      "manaCost": "",
+      "cooldown": "22",
+      "castingRange": "7 ",
+      "type": "skill",
+      "description": "Creates a converging force field. After 1.5s, deals \n[Damage Rate: 250%] Physical Damage to enemies within 7m, pulls them to the center, Stuns them for 0.5s, and Slows them by 30% for 4s.",
+      "tierUnlock": "1",
+      "rarity": "legendary",
+      "stats": {
+        "armor": "331",
+        "magicResi": "251"
+      }
+    },
+    {
+      "isActive": false,
+      "gameId": "Cloth_Str_9",
+      "gearName": "Cloth_Str_9",
+      "skillName": "Cloth_Str_9",
+      "manaCost": "",
+      "cooldown": "",
+      "castingRange": "",
+      "type": "skill",
+      "description": "",
+      "tierUnlock": "1",
+      "rarity": "legendary",
+      "stats": {
+        "hp": "",
+        "dmgBonus": "",
+        "mpRecovery": ""
+      }
+    }
+  ]
+}

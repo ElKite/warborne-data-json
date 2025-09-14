@@ -1,0 +1,241 @@
+{
+  "lastUpdate": "June 6, 2025 6 AM",
+  "passive": {
+    "gameId": "Sword_Passive",
+    "skillName": "Aura and Blade",
+    "manaCost": "",
+    "cooldown": "",
+    "castingRange": "",
+    "type": "passive",
+    "description": "X Aura and Blade Passive [Momentum]: Gains 1 stack of [Momentum] every second while in combat and 2 stacks when dealing damage with Basic Attacks, 4 stacks on Critical Hit, 1 stack when taking Basic Attack Damage, and 2 stacks when taking Skill Damage. At 10 [Momentum] stacks, increases Sword Momentum by 1 level. Momentum lasts 20s. [Sword Momentum]: Each level grants +3% Damage, +4% Attack Speed, and +4% Damage Resistance. Lasts 8s. Grants up to 6 stacks, decaying over time."
+  },
+  "basicAttacks": [
+    {
+      "gameId": "SwordAttack_1",
+      "skillName": "Sword Slash",
+      "manaCost": "+6",
+      "cooldown": "1.3",
+      "castingRange": "7",
+      "type": "basic",
+      "description": "[Basic Attack]:Deals \n[Damage Rate: 130%] Physical Damage to enemy target. Can cast [Sword Slash] every 6s. Charges toward an enemy target to deal \n[Damage Rate: 180%] Physical Damage and inflict 40% Slow for 2s.",
+      "tierUnlock": "2"
+    },
+    {
+      "gameId": "SwordAttack_2",
+      "skillName": "Sword Cleave",
+      "manaCost": "+6",
+      "cooldown": "1.3",
+      "castingRange": "3.5",
+      "type": "basic",
+      "description": "[Basic Attack]:Deals \n[Damage Rate: 130%] Physical Damage to enemy target. Can cast [Sword Cleave] every 5. Deals \n[Damage Rate: 220%] Physical Damage to surrounding enemies. Grants  \n[Target-based Max HP 3%] Shield for each enemy hit, lasting 4s. Stacks up to 5 times.",
+      "tierUnlock": "4"
+    },
+    {
+      "gameId": "SwordAttack_3",
+      "skillName": "Sword Energy",
+      "manaCost": "+6",
+      "cooldown": "1.3",
+      "castingRange": "20",
+      "type": "basic",
+      "description": "[Basic Attack]:Deals \n[Damage Rate: 130%] Physical Damage to enemy target. Can cast [Sword Energy] every 6s. Unleashes sword energy forward, dealing \n[Damage Rate: 140%] Physical Damage to enemies hit. Increases Movement Speed by 25% for 2s if at least 1 enemy is hit.",
+      "tierUnlock": "6"
+    }
+  ],
+  "commonSkills": [
+    {
+      "gameId": "Sword_Common_Skill_1",
+      "skillName": "Vacuum Slash",
+      "manaCost": "17",
+      "cooldown": "11",
+      "castingRange": "5",
+      "type": "common",
+      "description": "Performs 4 forward slashes, each dealing \n[Damage Rate: 60%] Physical Damage to players (\n[Damage Rate: 90%] Physical Damage to mobs). The final hit unleashes sword energy forward, dealing \n[Damage Rate: 150%] Physical Damage to all enemies hit.",
+      "tierUnlock": "1"
+    },
+    {
+      "gameId": "Sword_Common_Skill_3",
+      "skillName": "Crippling Strike",
+      "manaCost": "19",
+      "cooldown": "14",
+      "castingRange": "10",
+      "type": "common",
+      "description": "Leaps to the target location, dealing \n[Damage Rate: 200%] Physical Damage and inflicting 50% Slow for 3s to nearby enemies upon landing. Gains  \n[Target-based Max HP 20%] Shield for 4s when hitting at least 1 enemy",
+      "tierUnlock": "3"
+    },
+    {
+      "gameId": "Sword_Common_Skill_4",
+      "skillName": "Power Slash",
+      "manaCost": "17",
+      "cooldown": "11",
+      "castingRange": "10",
+      "type": "common",
+      "description": "Hold to charge with control immunity and gain +20% Damage Resistance. While charging: Deals \n[Damage Rate: 150%] Physical Damage and Stuns enemies for 0.5s. After charging for 1.5s, deals \n[Damage Rate: 200%] Physical Damage, Stuns for 1.5s and creates a ground wave that deals \n[Damage Rate: 150%] Physical Damage and inflicts 40% Slow for 4s.",
+      "tierUnlock": "5"
+    },
+    {
+      "gameId": "Sword_Common_Skill_5",
+      "skillName": "Defensive Slash",
+      "manaCost": "19",
+      "cooldown": "14",
+      "castingRange": "6",
+      "type": "common",
+      "description": "Begins Blocking for 3s. While Blocking, reduces Movement Speed but gains control immunity and +70% Damage Resistance. Afterward, deals \n[Damage Rate: 320%] Physical Damage to nearby enemies and reduces their Armor by 20% for 4s. Block can be canceled early",
+      "tierUnlock": "7"
+    },
+    {
+      "gameId": "Sword_Common_Skill_2",
+      "skillName": "Heart of Steel",
+      "manaCost": "24",
+      "cooldown": "14",
+      "castingRange": "6",
+      "type": "common",
+      "description": "Immediately removes all control effects, gains 1 stack of [Sword Momentum], increases Damage Resistance by 25%, and the Attack Speed of the next 3 Basic Attacks by 80% for 8s. Can be used while skills are disabled.",
+      "tierUnlock": "8"
+    }
+  ],
+  "skills": [
+    {
+      "gameId": "Sword_ZeroSlash",
+      "gearName": "Storm Cleaver",
+      "skillName": "Tempest Slash",
+      "manaCost": "21",
+      "cooldown": "19",
+      "castingRange": "10",
+      "type": "skill",
+      "description": "Spins toward the target location, dealing \n[Damage Rate: 75%] Physical Damage to all players (\n[Damage Rate: 150%] Physical Damage to mobs) hit. At 3+ Sword Momentum stacks, creates a tornado on arrival, dealing \n[Damage Rate: 50%] Physical Damage every 1s for 5s.",
+      "tierUnlock": "2",
+      "rarity": "rare",
+      "stats": {
+        "attackPower": "148",
+        "tenacity": "30",
+        "ms": "0.3",
+        "as": "0.76"
+      }
+    },
+    {
+      "gameId": "Sword_Claymore",
+      "gearName": "Hellcore Cleaver",
+      "skillName": "Overload Slash",
+      "manaCost": "21",
+      "cooldown": "19",
+      "castingRange": "12",
+      "type": "skill",
+      "description": "Briefly charges up and then rushes at the target enemy, inflicting [Heal Block] for 4s and dealing Physical Damage based on [Sword Momentum] stacks. [Sword Momentum] stacks: 0 | 1 | 2 | 3-6 Physical Damage: \n[Damage Rate: 210%] | \n[Damage Rate: 240%] | \n[Damage Rate: 270%] | \n[Damage Rate: 300%] At 3+ stacks, creates an explosion dealing \n[Damage Rate: 200%] Physical Damage and Stunning for 1.5s. [Heal Block]: Cannot receive healing.",
+      "tierUnlock": "2",
+      "rarity": "epic",
+      "stats": {
+        "attackPower": "155",
+        "tenacity": "30",
+        "ms": "0.3",
+        "as": "0.76"
+      }
+    },
+    {
+      "gameId": "Sword_Clarent",
+      "gearName": "Voidblade",
+      "skillName": "Force Pierce",
+      "manaCost": "23",
+      "cooldown": "19",
+      "castingRange": "20",
+      "type": "skill",
+      "description": "Unleashes a powerful sword energy toward the target direction, dealing \n[Damage Rate: 300%] Magic Damage to enemies hit. Additional effects based on [Sword Momentum] stacks: 1 stack: 30% Slow for 2s. 2 stacks: 30% Slow for 2s and Silence for 2s. 3-6 stacks: 30% Slow for 4s and Silence for 4s. At 3+ stacks, unleashes 2 extra Sword Energy. Additional Sword Energy deals 30% reduced damage.",
+      "tierUnlock": "2",
+      "rarity": "epic",
+      "stats": {
+        "attackPower": "155",
+        "tenacity": "45",
+        "ms": "0.3",
+        "as": "0.76"
+      }
+    },
+    {
+      "gameId": "Sword_KingSlash",
+      "gearName": "Lordbreaker",
+      "skillName": "Sovereign Strike",
+      "manaCost": "23",
+      "cooldown": "19",
+      "castingRange": "7",
+      "type": "skill",
+      "description": "Knocks enemies back 8m and deals \n[Damage Rate: 450%] Physical Damage. Reduces Damage dealt based on [Sword Momentum] stacks for 6s. Sword Momentum] Stacks: 0 | 1 | 2 | 3-6 Reduction to damage dealt: 20% | 26% | 32% | 38% At 3+ stacks, Knockback increased to 12m and Stuns for 2s on collision.",
+      "tierUnlock": "2",
+      "rarity": "epic",
+      "stats": {
+        "attackPower": "155",
+        "tenacity": "30",
+        "ms": "0.3",
+        "as": "0.76"
+      }
+    },
+    {
+      "gameId": "Sword_Knight",
+      "gearName": "Titan's Spineblade",
+      "skillName": "Titan's Stride",
+      "manaCost": "32",
+      "cooldown": "24",
+      "castingRange": "6",
+      "type": "skill",
+      "description": "Gains immunity to Forced Movement (Pull, Knockback). Attack range and Max HP increase based on [Sword Momentum] stacks for 10s (Cannot be dispelled) Can use [Titan's Stride] to deal \n[Damage Rate: 150%] Physical Damage and Knockup enemies for 0.5s. [Sword Momentum] Stacks: 0 | 1 | 2 | 3-6 Basic Attack range: 1.5 | 2 | 2.5 | 3 Max HP: 30% |45% | 60% | 75% At 3+ stacks, creates a titan aura that Slows enemies by 30% and reduces Attack Speed by 30%.",
+      "tierUnlock": "2",
+      "rarity": "epic",
+      "stats": {
+        "attackPower": "155",
+        "tenacity": "30",
+        "ms": "0.3",
+        "as": "0.76"
+      }
+    },
+    {
+      "gameId": "Sword_Carving",
+      "gearName": "Judicator",
+      "skillName": "Obliteration",
+      "manaCost": "28",
+      "cooldown": "30",
+      "castingRange": "16",
+      "type": "skill",
+      "description": "Dashes forward, dealing \n[Damage Rate: 250%] Physical Damage to all enemies hit. Reduces Damage Resistance based on [Sword Momentum] stacks for 4s. [Sword Momentum] stacks: 0 | 1 | 2 | 3-6 Damage Resistance reduction: 15% | 24% | 32% | 40% At 3+ stacks, Pulls enemies to the center on arrival and slashes multiple times over 1.8s, dealing \n[Damage Rate: 30%] Physical Damage every 0.3s.",
+      "tierUnlock": "2",
+      "rarity": "legendary",
+      "stats": {
+        "attackPower": "163",
+        "tenacity": "30",
+        "ms": "0.3",
+        "as": "0.76"
+      }
+    },
+    {
+      "gameId": "Sword_ThousandBlade",
+      "gearName": "Sovereign's Radiance",
+      "skillName": "Thousandfold Strike",
+      "manaCost": "28",
+      "cooldown": "19",
+      "castingRange": "12",
+      "type": "skill",
+      "description": "Leaps to the target location, creating countless blades. Physical Damage scales with [Sword Momentum] stacks. [Sword Momentum] Stacks: 0 | 1 | 2 | 3-6 Physical Damage: \n[Damage Rate: 280%] | \n[Damage Rate: 320%] | \n[Damage Rate: 360%] | \n[Damage Rate: 400%] At 3+ stacks, creates two sets of blades forming outward, each dealing \n[Damage Rate: 150%] Physical Damage and inflicting 1s Knockup.",
+      "tierUnlock": "2",
+      "rarity": "legendary",
+      "stats": {
+        "attackPower": "163",
+        "tenacity": "30",
+        "ms": "0.3",
+        "as": "0.76"
+      }
+    },
+    {
+      "isActive": false,
+      "gameId": "Sword_BloodSword_skill",
+      "gearName": "Blood Sword",
+      "skillName": "",
+      "manaCost": "",
+      "cooldown": "",
+      "castingRange": "",
+      "type": "skill",
+      "description": "",
+      "tierUnlock": "2",
+      "rarity": "legendary",
+      "stats": {
+        "attackPower": "",
+        "as": ""
+      }
+    }
+  ]
+}
