@@ -143,9 +143,9 @@
       }
     },
     {
-      "gameId": "FireStaff_Fanning",
+      "gameId": "FireStaff_Common_Skill_5",
       "gearName": "Inferno Core",
-      "skillName": "Hell Salvo",
+      "skillName": "Core Flare",
       "manaCost": "20",
       "cooldown": "1.5",
       "castingRange": "18",
