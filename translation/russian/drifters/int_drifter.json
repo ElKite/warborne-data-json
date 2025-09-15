@@ -3,7 +3,7 @@
   "drifters": {
     "paragon_int_1": {
       "gameId": "paragon_int_1",
-      "name": "ShadowSeer",
+      "name": "Призрачный пророк",
       "strBonus": "0.5",
       "dexBonus": "0.5",
       "intBonus": "3.1",
@@ -11,8 +11,8 @@
       "baseDex": "10",
       "baseInt": "35",
       "supportStationBonus": {
-        "supportBonus": "Magic Damage Bonus",
-        "supportMalus": "Magic Resistance ",
+        "supportBonus": "Бонус к магическому урону",
+        "supportMalus": "Маг. сопротивление ",
         "supportBonusValue": " +3.23%",
         "supportMalusValue": "-3.23%"
       },
@@ -35,30 +35,30 @@
       },
       "skill": {
         "gameId": "Paragon_Skill_Int_1",
-        "gearName": "ShadowSeer",
-        "skillName": "Shadow Cascade",
+        "gearName": "Призрачный пророк",
+        "skillName": "Теневой каскад",
         "manaCost": "34",
         "cooldown": "46",
         "castingRange": "20",
-        "type": "skill",
-        "description": "Channel void energy for 5s and send forth 37 Void Orbs,\neach dealing \n[Damage Rate: 35%] Magic Damage and\ninflicting [Void Toxin]\nSkill cannot be interrupted.\n[Void Toxin]: Deals \n[Damage Rate: 10%] Magic Damage\nevery second (increases based on stacks) for 12s,\nstacking up to 5 times. [Void Toxin] from different sources\nshare stacks.",
+        "type": "активный",
+        "description": "Собирает тьму, каналит заклинание в течение 4 секунд.\nкаждые 0.8 секунд запускает 5 шаров темной энергии\nвперед (всего 25 штук). Каждый шар наносит\n52[Уровень урона: 50%] магического урона и\nнакладывает [Темная материя ядовитая] и снижение\nэффекта лечения на 8%, длится бсек., может\nнакапливаться до 5 раз\nНавык не может быть прерван\n[Темная материя ядовитая]: каждый уровень наносит\n15[Уровень урона: 15%] магического урона каждые 2\nсекунды (урон увеличивается с количеством уровней),\nдлится 12сек., максимальное количество стаков 5",
         "tierUnlock": "1"
       },
       "passive": {
         "gameId": "Paragon_Skill_Int_1_Passive",
-        "gearName": "ShadowSeer",
+        "gearName": "Призрачный пророк",
         "skillName": "",
         "manaCost": "",
         "cooldown": "",
         "castingRange": "",
-        "type": "passive",
-        "description": "Gains 5% Movement Speed for 3s when inflicting an\nenemy with a DoT effect, stacking up to 6 times.",
+        "type": "пассивный",
+        "description": "При наложении на врага эффекта периодического урона\nскорость передвижения увеличивается на 5% на 3сек.,\nэффект накапливается до 6 раз",
         "tierUnlock": "4"
       }
     },
     "paragon_int_2": {
       "gameId": "paragon_int_2",
-      "name": "Solenne",
+      "name": "Соленна",
       "strBonus": "1",
       "dexBonus": "1.1",
       "intBonus": "2",
@@ -66,8 +66,8 @@
       "baseDex": "15",
       "baseInt": "30",
       "supportStationBonus": {
-        "supportBonus": "Healing Bonus",
-        "supportMalus": "Healing Received",
+        "supportBonus": "Бонус к лечению",
+        "supportMalus": "Получаемое лечение",
         "supportBonusValue": " +3.23%",
         "supportMalusValue": " -2.15%"
       },
@@ -90,30 +90,30 @@
       },
       "skill": {
         "gameId": "Paragon_Skill_Int_2",
-        "gearName": "Solenne",
-        "skillName": "Bond of Light",
+        "gearName": "Соленна",
+        "skillName": "Связь света",
         "manaCost": "30",
         "cooldown": "42",
         "castingRange": "10",
-        "type": "skill",
-        "description": "Links to 8 targets within 10m around the caster,\nchanneling for 4s. Restores \n[Healing Rate: 40%] HP to the\ncaster and linked allies every 0.5s, while dealing  \n[Damage Rate: 70%] Magic Damage to linked enemies.\nCannot be interrupted while channeling.",
+        "type": "активный",
+        "description": "Устанавливает связь с 8 целями в радиусе 10м вокруг\nсебя и поддерживает ее 4 сек. Каждые 0,5 сек.\nвосстанавливает 61[Уровень лечения: 48%] ОЗ себе и\nсвязанным союзникам, в то же время нанося\n90[Уровень урона: 70%] ед. урона связанным врагам.\nВо время поддержания применение навыка нельзя\nпрервать.",
         "tierUnlock": "1"
       },
       "passive": {
         "gameId": "Paragon_Skill_Int_2_Passive",
-        "gearName": "Solenne",
+        "gearName": "Соленна",
         "skillName": "",
         "manaCost": "",
         "cooldown": "",
         "castingRange": "",
-        "type": "passive",
-        "description": "Other allies within 12m receive +20% healing.",
+        "type": "пассивный",
+        "description": "Другие союзники в радиусе 12 м получают +20% к\nисцелению.",
         "tierUnlock": "4"
       }
     },
     "paragon_int_3": {
       "gameId": "paragon_int_3",
-      "name": "Hive Queen",
+      "name": "Королева улья",
       "strBonus": "1.1",
       "dexBonus": "1",
       "intBonus": "2",
@@ -121,8 +121,8 @@
       "baseDex": "10",
       "baseInt": "30",
       "supportStationBonus": {
-        "supportBonus": "Magic Resistance",
-        "supportMalus": "Magic Damage Bonus",
+        "supportBonus": "Маг. сопротивление",
+        "supportMalus": "Бонус к магическому урону",
         "supportBonusValue": " +9.25%",
         "supportMalusValue": " -3.70%"
       },
@@ -145,30 +145,30 @@
       },
       "skill": {
         "gameId": "Paragon_Skill_Int_3",
-        "gearName": "Hive Queen",
-        "skillName": "Abyssal Sovereignty",
+        "gearName": "Королева улья",
+        "skillName": "Владычество бездны",
         "manaCost": "28",
         "cooldown": "46",
         "castingRange": "5",
-        "type": "skill",
-        "description": "Removes all control effects and gains [Submerge] for\n2.5s\n[Submerge]: Dives underground, becoming immune to all\ndamage and control effects. Increases Movement Speed\nby 40% and recovers\n[Healing Rate: 49%] HP every\nsecond.\nPress skill again to exit [Submerge] early.\nUpon exiting [Submerge], deals \n[Damage Rate: 200%]\nMagic Damage to nearby enemies.\nCan be used while skills are disabled",
+        "type": "активный",
+        "description": "Снимает все эффекты контроля и на 2.5 сек.\nнакладывает «Погружение».\nПогружение: уходит под землю и получает иммунитет к\nурону и эффектам контроля. Увеличивает скорость\nдвижения на 40%. Каждую секунду восстанавливает\n61 [Уровень лечения: 58%] ОЗ.\nПри повторном использовании навыка погружение\nпрерывается досрочно.\nПри отмене погружения ближайшие вреги получают\n210[Уровень урона: 200%] магического урона.\nМожно использовать, когда навыки недоступны.",
         "tierUnlock": "1"
       },
       "passive": {
         "gameId": "Paragon_Skill_Int_3_Passive",
-        "gearName": "Hive Queen",
-        "skillName": "Hive Exaltation",
+        "gearName": "Королева улья",
+        "skillName": "Защита улья",
         "manaCost": "",
         "cooldown": "0.5",
         "castingRange": "",
-        "type": "passive",
-        "description": "Dealing damage with a skill grants 1 stack of Swarm,\nrestoring \n[Healing Rate: 7.5%] HP every 2s for 6s\n(stacks do not boost healing effect). During this time,\nDamage Resistance increases by 5%, stacking up to 5\ntimes. (Cooldown: 0.5s)",
+        "type": "пассивный",
+        "description": "При нанесении урона навыком получает 1 заряд «Роя»,\nкоторый каждые 2 сек. в течение бсек.\nвосстанавливает 9.4[Уровень лечения: 9%] ОЗ (при\nнакоплении эффективность исцеления не повышается).\n В это время сопротивление урону повышается на 5%.\nЭффект накапливается до 5 раз. (Откат: 0.5 сек.)",
         "tierUnlock": "4"
       }
     },
     "paragon_int_4": {
       "gameId": "paragon_int_4",
-      "name": "Veska",
+      "name": "Веска",
       "strBonus": "1",
       "dexBonus": "0.7",
       "intBonus": "2.1",
@@ -176,8 +176,8 @@
       "baseDex": "14",
       "baseInt": "32",
       "supportStationBonus": {
-        "supportBonus": "Damage Resistance (PvP)",
-        "supportMalus": "Damage Bonus (PvP)",
+        "supportBonus": "Сопротивление урону (PvP)",
+        "supportMalus": "Бонус к урону (PvP)",
         "supportBonusValue": " +1.61%",
         "supportMalusValue": " -1.07%"
       },
@@ -200,30 +200,30 @@
       },
       "skill": {
         "gameId": "Paragon_Skill_Int_4",
-        "gearName": "Veska",
-        "skillName": "Serpent's Whisper",
+        "gearName": "Веска",
+        "skillName": "Шепот змеи",
         "manaCost": "28",
         "cooldown": "46",
         "castingRange": "14",
-        "type": "skill",
-        "description": "Applies Serpent's Whisper to the caster or an allied target,\npreventing movement and skill usage for 4s and granting\nimmunity to damage and control. Deals \n[Damage Rate: 58%] Magic Damage to nearby enemies every 0.5s and\napplies [Creeping Stone]\n[Creeping Stone]: Lasts 1s, stacking up to 4 times. Target\nis Petrified and has their Armor reduced by 25% for 2 at\nmax stacks (cannot gain [Creeping Stone] for 6)\nCan be used while skills are disabled. Serpent's Whisper\ncannot be dispelled.",
+        "type": "активный",
+        "description": "Накладывает на себя или союзника эффект <Шепот\nзмеи>, который на 4сек, лишает возможности двигаться\nи использовать навыки, но также дает иммунитет к\nурону и контролю. Каждые 0,5 сек. наносит ближайшим\nврагам [Уровень урона: 58%] ед. магического урона и\nнакладывает <Ползучий камень>\nПолзучий камень: действует 1сек., накапливается до 4\nраз. При полном накоплении цель превращается в\nкамень, а ее броня на 2 снижается на 25% (получить\n«Ползучий камень» снова нельзя в течение 6).\nМожно использовать при блокировке навыков. «Шепот\nзмеи» нельзя развеять.",
         "tierUnlock": "1"
       },
       "passive": {
         "gameId": "Paragon_Skill_Int_4_Passive",
-        "gearName": "Veska",
-        "skillName": "Shedskin",
+        "gearName": "Веска",
+        "skillName": "Шкурка змеи",
         "manaCost": "",
         "cooldown": "",
         "castingRange": "",
-        "type": "passive",
-        "description": "Retains 1 HP upon taking lethal damage, transforming\ninto a spirit serpent, cleansing all negative effects\n(control, DoT, and debuffs), gaining immunity to control,\ndebuffs and damage for 2s, and +100% Movement Speed,\nand healing 5% HP every 0.5s. (CD: 120s)",
+        "type": "пассивный",
+        "description": "При получении смертельного урона остается с 1 ОЗ,\nпревращается в духа-змея, снимает с себя все\nотрицательные эффекты (контроль, периодический\nурон и ослабления), на 2сек, получает иммунитет к\nурону, ослаблениям и контролю и +100% к скорости\nдвижения, а также каждые 0,5 сек. восстанавливает 5%\nО3. (Откат: 120 сек.)",
         "tierUnlock": "4"
       }
     },
     "paragon_int_10": {
       "gameId": "paragon_int_10",
-      "name": "Helix",
+      "name": "Хеликс",
       "strBonus": "1",
       "dexBonus": "0.8",
       "intBonus": "2.3",
@@ -231,8 +231,8 @@
       "baseDex": "23",
       "baseInt": "25",
       "supportStationBonus": {
-        "supportBonus": "Skill Cooldown Rate",
-        "supportMalus": "Skill Bonus ",
+        "supportBonus": "Скорость отката навыков",
+        "supportMalus": "Бонус к навыкам ",
         "supportBonusValue": " +1.61%",
         "supportMalusValue": "-1.07%"
       },
@@ -255,30 +255,30 @@
       },
       "skill": {
         "gameId": "Paragon_Skill_Int_10",
-        "gearName": "Helix",
-        "skillName": "Genetic Cascade",
+        "gearName": "Хеликс",
+        "skillName": "Генетический каскад",
         "manaCost": "29",
         "cooldown": "28",
         "castingRange": "12",
-        "type": "skill",
-        "description": "Creates a Genetic Cascade link with the target, lasting\n15s.\nFor allied targets: Restores \n[Healing Rate: 25%] HP every\nsecond and increases damage dealt by 3% for 5s. Stacks\nup to 10 times.\nFor enemy targets: Deals \n[Damage Rate: 50%] Magic\nDamage every second and reduces damage dealt by 3%\nfor 5s. Stacks up to 10 times.\nCan link to another target of a different type while a link is\nactive.\nLink breaks if the target moves over 25m away.",
+        "type": "активный",
+        "description": "На 15 устанавливает с целью канал генетического\nкаскада.\nДля союзников: восстанавливает [Уровень лечения:\n30%| ОЗ каждую секунду и на 5сек. увеличивает\nнаносимый урон на 3%; эффект накапливается до 10\nраз.\nДля врагов: наносит [Уровень урона: 50%] ед.\nмагического урона каждую секунду и на 5сек.\nуменьшает наносимый ими урон на 3%; эффект\nнакапливается до 10 раз.\nПока связь поддерживается, можно выбрать другую\nцель иного типа.\nСвязь разрывается, если цель отходит на расстояние\nболее 25 м.",
         "tierUnlock": "1"
       },
       "passive": {
         "gameId": "Paragon_Skill_Int_10_Passive",
-        "gearName": "Helix",
-        "skillName": "Helical Convergence",
+        "gearName": "Хеликс",
+        "skillName": "Спиральное схождение",
         "manaCost": "",
         "cooldown": "0.5",
         "castingRange": "",
-        "type": "passive",
-        "description": "After dealing damage 5 times, creates two Yin Vortexes\naround the caster that deal \n[Damage Rate: 100%] Magic\nDamage to enemies hit and reduce healing received by 5%\nfor 4s. Stacks up to 3 times. (Cooldown: 0.5s)\nAfter healing 5 times, creates two Yang Vortexes around\nself that restore \n[Healing Rate: 50%] HP to allies hit and\nincrease healing received by 5% for 4s. Stacks up to 3\ntimes. (Cooldown: 0.5s)",
+        "type": "пассивный",
+        "description": "После пятикратного нанесения урона создает вокруг\nсебя две воронки Инь, которые наносят врагам\n[Уровень урона: 100%] ед. магического урона и на 4сек.\nуменьшают эффективность получаемого ими\nисцеления на 5%. Эффект накапливается до 3 раз,\n(Откат: 0.5 сек.).\nПосле пятикратного исцеления создает вокруг себя две\nворонки Ян, которые восстанавливают [Уровень\nлечения: 60%] О3 союзникам и на 4сек. увеличивают\nобъем получаемого ими исцеления на 5%. Эффект\nнакапливается до 3 раз. (Откат: 0,5 сек.)",
         "tierUnlock": "4"
       }
     },
     "paragon_int_6": {
       "gameId": "paragon_int_6",
-      "name": "Raven",
+      "name": "Ворона",
       "strBonus": "1.2",
       "dexBonus": "0.8",
       "intBonus": "2.1",
@@ -286,9 +286,9 @@
       "baseDex": "10",
       "baseInt": "30",
       "supportStationBonus": {
-        "supportBonus": "Max MP Bonus",
-        "supportMalus": "Max HP Bonus ",
-        "supportBonusValue": " +5.38%",
+        "supportBonus": "Бонус к макс. ОМ ",
+        "supportMalus": "Бонус к макс. здоровью ",
+        "supportBonusValue": "+5.38%",
         "supportMalusValue": "-2.15%"
       },
       "stats": {
@@ -310,30 +310,30 @@
       },
       "skill": {
         "gameId": "Paragon_Skill_Int_6",
-        "gearName": "Raven",
-        "skillName": "Raven's Gaze",
+        "gearName": "Ворона",
+        "skillName": "Взгляд ворона",
         "manaCost": "29",
         "cooldown": "28",
         "castingRange": "14",
-        "type": "skill",
-        "description": "Select an enemy target to summon ravens. After 2\nseconds, ravens dive to attack, dealing \n[Damage Rate: 210%] Magic Damage to up to 10 enemies in range,\ndispelling all buffs, shields, and HoT effects. Applies 50%\nSlow and reduces damage dealt by 50% for 6s. Targets\ncannot gain buffs, shields, or HoT effects during this time.",
+        "type": "активный",
+        "description": "Выберите цель, чтобы призвать воронов. Через 2\nсекунды вороны атакуют, поражают до 10 врагов в\nнекотором радиусе, наносят им 536[Уровень урона:\n210%) ед. магического урона, снимают все усиления,\nщиты и эффекты лечения, на бсек. замедляют их на\n50%, а также снижают наносимый ими урон на 50%. Во\nвремя действия эффекта на цели нельзя наложить\nусиления, щиты и эффекты исцеления.",
         "tierUnlock": "1"
       },
       "passive": {
         "gameId": "Paragon_Skill_Int_6_Passive",
-        "gearName": "Raven",
-        "skillName": "Summon Raven",
+        "gearName": "Ворона",
+        "skillName": "Призыв ворона",
         "manaCost": "",
         "cooldown": "0.5",
         "castingRange": "",
-        "type": "passive",
-        "description": "Skills dealing damage grant the caster Raven's Call. At 6\nstacks, the next skill damage within 8s that hits an enemy\ntarget will summon ravens at the location, dealing \n[Damage Rate: 120%] Magic Damage to up to 5 enemy\ntargets in range. This effect removes 1 stack of buffs from\nhit targets and restores \n[Healing Rate: 60%] HP to self.\n(Trigger Interval: 0.5s)",
+        "type": "пассивный",
+        "description": "Нанося урон умениями, применяет «Зов ворона». Когда\nэффект накопится б раз, при нанесении врагу урона от\nнавыка в течение 8сек, призываются вороны, которые\nпоражают до 5 врагов в некотором радиусе и наносят\nим З0б[Уровень урона: 120%] ед. магического урона.\nЭтот эффект снимает с пораженных целей 1 уровень\nусилений и восстанавливает заклинателю 184[Уровень\nлечения: 72%] ОЗ. (Интервал набора уровней эффекта:\n0.5 сек.; интервал срабатывания «Зова ворона»: 10 сек.)",
         "tierUnlock": "4"
       }
     },
     "paragon_int_7": {
       "gameId": "paragon_int_7",
-      "name": "Moonveil",
+      "name": "Лунная вуаль",
       "strBonus": "1",
       "dexBonus": "0.7",
       "intBonus": "2.4",
@@ -341,8 +341,8 @@
       "baseDex": "12",
       "baseInt": "25",
       "supportStationBonus": {
-        "supportBonus": "Damage Bonus (PvP) ",
-        "supportMalus": "Damage Resistance (PvP)",
+        "supportBonus": "Бонус к урону (PvP) ",
+        "supportMalus": "Сопротивление урону (PvP)",
         "supportBonusValue": "+1.61%",
         "supportMalusValue": " -1.07%"
       },
@@ -365,30 +365,30 @@
       },
       "skill": {
         "gameId": "Paragon_Skill_Int_7",
-        "gearName": "Moonveil",
-        "skillName": "Twinlance Infusion",
+        "gearName": "Лунная вуаль",
+        "skillName": "Заряд луны",
         "manaCost": "22",
         "cooldown": "42",
         "castingRange": "10",
-        "type": "skill",
-        "description": "Creates a Lunar Domain and channels for 8s. Enemies\nwithin are struck by starlight on skill use, taking  \n[Damage Rate: 200%] Magic Damage and losing 20 MP. Allies\nwithin recover 8 MP every second and gain \n[Target-based Max HP 15%] Shield lasting 4s.\nSkill cannot be interrupted. +20% Movement Speed while\nchanneling.",
+        "type": "активный",
+        "description": "Создает зону Лунного царства и сосредотачивается и\nподдерживает ее в течение 8 сек. Враги внутри этой\nзоны при использовании навыков получают\n273[Уровень урона: 200%] ед. магического урона от\nзвездного света и теряют 20 ОМ. Союзники в зоне\nполучают 8 ОМ каждую секунду и щит мощностью\n[Зависит от параметра: Макс. ОЗ 15%] на 4сек..\nПрименение навыка нельзя прервать. Во время\nактивации скорость передвижения увеличивается на\n20%.",
         "tierUnlock": "1"
       },
       "passive": {
         "gameId": "Paragon_Skill_Int_7_Passive",
-        "gearName": "Moonveil",
-        "skillName": "Lunar Rebirth",
+        "gearName": "Лунная вуаль",
+        "skillName": "Лунное сияние возрождается",
         "manaCost": "",
         "cooldown": "",
         "castingRange": "12",
-        "type": "passive",
-        "description": "Every 2s restores Moonveil Max MP + 3% MP to other\nallies within 12m",
+        "type": "пассивный",
+        "description": "Каждые 2 секунды восстанавливает Лунная вуаль от\nмакс. ОМ +1% ОМ другим союзникам в радиусе 12м.",
         "tierUnlock": "4"
       }
     },
     "paragon_int_11": {
       "gameId": "paragon_int_11",
-      "name": "Revelation",
+      "name": "Апокалипсис",
       "strBonus": "0.8",
       "dexBonus": "1",
       "intBonus": "2.3",
@@ -396,7 +396,7 @@
       "baseDex": "10",
       "baseInt": "25",
       "supportStationBonus": {
-        "supportBonus": "Loot Bonus",
+        "supportBonus": "Бонус к добыче",
         "supportMalus": "",
         "supportBonusValue": " +2.15%",
         "supportMalusValue": ""
@@ -420,30 +420,30 @@
       },
       "skill": {
         "gameId": "Paragon_Skill_Int_11",
-        "gearName": "Revelation",
+        "gearName": "Апокалипсис",
         "skillName": "Sanctification",
         "manaCost": "30",
         "cooldown": "42",
         "castingRange": "16",
-        "type": "skill",
-        "description": "Creates an expanding Sanctification Field at the target\nlocation and channels for 5s.\nCannot be interrupted while channeling.\nCleanses control effects every 0.5s, all debuffs, and 2 DoT\neffects, from up to 20 allies in the field and restores \n[Healing Rate: 25%] HP.",
+        "type": "активный",
+        "description": "Создает в указанной точке расширяющееся поле\nосвящения и поддерживает его в течение 5 сек.\nВо время поддержания прервать навык нельзя.\nКаждые 0,5 сек. снимает все эффекты контроля и\nослабления с нескольких (до 20) союзников в зоне\nдействия, а также восстанавливает [Уровень лечения:\n30%| О3.",
         "tierUnlock": "1"
       },
       "passive": {
         "gameId": "Paragon_Skill_Int_11_Passive",
-        "gearName": "Revelation",
-        "skillName": "Holy Covenant",
+        "gearName": "Апокалипсис",
+        "skillName": "Священная клятва",
         "manaCost": "",
         "cooldown": "",
         "castingRange": "",
-        "type": "passive",
-        "description": "When healing with skills, the target gains 5% additional\nDamage Resistance for 4s. Stacks up to 6 times",
+        "type": "пассивный",
+        "description": "При исцелении навыками цель получает\nдополнительный бонус к сопротивлению урону в\nразмере 5% на 4сек.. Эффект накапливается до б раз",
         "tierUnlock": "4"
       }
     },
     "paragon_int_9": {
       "gameId": "paragon_int_9",
-      "name": "Astral Magus",
+      "name": "Астральный маг",
       "strBonus": "1",
       "dexBonus": "1",
       "intBonus": "2.1",
@@ -451,7 +451,7 @@
       "baseDex": "12",
       "baseInt": "28",
       "supportStationBonus": {
-        "supportBonus": "Gathering Experience Bonus",
+        "supportBonus": "Бонус к опыту сбора",
         "supportMalus": "",
         "supportBonusValue": " +2.15%",
         "supportMalusValue": ""
@@ -475,30 +475,30 @@
       },
       "skill": {
         "gameId": "Paragon_Skill_Int_9",
-        "gearName": "Astral Magus",
-        "skillName": "Astral Gate",
+        "gearName": "Астральный маг",
+        "skillName": "Астральные врата",
         "manaCost": "38",
         "cooldown": "93",
         "castingRange": "40",
-        "type": "skill",
-        "description": "Creates an astral field beneath the caster. After 3s,\nteleports up to 15 teammates in range to the target\nlocation. Upon arrival, deals \n[Damage Rate: 200%] Magic\nDamage to surrounding enemies and Stuns them for 1s.\nAllies gain  \n[Target-based Max HP 20%] Shield, +30%\nMovement Speed effects for 4s.\nIf there's unpassable terrain in the teleportation path,\nteleport to that position instead ..\n Target cannot be teleported by Astral Gate for 10 seconds after teleportation.",
+        "type": "активный",
+        "description": "Создает под ногами заклинателя астральное поле.\nЧерез 3 секунды переносит в указанную точку до 15\nсоюзников из зоны действия. По прибытии наносит\n[Уровень урона: 200%] ед. магического урона\nокружающим врагам и оглушает их на 1сек.. Союзники\nполучают щит мощностью [Зависит от параметра:\nМакс. ОЗ 20%] ед. и +30% к скорости передвижения на\n4сек..\nПосле перемещения через астральные врата повторное\nих применение будет доступно только через 10сек..\nЕсли на пути телепортации есть непроходимая зона, то\nперемещение осуществляется до этой точки.",
         "tierUnlock": "1"
       },
       "passive": {
         "gameId": "Paragon_Skill_Int_9_Passive",
-        "gearName": "Astral Magus",
-        "skillName": "Celestial Rotation",
+        "gearName": "Астральный маг",
+        "skillName": "Движение небесных тел",
         "manaCost": "",
         "cooldown": "0.5",
         "castingRange": "",
-        "type": "passive",
-        "description": "Reduces the cooldown of all skills (not including Tactical\nItem skills) by 0.3s when this skill deals damage.\n(Cooldown: 0.5s)",
+        "type": "пассивный",
+        "description": "При нанесении урона этим навыком сокращает откат\nвсех навыков (кроме тактических предметов) на 0,3\nсек. (Откат: 0.5 сек.)",
         "tierUnlock": "4"
       }
     },
     "paragon_int_13": {
       "gameId": "paragon_int_13",
-      "name": "Vire",
+      "name": "Кровавый танец",
       "strBonus": "1.5",
       "dexBonus": "0.9",
       "intBonus": "1.8",
@@ -523,31 +523,31 @@
         "Control Resistance": "2.2"
       },
       "supportStationBonus": {
-        "supportBonus": "Healing Bonus",
-        "supportMalus": "Damage Boost",
+        "supportBonus": "Бонус к лечению ",
+        "supportMalus": "Бонус к урону ",
         "supportBonusValue": "3.23%",
         "supportMalusValue": "-1.07%"
       },
       "skill": {
         "gameId": "Paragon_Skill_Int_13",
-        "gearName": "Vire",
-        "skillName": "Thunderstorm",
+        "gearName": "Кровавый танец",
+        "skillName": "Гроза",
         "manaCost": "30",
         "cooldown": "44",
         "castingRange": "7",
-        "type": "skill",
-        "description": "Channels for 5s, scattering 8 Blood Seeds (up to 40 total) around the caster every second. Each seed explodes 1.5s after landing, dealing \n[Damage Rate: 100%] Magic\nDamage to up to 5 enemies in range. If at least one enemy\nis hit by the explosion, the caster regenerates \n[Healing Rate: 15] Vitality. Skill cannot be interrupted. Increases Movement Speed by 30% (decaying over time)",
+        "type": "активный",
+        "description": "Каналить заклинание в течение 5 секунд, каждую\nсекунду рассеивая 8 кровавых семян вокруг себя (всего\n40 штук). Каждое семя взрывается через 1.5 секунды\nпосле падения, нанося [Уровень урона: 100%]\nмагического урона до 5 противникам в зоне поражения.\nЕсли при взрыве попадает хотя бы один врег, то\nвосстанавливает [Уровень лечения: 15%) единиц жизни.\nВо время действия Применение навыка нельзя\nпрервать. Увеличивает скорость передвижения на 30%\n(снижается со временем)",
         "tierUnlock": "1"
       },
       "passive": {
         "gameId": "Paragon_Skill_Int_13_Passive",
-        "gearName": "Vire",
-        "skillName": "Lightning Mark",
+        "gearName": "Кровавый танец",
+        "skillName": "Печать молнии",
         "manaCost": "",
         "cooldown": "25",
         "castingRange": "",
-        "type": "passive",
-        "description": "Skills and Basic Attacks inflict Blood Curse on those hit for 6s. When the curse ends, 30% of the damage you dealt to the target during the curse explodes as Magic Damage and heals the caster for \n[Healing Rate: 20%] HP.\n(Cooldown: 25s)",
+        "type": "пассивный",
+        "description": "Навыки и обычные атаки на бсек. накладывают на\nпораженных врагов «Проклятие крови». По скончании\nэффекта происходит варыв, и враги получают\nмагический урон в размере 30% от нанесенного вами\nурона. (Откат: 25 сек.)",
         "tierUnlock": "4"
       }
     }
