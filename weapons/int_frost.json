@@ -96,6 +96,7 @@
   "skills": [
     {
       "gameId": "IceStaff_Frost",
+      "gearIcon": "SpecImage_FROST1",
       "gearName": "Glacier Prism",
       "skillName": "Frost Torrent",
       "manaCost": "21",
@@ -112,6 +113,7 @@
     },
     {
       "gameId": "IceStaff_Icicle",
+      "gearIcon": "SpecImage_FROST2",
       "gearName": "Frost Matrix",
       "skillName": "Frostbite",
       "manaCost": "25",
@@ -128,6 +130,7 @@
     },
     {
       "gameId": "IceStaff_Chillhowl",
+      "gearIcon": "SpecImage_FROST4",
       "gearName": "Cryoshard Mask",
       "skillName": "Frostbound Echo",
       "manaCost": "17",
@@ -144,6 +147,7 @@
     },
     {
       "gameId": "IceStaff_GreatFrost",
+      "gearIcon": "SpecImage_FROST5",
       "gearName": "Iceshard Comet",
       "skillName": "Frost Nova",
       "manaCost": "13",
@@ -160,6 +164,7 @@
     },
     {
       "gameId": "IceStaff_IcePhase",
+      "gearIcon": "SpecImage_FROST6",
       "gearName": "Frozen Conduit",
       "skillName": "Frozen Phase",
       "manaCost": "25",
@@ -176,6 +181,7 @@
     },
     {
       "gameId": "IceStaff_IceSliver",
+      "gearIcon": "SpecImage_FROST8",
       "gearName": "Shard of Fractured Ice",
       "skillName": "Ice Shard",
       "manaCost": "23",
@@ -192,6 +198,7 @@
     },
     {
       "gameId": "IceStaff_Permafrost",
+      "gearIcon": "SpecImage_FROST3",
       "gearName": "Glacier Spark",
       "skillName": "Ice Blast",
       "manaCost": "26",
@@ -208,6 +215,7 @@
     },
     {
       "gameId": "IceStaff_IceAvatar",
+      "gearIcon": "SpecImage_FROST7",
       "gearName": "Frost's Caller",
       "skillName": "Frost's Caller",
       "manaCost": "21",

@@ -96,6 +96,7 @@
   "skills": [
     {
       "gameId": "Curse_DeathDisease",
+      "gearIcon": "SpecImage_CURSE1",
       "gearName": "Rotten Breath",
       "skillName": "Rot Manifest",
       "manaCost": "20",
@@ -112,6 +113,7 @@
     },
     {
       "gameId": "Curse_AntiMagic",
+      "gearIcon": "SpecImage_CURSE2",
       "gearName": "Hexlock",
       "skillName": "Hexbound Malice",
       "manaCost": "24",
@@ -128,6 +130,7 @@
     },
     {
       "gameId": "Curse_Infect",
+      "gearIcon": "SpecImage_CURSE3",
       "gearName": "Plaguespread",
       "skillName": "Pestilence",
       "manaCost": "22",
@@ -144,6 +147,7 @@
     },
     {
       "gameId": "Curse_Worm",
+      "gearIcon": "SpecImage_CURSE4",
       "gearName": "Infestor's Staff",
       "skillName": "Parasitic Swarm",
       "manaCost": "27",
@@ -160,6 +164,7 @@
     },
     {
       "gameId": "Curse_Clipple",
+      "gearIcon": "SpecImage_CURSE6",
       "gearName": "Nihilstaff",
       "skillName": "Crippling Curse",
       "manaCost": "25",
@@ -176,6 +181,7 @@
     },
     {
       "gameId": "Curse_Cloud",
+      "gearIcon": "SpecImage_CURSE5",
       "gearName": "Necromist",
       "skillName": "Necrotic Eruption",
       "manaCost": "31",
@@ -192,6 +198,7 @@
     },
     {
       "gameId": "Curse_Flower",
+      "gearIcon": "SpecImage_CURSE7",
       "gearName": "Withermaul",
       "skillName": "Bloom of Malice",
       "manaCost": "32",

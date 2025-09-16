@@ -96,6 +96,7 @@
   "skills": [
     {
       "gameId": "Gun_ShotGun",
+      "gearIcon": "SpecImage_GUN1",
       "gearName": "Shattercoil",
       "skillName": "Scatterblast",
       "manaCost": "11",
@@ -112,6 +113,7 @@
     },
     {
       "gameId": "Gun_GatlinGun",
+      "gearIcon": "SpecImage_GUN2",
       "gearName": "Sentinel Barrage",
       "skillName": "Sentinel Barrage",
       "manaCost": "30",
@@ -128,6 +130,7 @@
     },
     {
       "gameId": "Gun_ThreeGun",
+      "gearIcon": "SpecImage_GUN3",
       "gearName": "Burstfire Rifle",
       "skillName": "Rapid Fire",
       "manaCost": "28",
@@ -144,6 +147,7 @@
     },
     {
       "gameId": "Gun_Grenade",
+      "gearIcon": "SpecImage_GUN4",
       "gearName": "Blightspitter",
       "skillName": "Toxic Shroud",
       "manaCost": "13",
@@ -159,7 +163,8 @@
       }
     },
     {
-      "gameId": "Gun_Common_Skill_5",
+      "gameId": "Gun_Common_Skill_6",
+      "gearIcon": "SpecImage_GUN5",
       "gearName": "Shadowhunter Rifle",
       "skillName": "Snipe",
       "manaCost": "10",
@@ -176,6 +181,7 @@
     },
     {
       "gameId": "Gun_RayGun",
+      "gearIcon": "SpecImage_GUN8",
       "gearName": "Photonic Rifle",
       "skillName": "Photon Bolt",
       "manaCost": "23",
@@ -192,6 +198,7 @@
     },
     {
       "gameId": "Gun_RifleGun",
+      "gearIcon": "SpecImage_GUN5",
       "gearName": "Voideye",
       "skillName": "Deadshot",
       "manaCost": "24",
@@ -208,6 +215,7 @@
     },
     {
       "gameId": "Gun_PrismGun",
+      "gearIcon": "SpecImage_GUN7",
       "gearName": "Prism Cloak",
       "skillName": "Photon Activation",
       "manaCost": "22",

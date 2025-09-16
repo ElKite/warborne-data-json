@@ -96,6 +96,7 @@
   "skills": [
     {
       "gameId": "Spear_SpearDance",
+      "gearIcon": "SpecImage_SPEAR6",
       "gearName": "Sharspike",
       "skillName": "Bloodeye Burst",
       "manaCost": "21",
@@ -114,6 +115,7 @@
     },
     {
       "gameId": "Spear_Trinity",
+      "gearIcon": "SpecImage_SPEAR3",
       "gearName": "Sentinel's Lance",
       "skillName": "Banner of Justice",
       "manaCost": "23",
@@ -132,6 +134,7 @@
     },
     {
       "gameId": "Spear_Fling",
+      "gearIcon": "SpecImage_SPEAR1",
       "gearName": "Stormfang Lance",
       "skillName": "Surging Throw",
       "manaCost": "21",
@@ -150,6 +153,7 @@
     },
     {
       "gameId": "Spear_Sweep",
+      "gearIcon": "SpecImage_SPEAR7",
       "gearName": "Storm Spear",
       "skillName": "Sweeping Tempest",
       "manaCost": "22",
@@ -168,6 +172,7 @@
     },
     {
       "gameId": "Spear_DragonBack",
+      "gearIcon": "SpecImage_SPEAR8",
       "gearName": "Drakespike",
       "skillName": "Rapid Thrust",
       "manaCost": "28",
@@ -186,6 +191,7 @@
     },
     {
       "gameId": "Spear_SpiritHunter",
+      "gearIcon": "SpecImage_SPEAR4",
       "gearName": "Corrosive Piercer",
       "skillName": "Blightfall",
       "manaCost": "26",
@@ -204,6 +210,7 @@
     },
     {
       "gameId": "Spear_Bright",
+      "gearIcon": "SpecImage_SPEAR2",
       "gearName": "Phantom Spear",
       "skillName": "Shadow Dash",
       "manaCost": "18",

@@ -96,6 +96,7 @@
   "skills": [
     {
       "gameId": "Dagger_LongDagger",
+      "gearIcon": "SpecImage_DAGGER7",
       "gearName": "Hemoblades",
       "skillName": "Rend and Reap",
       "manaCost": "18",
@@ -114,6 +115,7 @@
     },
     {
       "gameId": "Dagger_BloodDagger",
+      "gearIcon": "SpecImage_DAGGER1",
       "gearName": "Twilight Blades",
       "skillName": "Blade Dance",
       "manaCost": "21",
@@ -132,6 +134,7 @@
     },
     {
       "gameId": "Dagger_DeathDagger",
+      "gearIcon": "SpecImage_DAGGER2",
       "gearName": "Soulfangs",
       "skillName": "Soul Snare",
       "manaCost": "20",
@@ -150,6 +153,7 @@
     },
     {
       "gameId": "Dagger_Dagger",
+      "gearIcon": "SpecImage_DAGGER5",
       "gearName": "Bloodpiercers",
       "skillName": "Rupture Thrust",
       "manaCost": "28",
@@ -168,13 +172,14 @@
     },
     {
       "gameId": "TwinDagger_BladeWind",
+      "gearIcon": "SpecImage_DAGGER4",
       "gearName": "Bloodfury Blades",
       "skillName": "Crimson Frenzy",
       "manaCost": "25",
       "cooldown": "23",
       "castingRange": "8",
       "type": "skill",
-      "description": "Deals \n[Damage Rate: 200%] Physical Damage + True\nDamage equal to 10% of the target's Max HP to nearby\nenemies, while also inflicting 2 stacks of [Bleed].\nIf this skill triggers Hemorrhage, recovers 10% of Max HP\nand gains 40%+ Movement Speed for 3s.",
+      "description": "Deals [Damage Rate: 200%] Physical Damage + True Damage equal to 10% of the target's Max HP to nearby\nenemies, while also inflicting 2 stacks of [Bleed].\nIf this skill triggers Hemorrhage, recovers 10% of Max HP\nand gains 40%+ Movement Speed for 3s.",
       "tierUnlock": "2",
       "rarity": "epic",
       "stats": {
@@ -186,6 +191,7 @@
     },
     {
       "gameId": "TwinDagger_HungerBlood",
+      "gearIcon": "SpecImage_DAGGER6",
       "gearName": "Bloodthirst",
       "skillName": "Sanguine Pounce",
       "manaCost": "22",
@@ -204,6 +210,7 @@
     },
     {
       "gameId": "Dagger_FastDagger",
+      "gearIcon": "SpecImage_DAGGER3",
       "gearName": "Scarlet Hunger",
       "skillName": "Bloodeye Burst",
       "manaCost": "30",

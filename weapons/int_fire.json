@@ -96,6 +96,7 @@
   "skills": [
     {
       "gameId": "FireStaff_Blazing",
+      "gearIcon": "SpecImage_FIRE2",
       "gearName": "Blazing Catalyst",
       "skillName": "Hellfire",
       "manaCost": "21",
@@ -112,6 +113,7 @@
     },
     {
       "gameId": "FireStaff_1HandStaff",
+      "gearIcon": "SpecImage_FIRE1",
       "gearName": "Flame Maw",
       "skillName": "Molten Blast",
       "manaCost": "20",
@@ -128,6 +130,7 @@
     },
     {
       "gameId": "FireStaff_Brimstone",
+      "gearIcon": "SpecImage_FIRE3",
       "gearName": "Doomfire",
       "skillName": "Scorching Surge",
       "manaCost": "22",
@@ -144,6 +147,7 @@
     },
     {
       "gameId": "FireStaff_Common_Skill_5",
+      "gearIcon": "SpecImage_FIRE4",
       "gearName": "Inferno Core",
       "skillName": "Core Flare",
       "manaCost": "20",
@@ -160,6 +164,7 @@
     },
     {
       "gameId": "FireStaff_Fanning",
+      "gearIcon": "SpecImage_FIRE6",
       "gearName": "Blazruptor",
       "skillName": "Hell Salvo",
       "manaCost": "23",
@@ -176,6 +181,7 @@
     },
     {
       "gameId": "FireStaff_Dawnsong",
+      "gearIcon": "SpecImage_FIRE5",
       "gearName": "Solarflare",
       "skillName": "Starforge Beam",
       "manaCost": "30",
@@ -192,6 +198,7 @@
     },
     {
       "gameId": "FireStaff_LavaCannonade",
+      "gearIcon": "SpecImage_FIRE7",
       "gearName": "Molten Mortar",
       "skillName": "Molten Volley",
       "manaCost": "20",
