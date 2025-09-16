@@ -3,6 +3,7 @@
   "head_strength": [
     {
       "gameId": "Helm_Str_5",
+      "gearIcon": "SpecImage_HELMET3",
       "gearName": "Furor's Helm",
       "skillName": "Enrage",
       "manaCost": "",
@@ -19,6 +20,7 @@
     },
     {
       "gameId": "Helm_Str_4",
+      "gearIcon": "SpecImage_HELMET4",
       "gearName": "Reptilian Helm",
       "skillName": "Iron Wall",
       "manaCost": "",
@@ -35,6 +37,7 @@
     },
     {
       "gameId": "Helm_Str_3",
+      "gearIcon": "SpecImage_HELMET2",
       "gearName": "Hellfire Visor",
       "skillName": "Flame Star",
       "manaCost": "",
@@ -51,6 +54,7 @@
     },
     {
       "gameId": "Helm_Str_1",
+      "gearIcon": "SpecImage_HELMET6",
       "gearName": "Ironclad Helm",
       "skillName": "Scale Armor",
       "manaCost": "",
@@ -67,6 +71,7 @@
     },
     {
       "gameId": "Helm_Str_6",
+      "gearIcon": "SpecImage_HELMET1",
       "gearName": "Savage Helm",
       "skillName": "EMP Blast",
       "manaCost": "",
@@ -83,6 +88,7 @@
     },
     {
       "gameId": "Helm_Str_7",
+      "gearIcon": "SpecImage_HELMET5",
       "gearName": "Stormveil Mask",
       "skillName": "Sandstorm",
       "manaCost": "",
@@ -99,6 +105,7 @@
     },
     {
       "gameId": "Helm_Str_8",
+      "gearIcon": "SpecImage_HELMET7",
       "gearName": "Warden's Gaze",
       "skillName": "Forward Guard",
       "manaCost": "",
@@ -115,6 +122,7 @@
     },
     {
       "gameId": "Helm_Str_9",
+      "gearIcon": "SpecImage_HELMET8",
       "gearName": "Riposte Helm",
       "skillName": "Hardened Guard",
       "manaCost": "",

@@ -3,6 +3,7 @@
   "head_dexterity": [
     {
       "gameId": "Helm_Dex_2",
+      "gearIcon": "SpecImage_HOOD2",
       "gearName": "Vital Mantle",
       "skillName": "Life Flash",
       "manaCost": "",
@@ -20,6 +21,7 @@
     },
     {
       "gameId": "Helm_Dex_3",
+      "gearIcon": "SpecImage_HOOD1",
       "gearName": "Stormcaller's Hood",
       "skillName": "Electrified Strike",
       "manaCost": "",
@@ -37,6 +39,7 @@
     },
     {
       "gameId": "Helm_Dex_5",
+      "gearIcon": "SpecImage_HOOD5",
       "gearName": "Shadeveil Mask",
       "skillName": "Fade Out",
       "manaCost": "",
@@ -54,6 +57,7 @@
     },
     {
       "gameId": "Helm_Dex_8",
+      "gearIcon": "SpecImage_HOOD7",
       "gearName": "Purifier's Shroud",
       "skillName": "Dodge",
       "manaCost": "",
@@ -71,6 +75,7 @@
     },
     {
       "gameId": "Helm_Dex_7",
+      "gearIcon": "SpecImage_HOOD6",
       "gearName": "Wrathveil Shade",
       "skillName": "Rage",
       "manaCost": "",
@@ -88,6 +93,7 @@
     },
     {
       "gameId": "Helm_Dex_1",
+      "gearIcon": "SpecImage_HOOD3",
       "gearName": "Ironwill veil",
       "skillName": "Defiance",
       "manaCost": "",
@@ -105,6 +111,7 @@
     },
     {
       "gameId": "Helm_Dex_4",
+      "gearIcon": "SpecImage_HOOD4",
       "gearName": "Folly Helm",
       "skillName": "Break Free",
       "manaCost": "",
@@ -122,6 +129,7 @@
     },
     {
       "isActive": false,
+      "gearIcon": "SpecImage_HOOD8",
       "gameId": "Helm_Dex_9",
       "gearName": "Helm_Dex_9",
       "skillName": "Helm_Dex_9",

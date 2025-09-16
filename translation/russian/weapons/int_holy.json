@@ -96,6 +96,7 @@
   "skills": [
     {
       "gameId": "HolyStaff_Shield",
+      "gearIcon": "SpecImage_STAFF4",
       "gearName": "Judgement's Staff",
       "skillName": "Aegisflare",
       "manaCost": "19",
@@ -112,6 +113,7 @@
     },
     {
       "gameId": "HolyStaff_LeapFaith",
+      "gearIcon": "SpecImage_STAFF1",
       "gearName": "Guardian's Embrace",
       "skillName": "Divine Vault",
       "manaCost": "22",
@@ -128,6 +130,7 @@
     },
     {
       "gameId": "HolyStaff_Redemption",
+      "gearIcon": "SpecImage_STAFF3",
       "gearName": "Luminous Ward",
       "skillName": "Sanctum Arc",
       "manaCost": "25",
@@ -144,6 +147,7 @@
     },
     {
       "gameId": "HolyStaff_SingleHoly",
+      "gearIcon": "SpecImage_STAFF5",
       "gearName": "Divine Resonator",
       "skillName": "Sanctified Domain",
       "manaCost": "25",
@@ -160,6 +164,7 @@
     },
     {
       "gameId": "HolyStaff_HolyShine",
+      "gearIcon": "SpecImage_STAFF6",
       "gearName": "Radiant Nova",
       "skillName": "Sacred Flare",
       "manaCost": "25",
@@ -176,6 +181,7 @@
     },
     {
       "gameId": "HolyStaff_Fallen",
+      "gearIcon": "SpecImage_STAFF2",
       "gearName": "Celestial Redeemer",
       "skillName": "Blessed Halo",
       "manaCost": "33",
@@ -192,6 +198,7 @@
     },
     {
       "gameId": "HolyStaff_HolyGuardian",
+      "gearIcon": "SpecImage_STAFF7",
       "gearName": "Sol Protector",
       "skillName": "Sanctuary",
       "manaCost": "35",
@@ -208,6 +215,7 @@
     },
     {
       "isActive": false,
+      "gearIcon": "SpecImage_STAFF8",
       "gameId": "HolyStaff_Fulgent",
       "gearName": "Fulgent Staff",
       "skillName": "",

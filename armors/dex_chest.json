@@ -3,6 +3,7 @@
   "chest_dexterity": [
     {
       "gameId": "Cloth_Dex_6",
+      "gearIcon": "SpecImage_JACKET6",
       "gearName": "Recovery Vest",
       "skillName": "Bandage",
       "manaCost": "",
@@ -15,6 +16,7 @@
     },
     {
       "gameId": "Cloth_Dex_3",
+      "gearIcon": "SpecImage_JACKET3",
       "gearName": "Deathmantle",
       "skillName": "Finisher",
       "manaCost": "",
@@ -27,6 +29,7 @@
     },
     {
       "gameId": "Cloth_Dex_4",
+      "gearIcon": "SpecImage_JACKET4",
       "gearName": "Retaliation Coat",
       "skillName": "Reflect",
       "manaCost": "",
@@ -39,6 +42,7 @@
     },
     {
       "gameId": "Cloth_Dex_5",
+      "gearIcon": "SpecImage_JACKET7",
       "gearName": "Mistshroud",
       "skillName": "Smoke Screen",
       "manaCost": "",
@@ -51,6 +55,7 @@
     },
     {
       "gameId": "Cloth_Dex_7",
+      "gearIcon": "SpecImage_JACKET2",
       "gearName": "Beastcaller's Coat",
       "skillName": "Snarl",
       "manaCost": "",
@@ -63,6 +68,7 @@
     },
     {
       "gameId": "Cloth_Dex_1",
+      "gearIcon": "SpecImage_JACKET1",
       "gearName": "Ranger's Hide",
       "skillName": "Armor Breaker",
       "manaCost": "",
@@ -80,6 +86,7 @@
     },
     {
       "gameId": "Cloth_Dex_2",
+      "gearIcon": "SpecImage_JACKET5",
       "gearName": "Hero's Embrace",
       "skillName": "Rally",
       "manaCost": "",
