@@ -3,6 +3,7 @@
   "head_intelligence": [
     {
       "gameId": "Helm_Int_7",
+      "gearIcon": "SpecImage_COWL1",
       "gearName": "Breezeweaver",
       "skillName": "Amplify",
       "manaCost": "",
@@ -20,6 +21,7 @@
     },
     {
       "gameId": "Helm_Int_1",
+      "gearIcon": "SpecImage_COWL3",
       "gearName": "Healer's Hood",
       "skillName": "Swift Aid",
       "manaCost": "",
@@ -37,6 +39,7 @@
     },
     {
       "gameId": "Helm_Int_2",
+      "gearIcon": "SpecImage_COWL6",
       "gearName": "Crimson Breeze",
       "skillName": "Grievous Wounds",
       "manaCost": "",
@@ -54,6 +57,7 @@
     },
     {
       "gameId": "Helm_Int_3",
+      "gearIcon": "SpecImage_COWL5",
       "gearName": "Earth Vein Hood",
       "skillName": "Miasma",
       "manaCost": "",
@@ -71,6 +75,7 @@
     },
     {
       "gameId": "Helm_Int_4",
+      "gearIcon": "SpecImage_COWL2",
       "gearName": "Mystic Surge",
       "skillName": "Overflow",
       "manaCost": "",
@@ -88,6 +93,7 @@
     },
     {
       "gameId": "Helm_Int_5",
+      "gearIcon": "SpecImage_COWL4",
       "gearName": "Sanctum Shroud",
       "skillName": "Repulsion",
       "manaCost": "",
@@ -105,6 +111,7 @@
     },
     {
       "gameId": "Helm_Int_8",
+      "gearIcon": "SpecImage_COWL7",
       "gearName": "Twilight Mantle",
       "skillName": "Last Stand",
       "manaCost": "",

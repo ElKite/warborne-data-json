@@ -3,6 +3,7 @@
   "chest_strength": [
     {
       "gameId": "Cloth_Str_4",
+      "gearIcon": "SpecImage_ARMOR4",
       "gearName": "Guardian's Blessing",
       "skillName": "Block",
       "manaCost": "",
@@ -15,6 +16,7 @@
     },
     {
       "gameId": "Cloth_Str_1",
+      "gearIcon": "SpecImage_ARMOR1",
       "gearName": "Aegis Plate",
       "skillName": "Shield",
       "manaCost": "",
@@ -27,6 +29,7 @@
     },
     {
       "gameId": "Cloth_Str_2",
+      "gearIcon": "SpecImage_ARMOR2",
       "gearName": "Dazzling Guard",
       "skillName": "Stun",
       "manaCost": "",
@@ -39,6 +42,7 @@
     },
     {
       "gameId": "Cloth_Str_6",
+      "gearIcon": "SpecImage_ARMOR6",
       "gearName": "Tempest Charge",
       "skillName": "Charge",
       "manaCost": "",
@@ -51,6 +55,7 @@
     },
     {
       "gameId": "Cloth_Str_8",
+      "gearIcon": "SpecImage_ARMOR7",
       "gearName": "Tangle Guard",
       "skillName": "Root Grip",
       "manaCost": "",
@@ -63,6 +68,7 @@
     },
     {
       "gameId": "Cloth_Str_3",
+      "gearIcon": "SpecImage_ARMOR3",
       "gearName": "Warden's Shell",
       "skillName": "Vulnerability",
       "manaCost": "",
@@ -79,6 +85,7 @@
     },
     {
       "gameId": "Cloth_Str_5",
+      "gearIcon": "SpecImage_ARMOR5",
       "gearName": "Magsurge Armor",
       "skillName": "Converge",
       "manaCost": "",
@@ -95,6 +102,7 @@
     },
     {
       "isActive": false,
+      "gearIcon": "SpecImage_ARMOR8",
       "gameId": "Cloth_Str_9",
       "gearName": "Cloth_Str_9",
       "skillName": "Cloth_Str_9",

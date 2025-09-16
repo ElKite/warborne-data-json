@@ -96,6 +96,7 @@
   "skills": [
     {
       "gameId": "Nature_MoonFire",
+      "gearIcon": "SpecImage_NATURE1",
       "gearName": "Eclipse Conduit",
       "skillName": "Crater Surge",
       "manaCost": "21",
@@ -112,6 +113,7 @@
     },
     {
       "gameId": "Nature_TreeSkin",
+      "gearIcon": "SpecImage_NATURE2",
       "gearName": "Thornward Staff",
       "skillName": "Thorn Barrier",
       "manaCost": "28",
@@ -128,6 +130,7 @@
     },
     {
       "gameId": "Nature_HealRain",
+      "gearIcon": "SpecImage_NATURE3",
       "gearName": "Harmony's Staff",
       "skillName": "Rain of Serenity",
       "manaCost": "30",
@@ -144,6 +147,7 @@
     },
     {
       "gameId": "Nature_Tranquility",
+      "gearIcon": "SpecImage_NATURE4",
       "gearName": "Verdant Embrace",
       "skillName": "Healing Bloom",
       "manaCost": "18",
@@ -160,6 +164,7 @@
     },
     {
       "gameId": "Nature_TwineSeed",
+      "gearIcon": "SpecImage_NATURE6",
       "gearName": "Tendril's Grasp",
       "skillName": "Entangling Growth",
       "manaCost": "23",
@@ -176,6 +181,7 @@
     },
     {
       "gameId": "Nature_NatureToxin",
+      "gearIcon": "SpecImage_NATURE8",
       "gearName": "VenomStave",
       "skillName": "Toxine Injection",
       "manaCost": "23",
@@ -192,6 +198,7 @@
     },
     {
       "gameId": "Nature_HolyDeer",
+      "gearIcon": "SpecImage_NATURE5",
       "gearName": "Spirit's Call",
       "skillName": "Breeze of Resurgence",
       "manaCost": "30",
@@ -208,6 +215,7 @@
     },
     {
       "gameId": "Nature_GodTree",
+      "gearIcon": "SpecImage_NATURE7",
       "gearName": "Sanctuary of Growth",
       "skillName": "Divine Rootfall",
       "manaCost": "37",

@@ -96,6 +96,7 @@
   "skills": [
     {
       "gameId": "Sword_ZeroSlash",
+      "gearIcon": "SpecImage_SWORD4",
       "gearName": "Storm Cleaver",
       "skillName": "Tempest Slash",
       "manaCost": "21",
@@ -114,6 +115,7 @@
     },
     {
       "gameId": "Sword_Claymore",
+      "gearIcon": "SpecImage_SWORD1",
       "gearName": "Hellcore Cleaver",
       "skillName": "Overload Slash",
       "manaCost": "21",
@@ -132,6 +134,7 @@
     },
     {
       "gameId": "Sword_Clarent",
+      "gearIcon": "SpecImage_SWORD3",
       "gearName": "Voidblade",
       "skillName": "Force Pierce",
       "manaCost": "23",
@@ -150,6 +153,7 @@
     },
     {
       "gameId": "Sword_KingSlash",
+      "gearIcon": "SpecImage_SWORD5",
       "gearName": "Lordbreaker",
       "skillName": "Sovereign Strike",
       "manaCost": "23",
@@ -168,6 +172,7 @@
     },
     {
       "gameId": "Sword_Knight",
+      "gearIcon": "SpecImage_SWORD6",
       "gearName": "Titan's Spineblade",
       "skillName": "Titan's Stride",
       "manaCost": "32",
@@ -186,6 +191,7 @@
     },
     {
       "gameId": "Sword_Carving",
+      "gearIcon": "SpecImage_SWORD2",
       "gearName": "Judicator",
       "skillName": "Obliteration",
       "manaCost": "28",
@@ -204,6 +210,7 @@
     },
     {
       "gameId": "Sword_ThousandBlade",
+      "gearIcon": "SpecImage_SWORD7",
       "gearName": "Sovereign's Radiance",
       "skillName": "Thousandfold Strike",
       "manaCost": "28",
@@ -223,6 +230,7 @@
     {
       "isActive": false,
       "gameId": "Sword_BloodSword_skill",
+      "gearIcon": "SpecImage_SWORD8",
       "gearName": "Blood Sword",
       "skillName": "",
       "manaCost": "",

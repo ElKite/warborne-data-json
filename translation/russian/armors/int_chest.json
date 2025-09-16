@@ -3,6 +3,7 @@
   "chest_intelligence": [
     {
       "gameId": "Cloth_Int_3",
+      "gearIcon": "SpecImage_ROBE3",
       "gearName": "Vigorcloak",
       "skillName": "Heal",
       "manaCost": "",
@@ -15,6 +16,7 @@
     },
     {
       "gameId": "Cloth_Int_1",
+      "gearIcon": "SpecImage_ROBE1",
       "gearName": "Cleansing Robe",
       "skillName": "Purify",
       "manaCost": "",
@@ -27,6 +29,7 @@
     },
     {
       "gameId": "Cloth_Int_4",
+      "gearIcon": "SpecImage_ROBE4",
       "gearName": "Archaneweaver",
       "skillName": "Mana Font",
       "manaCost": "",
@@ -39,6 +42,7 @@
     },
     {
       "gameId": "Cloth_Int_5",
+      "gearIcon": "SpecImage_ROBE6",
       "gearName": "Exorcist's Robe",
       "skillName": "Dispel",
       "manaCost": "",
@@ -51,6 +55,7 @@
     },
     {
       "gameId": "Cloth_Int_7",
+      "gearIcon": "SpecImage_ROBE2",
       "gearName": "Repulsor Mantle",
       "skillName": "Repulse",
       "manaCost": "",
@@ -63,6 +68,7 @@
     },
     {
       "gameId": "Cloth_Int_8",
+      "gearIcon": "SpecImage_ROBE7",
       "gearName": "Warding Shroud",
       "skillName": "Barrier",
       "manaCost": "",
@@ -81,6 +87,7 @@
     },
     {
       "gameId": "Cloth_Int_2",
+      "gearIcon": "SpecImage_ROBE5",
       "gearName": "Dreadcloak",
       "skillName": "Panic",
       "manaCost": "",
@@ -99,6 +106,7 @@
     },
     {
       "gameId": "Cloth_Int_10",
+      "gearIcon": "SpecImage_ROBE8",
       "gearName": "Aegis Robe",
       "skillName": "Warding",
       "manaCost": "",

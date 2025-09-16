@@ -3,6 +3,7 @@
   "boots_dexterity": [
     {
       "gameId": "Shoes_Dex_3",
+      "gearIcon" : "SpecImage_SHOES5",
       "gearName": "Rallystep Boots",
       "skillName": "Sidestep",
       "manaCost": "",
@@ -20,6 +21,7 @@
     },
     {
       "gameId": "Shoes_Dex_1",
+      "gearIcon" : "SpecImage_SHOES2",
       "gearName": "Swiftstride Boots",
       "skillName": "Attack Speed",
       "manaCost": "",
@@ -32,6 +34,7 @@
     },
     {
       "gameId": "Shoes_Dex_2",
+      "gearIcon" : "SpecImage_SHOES1",
       "gearName": "Fleeting Steps",
       "skillName": "Grace",
       "manaCost": "",
@@ -44,6 +47,7 @@
     },
     {
       "gameId": "Shoes_Dex_4",
+      "gearIcon" : "SpecImage_SHOES3",
       "gearName": "Deathwalker Boots",
       "skillName": "Assassinate",
       "manaCost": "",
@@ -56,6 +60,7 @@
     },
     {
       "gameId": "Shoes_Dex_7",
+      "gearIcon" : "SpecImage_SHOES6",
       "gearName": "Shadeveil Slippers",
       "skillName": "Vanish",
       "manaCost": "",
@@ -68,6 +73,7 @@
     },
     {
       "gameId": "Shoes_Dex_9",
+      "gearIcon" : "SpecImage_SHOES8",
       "gearName": "Whirlwind Boots",
       "skillName": "Cyclone",
       "manaCost": "",
@@ -85,6 +91,7 @@
     },
     {
       "gameId": "Shoes_Dex_5",
+      "gearIcon" : "SpecImage_SHOES4",
       "gearName": "Evasion Striders",
       "skillName": "Escape",
       "manaCost": "",
@@ -102,6 +109,7 @@
     },
     {
       "gameId": "Shoes_Dex_8",
+      "gearIcon" : "SpecImage_SHOES7",
       "gearName": "Exodrift Slippers",
       "skillName": "Phase Shift",
       "manaCost": "",

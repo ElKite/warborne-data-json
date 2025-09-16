@@ -96,6 +96,7 @@
   "skills": [
     {
       "gameId": "Bow_ArrowRain",
+      "gearIcon": "SpecImage_BOW4",
       "gearName": "Hailfire",
       "skillName": "Barrage",
       "manaCost": "11",
@@ -112,6 +113,7 @@
     },
     {
       "gameId": "Bow_War",
+      "gearIcon": "SpecImage_BOW1",
       "gearName": "Predator's Splitbow",
       "skillName": "Splintershot",
       "manaCost": "25",
@@ -128,6 +130,7 @@
     },
     {
       "gameId": "Bow_Eighteen",
+      "gearIcon": "SpecImage_BOW2",
       "gearName": "Kinetic Arc",
       "skillName": "PowerShot",
       "manaCost": "23",
@@ -144,6 +147,7 @@
     },
     {
       "gameId": "Bow_Thunder",
+      "gearIcon": "SpecImage_BOW5",
       "gearName": "Thunderstrike",
       "skillName": "Arcbolt",
       "manaCost": "25",
@@ -160,6 +164,7 @@
     },
     {
       "gameId": "Bow_WindArrow",
+      "gearIcon": "SpecImage_BOW6",
       "gearName": "Windbreaker",
       "skillName": "Windrend Splitters",
       "manaCost": "21",
@@ -176,6 +181,7 @@
     },
     {
       "gameId": "Bow_Light",
+      "gearIcon": "SpecImage_BOW3",
       "gearName": "Mender's Ruin",
       "skillName": "Severance Shot",
       "manaCost": "14",
@@ -192,6 +198,7 @@
     },
     {
       "gameId": "Bow_GravityArrow",
+      "gearIcon": "SpecImage_BOW7",
       "gearName": "Eclypse Bow",
       "skillName": "Shadow Vortex",
       "manaCost": "20",

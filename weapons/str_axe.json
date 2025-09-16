@@ -96,6 +96,7 @@
   "skills": [
     {
       "gameId": "Axe_Whirlwind",
+      "gearIcon": "SpecImage_AXE2",
       "gearName": "Berserker's Fury",
       "skillName": "Whirlwind Slash",
       "manaCost": "22",
@@ -114,6 +115,7 @@
     },
     {
       "gameId": "Axe_Throw",
+      "gearIcon": "SpecImage_AXE2",
       "gearName": "Emerald Edge",
       "skillName": "Runic Rebound",
       "manaCost": "25",
@@ -132,6 +134,7 @@
     },
     {
       "gameId": "Axe_Slayer",
+      "gearIcon": "SpecImage_AXE6",
       "gearName": "Ravager's Cleave",
       "skillName": "Execution",
       "manaCost": "28",
@@ -150,6 +153,7 @@
     },
     {
       "gameId": "Axe_JumpSlash",
+      "gearIcon": "SpecImage_AXE7",
       "gearName": "Bonefang Reaper",
       "skillName": "Bonecrusher Leap",
       "manaCost": "24",
@@ -168,6 +172,7 @@
     },
     {
       "gameId": "Axe_GiantSwing",
+      "gearIcon": "SpecImage_AXE4",
       "gearName": "Cyclone Cleave",
       "skillName": "Vortex Toss",
       "manaCost": "28",
@@ -186,6 +191,7 @@
     },
     {
       "gameId": "Axe_Flywheel",
+      "gearIcon": "SpecImage_AXE5",
       "gearName": "Wreckingsaw",
       "skillName": "Bladewheel Throw",
       "manaCost": "32",
@@ -204,6 +210,7 @@
     },
     {
       "gameId": "Axe_DoubleWhirl",
+      "gearIcon": "SpecImage_AXE3",
       "gearName": "Wingblade",
       "skillName": "Twinstorm",
       "manaCost": "29",
