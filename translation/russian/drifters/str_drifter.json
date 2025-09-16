@@ -3,7 +3,7 @@
   "drifters": {
     "paragon_str_1": {
       "gameId": "paragon_str_1",
-      "name": "Sirokos",
+      "name": "Сирокс",
       "strBonus": "2.5",
       "dexBonus": "1",
       "intBonus": "1",
@@ -11,8 +11,8 @@
       "baseDex": "10",
       "baseInt": "20",
       "supportStationBonus": {
-        "supportBonus": "Base Control Resistance",
-        "supportMalus": "Damage Boost",
+        "supportBonus": "Базовое сопротивление контролю",
+        "supportMalus": "Бонус к урону",
         "supportBonusValue": "+3.23",
         "supportMalusValue": "-1.07%"
       },
@@ -35,30 +35,30 @@
       },
       "skill": {
         "gameId": "Paragon_Skill_Str_1",
-        "gearName": "Sirokos",
-        "skillName": "Sandstorm Dominion",
+        "gearName": "Сирокос",
+        "skillName": "Владычество самума",
         "manaCost": "25",
         "cooldown": "28",
         "castingRange": "8",
-        "type": "skill",
-        "description": "Creates a Sandstorm around the caster, pushing all enemies outside. Channels for 6s with +45% Damage Resistance and control immunity. Enemies touching the field take \n[Damage Rate: 300%] Physical Damage, Slowed by 60% for 4s and dispelled from all buffs. Also knocks them back 11m from center. The Sandstorm applies 60% Slow.",
+        "type": "активный",
+        "description": "Создает вокруг заклинателя песчаную бурю, которая\nвыталкивает всех врагов наружу. Поддерживает\nэффект в течение 6 сек. и получает +45% к\nсопротивлению урону, а также иммунитет к контролю.\nВраги, соприкасающиеся с ветровым полем, получают\n[Уровень урона: 300%] ед. физического урона, на 4сек.\nэффект безмолвия и замедления на 60%, а также\nотбрасываются на 11м от центра и теряют все\nусиления.",
         "tierUnlock": "1"
       },
       "passive": {
         "gameId": "Paragon_Skill_Str_1_Passive",
-        "gearName": "Sirokos",
-        "skillName": "Sand Veil",
+        "gearName": "Сирокос",
+        "skillName": "Песчаная завеса",
         "manaCost": "",
         "cooldown": "20",
         "castingRange": "",
-        "type": "passive",
-        "description": "Creates a circular storm field around the caster for 4s when causing Forced Movement (Pull, Knockback). Deals \n[Damage Rate: 100%] Physical Damage to enemies in field, inflicting Silence and a 40% chance to miss Basic Attacks for 3s. (Cooldown: 20s)",
+        "type": "пассивный",
+        "description": "При использовании эффекта принудительного\nперемещения (притягивание, отбрасывание) на 4сек.\nсоздает вокруг себя круглую штормовую зону. Враги в\nзоне получают [Уровень урона: 100%] ед. Физического\nурона, получают эффект безмолвия, а их обычные атаки\nс вероятностью 40% проходят мимо цели. Эффект\nдлится Зсек., (Откат: 20 сек.)",
         "tierUnlock": "4"
       }
     },
     "paragon_str_2": {
       "gameId": "paragon_str_2",
-      "name": "Kyra",
+      "name": "Кайра",
       "strBonus": "2",
       "dexBonus": "1.1",
       "intBonus": "1",
@@ -66,8 +66,8 @@
       "baseDex": "15",
       "baseInt": "15",
       "supportStationBonus": {
-        "supportBonus": "Armor ",
-        "supportMalus": "Physical Damage Bonus",
+        "supportBonus": "Броня ",
+        "supportMalus": "Бонус к физическому урону",
         "supportBonusValue": "+9.00%",
         "supportMalusValue": " -3.60%"
       },
@@ -90,30 +90,30 @@
       },
       "skill": {
         "gameId": "Paragon_Skill_Str_2",
-        "gearName": "Kyra",
-        "skillName": "Frozen Maelstrom",
+        "gearName": "Кайра",
+        "skillName": "Замерзший водоворот",
         "manaCost": "25",
         "cooldown": "28",
         "castingRange": "10",
-        "type": "skill",
-        "description": "After a brief charge-up, unleash a Frozen Maelstrom forward, dealing \n[Damage Rate: 200%] Magic Damage to enemies in the area, applying Slow by 40%% and reducing Attack Speed by 40%%, lasting 6s. The punch also deals \n[Damage Rate: 300%] additional Magic Damage to enemies directly in front and applies Frozen for 3s.",
+        "type": "активный",
+        "description": "После короткой подготовки выпускает перед собой\nзамерзший водоворот, который наносит врагам в\nобласти поражения 374[Уровень урона: 200%) ед.\nмагического урона врагам, на бсек. замедляет их на 40%\nи снижает скорость атаки на 40% Дополнительно\nнаносит 561[Уровень урона: 300%] ед. магического\nурона врагам прямо перед собой и замораживает их на\nЗсек..",
         "tierUnlock": "1"
       },
       "passive": {
         "gameId": "Paragon_Skill_Str_2_Passive",
-        "gearName": "Kyra",
-        "skillName": "Fractured Ice",
+        "gearName": "Кайра",
+        "skillName": "Разлом льда",
         "manaCost": "",
         "cooldown": "20",
         "castingRange": "",
-        "type": "passive",
-        "description": "Gains 25% Damage Resistance if damage is dealt within 5s, lasts for 6s. When taking damage during this time,sends forth freezing air in all directions, dealing \n[Damage Rate: 80%] Magic Damage to targets within range, reducing Attack Speed by 30% and Movement Speed by 30% for 4s. Minimum interval of 1s. (Cooldown: 20s)",
+        "type": "пассивный",
+        "description": "После применения навыка, если в течение 5 секунд был\nнанесен урон, сопротивление урону повышается на 25%,\nдлительность бсек., одновременно излучает холод\nвокруг себя, нанося 149[Уровень урона: 80%] магический\nурон и снижая скорость атаки на 30%, замедление на\n30% в секунду, длительность 4сек. (перезарядка: 20\nсекунд)",
         "tierUnlock": "4"
       }
     },
     "paragon_str_3": {
       "gameId": "paragon_str_3",
-      "name": "Izzy",
+      "name": "Иззи",
       "strBonus": "3.1",
       "dexBonus": "0.5",
       "intBonus": "0.5",
@@ -121,8 +121,8 @@
       "baseDex": "5",
       "baseInt": "20",
       "supportStationBonus": {
-        "supportBonus": "Control Boost (PvP)",
-        "supportMalus": "Damage Resistance",
+        "supportBonus": "Усиление контроля (PvP)",
+        "supportMalus": "Сопротивление урону",
         "supportBonusValue": " +3.23",
         "supportMalusValue": " -1.07%"
       },
@@ -145,30 +145,30 @@
       },
       "skill": {
         "gameId": "Paragon_Skill_Str_3",
-        "gearName": "Izzy",
-        "skillName": "Acid Blast",
+        "gearName": "Иззи",
+        "skillName": "Кислотный взрыв",
         "manaCost": "27",
         "cooldown": "42",
         "castingRange": "7",
-        "type": "skill",
-        "description": "Sprays ooze for 4s, creating 4 ooze zones every second that last 8.5s. Enemies in ooze zones are Slowed by 50%. Enemies entering ooze zones gain [Acid Blast].  [Acid Blast] Reduces Damage by 40% and cancels Stealth. Takes \n[Damage Rate: 20%] Magic Damage every 1s per stack for 6s. Stacks up to 3 times.",
+        "type": "активный",
+        "description": "Непрерывно распыляет кислоту в течение 4 секунд.\nкаждую секунду случайным образом рассеивает 4\nкапли кислоты, создавая зону кислоты, длительностью\n8.5сек .. Враги внутри замедляются на 50%. Враги,\nвходящие в зону кислоты, получают [Кислотнвя\nпутаница\n[Кислотная путаница]: уменьшение урона на 40%,\nотмена невидимости, наносит 27[Уровень урона: 20%]\nмагического урона в секунду на каждом уровне, длится\nбсек., максимальное количество стаков 3",
         "tierUnlock": "1"
       },
       "passive": {
         "gameId": "Paragon_Skill_Str_3_Passive",
-        "gearName": "Izzy",
-        "skillName": "Corrosion Barrier",
+        "gearName": "Иззи",
+        "skillName": "Коррозионный барьер",
         "manaCost": "",
         "cooldown": "",
         "castingRange": "",
-        "type": "passive",
-        "description": "After taking 5 instances of damage, releases acid outward, dealing \n[Damage Rate: 70%] Magic Damage to enemies in range, reducing their damage dealt by 25% and Movement Speed by 25% for 4s.",
+        "type": "пассивный",
+        "description": "После получения урона 5 раз выпускает кислоту,\nкоторая наносит врагам в зоне поражения 97[Уровень\nурона: 70%] ед. магического урона и на 4сек. снижает\nнаносимый ими урон на 25%, а скорость передвижения\n- на 25%.",
         "tierUnlock": "4"
       }
     },
     "paragon_str_4": {
       "gameId": "paragon_str_4",
-      "name": "Varnax",
+      "name": "Варнакс",
       "strBonus": "2.4",
       "dexBonus": "1.5",
       "intBonus": "0.8",
@@ -176,8 +176,8 @@
       "baseDex": "20",
       "baseInt": "15",
       "supportStationBonus": {
-        "supportBonus": "Damage Bonus (PvE)",
-        "supportMalus": "Damage Resistance (PvE)",
+        "supportBonus": "Бонус к урону (PvE)",
+        "supportMalus": "Сопротивление урону (PvE)",
         "supportBonusValue": " +4.52",
         "supportMalusValue": " -3.01%"
       },
@@ -200,30 +200,30 @@
       },
       "skill": {
         "gameId": "Paragon_Skill_Str_4",
-        "gearName": "Varnax",
-        "skillName": "Magma Slam",
+        "gearName": "Варнакс",
+        "skillName": "Магматический удар",
         "manaCost": "17",
         "cooldown": "18",
         "castingRange": "10",
-        "type": "skill",
-        "description": "Leaps to the target location. Gains immunity to control during leap. Deals\n[Damage Rate: 350%] Physical Damage and knocks enemies in the area up for 1.5s.",
+        "type": "активный",
+        "description": "Прыгает в указанную точку. На время прыжка получает\nиммунитет к контролю. Наносит 1015[Уровень урона:\n350%] ед. физического урона и подбрасывает врагов в\nзоне поражения на 1.5сек..",
         "tierUnlock": "1"
       },
       "passive": {
         "gameId": "Paragon_Skill_Str_4_Passive",
-        "gearName": "Varnax",
-        "skillName": "Seismic Impact",
+        "gearName": "Варнакс",
+        "skillName": "Удар разрыва",
         "manaCost": "",
         "cooldown": "5",
         "castingRange": "",
-        "type": "passive",
-        "description": "When inflicting Immobilize or Hard Control (Stun, Fear, Freeze, Knockup, Petrify), drops a meteor after 1s, dealing\n[Damage Rate: 150%] Physical Damage and 30% Slow for 3s. (Cooldown: 5s)",
+        "type": "пассивный",
+        "description": "Через 1 секунду после наложения обездвиживания или\nэффекта жесткого контроля (оглушение, страх,\nзаморозка, подбрасывание, окаменение) падает\nметеор, который наносит 435[Уровень урона: 150%] ед.\nфизического урона и на Зсек. замедляет врагов на 30%.\n(Откат: 5 сек.)",
         "tierUnlock": "4"
       }
     },
     "paragon_str_5": {
       "gameId": "paragon_str_5",
-      "name": "Aegis",
+      "name": "Эгида",
       "strBonus": "2.2",
       "dexBonus": "0.5",
       "intBonus": "1.4",
@@ -231,8 +231,8 @@
       "baseDex": "15",
       "baseInt": "15",
       "supportStationBonus": {
-        "supportBonus": "Damage Resistance (PvE)",
-        "supportMalus": "Damage Bonus (PvE) ",
+        "supportBonus": "Сопротивление урону (PvE)",
+        "supportMalus": "Бонус к урону (PvE) ",
         "supportBonusValue": " +3.23%",
         "supportMalusValue": "-2.15%"
       },
@@ -255,30 +255,30 @@
       },
       "skill": {
         "gameId": "Paragon_Skill_Str_5",
-        "gearName": "Aegis",
-        "skillName": "Shield of Conviction",
+        "gearName": "Эгида",
+        "skillName": "Щит убеждения",
         "manaCost": "27",
         "cooldown": "42",
         "castingRange": "7",
-        "type": "skill",
-        "description": "Grants Shield of Conviction to up to 5 allies around the caster for 6s. Allies with Shield of Conviction gain \n[Target-based Max HP 30%] Shield effect, and 30% of damage dealt will be converted into shield value, up to \n[Target-based Max HP 15%] additional Shield. After 6s, if  the shield remains unbroken, deals \n[Damage Rate: 300%]  Magic Damage to nearby enemies. Subsequent  explosions deal reduced damage (15%).",
+        "type": "активный",
+        "description": "До 5 союзников вокруг заклинателя получают «Щит\nубеждения» на бсек.. Те, у кого «Щит убеждения» уже\nесть, получают щит мощностью [Зависит от параметра:\nМакс. О3 30%], а 30% от нанесенного уронв\nпреобразуются в щит, пока дополнительная мощность\nщита не составит [Зависит от параметре: Макс. О3\n15%]. Если по истечении бсек. щит не разрушен, наносит\nближайшим врагам 418[Уровень урона: 300] ед.\nмагического урона. Последующие взрывы наносят\nуменьшенный урон (15%).",
         "tierUnlock": "1"
       },
       "passive": {
         "gameId": "Paragon_Skill_Str_5_Passive",
-        "gearName": "Aegis",
-        "skillName": "Defiant Resolve",
+        "gearName": "Эгида",
+        "skillName": "Непоколебимая воля",
         "manaCost": "",
         "cooldown": "20",
         "castingRange": "",
-        "type": "passive",
-        "description": "Gains immunity to control effects and 20% Damage  Resistance whenever gaining shield for as long as the  shield remains. (Cooldown: 20s)",
+        "type": "пассивный",
+        "description": "Получает иммунитет к эффектам контроля и 20% устойчивости к урону при получении щита на все время, пока он остается. (Время восстановления: 20 секунд)",
         "tierUnlock": "4"
       }
     },
     "paragon_str_6": {
       "gameId": "paragon_str_6",
-      "name": "Durion",
+      "name": "Дарион",
       "strBonus": "2.4",
       "dexBonus": "0.7",
       "intBonus": "1",
@@ -286,8 +286,8 @@
       "baseDex": "11",
       "baseInt": "14",
       "supportStationBonus": {
-        "supportBonus": "Max HP",
-        "supportMalus": "Max MP Bonus",
+        "supportBonus": "Бонус к макс. здоровью",
+        "supportMalus": "Бонус к макс. ОМ",
         "supportBonusValue": " +3.23%",
         "supportMalusValue": " -3.23%"
       },
@@ -310,30 +310,30 @@
       },
       "skill": {
         "gameId": "Paragon_Skill_Str_6",
-        "gearName": "Durion",
-        "skillName": "Protector's Radiance",
+        "gearName": "Дарион",
+        "skillName": "Сияние защитника",
         "manaCost": "33",
         "cooldown": "42",
         "castingRange": "10",
-        "type": "skill",
-        "description": "Channel for 6s, gaining immunity to control. Allies on the field gain +40% Max HP and immunity to Forced Movement (Pull, Knockback). Each 5000 total damage taken by allies grants 1 Energy stack, up to 5.  Use again within 12s of starting the channeling to  unleash absorbed energy, dealing \n[Damage Rate: 350%]-[Damage Rate: 700%] Magic Damage based on stacks and reducing Movement Speed by 30% for 4s.",
+        "type": "активный",
+        "description": "Создает Поле страже и поддерживает его в течение 6\nсек., получая иммунитет к эффектам контроля.\nСоюзники в поле получают +40% к макс. О3 и иммунитет\nк принудительному перемещению (притягивание,\nотбрасывание). Каждые 5000 суммарного ед. урона,\nполученного союзниками, дают 1 заряд энергии (но не\nболее 5 в сумме).\nПовторное использование в течение 12сек. с начала\nприменения высвобождает накопленную энергию и\nнаносит от [Уровень урона: 350%] до [Уровень урона:\n700%] ед. магического урона в зависимости от числа\nзарядов, а также на 4сек. снижает скорость\nпередвижения на 30%.",
         "tierUnlock": "1"
       },
       "passive": {
         "gameId": "Paragon_Skill_Str_6_Passive",
-        "gearName": "Durion",
-        "skillName": "Reflective Shield",
+        "gearName": "Дарион",
+        "skillName": "Щит Контратака",
         "manaCost": "",
         "cooldown": "25",
         "castingRange": "",
-        "type": "passive",
-        "description": "Taking damage equal to 10% of Max HP within 5s after skill cast grants 25% Damage Resistance for 6s. During this time, reflect Magic Damage equal to 65% + 1.5% of Max HP to the attacker. (Cooldown: 25s)",
+        "type": "Пассивный",
+        "description": "При получении урона в размере 10% от макс. О3 в\nтечение 5 сек. после активации навыка сопротивление\nурону на бсек. увеличивается на 25%. В это время\nотражает магический урон в размере 65% +1.5% от\nмакс. О3, атакующему. (Откат: 25 сек.)",
         "tierUnlock": "4"
       }
     },
     "paragon_str_7": {
       "gameId": "paragon_str_7",
-      "name": "Draknor",
+      "name": "Дракнор",
       "strBonus": "2.4",
       "dexBonus": "1",
       "intBonus": "1.1",
@@ -341,7 +341,7 @@
       "baseDex": "11",
       "baseInt": "24",
       "supportStationBonus": {
-        "supportBonus": "Gathering Yield Bonus",
+        "supportBonus": "Бонус к добыче при сборе",
         "supportMalus": "",
         "supportBonusValue": " +2.15%",
         "supportMalusValue": ""
@@ -365,30 +365,30 @@
       },
       "skill": {
         "gameId": "Paragon_Skill_Str_7",
-        "gearName": "Draknor",
-        "skillName": "Shackled Grip",
+        "gearName": "Дракнор",
+        "skillName": "Скованная хватка",
         "manaCost": "25",
         "cooldown": "28",
         "castingRange": "4",
-        "type": "skill",
-        "description": "Channel for 4s with control immunity and 30% increased Movement Speed. On hit, deals \n[Damage Rate: 215%] Physical Damage and creates a chain link (max 5 chains). Chains break at range limit. After the channeling ends, pull all chained targets to deal \n[Damage Rate: 215%]  Physical Damage and Stun them for 1.5s.",
+        "type": "активный",
+        "description": "Поддерживает действие 4 сек., получив иммунитет к\nконтролю и ускорение на 30%. При попадании наносит\n[Уровень урона: 150%] физического урона и создает\nцепную связь (до 5 цепей). При достижении\nмаксимальной дистанции цепи рвутся. По окончании\nподдержания притягивает всех связанных врагов,\nнаносит им [Уровень урона: 150%] ед. физического урана\nи оглушает их на 1.5сек..",
         "tierUnlock": "1"
       },
       "passive": {
         "gameId": "Paragon_Skill_Str_7_Passive",
-        "gearName": "Draknor",
-        "skillName": "Imprisonment",
+        "gearName": "Дракнор",
+        "skillName": "Заключение",
         "manaCost": "",
         "cooldown": "20",
         "castingRange": "",
-        "type": "passive",
-        "description": "When inflicting Forced Movement (Pull, Knockback) on enemies, creates a circular prison lasting 4s. Enemies touching the prison take \n[Damage Rate: 100%] Magic Damage and are Immobilized until the prison ends (Cooldown: 20s)",
+        "type": "пассивный",
+        "description": "При вынужденном перемещении (притягивание,\nотбрасывание) на 4сек, создает круговую тюрьму.\nВраги, касающиеся тюрьмы, получают [Уровень урона:\n100%] ед. магического урона и обездвиживаются на\nвремя ее существования. (Откат: 20 сек.)",
         "tierUnlock": "4"
       }
     },
     "paragon_str_8": {
       "gameId": "paragon_str_8",
-      "name": "Auri",
+      "name": "Аури",
       "strBonus": "2.1",
       "dexBonus": "0.7",
       "intBonus": "1.3",
@@ -396,8 +396,8 @@
       "baseDex": "9",
       "baseInt": "21",
       "supportStationBonus": {
-        "supportBonus": "Healing Received",
-        "supportMalus": "Healing Bonus",
+        "supportBonus": "Получаемое лечение",
+        "supportMalus": "Бонус к лечению",
         "supportBonusValue": " +3.23%",
         "supportMalusValue": " -2.15%"
       },
@@ -420,30 +420,30 @@
       },
       "skill": {
         "gameId": "Paragon_Skill_Str_8",
-        "gearName": "Auri",
-        "skillName": "Skyward Leap",
+        "gearName": "Аури",
+        "skillName": "Прыжок в небеса",
         "manaCost": "30",
         "cooldown": "42",
         "castingRange": "16",
-        "type": "skill",
-        "description": "Creates a protection zone at the target location that grants allies within +30% Damage Resistance, +40% Healing Received, +40% Dodge and heals for  \n[Healing Rate: 50%] HP every second. Then leaps to the target  location, dealing \n[Damage Rate: 250%] Physical Damage  to those hit and knocking them up for 1s.  Immune to control during prep and leap.",
+        "type": "активный",
+        "description": "Создает в указанной точке защитную зону, которая\nдает союзникам в радиусе +30% к сопротивлению\nурону. +40% эффективности получаемого исцеления и\n+40% к уклонению, а также каждую секунду\nвосстанавливает [Уровень лечения: 60%] О3. Затем\nпрыгает в эту зону, наносит [Уровень урона: 250%] ед.\nфизического урона и подбрасывает врагов на 1 сек..\nВо время подготовки и прыжка получает иммунитет к\nэффектам контроля.",
         "tierUnlock": "1"
       },
       "passive": {
         "gameId": "Paragon_Skill_Str_8_Passive",
-        "gearName": "Auri",
-        "skillName": "Healing Guardian",
+        "gearName": "Аури",
+        "skillName": "Исцеляющий страж",
         "manaCost": "",
         "cooldown": "20",
         "castingRange": "",
-        "type": "passive",
-        "description": "Gains 25% Damage Resistance for 1s if HP is below 75%. Sends healing radiation waves in all directions, healing allies in range for \n[Healing Rate: 50%] HP and granting \n[Target-based Max HP 5%] Shield every 1s for 4s.  (Cooldown: 20s)",
+        "type": "пассивный",
+        "description": "На бсек, сопротивление урону увеличивается на 25%,\nесли ОЗ ниже 75%. Выпускает во всех направлениях\nисцеляющие волны, которые каждую секунду \n восстанавливают союзникам в\nрадиусе действия [Уровень лечения: 60%] О3 и дают им\nщит мощностью  5% макс. ОЗ (Откат: 20 сек.)",
         "tierUnlock": "4"
       }
     },
     "paragon_str_9": {
       "gameId": "paragon_str_9",
-      "name": "Firestorm",
+      "name": "Огненный шторм",
       "strBonus": "1.8",
       "dexBonus": "1.5",
       "intBonus": "0.8",
@@ -451,8 +451,8 @@
       "baseDex": "25",
       "baseInt": "10",
       "supportStationBonus": {
-        "supportBonus": "Ranged Damage Bonus",
-        "supportMalus": "Damage Resistance",
+        "supportBonus": "Урон в дальнем бою",
+        "supportMalus": "Сопротивление урону",
         "supportBonusValue": " +1.93%",
         "supportMalusValue": " -1.07%"
       },
@@ -475,24 +475,24 @@
       },
       "skill": {
         "gameId": "Paragon_Skill_Str_9",
-        "gearName": "Firestorm",
-        "skillName": "Cannonade",
+        "gearName": "Огненный шторм",
+        "skillName": "Режим канонады",
         "manaCost": "18",
         "cooldown": "9.3",
         "castingRange": "30",
-        "type": "skill",
-        "description": "Transform into a turret for 25s. Basic Attacks become  artillery strikes, firing projectiles at targets beyond 8m,  dealing \n[Damage Rate: 250%] Physical Damage.  Artillery Critical Damage is 150%.   While in turret form gain increased Magic Resistance",
+        "type": "активный",
+        "description": "Превращается в форму пушки, длится 25 секунд. За это\nвремя магическое сопротивление повышается на 80,\nможно медленно двигаться, обычную атаку заменяет\nболее 8м снарядами, которые взрываются и наносят\nврагам [Уровень урона: 230%] ед. физического урона.\nПри критическом попадании артиллерия наносит 150%\nурона.",
         "tierUnlock": "1"
       },
       "passive": {
         "gameId": "Paragon_Skill_Str_9_Passive",
-        "gearName": "Firestorm",
-        "skillName": "Resolve",
+        "gearName": "Огненный шторм",
+        "skillName": "Решимость",
         "manaCost": "",
         "cooldown": "",
         "castingRange": "",
-        "type": "passive",
-        "description": "While standing still, gain 1 stack of [Steadfast] every  second.  [Steadfast]: +2% Critical Rate, +1.5% damage for 3s.  Stacks up to 15 times",
+        "type": "пассивный",
+        "description": "Пока персонаж не двигается, каждую секунду\nнакладывает один уровень эффекта [Не двигаться]\n[Не двигаться]: шанс критического удара\nувеличивается на 2, сопротивление урону повышается\nна 2%, длительность 2сек., может накапливаться до 15\nраз",
         "tierUnlock": "4"
       }
     },

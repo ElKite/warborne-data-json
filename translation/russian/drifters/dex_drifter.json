@@ -3,7 +3,7 @@
   "drifters": {
     "paragon_dex_1": {
       "gameId": "paragon_dex_1",
-      "name": "Elektrix",
+      "name": "Электрикс",
       "strBonus": "1",
       "dexBonus": "2.2",
       "intBonus": "0.9",
@@ -11,8 +11,8 @@
       "baseDex": "30",
       "baseInt": "20",
       "supportStationBonus": {
-        "supportBonus": "Attack Speed",
-        "supportMalus": "Basic Attack Bonus",
+        "supportBonus": "Скорость атаки ",
+        "supportMalus": "Бонус к обычной атаке ",
         "supportBonusValue": " +5.38%",
         "supportMalusValue": " -2.69%"
       },
@@ -35,30 +35,30 @@
       },
       "skill": {
         "gameId": "Paragon_Skill_Dex_1",
-        "gearName": "Elektrix",
-        "skillName": "Storm Pulse",
+        "gearName": "Электрикс",
+        "skillName": "Импульс бури",
         "manaCost": "27",
         "cooldown": "27",
         "castingRange": "7",
-        "type": "skill",
-        "description": "Activate an Electric Device for 8s.\nElectric Device hits up to 5 enemies every 0.5s for \n[Damage Rate: 40%] Physical Damage, reducing Armor by\n8% for 8s. Stacks up to 10 times.",
+        "type": "активный",
+        "description": "Активирует электрическое устройство на 8с.\nКаждые 0,5с электрическое устройство поражает до 5 врагов, наносит им\n[Уровень урона: 40%] ед. физического урона и на 8с. снижает их броню на\n8%. эффект накапливается до 10 раз.",
         "tierUnlock": "1"
       },
       "passive": {
         "gameId": "Paragon_Skill_Dex_1_Passive",
-        "gearName": "Elektrix",
-        "skillName": "Static Overdrive",
+        "gearName": "Электрикс",
+        "skillName": "Электростатическая перегрузка",
         "manaCost": "",
         "cooldown": "",
         "castingRange": "",
-        "type": "passive",
-        "description": "Basic Attacks grant 1 stack of Electric Charge. At 5\nstacks, the next attack triggers EMP Blast dealing \n[Damage Rate: 160%] Physical Damage to enemies in\nrange.",
+        "type": "пассивный",
+        "description": "Обычные атаки дают 1 электрический заряд. После накопления 5\nзарядов следующая атака вызывает взрыв электро-магнитного излучения,\nкоторый наносит врагам в зоне поражения [Уровень урона: 160%] физического урона.",
         "tierUnlock": "4"
       }
     },
     "paragon_dex_2": {
       "gameId": "paragon_dex_2",
-      "name": "Nyxa",
+      "name": "Никса",
       "strBonus": "1",
       "dexBonus": "2.1",
       "intBonus": "1",
@@ -66,8 +66,8 @@
       "baseDex": "25",
       "baseInt": "20",
       "supportStationBonus": {
-        "supportBonus": "Physical Damage Bonus",
-        "supportMalus": "Armor ",
+        "supportBonus": "Бонус к физическому урону ",
+        "supportMalus": "Броня ",
         "supportBonusValue": " +4.81%",
         "supportMalusValue": "-4.81%"
       },
@@ -90,30 +90,30 @@
       },
       "skill": {
         "gameId": "Paragon_Skill_Dex_2",
-        "gearName": "Nyxa",
-        "skillName": "Soul Feast",
+        "gearName": "Никса",
+        "skillName": "Пир души",
         "manaCost": "30",
         "cooldown": "42",
         "castingRange": "7",
-        "type": "skill",
-        "description": "Creates a void field lasting 8s that envelops the caster\nand up to 5 enemies, dealing 192\n[Damage Rate: 50%]\nMagic Damage to enemies within. Enemies in the void are\nimmune to Physical Damage, cannot perform basic\nattacks, are slowed for 30%, and have their Magic\nResistance reduced by 30%. The caster can still perform\nbasic attacks and gain 35% Basic Attack Lifesteal, while\nalso ignoring the Physical Damage immunity of enemies\nin the void.",
+        "type": "активный",
+        "description": "На 8с. окутывает себя и до 5 врагов пустотным полем\nи наносит им 192[Уровень урона: 50%]ед. магического урона\nв секунду. Враги в поле теряют 30% магического\nсопротивления,замедляются на 30%, получают\nиммунитет к физеческому урону и не могут\nпользоваться обычными атаками. Персонаж получает\nиммунитет к физическому урону, может пользоваться\nобычными атаками, которые обладают эффектом\nвампиризма (35%), а также игнорирует иммунитет\nврагов в пустотном поле к физическому урону.\nВывести персонажа из пустотного состояния нельзя.",
         "tierUnlock": "1"
       },
       "passive": {
         "gameId": "Paragon_Skill_Dex_2_Passive",
-        "gearName": "Nyxa",
-        "skillName": "Void Construct",
+        "gearName": "Никса",
+        "skillName": "Облик бездны",
         "manaCost": "",
         "cooldown": "30",
         "castingRange": "",
-        "type": "passive",
-        "description": "Converts Physical Damage from Basic Attacks into Magic Damage. Each\ntime an attack deals damage, it reduces the target's Magic Resistance by 4%, for 4s, stacking up\nto 10.",
+        "type": "пассивный",
+        "description": "Преобразует физический урон от базовой атаки в\nмагический. Базовые атаки также на 4% снижают\nсопротивление магии у цели. Эффект длится 4с. и\nнакапливается до 10 раз.",
         "tierUnlock": "4"
       }
     },
     "paragon_dex_3": {
       "gameId": "paragon_dex_3",
-      "name": "Overdrive",
+      "name": "Форсаж",
       "strBonus": "1.5",
       "dexBonus": "1.8",
       "intBonus": "0.8",
@@ -121,8 +121,8 @@
       "baseDex": "27",
       "baseInt": "13",
       "supportStationBonus": {
-        "supportBonus": "Critical Rate",
-        "supportMalus": "Critical Damage",
+        "supportBonus": "Шанс крит. удара ",
+        "supportMalus": "Множитель критического урона обычной атаки ",
         "supportBonusValue": " +8.40%",
         "supportMalusValue": " -6.72%"
       },
@@ -145,30 +145,30 @@
       },
       "skill": {
         "gameId": "Paragon_Skill_Dex_3",
-        "gearName": "Overdrive",
-        "skillName": "Flamecore Rampage",
+        "gearName": "Форсаж",
+        "skillName": "Ярость пламенного ядра",
         "manaCost": "25",
         "cooldown": "28",
         "castingRange": "7",
-        "type": "skill",
-        "description": "Removes all current shield values, dealing  \n[Damage Rate: 250%] Physical Damage to nearby enemies, while\nalso gaining 55% Attack Speed, 30% Movement Speed,\nand 30% Critical Rate, and becoming Immune to Control\nEffects for 6s.\n Can't be dispelled.",
+        "type": "активный",
+        "description": "Снимает всю текущую броню, наносит ближайшим\nврагам 290[Уровень урона: 100%] ед. физического урана\nи накладывает на них эффект «Адский залп», на бсек.\nувеличивает скорость атаки на 55%, скорость\nпередвижения на 30% и шанс критического удара 30%, а\nтакже дает иммунитет к контролю. Этот эффект нельзя\nснять.\n\n[Адский залп]\nКаждую секунду в течение 4сек. наносит 145[Уровень\nурона: 50%] физического урона",
         "tierUnlock": "1"
       },
       "passive": {
         "gameId": "Paragon_Skill_Dex_3_Passive",
-        "gearName": "Overdrive",
-        "skillName": "Hell Salvo's Embrace",
+        "gearName": "Форсаж",
+        "skillName": "Объятия яростного пламени",
         "manaCost": "",
         "cooldown": "",
         "castingRange": "",
-        "type": "passive",
-        "description": "While without Armor, gains 5 Energy per second, and\ngains 5 Energy on Basic Attack Crit. When Energy reaches\n100, restores  \n[Target-based Max HP 15%] Armor.\nWhile with Armor, gains  \n[Target-based Max HP 3%] Armor\non Basic Attack Crit. Armor restored cannot exceed\n[Target-based Max HP 25%]. (Trigger Interval: a cooldown\nof 1 seconds)",
+        "type": "пассивный",
+        "description": "При отсутствии брони получает +5 ед. энергии в секунду\nи +5 ед. энергии за критическое попадание обычной\nатакой. При накоплении 100 ед. энергии\nвосстанавливает [Зависит от параметра: Макс. ОЗ 15%]\nед. брони.\nЕсли броня есть, при критическом попадании\nвосстанавливает [Зависит от параметра: Макс. ОЗ 3%]\nед. брони. Запас брони не может превысить [Зависит от\nпараметра: Макс. ОЗ 25%]. (Интервал срабатывания: 1\nсек.)",
         "tierUnlock": "4"
       }
     },
     "paragon_dex_4": {
       "gameId": "paragon_dex_4",
-      "name": "Zero",
+      "name": "Зеро",
       "strBonus": "1.2",
       "dexBonus": "2",
       "intBonus": "0.9",
@@ -176,8 +176,8 @@
       "baseDex": "22",
       "baseInt": "12",
       "supportStationBonus": {
-        "supportBonus": "Basic Attack Bonus",
-        "supportMalus": "Critical Rate",
+        "supportBonus": "Бонус к обычной атаке",
+        "supportMalus": "Шанс крит. удара",
         "supportBonusValue": " +4.12%",
         "supportMalusValue": " -2.48%"
       },
@@ -200,30 +200,30 @@
       },
       "skill": {
         "gameId": "Paragon_Skill_Dex_4",
-        "gearName": "Zero",
-        "skillName": "Null Pulse",
+        "gearName": "Зеро",
+        "skillName": "Нулевой импульс",
         "manaCost": "19",
         "cooldown": "18",
         "castingRange": "9",
-        "type": "skill",
-        "description": "Releases a Null Pulse in the target direction, dealing\n[Damage Rate: 50%] Physical Damage to enemies in\nrange, knocking them back 12m, and applying Silence and\n40% Slow for 3s.",
+        "type": "активный",
+        "description": "Излучает в заданном направлении нулевой импульс,\nнаносит врагам в зоне поражения52[Уровень урона: 50%] ед. физического урона, отбрасывает их на 12м,\nзамедляет на 40% и на 3с. накладывает эффект\n<Безмолвие>",
         "tierUnlock": "1"
       },
       "passive": {
         "gameId": "Paragon_Skill_Dex_4_Passive",
-        "gearName": "Zero",
-        "skillName": "Overclocking Reflex",
+        "gearName": "Зеро",
+        "skillName": "Сверхчастотное отражение",
         "manaCost": "",
         "cooldown": "",
         "castingRange": "",
-        "type": "passive",
-        "description": "Has a 35% chance to dodge Basic Attack damage.",
+        "type": "пассивный",
+        "description": "С вероятностью 35% уклоняется от обычных атак.",
         "tierUnlock": "4"
       }
     },
     "paragon_dex_5": {
       "gameId": "paragon_dex_5",
-      "name": "Vryssia",
+      "name": "Врисса",
       "strBonus": "0.6",
       "dexBonus": "2.3",
       "intBonus": "0.8",
@@ -231,8 +231,8 @@
       "baseDex": "35",
       "baseInt": "20",
       "supportStationBonus": {
-        "supportBonus": "Dodge Rate ",
-        "supportMalus": "Basic Attack Bonus",
+        "supportBonus": "Шанс уклонения",
+        "supportMalus": "Бонус к обычной атаке",
         "supportBonusValue": "+6.50%",
         "supportMalusValue": " -4.06%"
       },
@@ -255,30 +255,30 @@
       },
       "skill": {
         "gameId": "Paragon_Skill_Dex_5",
-        "gearName": "Vryssia",
-        "skillName": "Shadow Dive",
+        "gearName": "Врисса",
+        "skillName": "Теневое погружение",
         "manaCost": "38",
         "cooldown": "56",
         "castingRange": "",
-        "type": "skill",
-        "description": "Enters Stealth, gaining [Spectral Shield] and the ability\n[Phantom Bind], lasting 9s.\nSpectral Shield: Grants  \n[Target-based Max HP 25%] shield\neffect; if the Spectral Shield fades out, the Phantom Bind\neffect ends prematurely.\nPhantom Bind: Summon phantoms that track enemies in\nrange, dealing \n[Damage Rate: 183%] Magic Damage\nand replenishing  \n[Target-based Max HP 5%] Spectral\nShield.\nDoesn't break Phantom Clone Stealth ..\nUsing any skill other than Phantom Bind, or dealing direct\nhealing or damage, reveals you for 2s before re-entering\nStealth.\nRecovers 6% HP every 2s while in Stealth.",
+        "type": "активный",
+        "description": "Входит в состояние невидимости и получает [Теневой\nщит] и навык [Призрачное преследование],\nдлительность 9 секунд\nТеневой щит: Получает эффект щита на [Зависит от\nпараметра: Макс. ОЗ 25%]. Если Теневой щит исчезнет,\nэффект Призрачного множества завершится досрочно\nПризрачное преследование: Призывает фантомов,\nкоторые преследуют врагов в радиусе действия,\nнаносят им [Уровень урона: 183%| ед. магического урона\nи восстанавливают [Зависит от параметра: Макс. ОЗ\n5%) ед. «Спектрального щита».\nНе нарушает эффект невидимости от «Поглощающих\nтеней>.\nИспользование любого навыка, кроме Призрачного\nпреследования, или нанесение прямого лечения или\nурона во время невидимости вызовет появление на 2\nсекунды, после чего снова войдет в состояние\nневидимости",
         "tierUnlock": "1"
       },
       "passive": {
         "gameId": "Paragon_Skill_Dex_5_Passive",
-        "gearName": "Vryssia",
-        "skillName": "Healing Bloom Hunter",
+        "gearName": "Врисса",
+        "skillName": "Тихий охотник",
         "manaCost": "",
         "cooldown": "",
         "castingRange": "",
-        "type": "passive",
-        "description": "Enters Stealth when standing still unhurt and not using\nskills for a short duration. Damage, skills, or movement\nbreaks Stealth.\nWarning when enemies are 7-14m away. Stealth breaks\nafter 3s within 7m.\nRecovers 6% HP every 2s while in Stealth",
+        "type": "пассивный",
+        "description": "При стоянии на месте в течение короткого времени без\nполучения урона и без использования навыков, вы\nполучите эффект невидимости. Получение урона,\nиспользование навыков или движение прерывают\nневидимость\nВраги в раднусе от 7 до 14 метров вызовут\nпредупреждение, если они находятся в радиусе 7\nметров более 3 секунд, текущий эффект невидимости\nстановится недействительным\nВ состоянии невидимости восстанавливает 3% жизни\nкаждую секунду",
         "tierUnlock": "4"
       }
     },
     "paragon_dex_6": {
       "gameId": "paragon_dex_6",
-      "name": "Umbra",
+      "name": "Умбра",
       "strBonus": "0.8",
       "dexBonus": "2.3",
       "intBonus": "1",
@@ -286,8 +286,8 @@
       "baseDex": "25",
       "baseInt": "20",
       "supportStationBonus": {
-        "supportBonus": "Melee Damage Bonus",
-        "supportMalus": "Damage Resistance ",
+        "supportBonus": "Урон в ближнем бою",
+        "supportMalus": "Сопротивление урону",
         "supportBonusValue": " +1.93%",
         "supportMalusValue": "-1.07%"
       },
@@ -310,30 +310,30 @@
       },
       "skill": {
         "gameId": "Paragon_Skill_Dex_6",
-        "gearName": "Umbra",
-        "skillName": "Shadow Rift",
+        "gearName": "Умбра",
+        "skillName": "Теневой разлом",
         "manaCost": "21",
         "cooldown": "38",
         "castingRange": "15",
-        "type": "skill",
-        "description": "Creates a field around the caster, lasting 20s. Then\nscatter 8 Shadow Clones, each dealing \n[Damage Rate: 200%] Physical Damage to those hit. Damage reduces to\n15% for subsequent hits on the same target. While in the\nfield, skill changes to [Shadow Swap]. Touching a\nShadow Clone reduces Shadow Swap's cooldown by 5s,\ngrants  \n[Target-based Max HP 10%] Shield and +20%\nMovement Speed for 4s.\nField disappears when leaving range.\n[Shadow Swap]: Dash forward and increase the Attack\nSpeed of the next 5 basic attacks within 6s by 60%.",
+        "type": "активный",
+        "description": "На 20с. создает вокруг заклинателя поле, затем\nрассылает 8 теневых клонов, каждый из которых\nнаносит пораженным врагам 208[Уровень урона: 200%]\nед. физического урона. Урон снижается до 15% при\nповторных попаданиях по одной цели. Пока персонаж\nнаходится в поле, навык заменяется на <Теневой\nобмен>. Прикосновения к теневому клону сокращает\nперезарядку <Теневого обмена> на 5с. дает щит\nмощностью [Зависит от параметра: Макс. ОЗ 10%] и на\n4с. увеличивает скорость передвижения на 20%.\nПоле исчезает, если выйти за его пределы.\nТеневой обмен: совершает вырок вперед; скорость\nследующих 5 обычных атак на 6с. увеличивается на 60%.",
         "tierUnlock": "1"
       },
       "passive": {
         "gameId": "Paragon_Skill_Dex_6_Passive",
-        "gearName": "Umbra",
-        "skillName": "Umbra Kinetics",
+        "gearName": "Умбра",
+        "skillName": "Тени Кинетики",
         "manaCost": "",
         "cooldown": "0.8",
         "castingRange": "",
-        "type": "passive",
-        "description": "Grants Basic Attacks a 30% chance to trigger a shadow\nstrike for 6s, dealing \n[Damage Rate: 100%] Physical\nDamage (Cooldown: 0.8s).\nBasic Attack Damage Bonuses affect damage and basic\nattack critical hits can cause the damage to crit.",
+        "type": "пассивный",
+        "description": "Обычные атаки на 6с. с вероятностью 30%\nпревращаются в теневой удар и наносят 104[Уровень\nурона: 100%] ед. физического урона (откат: 0,8с).\nБонусы к урону от обычных атак влияют на урон,\nкоторый также, как и при обычной атаке, может оказаться критическим.",
         "tierUnlock": "4"
       }
     },
     "paragon_dex_7": {
       "gameId": "paragon_dex_7",
-      "name": "Sanguor",
+      "name": "Сангуор",
       "strBonus": "1.2",
       "dexBonus": "2.2",
       "intBonus": "0.7",
@@ -341,7 +341,7 @@
       "baseDex": "25",
       "baseInt": "23",
       "supportStationBonus": {
-        "supportBonus": "Gathering Rate Bonus",
+        "supportBonus": "Бонус к скорости сбора",
         "supportMalus": "",
         "supportBonusValue": " +3.74%",
         "supportMalusValue": ""
@@ -365,30 +365,30 @@
       },
       "skill": {
         "gameId": "Paragon_Skill_Dex_7",
-        "gearName": "Sanguor",
-        "skillName": "Hemophage",
+        "gearName": "Сангуор",
+        "skillName": "Гемофаг",
         "manaCost": "33",
         "cooldown": "42",
         "castingRange": "7",
-        "type": "skill",
-        "description": "Activates Crimson Vortex for 6s.\nCrimson Vortex deals \n[Damage Rate: 75%] Magical Damage to up to 5 enemies every second, healing the caster for 60% of damage dealt against players,\n 30% versus monsters.\nDamage increases up to \n[Damage Rate: 150%] as HP drops.",
+        "type": "активный",
+        "description": "На 6 сек. призывает багровый вихрь.\nОн поражает до 5 врагов и каждую секунду наносит им\n[Уровень урона: 75%] ед. магического урона,\nвосстанавливает заклинателю ОЗ в размере 60% от\nурона, нанесенного игрокам и 30% от урона, нанесенного\nмонстрам.\nУрон увеличивается до [Уровень урона: 150%] при\nснижении ОЗ.",
         "tierUnlock": "1"
       },
       "passive": {
         "gameId": "Paragon_Skill_Dex_7_Passive",
-        "gearName": "Sanguor",
-        "skillName": "Blood Contract",
+        "gearName": "Сангуор",
+        "skillName": "Кровавый контракт",
         "manaCost": "",
         "cooldown": "",
         "castingRange": "",
-        "type": "passive",
-        "description": "Gains +4% Damage Resistance and +6% Attack Speed for every 10% HP lost.",
+        "type": "пассивный",
+        "description": "Получает +4% к сопротивлению урону и +6% к скорости\nатаки за каждые 10% потерянных ОЗ.",
         "tierUnlock": "4"
       }
     },
     "paragon_dex_8": {
       "gameId": "paragon_dex_8",
-      "name": "Stormblade",
+      "name": "Клинок бури",
       "strBonus": "1",
       "dexBonus": "2.4",
       "intBonus": "0.7",
@@ -396,7 +396,7 @@
       "baseDex": "33",
       "baseInt": "15",
       "supportStationBonus": {
-        "supportBonus": "Starfall Token Acquisition Bonus ",
+        "supportBonus": "Бонус к получаемым жетонам павшей звезды",
         "supportMalus": "",
         "supportBonusValue": "+2.15%",
         "supportMalusValue": ""
@@ -420,30 +420,30 @@
       },
       "skill": {
         "gameId": "Paragon_Skill_Dex_8",
-        "gearName": "Stormblade",
-        "skillName": "Tempest Slash",
+        "gearName": "Клинок бури",
+        "skillName": "Рассечение бури",
         "manaCost": "29",
         "cooldown": "28",
         "castingRange": "8",
-        "type": "skill",
-        "description": "Launches a flurry of slashes at the target and nearby enemies, eache dealing \n[Damage Rate: 120%] Physical Damage. Damage reduces tp 50% after the first hit on the same target. Flurry for 4s with Unstoppable and damage immunity. Can critical hit. Higher attack speed increases attack count.",
+        "type": "активный",
+        "description": "Обрушивает на цель и ближайших врагов град ударов,\nкаждый из которых наносит [Уровень урона: 120%] ед.\nфизического урона. Урон снижается до 50% после\nпервого попадания по одной и той же цели.\nСерия ударов длится 4 сек., а персонаж получает\nиммунитет к контролю и урону\nМожет нанести критический удар. Чем выше скорость\nатаки, тем больше ударов наносится.",
         "tierUnlock": "1"
       },
       "passive": {
         "gameId": "Paragon_Skill_Dex_8_Passive",
-        "gearName": "Stormblade",
-        "skillName": "Cyclone Reap",
+        "gearName": "Клинок бури",
+        "skillName": "Ураганная жатва",
         "manaCost": "",
         "cooldown": "1.3",
         "castingRange": "",
-        "type": "passive",
-        "description": "On Critical Hit, deals \n[Damage Rate: 70%] Physical\nDamage to nearby enemies, while also reducing their\nArmor by 15% for 4s. (Cooldown: 1.3s)",
+        "type": "пассивный",
+        "description": "При критическом попадании наносит ближайшим\nврагам[Уровень урона: 70%] ед. физического урона, а\nтакже на 4сек. снижает их броню на 15%. (Откат: 1,3\nсек.)",
         "tierUnlock": "4"
       }
     },
     "paragon_dex_9": {
       "gameId": "paragon_dex_9",
-      "name": "Illusarch",
+      "name": "Иллюзарх",
       "strBonus": "1",
       "dexBonus": "2",
       "intBonus": "1.1",
@@ -451,7 +451,7 @@
       "baseDex": "25",
       "baseInt": "18",
       "supportStationBonus": {
-        "supportBonus": "Experience Bonus ",
+        "supportBonus": "Бонус к опыту ",
         "supportMalus": "",
         "supportBonusValue": "+2.15%",
         "supportMalusValue": ""
@@ -475,24 +475,24 @@
       },
       "skill": {
         "gameId": "Paragon_Skill_Dex_9",
-        "gearName": "Illusarch",
-        "skillName": "Spectral Disguise",
+        "gearName": "Иллюзарх",
+        "skillName": "Призрачная маскировка",
         "manaCost": "28",
         "cooldown": "46",
         "castingRange": "8",
-        "type": "skill",
-        "description": "Creates a Spectral Disguise granting Stealth to the caster\nand up to 15 nearby allies, increasing Damage Resistance\nby 25% for 8s\nUsing a skill, dealing damage or inflicting healing breaks\nStealth for 4s before reapplying",
+        "type": "активный",
+        "description": "Накладывает на себя и ближайших союзников (до 15)\nэффект «Призрачная маскировка», который дает\nскрытность, а также на 8сек. увеличивает\nсопротивление урону на 25%.\nИспользование навыка, нанесение урона или прямое\nисцеление снимают эффект скрытности на 4сек., после\nчего он накладывается снова",
         "tierUnlock": "1"
       },
       "passive": {
         "gameId": "Paragon_Skill_Dex_9_Passive",
-        "gearName": "Illusarch",
-        "skillName": "Echo Reflection",
+        "gearName": "Иллюзарх",
+        "skillName": "Эхо отражения",
         "manaCost": "",
         "cooldown": "0.3",
         "castingRange": "",
-        "type": "passive",
-        "description": "Skill and Basic Attack hits from the rear deal  \n[Damage Rate: 60%] additional Physical Damage (Cooldown: 0.3s).\nBasic Attack Damage Bonuses affect damage and basic\nattack critical hits can cause the damage to crit.",
+        "type": "пассивный",
+        "description": "Навыки и обычные атаки со спины наносят [Уровень\nурона: 60%] ед. дополнительного физического урона\n(откат: 0,3 сек.).\nБонусы к урону от обычных атак влияют на урон,\nкоторый также, как и при обычной атаке, может\nоказаться критическим.",
         "tierUnlock": "4"
       }
     }

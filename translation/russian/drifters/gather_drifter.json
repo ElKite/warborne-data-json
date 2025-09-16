@@ -3,7 +3,7 @@
   "drifters": {
     "paragon_gather_1": {
       "gameId": "paragon_gather_1",
-      "name": "Mole",
+      "name": "Мышонок",
       "strBonus": "1.3",
       "dexBonus": "1.3",
       "intBonus": "1.3",
@@ -28,31 +28,31 @@
         "Control Resistance": ""
       },
       "supportStationBonus": {
-        "supportBonus": "Gathering Rate & Yield",
-        "supportMalus": "9.5% & 9.9%",
+        "supportBonus": "Грузоподъемность ",
+        "supportMalus": "32.4",
         "supportBonusValue": "",
         "supportMalusValue": ""
       },
       "skill": {
         "gameId": "Avatar_Skill_Gather_1",
-        "gearName": "Mole",
-        "skillName": "Mole's Escape",
+        "gearName": "Мышонок",
+        "skillName": "Побег мышонка",
         "manaCost": "27",
         "cooldown": "44",
         "castingRange": "14",
-        "type": "skill",
-        "description": "Jumps backward 6 meters while throwing a robotic\ngrappling hook in the target direction, dealing \n[Damage Rate: 110%] Magic Damage to the first enemy hit and\nbinding them for I Os. Enemies attempting to leave the\nbinding range are pulled back to the center and take\n[Damage Rate: 142%] Magic Damage.",
+        "type": "активный",
+        "description": "Отпрыгивает назад на 6 м, бросает крюк в выбранном\nнаправлении, наносит 115[Уровень урона: 110%] ед.\nмагического урона первому врагу и связывает его на\n10сек.. Враги, покидающие радиус действия,\nпритягиваются обратно в центр и получают 149[Уровень\nурона: 142%| ед. магического урона.",
         "tierUnlock": "1"
       },
       "passive": {
         "gameId": "Avatar_Skill_Gather_1_Passive",
-        "gearName": "Mole",
-        "skillName": "Survivability Resilience",
+        "gearName": "Мышонок",
+        "skillName": "Стойкость выживания",
         "manaCost": "N/A",
         "cooldown": "N/A",
         "castingRange": "N/A",
-        "type": "passive",
-        "description": "Increases own weight limit by 200",
+        "type": "пассивный",
+        "description": "Увеличивает ваш лимит веса на 200",
         "tierUnlock": "4"
       }
     },
