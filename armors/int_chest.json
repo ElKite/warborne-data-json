@@ -113,7 +113,7 @@
       "cooldown": "29",
       "castingRange": "6",
       "type": "skill",
-      "description": "Grants 406 Armor for 6s- While active, any attacker that hits with basic attack or skill damage has their damage reduced by 40% and Movement Speed by 30% for 4s",
+      "description": "Gains +120 Armor (scales with Power) for 6s. While active, when taking damage from Basic Attacks or Skills, reduces the attacker's damage output by 40% and Movement Speed by 30% for 4s.",
       "tierUnlock": "1",
       "rarity": "epic",
       "stats": {

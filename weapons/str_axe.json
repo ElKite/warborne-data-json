@@ -13,7 +13,7 @@
     {
       "gameId": "Axe_Common_Attack_SP_1",
       "skillName": "Jump Cleave",
-      "manaCost": "+6",
+      "manaCost": "0",
       "cooldown": "1.3",
       "castingRange": "7",
       "type": "basic",
@@ -23,7 +23,7 @@
     {
       "gameId": "Axe_Common_Attack_SP_2",
       "skillName": "Cleaving Strike",
-      "manaCost": "+5",
+      "manaCost": "0",
       "cooldown": "1.3",
       "castingRange": "3.5",
       "type": "basic",
@@ -33,7 +33,7 @@
     {
       "gameId": "Axe_Common_Attack_SP_3",
       "skillName": "Cyclone Slash",
-      "manaCost": "+7",
+      "manaCost": "0",
       "cooldown": "1.3",
       "castingRange": "3.5",
       "type": "basic",

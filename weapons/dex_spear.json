@@ -13,7 +13,7 @@
     {
       "gameId": "SpearAttack_3",
       "skillName": "Leap Strike",
-      "manaCost": "+5",
+      "manaCost": "0",
       "cooldown": "1",
       "castingRange": "7",
       "type": "basic",
@@ -23,7 +23,7 @@
     {
       "gameId": "SpearAttack_2",
       "skillName": "Javelin Throw",
-      "manaCost": "+5",
+      "manaCost": "0",
       "cooldown": "1",
       "castingRange": "12",
       "type": "basic",
@@ -33,7 +33,7 @@
     {
       "gameId": "SpearAttack_4",
       "skillName": "Sweeping Strike",
-      "manaCost": "+5",
+      "manaCost": "0",
       "cooldown": "1",
       "castingRange": "14",
       "type": "basic",

@@ -123,13 +123,13 @@
     {
       "gameId": "Helm_Str_9",
       "gearIcon": "SpecImage_HELMET8",
-      "gearName": "Riposte Helm",
+      "gearName": "Riposte-Helm",
       "skillName": "Hardened Guard",
       "manaCost": "",
       "cooldown": "25",
       "castingRange": "",
       "type": "passive",
-      "description": "Taking damage from 3 basic attacks within 5s grants 220 Block for 6s\nTrigger Interval: 25s",
+      "description": "After taking 3 Basic Attack Damages within 5s, gains 65 Block Value (scales with Power) for 6s. This effect enters a 25s cooldown after triggering.",
       "tierUnlock": "1",
       "rarity": "epic",
       "stats": {

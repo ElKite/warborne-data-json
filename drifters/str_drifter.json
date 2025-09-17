@@ -6,7 +6,7 @@
       "name": "Sirokos",
       "strBonus": "2.5",
       "dexBonus": "1",
-      "intBonus": "1",
+      "intBonus": "0.8",
       "baseStr": "30",
       "baseDex": "10",
       "baseInt": "20",
@@ -107,7 +107,7 @@
         "cooldown": "20",
         "castingRange": "",
         "type": "passive",
-        "description": "Gains 25% Damage Resistance if damage is dealt within 5s, lasts for 6s. When taking damage during this time,sends forth freezing air in all directions, dealing \n[Damage Rate: 80%] Magic Damage to targets within range, reducing Attack Speed by 30% and Movement Speed by 30% for 4s. Minimum interval of 1s. (Cooldown: 20s)",
+        "description": "After casting a skill, if damage is dealt within 5 seconds, increases Damage Resistance by 25% for 6 seconds. Unleashes frost in all directions, dealing [Damage Rate: 80%] Magic Damage per second and reducing Attack Speed by 30% and Slowing by 30% for 4 seconds (Cooldown: 20s)",
         "tierUnlock": "4"
       }
     },
@@ -169,8 +169,8 @@
     "paragon_str_4": {
       "gameId": "paragon_str_4",
       "name": "Varnax",
-      "strBonus": "2.4",
-      "dexBonus": "1.5",
+      "strBonus": "2.2",
+      "dexBonus": "1.3",
       "intBonus": "0.8",
       "baseStr": "25",
       "baseDex": "20",
@@ -272,7 +272,7 @@
         "cooldown": "20",
         "castingRange": "",
         "type": "passive",
-        "description": "Gains immunity to control effects and 20% Damage  Resistance whenever gaining shield for as long as the  shield remains. (Cooldown: 20s)",
+        "description": "Gains immunity to control effects and 20% Damage Increase for as long as the shield remains after obtaining any shield effect. (Trigger Cooldown: 20s)",
         "tierUnlock": "4"
       }
     },
@@ -334,7 +334,7 @@
     "paragon_str_7": {
       "gameId": "paragon_str_7",
       "name": "Draknor",
-      "strBonus": "2.4",
+      "strBonus": "2.2",
       "dexBonus": "1",
       "intBonus": "1.1",
       "baseStr": "25",
@@ -371,7 +371,7 @@
         "cooldown": "28",
         "castingRange": "4",
         "type": "skill",
-        "description": "Channel for 4s with control immunity and 30% increased Movement Speed. On hit, deals \n[Damage Rate: 215%] Physical Damage and creates a chain link (max 5 chains). Chains break at range limit. After the channeling ends, pull all chained targets to deal \n[Damage Rate: 215%]  Physical Damage and Stun them for 1.5s.",
+        "description": "Channels for 4s. Gains immunity to control effects, increases Damage Resistance by 40%, and increases Movement Speed by 30% during channeling. The chain gradually extends outward. When it touches an enemy, a chain is pulled from the target (up to 5 chains). If the distance between the target and the caster exceeds a certain threshold, the chain will break. At the end of channeling, pulls all targets connected by chains toward the caster, dealing [Damage Rate: 150%] Physical Damage and applying Stun for 1.5s. Can jump to a target location during channeling to end it early, dealing [Damage Rate: 300%] Physical Damage to enemies in range",
         "tierUnlock": "1"
       },
       "passive": {
@@ -437,7 +437,7 @@
         "cooldown": "20",
         "castingRange": "",
         "type": "passive",
-        "description": "Gains 25% Damage Resistance for 1s if HP is below 75%. Sends healing radiation waves in all directions, healing allies in range for \n[Healing Rate: 50%] HP and granting \n[Target-based Max HP 5%] Shield every 1s for 4s.  (Cooldown: 20s)",
+        "description": "After casting the skill, if HP is below 75%, increases Damage Resistance by 25% for 6s. Restores [Healing Rate: 60%] HP to nearby allies every 1s. (Cooldown: 20s)",
         "tierUnlock": "4"
       }
     },
@@ -481,7 +481,7 @@
         "cooldown": "9.3",
         "castingRange": "30",
         "type": "skill",
-        "description": "Transform into a turret for 25s. Basic Attacks become  artillery strikes, firing projectiles at targets beyond 8m,  dealing \n[Damage Rate: 250%] Physical Damage.  Artillery Critical Damage is 150%.   While in turret form gain increased Magic Resistance",
+        "description": "Transforms into a Cannon Form for 25s. During this time, Magic Resistance increases by 50, Basic Attack becomes Bombardment, firing projectiles at targets beyond 8m. The explosion deals [Damage Rate: 230%] Physical Damage to enemies in range. Can move slowly at a speed limit of 1m/s during this period.",
         "tierUnlock": "1"
       },
       "passive": {
@@ -492,7 +492,7 @@
         "cooldown": "",
         "castingRange": "",
         "type": "passive",
-        "description": "While standing still, gain 1 stack of [Steadfast] every  second.  [Steadfast]: +2% Critical Rate, +1.5% damage for 3s.  Stacks up to 15 times",
+        "description": "While standing still, gain 1 stack of [Steadfast] every second.\n\n[Steadfast]: +2% Critical Rate, +2% Damage Resistance for 3s. Stacks up to 15 times.",
         "tierUnlock": "4"
       }
     },

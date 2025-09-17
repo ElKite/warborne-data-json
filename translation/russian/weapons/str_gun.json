@@ -13,7 +13,7 @@
     {
       "gameId": "GunAttack_1",
       "skillName": "Headshot",
-      "manaCost": "+5",
+      "manaCost": "0",
       "cooldown": "1.2",
       "castingRange": "22",
       "type": "basic",
@@ -23,7 +23,7 @@
     {
       "gameId": "GunAttack_2",
       "skillName": "Ricochet",
-      "manaCost": "+5",
+      "manaCost": "0",
       "cooldown": "1.2",
       "castingRange": "22",
       "type": "basic",
@@ -33,7 +33,7 @@
     {
       "gameId": "GunAttack_3",
       "skillName": "Armor Break",
-      "manaCost": "+7",
+      "manaCost": "0",
       "cooldown": "1.2",
       "castingRange": "22",
       "type": "basic",
@@ -188,7 +188,7 @@
       "cooldown": "19",
       "castingRange": "20",
       "type": "skill",
-      "description": "Scans enemies in a frontal cone, locking onto a target every 0.3 seconds (prioritizing new ones) up to 6 enemies. Then fires a photon bolt at each locked target, consuming bullets equal to the number Of targets locked. Each hit deals \n[Damage Rate: 175%] Magic Damage, reveals Stealth, and renders their basic attacks a 40% chance to miss for 6s",
+      "description": "Scans enemies in front, locking onto 1 enemy every 0.3s, up to 6 (prioritizing unselected enemies). After scanning ends, fires energy projectiles at locked targets, consuming 1 Bullet per target. Each shot deals [Damage Rate: 175%] Magic Damage, reveals Stealth, and gives Basic Attacks a 40% chance to miss for 6s",
       "tierUnlock": "2",
       "rarity": "epic",
       "stats": {

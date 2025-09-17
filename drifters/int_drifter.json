@@ -41,7 +41,7 @@
         "cooldown": "46",
         "castingRange": "20",
         "type": "skill",
-        "description": "Channel void energy for 5s and send forth 37 Void Orbs,\neach dealing \n[Damage Rate: 35%] Magic Damage and\ninflicting [Void Toxin]\nSkill cannot be interrupted.\n[Void Toxin]: Deals \n[Damage Rate: 10%] Magic Damage\nevery second (increases based on stacks) for 12s,\nstacking up to 5 times. [Void Toxin] from different sources\nshare stacks.",
+        "description": "Focuses dark energy, channeling for 4s. Every 0.8s, launches 5 dark energy spheres forward (total of 25), each dealing [Damage Rate: 50%] Magic Damage to enemy targets and inflicting [Dark Matter Venom], reducing Healing Received by 8%, for 6s. Stacks up to 5 times. The skill cannot be interrupted.]\n[Dark Matter Venom]: Each stack deals [Damage Rate:15%] Magic Damage every 2 seconds (damage increases with stacks) for 12 seconds. Stacks up to 5 times",
         "tierUnlock": "1"
       },
       "passive": {
@@ -169,7 +169,7 @@
     "paragon_int_4": {
       "gameId": "paragon_int_4",
       "name": "Veska",
-      "strBonus": "1",
+      "strBonus": "1.2",
       "dexBonus": "0.7",
       "intBonus": "2.1",
       "baseStr": "14",
@@ -261,7 +261,7 @@
         "cooldown": "28",
         "castingRange": "12",
         "type": "skill",
-        "description": "Creates a Genetic Cascade link with the target, lasting\n15s.\nFor allied targets: Restores \n[Healing Rate: 25%] HP every\nsecond and increases damage dealt by 3% for 5s. Stacks\nup to 10 times.\nFor enemy targets: Deals \n[Damage Rate: 50%] Magic\nDamage every second and reduces damage dealt by 3%\nfor 5s. Stacks up to 10 times.\nCan link to another target of a different type while a link is\nactive.\nLink breaks if the target moves over 25m away.",
+        "description": "    Initiates a Genetic Cascade with the target for 15 seconds, restoring [Healing Rate: 30%] HP per second and increasing damage dealt by 3% for 5 seconds, stacking up to 10 times.\n\n    When the target is an ally, restores [Healing Rate: 30%] HP per second and increases damage dealt by 3% for 5s, stacking up to 10 times.\n\n    When the target is an enemy, deals [Damage Rate:50%] Magic Damage every second and reduces damage dealt by 3% for 5 seconds. Stacks up to 10 times.\n\n    The first link recovers [Healing Rate: 30%] HP per second and increases damage by 3% for 5s, stacking up to 10 times.\n\n    You can link to another target type that was not selected for the first time during the skill duration. The connection breaks if the distance to the target exceeds 25 meters.",
         "tierUnlock": "1"
       },
       "passive": {
@@ -280,11 +280,11 @@
       "gameId": "paragon_int_6",
       "name": "Raven",
       "strBonus": "1.2",
-      "dexBonus": "0.8",
-      "intBonus": "2.1",
+      "dexBonus": "1",
+      "intBonus": "1.9",
       "baseStr": "20",
-      "baseDex": "10",
-      "baseInt": "30",
+      "baseDex": "18",
+      "baseInt": "22",
       "supportStationBonus": {
         "supportBonus": "Max MP Bonus",
         "supportMalus": "Max HP Bonus ",
@@ -327,16 +327,16 @@
         "cooldown": "0.5",
         "castingRange": "",
         "type": "passive",
-        "description": "Skills dealing damage grant the caster Raven's Call. At 6\nstacks, the next skill damage within 8s that hits an enemy\ntarget will summon ravens at the location, dealing \n[Damage Rate: 120%] Magic Damage to up to 5 enemy\ntargets in range. This effect removes 1 stack of buffs from\nhit targets and restores \n[Healing Rate: 60%] HP to self.\n(Trigger Interval: 0.5s)",
+        "description": "Skills grant the caster Raven's Call when dealing damage. Upon reaching 6 stacks, the next skill damage within 8s will deal [Damage Rate: 120%] Magic Damage to up to 5 enemy targets in range, dispel 1 stack of buffs on hit targets, and restore [Healing Rate: 72%] HP to the caster. (Raven's Call ICD: 0.5s, Raven Summon Cooldown: 10s)",
         "tierUnlock": "4"
       }
     },
     "paragon_int_7": {
       "gameId": "paragon_int_7",
       "name": "Moonveil",
-      "strBonus": "1",
+      "strBonus": "1.4",
       "dexBonus": "0.7",
-      "intBonus": "2.4",
+      "intBonus": "2",
       "baseStr": "23",
       "baseDex": "12",
       "baseInt": "25",
@@ -371,7 +371,7 @@
         "cooldown": "42",
         "castingRange": "10",
         "type": "skill",
-        "description": "Creates a Lunar Domain and channels for 8s. Enemies\nwithin are struck by starlight on skill use, taking  \n[Damage Rate: 200%] Magic Damage and losing 20 MP. Allies\nwithin recover 8 MP every second and gain \n[Target-based Max HP 15%] Shield lasting 4s.\nSkill cannot be interrupted. +20% Movement Speed while\nchanneling.",
+        "description": "Creates a Lunar Domain and channels for 8s. Enemies in range take Starfall strikes on skill use, dealing [Damage Rate: 200%] Magic Damage and draining 20 MP. Allies in range regenerate 8 MP every second and gain a Shield based on 15% of their max HP for 4s.\n\nSkill cannot be interrupted. Increases Movement Speed by 20% while casting skills.",
         "tierUnlock": "1"
       },
       "passive": {
@@ -382,7 +382,7 @@
         "cooldown": "",
         "castingRange": "12",
         "type": "passive",
-        "description": "Every 2s restores Moonveil Max MP + 3% MP to other\nallies within 12m",
+        "description": "Restores Moonveil 1% Max MP to other allies within 12m every 2s",
         "tierUnlock": "4"
       }
     },
@@ -531,12 +531,12 @@
       "skill": {
         "gameId": "Paragon_Skill_Int_13",
         "gearName": "Vire",
-        "skillName": "Thunderstorm",
+        "skillName": "BloodStorm",
         "manaCost": "30",
         "cooldown": "44",
         "castingRange": "7",
         "type": "skill",
-        "description": "Channels for 5s, scattering 8 Blood Seeds (up to 40 total) around the caster every second. Each seed explodes 1.5s after landing, dealing \n[Damage Rate: 100%] Magic\nDamage to up to 5 enemies in range. If at least one enemy\nis hit by the explosion, the caster regenerates \n[Healing Rate: 15] Vitality. Skill cannot be interrupted. Increases Movement Speed by 30% (decaying over time)",
+        "description": "Channels for 5s, scattering 8 Blood Seeds (up to 40 total) around the caster every second. Each seed explodes 1.5s after landing, dealing \n[Damage Rate: 70%] Magic Damage to up to 5 enemies in range. If at least one enemy is hit by the explosion, the caster regenerates 15% Health. Movement speed is boosted by 30% during channeling, decaying over time. Cannot be interrupted.",
         "tierUnlock": "1"
       },
       "passive": {
@@ -547,7 +547,7 @@
         "cooldown": "25",
         "castingRange": "",
         "type": "passive",
-        "description": "Skills and Basic Attacks inflict Blood Curse on those hit for 6s. When the curse ends, 30% of the damage you dealt to the target during the curse explodes as Magic Damage and heals the caster for \n[Healing Rate: 20%] HP.\n(Cooldown: 25s)",
+        "description": "Dealing damage with skills or attacks marks the target. After 6s, the mark detonates, inflicting 30% True Damage of total damage received during the mark’s duration, and restoring 20% Health to the caster. \n(Cooldown: 25s)",
         "tierUnlock": "4"
       }
     }

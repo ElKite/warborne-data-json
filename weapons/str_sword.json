@@ -13,7 +13,7 @@
     {
       "gameId": "SwordAttack_1",
       "skillName": "Sword Slash",
-      "manaCost": "+6",
+      "manaCost": "0",
       "cooldown": "1.3",
       "castingRange": "7",
       "type": "basic",
@@ -23,7 +23,7 @@
     {
       "gameId": "SwordAttack_2",
       "skillName": "Sword Cleave",
-      "manaCost": "+6",
+      "manaCost": "0",
       "cooldown": "1.3",
       "castingRange": "3.5",
       "type": "basic",
@@ -33,7 +33,7 @@
     {
       "gameId": "SwordAttack_3",
       "skillName": "Sword Energy",
-      "manaCost": "+6",
+      "manaCost": "0",
       "cooldown": "1.3",
       "castingRange": "20",
       "type": "basic",

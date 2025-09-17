@@ -188,7 +188,7 @@
       "cooldown": "19",
       "castingRange": "14",
       "type": "skill",
-      "description": "Injects a natural toxin into the target, dealing \n[Damage Rate: 80%] Magic Damage every second while reducing\nAttack Speed by 30% and Movement Speed by 30% for 4s. The toxin's duration refreshes if the caster damages the enemy with a weapon skill",
+      "description": "Inflicts natural toxins on the target, dealing [Damage Rate: 80%] Magic Damage every 1 second while reducing Attack Speed by 30% and Movement Speed by 30% for 4 seconds. The toxin's duration is refreshed whenever the target takes damage from the caster's Weapon Skills.",
       "tierUnlock": "2",
       "rarity": "epic",
       "stats": {
