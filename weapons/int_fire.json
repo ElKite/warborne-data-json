@@ -89,7 +89,7 @@
       "cooldown": "9.3",
       "castingRange": "6",
       "type": "common",
-      "description": "Activates Overdrive Mode, increasing Casting Speed by\n60% and Magic Damage by 20%.\nConsumes 5 MP every second.\nUse skill again to deactivate Overdrive. Automatically\ndeactivates when MP is insufficient.",
+      "description": "Activates Overdrive Mode, increasing Casting Speed by 60% and Magic Damage by 20%. Consumes 4 MP every second. Use skill again to deactivate Overdrive. Automatically deactivates when MP is insufficient.",
       "tierUnlock": "8"
     }
   ],
@@ -120,7 +120,7 @@
       "cooldown": "2",
       "castingRange": "10",
       "type": "skill",
-      "description": "Fires a Molten Blast in target direction that explodes on\nimpact with first target, dealing [Damage Rate: 150%]\nMagic Damage and inflicting 1 stack Of [Burn)\nCan be charged. At 2s charge time, the Molten Blast\nbecomes empowered, dealing [Damage Rate: 300%]\nMagic Damage, inflicting 2 stacks Of [Burn], and applying\nKnockback to enemies within the explosion range by 8m\nGains 1 charge every 18s, up to 2 charges",
+      "description": "Launches a Molten Blast toward the target direction, exploding on impact with the first target, dealing [Damage Rate: 150%] Magic Damage and inflicting 1 stack of [Burn]. The skill can be charged; if the charge duration reaches 2s, a more powerful Molten Blast is launched, exploding for [Damage Rate: 300%] Magic Damage, applying 2 stacks of [Burn], and knocking back all targets within the explosion range by 8m. Gains 1 Charge every 18s, stacking up to a maximum of 2 Charges",
       "tierUnlock": "2",
       "rarity": "epic",
       "stats": {
@@ -171,7 +171,7 @@
       "cooldown": "23",
       "castingRange": "18",
       "type": "skill",
-      "description": "After a 1s cast, channels for 3s, continuously firing at\ntarget. Each projectile deals \n[Damage Rate: 40%] Magic\nDamage to enemies hit, inflicts 1 stack of [Burn], and\nreduces Magic Resistance by 8% for 4s. Stacks up to 6\ntimes.",
+      "description": "After a 1s cast, continuously channels for 3s, firing Hell Salvo at the target. Each Hell Salvo deals [Damage Rate: 40%] Magic Damage to enemies hit, inflicts 1 stack of [Burn], and reduces Magic Resistance by 8% for 4s. Stacks up to 6 times.",
       "tierUnlock": "2",
       "rarity": "epic",
       "stats": {
@@ -205,7 +205,7 @@
       "cooldown": "9.3",
       "castingRange": "23",
       "type": "skill",
-      "description": "Enter Molten Volley Mode for 20s. Cannot move while\nactive but can cancel manually\nBasic Attack replaced: Fires magma at the target location\nthat rolls forward after impact, dealing \n[Damage Rate: 165%] Magic Damage to enemies along the way and\ninflicting 1 stack of [Burn]. Damage increases by 8% after\neach enemy hit, up to 40%",
+      "description": "Enters Molten Volley mode for 20s. Cannot move during this time; can be exited actively. Basic Attack Replaced: Launches magma at the target location. The magma rolls forward after impact, dealing [Damage Rate: 165%] Magic Damage to enemies along its path and inflicting 2 stacks of [Burn]. Damage increases by 8% for each hit, up to a maximum increase of 40%.",
       "tierUnlock": "2",
       "rarity": "legendary",
       "stats": {

@@ -101,7 +101,7 @@
       "id": "enhanced-warding-potion",
       "name": "Enhanced Warding Potion",
       "iconName": "equip_medicine_6_2",
-      "description": "Use to instantly remove all debuffs and DoT effects from self, restore 25% HP. Increases Healing Received by 150% for 6s",
+      "description": "Use to instantly remove all debuff and DoT effects from self, restore 25% HP, gain immunity to debuffs and DoT effects, and increase healing received by 150%, lasting 6 seconds.",
       "category": "potion",
       "rarity": "epic"
     },
@@ -109,7 +109,7 @@
       "id": "advanced-warding-potion",
       "name": "Advanced Warding Potion",
       "iconName": "equip_medicine_6_3",
-      "description": "Use to instantly remove all debuffs and DoT effects from self, restore 30% HP. Increases Healing Received by 200% for 6s",
+      "description": "Use to instantly remove all debuff and DoT effects from self, restore 30% HP, gain immunity to debuffs and DoT effects, and increase healing received by 200% for 6 seconds.",
       "category": "potion",
       "rarity": "epic"
     },
@@ -124,7 +124,7 @@
     {
       "id": "mass-haste-matrix",
       "name": "Mass Haste Matrix",
-      "description": "Increases Movement Speed by 60% for allies within a certain range around the caster, lasting 9s.",
+      "description": "Use to increase Movement Speed by 60% for up to 15 nearby allies, lasting 9s.",
       "category": "utility",
       "rarity": "rare"
     },
@@ -147,7 +147,15 @@
       "id": "frost-potion",
       "name": "Enhanced Frost Potion",
       "iconName": "equip_medicine_iceblock_2",
-      "description": "Using this grants Frozen and unable to act, gains [Target-based Max HP 150%] Shield for 6s. If the shield exists, Recovers\n[Target-based Max HP 7%] HP per second.. This ability can still be used even when skills are disabled.",
+      "description": "Frozen and unable to act, gains a Shield equal to 150% of Target's Max HP for 6s. If the shield exists, recovers HP equal to 7% of Target's Max HP per second. Can be used when skills are disabled.",
+      "category": "protection",
+      "rarity": "epic"
+    },
+    {
+      "id": "frost-potion",
+      "name": "Enhanced Frost Potion",
+      "iconName": "equip_medicine_iceblock_2",
+      "description": "Frozen and unable to act after use, gains a Shield equal to 200% of Target's Max HP for 6s. If the shield is active, recovers HP equal to 8% of Target's Max HP per second. Can be used while skills are disabled.",
       "category": "protection",
       "rarity": "epic"
     }

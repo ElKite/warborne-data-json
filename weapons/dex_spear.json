@@ -22,12 +22,12 @@
     },
     {
       "gameId": "SpearAttack_2",
-      "skillName": "Javelin Throw",
+      "skillName": "Piercing Throw",
       "manaCost": "0",
       "cooldown": "1",
       "castingRange": "12",
       "type": "basic",
-      "description": "[Basic Attack]:Deals \n[Damage Rate: 80%] Physical\nDamage to the target. \nPerforms a [Surging Throw] after 5 Basic Attacks.\nDeals \n[Damage Rate: 180%] Physical Damage and\nincreases Movement Speed by 20% for 2s",
+      "description": "Performs a piercing spear throw toward the target after 5 Basic Attacks. Deals [Damage Rate: 180%] Physical Damage to enemies along the path and increases Movement Speed by 20% for 2 seconds.s",
       "tierUnlock": "4"
     },
     {
@@ -69,7 +69,7 @@
       "cooldown": "14",
       "castingRange": "4",
       "type": "common",
-      "description": "Channels for 4s, gaining Control Immunity and 60%\nDamage Resistance. While channeling, reflects 80%\nPhysical Damage back to attackers when taking damage.\nDeals \n[Damage Rate: 40%] Physical Damage to nearby\nenemies every 0.5s.\nRecast again while channeling to charge forward, dealing \n[Damage Rate: 150%] Physical Damage to enemies hit\nand reducing their Armor by 20% for 4s.",
+      "description": "Channels for 4s, gaining immunity to control effects and increasing Damage Resistance by 60%. Any damage taken during this period is reflected back at the attacker as 80% Physical Damage. Deals [Damage Rate: 40%] Physical Damage to surrounding enemy targets every 0.5s. Can re-cast a skill while channeling to dash forward, dealing [Damage Rate: 150%] Physical Damage to enemies in the path and inflicting 20% Armor Reduction for 4s.",
       "tierUnlock": "5"
     },
     {
@@ -103,7 +103,7 @@
       "cooldown": "18",
       "castingRange": "5",
       "type": "skill",
-      "description": "Strikes continuously, dealing \n[Damage Rate: 120%]\nPhysical Damage to players (\n[Damage Rate: 240%]\nPhysical Damage to mobs). The final strike deals \n[Damage Rate: 180%] Physical Damage to players\n(\n[Damage Rate: 360%] Physical Damage to mobs). Each\nhit reduces Armor by 7% for 6s, stacking up to 4 times.",
+      "description": "Swings forward repeatedly, dealing [Damage Rate: 120%] (to players) / [Damage Rate: 240%] (to monsters) Physical Damage to enemies in range, and finally deals [Damage Rate: 180%] (to players) / [Damage Rate: 360%] (to monsters) Physical Damage to enemies in range. Each attack also applies Armor Reduction of 7, lasting 6s, stacking up to 4 times.",
       "tierUnlock": "2",
       "rarity": "rare",
       "stats": {
@@ -179,7 +179,7 @@
       "cooldown": "23",
       "castingRange": "10",
       "type": "skill",
-      "description": "Charges forward, dealing \n[Damage Rate: 67%] Physical\nDamage to all enemies hit. Upon reaching the destination,\nperforms 4 strikes, each dealing \n[Damage Rate: 67%]\nPhysical Damage. Each strike that hits at least one enemy\nrestores \n[Healing Rate: 67%] HP.\nCan be cast again within 6s",
+      "description": "Charges forward, dealing [Damage Rate: 67%] Physical Damage to enemies in the path. Upon reaching the destination, performs 3 strikes on enemy targets in front, each dealing [Damage Rate: 67%] Physical Damage. Each strike that hits at least one enemy target restores [Healing Rate: 67%] of its own Vitality. Can be cast again within 6s.",
       "tierUnlock": "2",
       "rarity": "epic",
       "stats": {

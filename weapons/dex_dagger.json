@@ -37,7 +37,7 @@
       "cooldown": "1",
       "castingRange": "3.5",
       "type": "basic",
-      "description": "[Basic Attack]:Deals \n[Damage Rate: 100%] Physical\nDamage and applies 1 stack of [Bleed]. \nCan cast [Armor Breaker] every 5s.\nDeals \n[Damage Rate: 200%] Physical Damage to nearby\nenemies, inflicting 1 stack of [Bleed], and reducing their\nArmor by 15% for 4s.",
+      "description": "Can cast [Armor Breaker] every 5s. Deals [Damage Rate: 200%] Physical Damage to nearby enemies, inflicting 1 stack of [Bleed], and reducing their Armor by 10 for 4s. [Bleed]: Deals [Damage Rate: 30%] Physical Damage per second for 8s, stacking up to 6 times.",
       "tierUnlock": "6"
     }
   ],
@@ -118,11 +118,11 @@
       "gearIcon": "SpecImage_DAGGER1",
       "gearName": "Twilight Blades",
       "skillName": "Blade Dance",
-      "manaCost": "21",
+      "manaCost": "25",
       "cooldown": "15",
       "castingRange": "10",
       "type": "skill",
-      "description": "Dashes toward the target direction, leaving a dagger\nbehind. Upon arrival, deals \n[Damage Rate: 180%] Physical\nDamage and drains 20 MP from nearby enemies, inflicting\n2 stacks of Bleed. Can be recast within 5s to return to the\ndagger's location, dealing \n[Damage Rate: 180%] Physical\nDamage and draining 20 MP from nearby enemies,\ninflicting 2 stacks of [Bleed].",
+      "description": "Teleports toward the target direction, leaving a dagger at the original location. Upon arrival, deals [Damage Rate: 180%] Physical Damage and drains 25 MP to nearby enemies, while also inflicting 2 stacks of [Bleed]; recasting the skill within 5 seconds returns to the dagger's location, dealing [Damage Rate: 180%] Physical Damage and draining 25 MP to nearby enemies, while also inflicting 2 stacks of [Bleed].",
       "tierUnlock": "2",
       "rarity": "epic",
       "stats": {
@@ -176,10 +176,10 @@
       "gearName": "Bloodfury Blades",
       "skillName": "Crimson Frenzy",
       "manaCost": "25",
-      "cooldown": "23",
+      "cooldown": "20",
       "castingRange": "8",
       "type": "skill",
-      "description": "Deals [Damage Rate: 200%] Physical Damage + True Damage equal to 10% of the target's Max HP to nearby\nenemies, while also inflicting 2 stacks of [Bleed].\nIf this skill triggers Hemorrhage, recovers 10% of Max HP\nand gains 40%+ Movement Speed for 3s.",
+      "description": "Deals [Damage Rate: 200%] Physical Damage + True Damage equal to 10% of the target's Max HP to nearby enemies, while also inflicting 2 stacks of [Bleed]. If this skill triggers Hemorrhage, recovers 10% of Max HP and gains 40%+ Movement Speed for 3 seconds.",
       "tierUnlock": "2",
       "rarity": "epic",
       "stats": {
@@ -198,7 +198,7 @@
       "cooldown": "23",
       "castingRange": "12",
       "type": "skill",
-      "description": "Leaps to the target location, dealing \n[Damage Rate: 320%]\nPhysical Damage to nearby enemies upon landing,\ninflicting 3 stacks of [Bleed] and [Heal Block] for 4s.\nAffected enemies cannot be affected by [Heal Block]\nagain for 12s.\nIf this skill triggers Hemorrhage, cooldown is set to 12s.\n[Heal Block]: Cannot receive healing.",
+      "description": "Leaps to the target location, dealing [Damage Rate: 320%] Physical Damage to enemy targets around self upon landing, while also applying 3 stacks of [Bleed] and [Healing Reduction], lasting for 4s. The target cannot be affected by Sanguine Pounce's [Healing Reduction] effect again within 8s. If this skill triggers Hemorrhage, its Cooldown is reduced to 8s. [Healing Reduction]: Cannot receive Heal.",
       "tierUnlock": "2",
       "rarity": "legendary",
       "stats": {

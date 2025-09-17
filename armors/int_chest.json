@@ -75,7 +75,7 @@
       "cooldown": "28",
       "castingRange": "6",
       "type": "skill",
-      "description": "Gains a  \n[Target-based Max HP 45%] shield for 6s. While the shield exists, restores 20 MP each time taking damage.",
+      "description": "Gains a shield equal to 45% of the target's Max HP for 6s. Restores 10 MP each time damage is taken while the shield is active.",
       "tierUnlock": "1",
       "rarity": "legendary",
       "stats": {

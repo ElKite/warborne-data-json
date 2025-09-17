@@ -7,7 +7,7 @@
     "cooldown": "",
     "castingRange": "",
     "type": "passive",
-    "description": "After not taking damage for 10, gains  \n[Target-based Max HP 15%] Shield. When hit by Basic Attacks, applies [Frost] to the attacker. [Frost]: Reduces Attack Speed and Movement Speed by 30% for 4s, gradually weakening over time."
+    "description": "After not taking damage for 10s, gains a Shield equal to 15% of the target's Max HP. When hit by Basic Attack Damage, applies [Frost] to the attacker. [Frost]: Reduces Attack Speed and Movement Speed by 30% for 4s."
   },
   "basicAttacks": [
     {
@@ -89,7 +89,7 @@
       "cooldown": "18",
       "castingRange": "9",
       "type": "common",
-      "description": "Unleashes a freezing roar in the target direction, dealing \n[Damage Rate: 150%] Magic Damage and knocking\nenemies back 10m. Reduces Movement Speed by 30% and\nAttack Speed by 30% for 4s.",
+      "description": "Unleashes a Frost Roar in the target direction, dealing [Damage Rate: 150%] Magic Damage to enemies in range, knocking them back 14m, and reducing their Movement Speed by 30% and Attack Speed by 30% for 4s.",
       "tierUnlock": "8"
     }
   ],
@@ -137,7 +137,7 @@
       "cooldown": "14",
       "castingRange": "17",
       "type": "skill",
-      "description": "Fires an ice bolt at the target, dealing \n[Damage Rate: 160%] Magic Damage, slowing by 30% and inflicting\n[Frigid] for 4s. The bolt then bounces up to 9 times within\n9m to random enemies\nBounces to the caster if there are no enemies in range,\ngranting [Target-based Max HP 10%] Shield value for 4s.\nWhile the shield is active, inflict [Frost] onto any attacker\nthat hits with basic attacks\n[Frostl Reduces Attack Speed and Movement Speed by\nfor 4s\n[Frigid] At 3 stacks, Freezes for 1 .5s",
+      "description": "Launches an ice projectile at the target, dealing [Damage Rate: 160%] Magic Damage to the first enemy hit and applying 30% Slow and [Chilling], for 4 seconds. Then bounces randomly up to 9 times among nearby targets. If no other enemies are present around the target, it bounces back to the caster. When bouncing back to itself, gains a Shield Value equal to 10% of the target's Max HP for 4 seconds. While this shield is active, taking Basic Attack Damage applies [Frost] to the attacker.[Frost]: Reduces Attack Speed and Movement Speed by 30% for 4 seconds.[Chilling]: Upon stacking to 3 layers, immediately enters Frozen state for 1.5 seconds",
       "tierUnlock": "2",
       "rarity": "epic",
       "stats": {
@@ -171,7 +171,7 @@
       "cooldown": "23",
       "castingRange": "20",
       "type": "skill",
-      "description": "Launches a frost orb in the target direction that deals\n[Damage Rate: 50%] Magic Damage every second and reduces Movement Speed by 30% for 3s to enemies in range. Within 4s, can recast to blink to the orb's location,dealing \n[Damage Rate: 250%] Magic Damage and Freezing nearby enemies for 1 .5s. Allies in range gain\n[Target-based Max HP 15%] Shield for 4s. While the shield is active, inflict [Frost] onto any attacker that hits with\nasic attacks\n[Frost] Reduces Attack Speed and Movement Speed by 30% for 4s",
+      "description": "Launches a freezing orb in the target direction, dealing [Damage Rate: 50%] Magic Damage every 1 second to enemies in range and slowing them by 30% for 3 seconds. Within 3 seconds, you can click the skill again to blink to the current orb's location, dealing [Damage Rate: 250%] Magic Damage to nearby enemies, freezing them for 1.5 seconds, and granting allies within range a Shield equal to 15% of the target's max HP. When hit by Basic Attack Damage, applies [Frost] to the attacker.[Frost]: Reduces Attack Speed and Movement Speed by 30% for 4 seconds.The blink can cross terrain; if the destination is unreachable, it will teleport to the nearest walkable area near the target point.",
       "tierUnlock": "2",
       "rarity": "epic",
       "stats": {
@@ -217,12 +217,12 @@
       "gameId": "IceStaff_IceAvatar",
       "gearIcon": "SpecImage_FROST7",
       "gearName": "Frost's Caller",
-      "skillName": "Frost's Caller",
+      "skillName": "Deep Frost Slash",
       "manaCost": "21",
       "cooldown": "18",
       "castingRange": "6",
       "type": "skill",
-      "description": "Grants the power of arctic frost for 20s. Becomes immune\nto Slows and Immobilize effects, and gains access to the\n[Frost Slash] and [Frost Drift] skills.\n-[Frost Slash]-\nLaunches ice blades forward that deal \n[Damage Rate: 120%] Magic Damage to enemies in their path, inflicting 1\nstack of [Hypothermia] and reducing Movement Speed by\n30% for 4s.\nAt 6 stacks of [Hypothermia], the target gains [Deep\nFrost].\n[Deep Frost]: Cannot attack or move for 1.5s.\n-[Frost Drift] --\nInstantly removes control effects and leaps in the target\ndirection.",
+      "description": "Launches an ice blade forward, dealing [Damage Rate: 120%] Magic Damage to enemies in its path, applying 1 stack of [Hypothermia] and reducing their Movement Speed by 30% for 4 seconds. When [Hypothermia] reaches 6 stacks, the target gains [Deep Frost]. After launching two ice blades, the third ice blade's damage increases to [Damage Rate: 145%] Magic Damage. [Deep Frost]: Cannot perform Basic Attacks or Move. Lasts 1.5 seconds.",
       "tierUnlock": "2",
       "rarity": "legendary",
       "stats": {

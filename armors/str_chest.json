@@ -10,7 +10,7 @@
       "cooldown": "32",
       "castingRange": "6 ",
       "type": "skill",
-      "description": "Channels for 2.5s, increasing Damage Resistance by 90%. Can move during channeling but Speed is reduced by -90%",
+      "description": "Channels for 2.5s, increasing Damage Resistance by 90%. Can move during channeling but Speed is reduced by 40%.",
       "tierUnlock": "1",
       "rarity": "rare"
     },
@@ -36,7 +36,7 @@
       "cooldown": "28",
       "castingRange": "7 ",
       "type": "skill",
-      "description": "Deals \n[Damage Rate: 300%] Physical Damage to nearby enemies, stunning them for 1.5s and reducing their Speed by 40% for 4s.",
+      "description": "Deals [Damage Rate: 250%] Physical Damage to nearby enemies, applies Stun for 2 seconds, and reduces Speed by 40% for 4 seconds.",
       "tierUnlock": "1",
       "rarity": "epic"
     },
@@ -89,10 +89,10 @@
       "gearName": "Magsurge Armor",
       "skillName": "Converge",
       "manaCost": "",
-      "cooldown": "22",
+      "cooldown": "30",
       "castingRange": "7 ",
       "type": "skill",
-      "description": "Creates a converging force field. After 1.5s, deals \n[Damage Rate: 250%] Physical Damage to enemies within 7m, pulls them to the center, Stuns them for 0.5s, and Slows them by 30% for 4s.",
+      "description": "Creates a converging force field around the caster. After 1.5s, deals [Damage Rate: 250%] Physical Damage to enemy targets within 7m, pulls them to the center, Stuns for 0.5s, and Slows by 30% for 4s.",
       "tierUnlock": "1",
       "rarity": "legendary",
       "stats": {

@@ -137,7 +137,7 @@
       "cooldown": "24",
       "castingRange": "22",
       "type": "skill",
-      "description": "Lock onto an enemy and channel for 3s. Consume 1 bullet every 0.5 while firing. Each bullet deals \n[Damage Rate: 150%] Physical Damage and reduces Armor by 10% for 4s, stacking up to 3 times. Basic attack critical hits can cause the damage to crit. Ends when out of bullets.",
+      "description": "Locks onto an enemy and channels for 3s, consuming 1 Bullet every 0.5s, continuously firing bullets at the target. Each bullet deals [Damage Rate: 160%] Physical Damage to enemies hit, applies Armor Reduction of 16 for 6s, stacking up to 3 times. The skill closes when all bullets are consumed.",
       "tierUnlock": "2",
       "rarity": "epic",
       "stats": {

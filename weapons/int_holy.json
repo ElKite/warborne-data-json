@@ -79,7 +79,7 @@
       "cooldown": "15",
       "castingRange": "3",
       "type": "common",
-      "description": "Creates multiple holy walls in front. Enemies who touch\nthem take \n[Damage Rate: 150%] Magic Damage and are\nstunned for 1.5s, while the caster gains \n[Target-based Max HP 15%] Shield for 6s, stacking up to 4 times.",
+      "description": "Creates multiple holy walls in front. Enemies who touch them take [Damage Rate: 150%] Magic Damage and are stunned for 1.5 seconds, while the caster gains a [Based on Target's Max HP 15%] shield for 6 seconds.",
       "tierUnlock": "7"
     },
     {
@@ -120,7 +120,7 @@
       "cooldown": "16",
       "castingRange": "11",
       "type": "skill",
-      "description": "Leaps to the target location. Upon landing, deals \n[Damage Rate: 300%] Magic Damage to enemies in range\nand knocks them up for 0.75s. Heals allies in range for \n[Healing Rate: 180%] HP and increases their Dodge by\n30% for 6s.",
+      "description": "Leaps to the target location. Upon landing, deals [Damage Rate: 300%] Magic Damage to all enemies in range and inflicts Knockup for 0.75s. Heals allies in range for [Healing Rate: 180%] Vitality and increases their Overclock Reflexes Passive by 30% for 6s.",
       "tierUnlock": "2",
       "rarity": "epic",
       "stats": {

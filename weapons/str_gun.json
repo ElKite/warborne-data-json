@@ -37,7 +37,7 @@
       "cooldown": "1.2",
       "castingRange": "22",
       "type": "basic",
-      "description": "[Basic Attack]: Deals \n[Damage Rate: 60%] Physical Damage to the target. Can cast [Armor Break] every 7s. Deals \n[Damage Rate: 180%] Physical Damage and reduces Armor by 10% for 4s to all enemies hit.",
+      "description": "Can cast [Armor Break] every 6s. Deals [Damage Rate: 180%] Physical Damage to enemies in the path and reduces their Armor by 25 for 4s.",
       "tierUnlock": "6"
     }
   ],
@@ -69,7 +69,7 @@
       "cooldown": "17",
       "castingRange": "10",
       "type": "common",
-      "description": "Throws a powerful grenade at the target location, dealing \n[Damage Rate: 180%] Physical Damage and knocking enemies back 6m from the center. Reduces Attack Speed by 30% and Movement Speed by 40% for 4s. If within blast radius, the user is pushed back 6m.",
+      "description": "Throws a Concussion Grenade at the target location, dealing [Damage Rate: 180%] Physical Damage to enemies in range, knocking them back 9m from the center, and reducing their Attack Speed by 30% and Movement Speed by 40% for 4s. If within the blast radius, the user is pushed back 9m.",
       "tierUnlock": "5"
     },
     {
@@ -79,7 +79,7 @@
       "cooldown": "14",
       "castingRange": "14",
       "type": "common",
-      "description": "Throws a flash grenade to the target location, dealing \n[Damage Rate: 200%] Physical Damage to enemies in range, revealing Stealth, and giving Basic Attacks a 45% chance to miss for 6s.",
+      "description": "Throws a flash grenade to the target location, dealing [Damage Rate: 200%] Physical Damage to enemy targets in range, revealing Stealth and giving Basic Attacks a 35% chance to miss for 6 seconds.",
       "tierUnlock": "7"
     },
     {
@@ -120,7 +120,7 @@
       "cooldown": "24",
       "castingRange": "20",
       "type": "skill",
-      "description": "Channels for 6s (requires 1+ bullets). Consumes 1 bullet\nper second, stopping at 0 bullets Fires a hail of bullets every 0.25s at enemies in a frontal cone, dealing \n[Damage Rate: 85%] Physical Damage. Damage reduced to as low as 70% on enemies the further away they are.\nGains [Target-based Max HP 40%] Shield during channeling.\nCannot be interrupted and rotates slowly",
+      "description": "Channels for 6s, consuming 1 Bullet per second. The skill is automatically closed when all Bullets are used up. Gains a Shield based on 40% of the target's maximum HP during channeling, can rotate slowly (only usable if at least 1 Bullet remains). Fires a large number of Bullets in a forward cone every second, dealing [Damage Rate: 85%] Physical Damage to enemies in range every 0.25s. Damage decreases with distance from the caster, reaching a minimum of 70% of original damage. Channeling cannot be interrupted and rotation is allowed.",
       "tierUnlock": "2",
       "rarity": "epic",
       "stats": {
@@ -137,8 +137,7 @@
       "cooldown": "24",
       "castingRange": "22",
       "type": "skill",
-      "description": "Lock onto an enemy and channel for 3s. Consume 1 bullet every 0.5 while firing. Each bullet deals \n[Damage Rate: 150%] Physical Damage and reduces Armor by 10% for 4s, stacking up to 3 times. Basic attack critical hits can cause the damage to crit. Ends when out of bullets.",
-      "tierUnlock": "2",
+      "description": "Locks onto an enemy and channels for 3s, consuming 1 Bullet every 0.5s, continuously firing bullets at the target. Each bullet deals [Damage Rate: 160%] Physical Damage to enemies hit, applies Armor Reduction of 16 for 6s, stacking up to 3 times. The skill closes when all bullets are consumed.",      "tierUnlock": "2",
       "rarity": "epic",
       "stats": {
         "attackPower": "155",
@@ -154,7 +153,7 @@
       "cooldown": "4",
       "castingRange": "16",
       "type": "skill",
-      "description": "Uses 2 bullets to fire 2 Toxic Shroud grenades at the target location. Upon landing, creates 2 Toxic Mist fields, lasting 6s. Each field deals \n[Damage Rate: 50%] Magic Damage every second to enemies in range and reduces Healing Received by 25% for 6s. Gains 1 charge every 12 seconds, up to 3 charges.",
+      "description": "Consumes 2 bullets to launch two Toxic Shrouds toward the target location, creating two Toxic Mist fields upon impact, lasting 6 seconds. The toxic gas field deals [Damage Rate: 60%] Magic Damage every second to enemies in range, reducing Healing Received by 25%, for 6 seconds. Gains 1 charge every 12 seconds, up to a maximum of 3 charges.",
       "tierUnlock": "2",
       "rarity": "epic",
       "stats": {
@@ -171,7 +170,7 @@
       "cooldown": "1.5",
       "castingRange": "14",
       "type": "skill",
-      "description": "Consumes 1 bullet to fire a sniper round in the target direction. The first enemy hit takes \n[Damage Rate: 180%] Physical Damage The skill can be charged. After charging for 2s, the sniper\nround penetrates enemies along its path, dealing\n[Damage Rate: 250%] Physical Damage\nDamage is boosted by Basic Attack Damage and can crit\nbased on Basic Attack Crit Rate\nBullet range increases with charge time\nGains 1 charge every 6s, up to 6 charges",
+      "description": "Consumes 1 bullet to fire a sniper round in the target direction. The first enemy hit takes [Damage Rate: 280%] Physical Damage. This skill can be charged; if the charge duration reaches 2 seconds, the fired sniper round will pierce through enemies along the path, dealing [Damage Rate: 300%] Physical Damage. Bullet range increases with charge time. Gains 1 charge every 6s, up to 6 charges",
       "tierUnlock": "2",
       "rarity": "epic",
       "stats": {
@@ -205,7 +204,7 @@
       "cooldown": "9.6",
       "castingRange": "30",
       "type": "skill",
-      "description": "Enter Deadshot mode. Cannot Move but can be canceled at any time. Basic Attack replacement: Use 1 Bullet, shooting towards the target direction. The Bullet deals \n[Damage Rate: 190%] Physical Damage to enemy targets along its path. Damage increases by 10% for each enemy hit, up to a maximum of 50%. Critical Hits deal 150% Critical Damage.",
+      "description": "Enters Deadshot mode for 20s. Cannot move during this time and can exit actively. Basic Attack Replacement: Uses 1 Bullet to shoot in the target direction, dealing [Damage Rate: 190%] Physical Damage to enemy targets along the path. Damage increases by 10% for each enemy hit along the path, up to a maximum of 50%.",
       "tierUnlock": "2",
       "rarity": "legendary",
       "stats": {
@@ -222,7 +221,7 @@
       "cooldown": "24",
       "castingRange": "6",
       "type": "skill",
-      "description": "Activates Photon Activation for 20s. Immune to Slow and Immobilize. Gains [Prism Beam] and [Prism Camo]—[Photon Beam]—\nDeals [Damage Rate: 120%] Physical Damage and drains 5 MP from enemies\nAfter 3 beams, the next Basic Attack becomes an \nEnhanced Prism Beam: Consumes 1 bullet to deal\n[Damage Rate: 135%] Physical Damage and drain 5 MP from enemies. Gains +25% Movement Speed for 3s\n—[Photon Camouflagel—\nRemoves all control effects. Gain Stealth and +30% Movement Speed for 2s. Can be used while skills are disabled",
+      "description": "Activates Photon Activation for 20s. Immune to Slow and Immobilize. Gains [Prism Beam] and [Prism Camo]—[Photon Beam]—\nDeals [Damage Rate: 120%] Physical Damage and drains 5 MP from enemies in the front area. After 3 beams, the next Basic Attack becomes Enhanced Photon Beam, dealing [Damage Rate: 135%] Physical Damage and draining 5 MP from enemies in the front area.\n—[Photon Camouflagel—\nRemoves all control effects. Gain Stealth and +30% Movement Speed for 2s. Can be used while skills are disabled",
       "tierUnlock": "2",
       "rarity": "legendary",
       "stats": {

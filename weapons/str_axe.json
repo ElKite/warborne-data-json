@@ -160,7 +160,7 @@
       "cooldown": "17",
       "castingRange": "10",
       "type": "skill",
-      "description": "Leap to the target location, dealing \n[Damage Rate: 300%] Physical Damage to nearby enemies. Gains [Basic Attack True Damage] and +30% Attack Speed for 6s. Duration extends by 2s for each player (0.6s for each mob) hit, up to an extra 6s. [Basic Attack True Damage]: Basic Attacks deal \n[Damage Rate: 50%] additional True Damage.",
+      "description": "Can cast [Bonecrusher Leap] every 6s. Performs a powerful leap attack, dealing [Damage Rate: 220%] Physical Damage and reducing Armor by 10 for 4s.",
       "tierUnlock": "2",
       "rarity": "epic",
       "stats": {

@@ -44,7 +44,7 @@
       "cooldown": "30",
       "castingRange": "",
       "type": "passive",
-      "description": "When dealing direct Basic Attack Damage, creates a Flame Star around the caster, lasting 6s. Reduces enemies' Magic Resistance by 50% (Magic Resistance Reduction), and deals \n[Damage Rate: 50%] Magic Damage every 1s. Trigger Interval: 30s",
+      "description": "When dealing direct Basic Attack Damage, creates a Flame Star around the caster that lasts 6s. Enemies within 7m have their Magic Resistance reduced by 40 (Magic Resistance Reduction), and take [Damage Rate: 50%] Magic Damage every 1s.Trigger Interval: 30s",
       "tierUnlock": "1",
       "rarity": "epic",
       "stats": {

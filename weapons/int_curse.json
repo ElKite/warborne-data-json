@@ -59,7 +59,7 @@
       "cooldown": "11",
       "castingRange": "16",
       "type": "common",
-      "description": "Casts for 0.5s, launching Toxic Matter at the target. Upon\nhitting an enemy, it bounces to other enemies within 7m\nup to 9 times. Each target can be hit up to 2 times.\nEach hit deals \n[Damage Rate: 100%] Magic Damage and\ninflicts 1 stack of Plague and reduces Magic Resistance\nby 15% for 4s.",
+      "description": "Launches Toxic Matter at the target. After hitting an enemy, it bounces to other enemies within 7m up to 9 times, with a maximum of 2 hits on the same target. Each hit deals [Damage Rate: 100%] Magic Damage, applies 1 stack of [Plague], and reduces Magic Resistance by 20 for 6s.",
       "tierUnlock": "8"
     },
     {
@@ -188,7 +188,7 @@
       "cooldown": "32",
       "castingRange": "16",
       "type": "skill",
-      "description": "Deploys a Necrotic Eruption device at the target location.\nEvery 2 seconds, it generates Death Clouds at random\nlocations within the device's area (the device's range\ngradually expands), creating a total of 5 Death Clouds.\nEach Death Cloud lasts for 1Os\nDeath Clouds deal [Damage Rate: 40%] Magic Damage to\nenemies in range every second, inflicting [Plague], and\nreducing Healing Effect by 5% for 1 2s, stacking up to 5\ntimes",
+      "description": "Throws a Necrotic Eruption device at the target location. Every 2 seconds, Death Clouds randomly spawn around the device (the device's range gradually expands), lasting for 10 seconds. The Death Clouds deal [Damage Rate: 60%] Magic Damage every second to enemy targets in range, inflicting [Plague], and reducing Healing Effect by 5% for 12 seconds, stacking up to 5 times.",
       "tierUnlock": "2",
       "rarity": "legendary",
       "stats": {

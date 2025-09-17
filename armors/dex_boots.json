@@ -28,7 +28,7 @@
       "cooldown": "28",
       "castingRange": "6",
       "type": "skill",
-      "description": "Increases Movement Speed by 60% and Attack Speed by 35% for 6s.",
+      "description": "Increases Movement Speed by 60%, Attack Speed by 35%, for 5s.",
       "tierUnlock": "1",
       "rarity": "epic"
     },

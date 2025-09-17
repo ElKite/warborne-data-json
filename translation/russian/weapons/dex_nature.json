@@ -59,7 +59,7 @@
       "cooldown": "14",
       "castingRange": "8",
       "type": "common",
-      "description": "Creates an energizing aura around the caster, lasting 5s.\nRestores \n[Healing Rate: 39%] HP and 12 MP every second\nto up to 10 nearby allies.",
+      "description": "Creates an energizing aura around the caster, lasting 5 seconds. Restores [Healing Rate: 39%] HP and 6 MP every second to up to 10 nearby allies.",
       "tierUnlock": "3"
     },
     {
@@ -154,7 +154,7 @@
       "cooldown": "4.6",
       "castingRange": "12",
       "type": "skill",
-      "description": "Creates a Healing Bloom aura. Allies within gain 15%\nincreased healing. Consumes 3 MP every second to\nrestore \n[Healing Rate: 27%] HP to nearby allies",
+      "description": "Creates a Healing Bloom aura around the caster. Allies within gain 15% increased Healing Received. Consumes 3 MP every second to restore [Healing Rate: 27%] HP to nearby allies.",
       "tierUnlock": "2",
       "rarity": "epic",
       "stats": {
@@ -205,7 +205,7 @@
       "cooldown": "23",
       "castingRange": "24",
       "type": "skill",
-      "description": "Heals all allies hit for \n[Healing Rate: 210%], cleansing all\ncontrol effects and 5 DoT stacks. Also grants immunity to\nDoTs and increases healing received by 35% for 6s.",
+      "description": "Heals allies along the path for [Healing Rate: 210%] HP, purifies all Crowd Control effects and 5 stacks of Damage over Time, grants Immunity to Damage over Time and increases Healing Received by 35% for 6 seconds.",
       "tierUnlock": "2",
       "rarity": "legendary",
       "stats": {
