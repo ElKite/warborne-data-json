@@ -21,7 +21,7 @@
     {
       "gameId": "Helm_Str_4",
       "gearIcon": "SpecImage_HELMET4",
-      "gearName": "Reptilian Helm",
+      "gearName": "Ironclad Helm",
       "skillName": "Iron Wall",
       "manaCost": "",
       "cooldown": "60",
@@ -55,7 +55,7 @@
     {
       "gameId": "Helm_Str_1",
       "gearIcon": "SpecImage_HELMET6",
-      "gearName": "Ironclad Helm",
+      "gearName": "Reptilian Helm",
       "skillName": "Scale Armor",
       "manaCost": "",
       "cooldown": "30",
