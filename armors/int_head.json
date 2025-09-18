@@ -46,7 +46,7 @@
       "cooldown": "25",
       "castingRange": "",
       "type": "passive",
-      "description": "When the skill damages an enemy target, it triggers an explosion at their location, dealing  \n[Damage Rate: 180%] Magic Damage to enemies in range and reducing their healing received by 40% for 6s. Trigger Interval: 25s.",
+      "description": "When skills deal damage, inflicts [Damage Rate: 180%] Magic Damage to enemies in range and reduces their healing received by 40% for 6s. This effect enters a 25s cooldown after triggering..",
       "tierUnlock": "1",
       "rarity": "epic",
       "stats": {
@@ -64,7 +64,7 @@
       "cooldown": "30",
       "castingRange": "",
       "type": "passive",
-      "description": "When skills deal direct damage, creates a poison zone\nlasting 6s. Enemies within 5m take \n[Damage Rate: 55%]\nMagic Damage every second and have their Magic\nResistance reduced by 20%.\nTrigger Interval: 30s",
+      "description": "When skills deal direct damage, creates a venom zone lasting 6s at the target location. Enemies within 5m take [Damage Rate: 55%] Magic Damage every 1s and have their Magic Resistance reduced by 25%. Trigger Interval: 30s.",
       "tierUnlock": "1",
       "rarity": "epic",
       "stats": {
@@ -82,7 +82,7 @@
       "cooldown": "45",
       "castingRange": "",
       "type": "passive",
-      "description": "When casting skills with MP below 40%, gains 15 MP\nevery second for 8s.\nTrigger Interval: 45s",
+      "description": "When casting Skills with MP below 40%, immediately gains 15 MP per second for 8s. Trigger Interval: 45s",
       "tierUnlock": "1",
       "rarity": "epic",
       "stats": {

@@ -7,7 +7,7 @@
     "cooldown": "",
     "castingRange": "",
     "type": "passive",
-    "description": "When dealing weapon skill damage, applies [Target Mark] for 8s. After dealing Basic Attack Damage 3 times to a marked target, deals \n[Damage Rate: 90%] additional Physical Damage, inflicts 25% Slow for 2s, and increases\nMovement Speed by 25% for 2s, also grants the next 2\nBasic Attacks +60% Attack Speed for 6s. Basic Attack\nDamage Bonuses affect damage and basic attack critical\nhits can cause the damage to crit.\nRemoves [Target Mark] after triggering."
+    "description": "When using weapon skills or Basic Attacks to deal damage, applies an additional [Target Mark] to the target for 8s. When [Target Mark] stacks to 5 layers, it activates, dealing an extra [Damage Rate: 90%] Physical Damage, applying a 25% Slow for 2s, granting the caster 25% increased Movement Speed for 2s, extending the next 3 Basic Attack range by 3m for 6s. The damage is affected by Basic Attack Damage Boost and can critically strike based on Basic Attack Crit Rate."
   },
   "basicAttacks": [
     {
@@ -27,7 +27,7 @@
       "cooldown": "1.5",
       "castingRange": "9",
       "type": "basic",
-      "description": "Replaces Basic Attack with [Piercing Arrow].\nFires an arrow forward, dealing \n[Damage Rate: 170%]\nPhysical Damage and reducing Armor by 10% for 4s to all\nenemies hit.\nRange increases with charge time",
+      "description": "Replaces Basic Attack with [Piercing Arrow]. Fires an arrow forward, dealing [Damage Rate: 140%] Physical Damage to enemy targets along its path and reducing their Armor by 15 for 4 seconds. The arrow's range increases with charge time. When charged for 1 second, deals [Damage Rate: 200%] Physical Damage and applies [Target Mark].",
       "tierUnlock": "6"
     },
     {
@@ -49,7 +49,7 @@
       "cooldown": "12",
       "castingRange": "6",
       "type": "common",
-      "description": "Gains 10 explosive arrows for 12s.\nWhen Basic Attacks or skill arrows hit enemies, deal \n[Damage Rate: 40%] Physical Damage to up to 5 nearby\nenemies",
+      "description": "Gains 10 Explosive Arrows for 12 seconds. Basic Attacks or skill arrows that hit enemies deal additional [Damage Rate: 40%] Physical Damage to up to 5 nearby enemies. Blast Arrows only apply [Target Mark] to the target that triggers the explosion.",
       "tierUnlock": "5"
     },
     {
@@ -59,7 +59,7 @@
       "cooldown": "15",
       "castingRange": "6",
       "type": "common",
-      "description": "Gains 10 frost arrows for 12s.\nBasic Attacks and skill arrows deal \n[Damage Rate: 50%]\nadditional Physical Damage and inflict 40% Slow for 2s\non hit.",
+      "description": "Gains 10 Frost Arrows for 12 seconds. Basic Attacks and skill arrows deal [Damage Rate: 50%] additional Magic Damage and inflict 40% Slow for 2 seconds on hit.",
       "tierUnlock": "8"
     },
     {
@@ -79,7 +79,7 @@
       "cooldown": "14",
       "castingRange": "16",
       "type": "common",
-      "description": "Fires a silencing arrow forward. The first enemy hit takes \n[Damage Rate: 100%] Physical Damage. After 2s, the\narrow inflicts \n[Damage Rate: 180%] additional Magic\nDamage and applies Silence for 3s to enemies within 5m.",
+      "description": "Fires a Silencing Arrow in the target direction. The first enemy hit takes [Damage Rate: 100%] Physical Damage. After 2s, it inflicts [Damage Rate: 180%] Magic Damage to enemies within 5m and applies Silence for 4s.",
       "tierUnlock": "7"
     },
     {
@@ -120,7 +120,7 @@
       "cooldown": "18",
       "castingRange": "6",
       "type": "skill",
-      "description": "Gains 18 Splintershot and +30% Attack Speed for 20s.\nBasic Attacks fire 2 additional arrows (in addition to the\nBasic Attack), each dealing \n[Damage Rate: 30%] Magic\nDamage.",
+      "description": "Gains 18 Splintershots and +30% Attack Speed for 20 seconds. Each Basic Attack that hits an enemy fires 2 additional arrows, each dealing [Damage Rate: 30%] Magic Damage. Only the first arrow of each Splintershot applies [Target Mark].",
       "tierUnlock": "2",
       "rarity": "epic",
       "stats": {
@@ -137,7 +137,7 @@
       "cooldown": "18",
       "castingRange": "26",
       "type": "skill",
-      "description": "Fires a Powershot in the target direction that explodes\nupon hitting the first enemy, dealing \n[Damage Rate: 150%]\nMagic Damage and Stunning up to 5 enemies in the area.\nDamage increases with distance, up to 2x base damage.\nStun duration also scales with distance, starting at a\nminimum of 1 seconds and reaching a maximum of 3\nseconds when the arrow travels 80% of its maximum\nrange.",
+      "description": "Fires a Powershot in the target direction. When it hits the first enemy, it explodes, dealing [Damage Rate: 150%] Magic Damage to up to 5 enemies in range and applying Stun. The damage increases with flight distance, up to a maximum of 2 times. The Stun duration also increases with flight distance, starting at 1 second and reaching a maximum of 3 seconds when the arrow flies to 80% of its maximum range. The explosion applies 3 stacks of [Target Mark].",
       "tierUnlock": "2",
       "rarity": "epic",
       "stats": {
@@ -154,7 +154,7 @@
       "cooldown": "23",
       "castingRange": "18",
       "type": "skill",
-      "description": "Shoots an Arcbolt in the target direction that deals \n[Damage Rate: 150%] Physical Damage on hit and creates\na lightning disruption field.\nThe field lasts 8s, dealing \n[Damage Rate: 45%] Physical\nDamage to enemies within 6m every 1s and reducing their\nArmor by 10% for 4s. Stacks up to 5 times.",
+      "description": "Fires an Arcbolt in the target direction, which explodes on contact with enemies, dealing [Damage Rate: 150%] Physical Damage to enemies in range and attaching a Thunderstorm Field. The Thunderstorm Field lasts 8s, dealing [Damage Rate: 45%] Physical Damage every second to enemy targets within 6m, applying 10 Armor Reduction for 4s, up to 5 stacks. Explosion applies 3 stacks of [Target Mark].",
       "tierUnlock": "2",
       "rarity": "epic",
       "stats": {
@@ -205,7 +205,7 @@
       "cooldown": "1.5",
       "castingRange": "18",
       "type": "skill",
-      "description": "Fires a Shadow Vortex in the target direction. The first\nenemy hit takes \n[Damage Rate: 100%] Physical Damage.\nAfter 0.5s, the vortex inflicts \n[Damage Rate: 280%] Magic\nDamage to enemies within 7m, pulls them to the center,\nand Slows them by 40% for 3s.\nGains 1 charge every 15s, up to 2 charges",
+      "description": "Fires a Shadow Vortex Arrow in the target direction, dealing [Damage Rate: 100%] Physical Damage to the first enemy hit and remaining on them. After 0.5 seconds, it converges, inflicting [Damage Rate: 280%] Magic Damage to enemies within a 7-meter radius, pulling them to the center, and applying 40% Slow for 3 seconds. It also applies 3 layers of Target Mark upon convergence. Gains 1 charge every 15 seconds, up to a maximum of 2 charges.",
       "tierUnlock": "2",
       "rarity": "legendary",
       "stats": {

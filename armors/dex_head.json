@@ -64,7 +64,7 @@
       "cooldown": "25",
       "castingRange": "",
       "type": "passive",
-      "description": "When taking damage from Basic Attacks, immediately\ngains +70% Dodge Enhancement for 6s. Trigger Interval: 25",
+      "description": "When taking damage from Basic Attacks, immediately gains Overclock Reflexes Passive Enhancement 50% Effect for 8s. This effect enters a 25s Cooldown after triggering.",
       "tierUnlock": "1",
       "rarity": "epic",
       "stats": {
@@ -118,7 +118,7 @@
       "cooldown": "45",
       "castingRange": "",
       "type": "passive",
-      "description": "When affected by hard control effects (Stun, Fear, Freeze,\nKnockup, Petrify, Sleep), Silence, or Immobilize:\nInstantly removes all control effects and debuffs, and\ngrants immunity to control effects and Silence, and\nincreases Speed by 25% for 3s.\nTrigger Interval: 45s.",
+      "description": "When affected by Hard Control effects (Stun, Fear, Frozen, Knockup, Petrify, Sleep), Silence, or Immobilize, instantly removes all control and debuff effects, grants immunity to all control and debuff effects, increases Speed by 25%, for 3s. This effect enters a 45s cooldown after triggering.",
       "tierUnlock": "1",
       "rarity": "legendary",
       "stats": {

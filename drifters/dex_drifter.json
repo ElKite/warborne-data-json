@@ -151,7 +151,7 @@
         "cooldown": "28",
         "castingRange": "7",
         "type": "skill",
-        "description": "Removes all current shield values, dealing  \n[Damage Rate: 250%] Physical Damage to nearby enemies, while\nalso gaining 55% Attack Speed, 30% Movement Speed,\nand 30% Critical Rate, and becoming Immune to Control\nEffects for 6s.\n Can't be dispelled.",
+        "description": "Removes all current armor values, dealing [Damage Rate: 100%] Physical Damage to nearby enemies and applying Hell Salvo, increasing your Attack Speed by 55%, Movement Speed by 30%, and Critical Rate by 30%. You are Immune to Control during this period, lasting for 6 seconds.\n[Hell Salvo]: Deals Physical Damage equal to [Damage Rate: 50%] every second for 4s",
         "tierUnlock": "1"
       },
       "passive": {
@@ -224,10 +224,10 @@
     "paragon_dex_5": {
       "gameId": "paragon_dex_5",
       "name": "Vryssia",
-      "strBonus": "0.6",
-      "dexBonus": "2.3",
+      "strBonus": "1",
+      "dexBonus": "2.1",
       "intBonus": "0.8",
-      "baseStr": "5",
+      "baseStr": "10",
       "baseDex": "35",
       "baseInt": "20",
       "supportStationBonus": {
@@ -258,10 +258,10 @@
         "gearName": "Vryssia",
         "skillName": "Shadow Dive",
         "manaCost": "38",
-        "cooldown": "56",
+        "cooldown": "45",
         "castingRange": "",
         "type": "skill",
-        "description": "Enters Stealth, gaining [Spectral Shield] and the ability\n[Phantom Bind], lasting 9s.\nSpectral Shield: Grants  \n[Target-based Max HP 25%] shield\neffect; if the Spectral Shield fades out, the Phantom Bind\neffect ends prematurely.\nPhantom Bind: Summon phantoms that track enemies in\nrange, dealing \n[Damage Rate: 183%] Magic Damage\nand replenishing  \n[Target-based Max HP 5%] Spectral\nShield.\nDoesn't break Phantom Clone Stealth ..\nUsing any skill other than Phantom Bind, or dealing direct\nhealing or damage, reveals you for 2s before re-entering\nStealth.\nRecovers 6% HP every 2s while in Stealth.",
+        "description": "Enters Stealth, gaining [Shadow Ward] and the skill [Phantom Bind], lasting 9 seconds.\n\nShadow Ward: Gains a shield equal to 25% of Target's Max HP. If the Shadow Ward fades, the Shadow Dive effect ends prematurely.\n\nPhantom Bind: Summon phantoms that track enemies in range, dealing [Damage Rate: 183%] Magic Damage on hit and granting Shield Value based on 5% of the target's Max HP for 4s. Stacks up to 4 times. Using a skill other than Phantom Bind, dealing direct healing or damage while in Stealth will break invisibility for 2 seconds before re-entering Stealth.",
         "tierUnlock": "1"
       },
       "passive": {
@@ -272,7 +272,7 @@
         "cooldown": "",
         "castingRange": "",
         "type": "passive",
-        "description": "Enters Stealth when standing still unhurt and not using\nskills for a short duration. Damage, skills, or movement\nbreaks Stealth.\nWarning when enemies are 7-14m away. Stealth breaks\nafter 3s within 7m.\nRecovers 6% HP every 2s while in Stealth",
+        "description": "Enters Stealth when standing still unhurt and not using skills for a short duration. Taking damage, using skills, or moving will break Stealth. A Warning appears when enemies are within 7 to 14 meters. If an enemy remains within 7 meters for more than 3 seconds, the current Stealth effect ends. While in Stealth, regenerates 3% HP per second.\n\n    Adjustment: Removes the effect of restoring 6% HP every 2 seconds while a skill is in Stealth. Adds an effect that restores 3% HP every second while in Stealth. The HP restoration effect while Stealthed is affected by the Healing Received attribute",
         "tierUnlock": "4"
       }
     },
@@ -437,7 +437,7 @@
         "cooldown": "1.3",
         "castingRange": "",
         "type": "passive",
-        "description": "On Critical Hit, deals \n[Damage Rate: 70%] Physical\nDamage to nearby enemies, while also reducing their\nArmor by 15% for 4s. (Cooldown: 1.3s)",
+        "description": "On a Critical Hit, restores [Healing Rate: 42%] HP and deals additional [Damage Rate: 70%] Physical Damage to nearby enemy targets, reducing their Armor by 15% for 4s. (Cooldown: 1.3s)",
         "tierUnlock": "4"
       }
     },

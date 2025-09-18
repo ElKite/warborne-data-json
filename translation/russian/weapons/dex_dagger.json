@@ -13,7 +13,7 @@
     {
       "gameId": "DaggerAttack_2",
       "skillName": "Bleeding Thrust",
-      "manaCost": "+6",
+      "manaCost": "0",
       "cooldown": "1",
       "castingRange": "7",
       "type": "basic",
@@ -23,7 +23,7 @@
     {
       "gameId": "DaggerAttack_4",
       "skillName": "Ricocheting Blades",
-      "manaCost": "+6",
+      "manaCost": "0",
       "cooldown": "1",
       "castingRange": "12",
       "type": "basic",
@@ -33,7 +33,7 @@
     {
       "gameId": "DaggerAttack_3",
       "skillName": "Armor Breaker",
-      "manaCost": "+5",
+      "manaCost": "0",
       "cooldown": "1",
       "castingRange": "3.5",
       "type": "basic",

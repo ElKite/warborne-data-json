@@ -28,7 +28,7 @@
       "cooldown": "28",
       "castingRange": "6",
       "type": "skill",
-      "description": "Increases Movement Speed by 60% and Attack Speed by 35% for 6s.",
+      "description": "Increases Movement Speed by 60%, Attack Speed by 35%, for 5s.",
       "tierUnlock": "1",
       "rarity": "epic"
     },
@@ -80,7 +80,7 @@
       "cooldown": "29",
       "castingRange": "7",
       "type": "skill",
-      "description": "Boosts up to 5 nearby allies, increasing Attack Speed by 25%, Casting Speed by 30%, and Movement Speed by 30% for 6s",
+      "description": "Increases Attack Speed by 30%, Spellcasting Speed by 30%, and Movement Speed by 30% for nearby allied targets, lasting 5s.",
       "tierUnlock": "1",
       "rarity": "epic",
       "stats": {

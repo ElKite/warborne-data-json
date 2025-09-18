@@ -48,7 +48,7 @@
     {
       "id": "webspinner-launcher",
       "name": "Webspinner Launcher",
-      "description": "Throw toward the target location. Explosion Immobilizes enemies in range for 7s.",
+      "description": "Throw toward the target location. Explosion immobilizes enemies in range for 7 seconds. This effect cannot be resisted..",
       "category": "crowd-control",
       "rarity": "common"
     },

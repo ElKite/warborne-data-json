@@ -13,7 +13,7 @@
     {
       "gameId": "MaceAttack_2",
       "skillName": "Swing",
-      "manaCost": "+5",
+      "manaCost": "0",
       "cooldown": "1.2",
       "castingRange": "5",
       "type": "basic",
@@ -23,7 +23,7 @@
     {
       "gameId": "MaceAttack_1",
       "skillName": "Smash",
-      "manaCost": "+7",
+      "manaCost": "0",
       "cooldown": "1.2",
       "castingRange": "3.5",
       "type": "basic",
@@ -33,7 +33,7 @@
     {
       "gameId": "MaceAttack_3",
       "skillName": "Crushing Smash",
-      "manaCost": "+6",
+      "manaCost": "0",
       "cooldown": "1.2",
       "castingRange": "7",
       "type": "basic",

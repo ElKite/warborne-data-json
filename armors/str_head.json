@@ -21,7 +21,7 @@
     {
       "gameId": "Helm_Str_4",
       "gearIcon": "SpecImage_HELMET4",
-      "gearName": "Reptilian Helm",
+      "gearName": "Ironclad Helm",
       "skillName": "Iron Wall",
       "manaCost": "",
       "cooldown": "60",
@@ -44,7 +44,7 @@
       "cooldown": "30",
       "castingRange": "",
       "type": "passive",
-      "description": "When dealing direct Basic Attack Damage, creates a Flame Star around the caster, lasting 6s. Reduces enemies' Magic Resistance by 50% (Magic Resistance Reduction), and deals \n[Damage Rate: 50%] Magic Damage every 1s. Trigger Interval: 30s",
+      "description": "When dealing direct Basic Attack Damage, creates a Flame Star around the caster that lasts 6s. Enemies within 7m have their Magic Resistance reduced by 40 (Magic Resistance Reduction), and take [Damage Rate: 50%] Magic Damage every 1s.Trigger Interval: 30s",
       "tierUnlock": "1",
       "rarity": "epic",
       "stats": {
@@ -55,7 +55,7 @@
     {
       "gameId": "Helm_Str_1",
       "gearIcon": "SpecImage_HELMET6",
-      "gearName": "Ironclad Helm",
+      "gearName": "Reptilian Helm",
       "skillName": "Scale Armor",
       "manaCost": "",
       "cooldown": "30",
@@ -123,13 +123,13 @@
     {
       "gameId": "Helm_Str_9",
       "gearIcon": "SpecImage_HELMET8",
-      "gearName": "Riposte Helm",
+      "gearName": "Riposte-Helm",
       "skillName": "Hardened Guard",
       "manaCost": "",
       "cooldown": "25",
       "castingRange": "",
       "type": "passive",
-      "description": "Taking damage from 3 basic attacks within 5s grants 220 Block for 6s\nTrigger Interval: 25s",
+      "description": "After taking 3 Basic Attack Damages within 5s, gains 65 Block Value (scales with Power) for 6s. This effect enters a 25s cooldown after triggering.",
       "tierUnlock": "1",
       "rarity": "epic",
       "stats": {

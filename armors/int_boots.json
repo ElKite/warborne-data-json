@@ -28,7 +28,7 @@
         "cooldown": "23",
         "castingRange": "12",
         "type": "skill",
-        "description": "Move 12m in target direction. Restore  \n[Healing Rate: 180%] HP and 20 MP.",
+        "description": "Dash 12m in the target direction. Restore [Healing Rate:150%] Vitality and 25 MP.",
         "tierUnlock": "1",
         "rarity": "epic"
       },
@@ -80,7 +80,7 @@
         "cooldown": "46",
         "castingRange": "6",
         "type": "skill",
-        "description": "After 1.5s cast time, enters Ghost Form, increases Movement Speed by 70% and becomes immune to\ndamage and control effects for 4s. Cannot cast other\nskills or attack while in Ghost form.",
+        "description": "After a cast time of 1.5 seconds, enters Ghost Form, increasing Movement Speed by 70%, gaining Immunity to damage and control effects for 3 seconds. Cannot cast other Skills or Attack while in Ghost Form.",
         "tierUnlock": "1",
         "rarity": "legendary",
         "stats": {
@@ -98,7 +98,7 @@
         "cooldown": "28",
         "castingRange": "6",
         "type": "skill",
-        "description": "Increases Movement Speed by 70% and damage by 20%\nfor 6s.\nWhen effect ends, reduces Damage Resistance by 15% for 4s",
+        "description": "Increases Movement Speed by 70% and Damage by 20% for 5s. When the effect ends, reduces Damage Resistance by 20% for 5s.",
         "tierUnlock": "1",
         "rarity": "legendary",
         "stats": {
