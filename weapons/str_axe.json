@@ -17,7 +17,7 @@
       "cooldown": "1.3",
       "castingRange": "7",
       "type": "basic",
-      "description": "[Basic Attack]: Deals \n[Damage Rate: 130%] Physical Damage to enemy target. Can cast [Jump Cleave] every 6s. Performs a powerful leap attack, dealing \n[Damage Rate: 220%] Physical Damage and reducing Armor by 15% for 4s.",
+      "description": "Can cast [Bonecrusher Leap] every 6s. Performs a powerful leap attack, dealing [Damage Rate: 220%] Physical Damage and reducing Armor by 10 for 4s.",
       "tierUnlock": "2"
     },
     {
@@ -160,7 +160,7 @@
       "cooldown": "17",
       "castingRange": "10",
       "type": "skill",
-      "description": "Can cast [Bonecrusher Leap] every 6s. Performs a powerful leap attack, dealing [Damage Rate: 220%] Physical Damage and reducing Armor by 10 for 4s.",
+      "description": "Leap to the target location, dealing \n[Damage Rate: 300%] Physical Damage to nearby enemies. Gains [Basic Attack True Damage] and +30% Attack Speed for 6s. Duration extends by 2s for each player (0.6s for each mob) hit, up to an extra 6s. [Basic Attack True Damage]: Basic Attacks deal \n[Damage Rate: 50%] additional True Damage.",
       "tierUnlock": "2",
       "rarity": "epic",
       "stats": {
