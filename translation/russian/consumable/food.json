@@ -3,41 +3,41 @@
   "food": [
     {
       "id": "mossgrass-biscuit",
-      "name": "Mossgrass Biscuit",
+      "name": "Бисквит из моховой травы",
       "iconName": "equip_food_1",
-      "description": "Recovers 25 + 0.8% HP every second for 30s.\nHealing interrupts on taking PvP damage",
+      "description": "Восстанавливает 25 + 0,8% ОЗ каждую секунду в течение 30 с.\nИсцеление прерывается при получении PvP-урона",
       "category": "food",
       "rarity": "common"
     },
     {
       "id": "spicy-lizard-stew",
-      "name": "Spicy Lizard Stew",
+      "name": "Пряное рагу из ящерицы",
       "iconName": "equip_food_2",
-      "description": "Recovers 40 + 1% HP every second for 30s.\nHealing interrupts on taking PvP damage",
+      "description": "Восстанавливает 40 + 1% ОЗ каждую секунду в течение 30 с.\nИсцеление прерывается при получении PvP-урона",
       "category": "food",
       "rarity": "uncommon"
     },
     {
       "id": "sandcrystal-crab-pot",
-      "name": "Sandcrystal Crab Pot",
+      "name": "Горшок с песочным крабом",
       "iconName": "equip_food_3",
-      "description": "Recovers 100 + 1.4% HP every second for 30s.\nHealing interrupts on taking PvP damage",
+      "description": "Восстанавливает 100 + 1,4% ОЗ каждую секунду в течение 30 с.\nИсцеление прерывается при получении PvP-урона",
       "category": "food",
       "rarity": "rare"
     },
     {
       "id": "horseshoe-crab-teppanyaki",
-      "name": "Horseshoe Crab Teppanyaki",
+      "name": "Теппаньяки из мечехвоста",
       "iconName": "equip_food_4",
-      "description": "Recovers 180 + 1.7% HP every second for 30s.\nHealing interrupts on taking PvP damage",
+      "description": "Восстанавливает 180 + 1,7% ОЗ каждую секунду в течение 30 с.\nИсцеление прерывается при получении PvP-урона",
       "category": "food",
       "rarity": "epic"
     },
     {
       "id": "fire-eater-feast",
-      "name": "Fire-Eater Feast",
+      "name": "Пиршество Огнеглота",
       "iconName": "equip_food_5",
-      "description": "Recovers 300 + 2% HP every second for 30s.\nHealing interrupts on taking PvP damage",
+      "description": "Восстанавливает 300 + 2% ОЗ каждую секунду в течение 30 с.\nИсцеление прерывается при получении PvP-урона",
       "category": "food",
       "rarity": "legendary"
     }

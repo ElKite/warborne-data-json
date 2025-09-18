@@ -2,11 +2,11 @@
   "lastUpdate": "June 6, 2025 6 AM",
   "mods": [
     {
-      "name": "Advance",
+      "name": "Продвижение",
       "iconName": "WeaponRare1",
       "rarity": "rare",
       "slot": "all",
-      "description": "Increases Basic Attack Damage by %s1%",
+      "description": "Увеличивает урон от базовой атаки на %s1%",
       "arguments": [
         {
           "argumentName": "s1",
@@ -15,11 +15,11 @@
       ]
     },
     {
-      "name": "Tactics",
+      "name": "Тактика",
       "iconName": "WeaponRare2",
       "rarity": "rare",
       "slot": "all",
-      "description": "Increases Skill Effect by %s1%",
+      "description": "Увеличивает эффект умений на %s1%",
       "arguments": [
         {
           "argumentName": "s1",
@@ -28,11 +28,11 @@
       ]
     },
     {
-      "name": "Armor Breaker",
+      "name": "Разрушитель брони",
       "iconName": "WeaponEpic1",
       "rarity": "epic",
       "slot": "all",
-      "description": "When weapon skills deal direct Physical Damage, has a %s1% chance to modify the target's Armor by   %s2% for 4s. Trigger Interval: 30s",
+      "description": "Когда умения оружия наносят прямой физический урон, есть шанс %s1% изменить Броню цели на %s2% на 4 с. Интервал срабатывания: 30 с",
       "arguments": [
         {
           "argumentName": "s1",
@@ -45,11 +45,11 @@
       ]
     },
     {
-      "name": "Fortify",
+      "name": "Укрепление",
       "iconName": "WeaponEpic2",
       "rarity": "epic",
       "slot": "all",
-      "description": "When Basic Attacks deal direct damage, has a (melee weapons %s1% / ranged weapons %s2%) chance to gain  \n[Target-based Max HP %s3%] Shield for 4s.\nTrigger Interval: 30s.",
+      "description": "Когда базовые атаки наносят прямой урон, есть шанс (оружие ближнего боя %s1% / оружие дальнего боя %s2%) получить Щит на %s3% от Макс. ОЗ цели на 4 с. Интервал срабатывания: 30 с.",
       "arguments": [
         {
           "argumentName": "s1",
@@ -66,11 +66,11 @@
       ]
     },
     {
-      "name": "Dominate",
+      "name": "Доминирование",
       "iconName": "WeaponEpic3",
       "rarity": "epic",
       "slot": "all",
-      "description": "When weapon skills or Basic Attacks deal Direct\nDamage to enemies under Hard Control effects\n(Stun, Fear, Freeze, Knockup, Petrify), there is a\n%s1% chance to reduce their Damage Resistance by\n%s2% for 4s.\nCooldown: 30s.",
+      "description": "Когда умения оружия или базовые атаки наносят прямой урон врагам под действием эффектов жесткого контроля (Оглушение, Страх, Заморозка, Подбрасывание, Окаменение), есть шанс %s1% уменьшить их Сопротивление урону на %s2% на 4 с. Перезарядка: 30 с.",
       "arguments": [
         {
           "argumentName": "s1",
@@ -83,11 +83,11 @@
       ]
     },
     {
-      "name": "Upperhand",
+      "name": "Превосходство",
       "iconName": "WeaponEpic4",
       "rarity": "epic",
       "slot": "all",
-      "description": "When dealing direct damage with Basic Attacks,\nhas a %s1% chance to increase Basic Attack\nDamage by %s2% for 6s.\nTrigger Interval: 30s.",
+      "description": "При нанесении прямого урона базовыми атаками, есть шанс %s1% увеличить урон от базовой атаки на %s2% на 6 с. Интервал срабатывания: 30 с.",
       "arguments": [
         {
           "argumentName": "s1",
@@ -100,11 +100,11 @@
       ]
     },
     {
-      "name": "Pursuit",
+      "name": "Преследование",
       "iconName": "WeaponEpic5",
       "rarity": "epic",
       "slot": "all",
-      "description": "When dealing direct damage with Basic Attacks,\nhas a (melee weapons %s1% / ranged weapons %s2%)\nchance to modify the target's Movement Speed by\n%s3% for 4s.\nTrigger Interval: 10s",
+      "description": "При нанесении прямого урона базовыми атаками, есть шанс (оружие ближнего боя %s1% / оружие дальнего боя %s2%) изменить Скорость передвижения цели на %s3% на 4 с. Интервал срабатывания: 10 с",
       "arguments": [
         {
           "argumentName": "s1",
@@ -121,11 +121,11 @@
       ]
     },
     {
-      "name": "Ravage",
+      "name": "Опустошение",
       "iconName": "WeaponEpic6",
       "rarity": "epic",
       "slot": "all",
-      "description": "When scoring a Critical Hit, has a %s1% chance to\nmodify the target's Damage Resistance by %s2% for\n4s.\nTrigger Interval: 30s.",
+      "description": "При нанесении критического удара, есть шанс %s1% изменить Сопротивление урону цели на %s2% на 4 с. Интервал срабатывания: 30 с.",
       "arguments": [
         {
           "argumentName": "s1",
@@ -138,11 +138,11 @@
       ]
     },
     {
-      "name": "Magic Break",
+      "name": "Магический пробой",
       "iconName": "WeaponEpic7",
       "rarity": "epic",
       "slot": "all",
-      "description": "When weapon skills deal direct Magic Damage, has\na %s1% chance to modify the target's Magic\nResistance by %s2% for 4s.\nTrigger Interval: 30s",
+      "description": "Когда умения оружия наносят прямой магический урон, есть шанс %s1% изменить Сопротивление магии цели на %s2% на 4 с. Интервал срабатывания: 30 с",
       "arguments": [
         {
           "argumentName": "s1",
@@ -155,11 +155,11 @@
       ]
     },
     {
-      "name": "Charge",
+      "name": "Заряд",
       "iconName": "WeaponEpic8",
       "rarity": "epic",
       "slot": "all",
-      "description": "When weapon skills deal direct damage, has a %s1%\nchance to restore %s2% MP.\nTrigger Interval: 10s.",
+      "description": "Когда умения оружия наносят прямой урон, есть шанс %s1% восстановить %s2% МР. Интервал срабатывания: 10 с.",
       "arguments": [
         {
           "argumentName": "s1",
@@ -172,11 +172,11 @@
       ]
     },
     {
-      "name": "Fortify",
+      "name": "Укрепление",
       "iconName": "WeaponEpic9",
       "rarity": "epic",
       "slot": "all",
-      "description": "When casting weapon skills, has a %s1% chance to\nincrease Cooldown Speed by %s2% for 4s.\nTrigger Interval: 30s.",
+      "description": "При использовании умений оружия, есть шанс %s1% увеличить Скорость перезарядки на %s2% на 4 с. Интервал срабатывания: 30 с.",
       "arguments": [
         {
           "argumentName": "s1",
@@ -189,11 +189,11 @@
       ]
     },
     {
-      "name": "Nimbleness",
+      "name": "Ловкость",
       "iconName": "WeaponEpic10",
       "rarity": "epic",
       "slot": "all",
-      "description": "When landing a Basic Attack crit, %s1% chance to\nincrease Dodge by %s2% for 4s\nCooldown: s30.",
+      "description": "При критическом ударе базовой атакой, есть шанс %s1% увеличить Уклонение на %s2% на 4 с. Перезарядка: 30 с.",
       "arguments": [
         {
           "argumentName": "s1",
@@ -206,11 +206,11 @@
       ]
     },
     {
-      "name": "Piercing Chill",
+      "name": "Пронзающий холод",
       "iconName": "WeaponEpic11",
       "rarity": "epic",
       "slot": "all",
-      "description": "When inflicting Hard Control effects (Stun,\nFear, Freeze, Knockup, Petrify, Sleep) with a\nWeapon Skill, %s1% chance to lower the enemy's\nHealing Received by %s2% for 4s\nCooldown: 30s.",
+      "description": "При наложении эффектов жесткого контроля (Оглушение, Страх, Заморозка, Подбрасывание, Окаменение, Сон) умением оружия, есть шанс %s1% снизить получаемое врагом исцеление на %s2% на 4 с. Перезарядка: 30 с.",
       "arguments": [
         {
           "argumentName": "s1",
@@ -223,11 +223,11 @@
       ]
     },
     {
-      "name": "Drain",
+      "name": "Истощение",
       "iconName": "WeaponEpic12",
       "rarity": "epic",
       "slot": "all",
-      "description": "When inflicting a DOT with a Weapon Basic\nttack or Skill, %s1% chance to recover %s2% HP\nCooldown: 20s.",
+      "description": "При наложении DOT умением или базовой атакой оружия, есть шанс %s1% восстановить %s2% ОЗ. Перезарядка: 20 с.",
       "arguments": [
         {
           "argumentName": "s1",
@@ -240,11 +240,11 @@
       ]
     },
     {
-      "name": "Valor",
+      "name": "Доблесть",
       "iconName": "WeaponExclusiveLgdr1",
       "rarity": "legendary",
       "slot": "sword",
-      "description": "Only triggers with Greatswords\nWhen weapon skills or Basic Attacks deal direct\ndamage, has a %s1% chance to gain 1 stacks of\nSword Momentum and increase Damage\nResistance by %s2% for 4s.\nTrigger Interval: 15s.\nSword Momentum: Damage Boost: +3% (3% per\nstack, can stack)\nDamage Resistance: +4% (4% per stack, can stack)\nAttack Speed: +4% (4% per stack, can stack)",
+      "description": "Срабатывает только с двуручными мечами\nКогда умения оружия или базовые атаки наносят прямой урон, есть шанс %s1% получить 1 стак Импульса меча и увеличить Сопротивление урону на %s2% на 4 с. Интервал срабатывания: 15 с.\nИмпульс меча: Увеличение урона: +3% (3% за стак, может складываться)\nСопротивление урону: +4% (4% за стак, может складываться)\nСкорость атаки: +4% (4% за стак, может складываться)",
       "arguments": [
         {
           "argumentName": "s1",
@@ -257,11 +257,11 @@
       ]
     },
     {
-      "name": "Disrupt",
+      "name": "Разрушение",
       "iconName": "WeaponExclusiveLgdr2",
       "rarity": "legendary",
       "slot": "mace",
-      "description": "Only triggers with Maces\nWhen weapon skills or Basic Attacks deal Direct\nDamage, has a 35% chance to create a disruption\nfield around the caster. Enemies within take %s1%\nreduced Damage and have their Attack Speed\nreduced by %s2% for 4s.\nCooldown: 15s.",
+      "description": "Срабатывает только с булавами\nКогда умения оружия или базовые атаки наносят прямой урон, есть 35% шанс создать поле разрушения вокруг заклинателя. Враги внутри получают на %s1% меньше урона, а их Скорость атаки снижается на %s2% на 4 с. Перезарядка: 15 с.",
       "arguments": [
         {
           "argumentName": "s1",
@@ -274,11 +274,11 @@
       ]
     },
     {
-      "name": "Seize Chance",
+      "name": "Используй шанс",
       "iconName": "WeaponExclusiveLgdr3",
       "rarity": "legendary",
       "slot": "axe",
-      "description": "Only triggers with Axes\nWhen gaining the [Bloodthirst] buff, has a 25%\nchance to increase Attack Speed by %s2% and\nDamage by %s1% for 6s.\nTrigger Interval: 20s.",
+      "description": "Срабатывает только с топорами\nПри получении баффа [Жажда крови], есть 25% шанс увеличить Скорость атаки на %s2% и урон на %s1% на 6 с. Интервал срабатывания: 20 с.",
       "arguments": [
         {
           "argumentName": "s1",
@@ -291,11 +291,11 @@
       ]
     },
     {
-      "name": "Detonate",
+      "name": "Детонация",
       "iconName": "WeaponExclusiveLgdr4",
       "rarity": "legendary",
       "slot": "bow",
-      "description": "Only triggers with Bows\nWhen arrows deal direct damage, has a %s1%\nchance of creating an explosion at the target\nlocation dealing \n[Damage Rate: %s2%] Physical Damage\n and applying[Target Mark].\n Also stun for 2 seconds.\nTrigger Interval: 15s.",
+      "description": "Срабатывает только с луками\nКогда стрелы наносят прямой урон, есть шанс %s1% создать взрыв в месте цели, наносящий %s2% физического урона и накладывающий [Отметка цели]. Также оглушает на 2 секунды. Интервал срабатывания: 15 с.",
       "arguments": [
         {
           "argumentName": "s1",
@@ -308,11 +308,11 @@
       ]
     },
     {
-      "name": "Synergy",
+      "name": "Синергия",
       "iconName": "WeaponExclusiveLgdr5",
       "rarity": "legendary",
       "slot": "spear",
-      "description": "Only triggers with Spears\nWhen scoring a Critical Hit, has a %s1% chance to\nincrease Attack Speed by %s2% for 6s.\nCooldown: 15s",
+      "description": "Срабатывает только с копьями\nПри нанесении критического удара, есть шанс %s1% увеличить Скорость атаки на %s2% на 6 с. Перезарядка: 15 с",
       "arguments": [
         {
           "argumentName": "s1",
@@ -325,11 +325,11 @@
       ]
     },
     {
-      "name": "Annihilate",
+      "name": "Уничтожение",
       "iconName": "WeaponExclusiveLgdr6",
       "rarity": "legendary",
       "slot": "dagger",
-      "description": "Only triggers with Daggers\nAgainst targets below 40%, Basic Attacks have a\n%s1% chance to deal additional \n[Damage Rate: %s2%]Physical Damage\nand apply 2 stacks of [Bleed].\nTrigger Interval: 15s.\n[Bleed]: Deals \n[Damage Rate: 30%] Physical\nDamage every second for 8s, stacking up to 6\ntimes. At max stacks, causes Hemorrhage,\nremoving all stacks and instantly dealing  \n[Damage Rate: 100%] Physical Damage.",
+      "description": "Срабатывает только с кинжалами\nПротив целей с ОЗ ниже 40%, базовые атаки имеют шанс %s1% нанести дополнительный %s2% физического урона и наложить 2 стака [Кровотечения]. Интервал срабатывания: 15 с.\n[Кровотечение]: Наносит %s3% физического урона каждую секунду в течение 8 с, суммируется до 6 раз. При максимальном количестве стаков вызывает Кровоизлияние, удаляя все стаки и мгновенно нанося %s4% физического урона.",
       "arguments": [
         {
           "argumentName": "s1",
@@ -342,11 +342,11 @@
       ]
     },
     {
-      "name": "Wild Growth",
+      "name": "Дикий рост",
       "iconName": "WeaponExclusiveLgdr7",
       "rarity": "legendary",
       "slot": "nature",
-      "description": "Only triggers with Bloom Staves\nWhen weapon skills or Basic Attacks directly heal\nan ally with Recovery, has a %s1% * Recovery stacks\nchance to grant  \n[Target-based Max HP %s2%] Shield\nfor 4s.\nTrigger Interval: 15s.\nRecovery: Restores \n[Healing Rate: 12%] HP every\nsecond for 12s, stacking up to 3 times.",
+      "description": "Срабатывает только с цветущими посохами\nКогда умения оружия или базовые атаки напрямую исцеляют союзника с Восстановлением, есть шанс %s1% * стаки Восстановления дать Щит на %s2% от Макс. ОЗ цели на 4 с. Интервал срабатывания: 15 с.\nВосстановление: Восстанавливает %s3% ОЗ каждую секунду в течение 12 с, суммируется до 3 раз.",
       "arguments": [
         {
           "argumentName": "s1",
@@ -359,11 +359,11 @@
       ]
     },
     {
-      "name": "Ice Blast",
+      "name": "Ледяной взрыв",
       "iconName": "WeaponExclusiveLgdr8",
       "rarity": "legendary",
       "slot": "ice",
-      "description": "Only triggers with Ice Foci\nWhen weapon skills or Basic Attacks deal direct\ndamage, has a %s1% chance to trigger a frost\nexplosion at the target location \nthat deals \n[Damage Rate: %s2%] Magic Damage\n to all enemies within 4m and inflicts Frost.\nTrigger Interval: 20s.\nFrost: Movement Speed is reduced by -40% for 4s,\nSlow gradually diminishes over time",
+      "description": "Срабатывает только с ледяными фокусами\nКогда умения оружия или базовые атаки наносят прямой урон, есть шанс %s1% вызвать морозный взрыв в месте цели, который наносит %s2% магического урона всем врагам в радиусе 4 м и накладывает Мороз. Интервал срабатывания: 20 с.\nМороз: Скорость передвижения снижается на -40% на 4 с, замедление постепенно уменьшается со временем",
       "arguments": [
         {
           "argumentName": "s1",
@@ -376,11 +376,11 @@
       ]
     },
     {
-      "name": "Flame Blast",
+      "name": "Огненный взрыв",
       "iconName": "WeaponExclusiveLgdr9",
       "rarity": "legendary",
       "slot": "fire",
-      "description": "Only triggers with Cannonades\nWhen weapon skills or Basic Attacks deal direct\ndamage, has a %s1% chance to trigger a flame\nexplosion at the target location \nthat deals \n[Damage Rate: %s2%] Magic Damage \nto all enemies within 4m and inflicts 2\nstacks of Burn.\nTrigger Interval: 15s.\nBurn: Deals \n[Damage Rate: 25%] Magic Damage\nevery second for 8s, stacking up to 6 times. At 6\nstacks, removes the effect and deals  \n[Damage Rate: 80%] Magic Damage to enemy targets within\n4m of the carrier.",
+      "description": "Срабатывает только с пушками\nКогда умения оружия или базовые атаки наносят прямой урон, есть шанс %s1% вызвать огненный взрыв в месте цели, который наносит %s2% магического урона всем врагам в радиусе 4 м и накладывает 2 стака Горения. Интервал срабатывания: 15 с.\nГорение: Наносит %s3% магического урона каждую секунду в течение 8 с, суммируется до 6 раз. При 6 стаках, эффект удаляется и наносит %s4% магического урона врагам в радиусе 4 м от носителя.",
       "arguments": [
         {
           "argumentName": "s1",
@@ -393,11 +393,11 @@
       ]
     },
     {
-      "name": "Blessing",
+      "name": "Благословение",
       "iconName": "WeaponExclusiveLgdr10",
       "rarity": "legendary",
       "slot": "holy",
-      "description": "Only triggers with Radiant Fluxes\nWhen weapon skills or Basic Attacks apply direct\nhealing to allies, has a %s1% chance to increase\ntarget's Damage Resistance by %s2% for 5s.\nTrigger Interval: 15s.",
+      "description": "Срабатывает только с сияющими потоками\nКогда умения оружия или базовые атаки накладывают прямое исцеление на союзников, есть шанс %s1% увеличить Сопротивление урону цели на %s2% на 5 с. Интервал срабатывания: 15 с.",
       "arguments": [
         {
           "argumentName": "s1",
@@ -410,11 +410,11 @@
       ]
     },
     {
-      "name": "Curse",
+      "name": "Проклятие",
       "iconName": "WeaponExclusiveLgdr11",
       "rarity": "legendary",
       "slot": "curse",
-      "description": "Only triggers with Voidcallers\nWhen weapon skills or Basic Attacks inflict DoT\neffects on enemies, has a %s1% chance to inflict 2\nstacks of Plague.\nTrigger Interval: %s2%s.\nPlague: Deals \n[Damage Rate: 20%] Magic Damage\nevery 3s for 13s. Stacks up to 10 times.",
+      "description": "Срабатывает только с призывателями пустоты\nКогда умения оружия или базовые атаки накладывают эффекты DoT на врагов, есть шанс %s1% наложить 2 стака Чумы. Интервал срабатывания: %s2% с.\nЧума: Наносит %s3% магического урона каждые 3 с в течение 13 с. Суммируется до 10 раз.",
       "arguments": [
         {
           "argumentName": "s1",
@@ -427,11 +427,11 @@
       ]
     },
     {
-      "name": "Renovate",
+      "name": "Обновление",
       "iconName": "WeaponExclusiveLgdr12",
       "rarity": "legendary",
       "slot": "gun",
-      "description": "When Weapon Skills or Basic Attacks deal direct\n damage, has a %s1% chance to restore 1 bullet and \n boosts Basic Attack Damage by %s2% for 5s.\nTrigger Interval: 15s.",
+      "description": "Когда умения оружия или базовые атаки наносят прямой урон, есть шанс %s1% восстановить 1 пулю и увеличить урон от базовой атаки на %s2% на 5 с. Интервал срабатывания: 15 с.",
       "arguments": [
         {
           "argumentName": "s1",
@@ -444,11 +444,11 @@
       ]
     },
     {
-      "name": "EarthQuake",
+      "name": "Землетрясение",
       "iconName": "WeaponLgdr1",
       "rarity": "legendary",
       "slot": "all",
-      "description": "When a weapon skill inflicts Hard Control effects\n(Stun, Fear, Frozen, Knockup, Petrify) or Pull\neffects, it has a %s1% chance to create an\nearthquake at the target's location. After a\n1.5-second delay, it deals\n[Damage Rate: %s2%] Physical Damage and\napplies Stun for %s3% seconds.\nCooldown: 30s.",
+      "description": "Когда умение оружия накладывает эффекты жесткого контроля (Оглушение, Страх, Заморозка, Подбрасывание, Окаменение) или эффекты притягивания, есть шанс %s1% создать землетрясение в месте цели. После задержки в 1,5 с, оно наносит %s2% физического урона и накладывает Оглушение на %s3% секунды. Перезарядка: 30 с.",
       "arguments": [
         {
           "argumentName": "s1",
@@ -465,11 +465,11 @@
       ]
     },
     {
-      "name": "Rend",
+      "name": "Разрывание",
       "iconName": "WeaponLgdr2",
       "rarity": "legendary",
       "slot": "all",
-      "description": "When dealing direct damage with Basic Attacks,\nhas a %s1% chance to deal additional\n[Damage Rate: %s2%] Physical Damage \nto the current target and reduce\nMovement Speed by %s3% for 2s.\nTrigger Interval: 30s",
+      "description": "При нанесении прямого урона базовыми атаками, есть шанс %s1% нанести дополнительный %s2% физического урона текущей цели и уменьшить Скорость передвижения на %s3% на 2 с. Интервал срабатывания: 30 с",
       "arguments": [
         {
           "argumentName": "s1",
@@ -486,11 +486,11 @@
       ]
     },
     {
-      "name": "Retribution",
+      "name": "Возмездие",
       "iconName": "WeaponLgdr3",
       "rarity": "legendary",
       "slot": "all",
-      "description": "When weapon skills deal direct damage, there is a\n%s1% chance to trigger an explosion at the target\nlocation, dealing \n[Damage Rate: %s2%]Magic Damage \n and increasing\nDamage Resistance by %s3% for 4s.\nTrigger Interval: 30s.",
+      "description": "Когда умения оружия наносят прямой урон, есть шанс %s1% вызвать взрыв в месте цели, наносящий %s2% магического урона и увеличивающий Сопротивление урону на %s3% на 4 с. Интервал срабатывания: 30 с.",
       "arguments": [
         {
           "argumentName": "s1",
@@ -507,11 +507,11 @@
       ]
     },
     {
-      "name": "Bloodgrudge",
+      "name": "Кровавая месть",
       "iconName": "WeaponLgdr4",
       "rarity": "legendary",
       "slot": "all",
-      "description": "When dealing Direct Damage with a Weapon\nBasic Attack or Skill, %s1% chance to gain 1 stack\nof a %s2% damage boost buff for every 10% of\nmissing HP. The buff lasts 4s and stacks up to\n5 times\nCooldown: 30s.",
+      "description": "При нанесении прямого урона базовой атакой или умением оружия, есть шанс %s1% получить 1 стак баффа на %s2% увеличения урона за каждые 10% недостающих ОЗ. Бафф длится 4 с и суммируется до 5 раз. Перезарядка: 30 с.",
       "arguments": [
         {
           "argumentName": "s1",
@@ -524,11 +524,11 @@
       ]
     },
     {
-      "name": "Shadowstep",
+      "name": "Теневой шаг",
       "iconName": "WeaponLgdr5",
       "rarity": "legendary",
       "slot": "all",
-      "description": "When using a Weapon Skill, %s1% chance to\nreduce the CD of weapon-exclusive skills by %s2% s\nCooldown: 30s.",
+      "description": "При использовании умения оружия, есть шанс %s1% уменьшить перезарядку эксклюзивных умений оружия на %s2% с. Перезарядка: 30 с.",
       "arguments": [
         {
           "argumentName": "s1",

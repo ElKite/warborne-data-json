@@ -2,11 +2,11 @@
   "lastUpdate": "June 6, 2025 6 AM",
   "mods": [
     {
-      "name": "Vitality",
+      "name": "Живучесть",
       "iconName": "ArmorRare1",
       "rarity": "rare",
       "slot": "all",
-      "description": "Increases Max HP by %s1%",
+      "description": "Увеличивает Макс. ОЗ на %s1%",
       "arguments": [
         {
           "argumentName": "s1",
@@ -15,11 +15,11 @@
       ]
     },
     {
-      "name": "Armor",
+      "name": "Броня",
       "iconName": "ArmorRare2",
       "rarity": "rare",
       "slot": "all",
-      "description": "Increases Armor by %s1%",
+      "description": "Увеличивает Броню на %s1%",
       "arguments": [
         {
           "argumentName": "s1",
@@ -28,11 +28,11 @@
       ]
     },
     {
-      "name": "Magic Armor",
+      "name": "Магическая броня",
       "iconName": "ArmorRare3",
       "rarity": "rare",
       "slot": "all",
-      "description": "Increases Magic Resistance by %s1%",
+      "description": "Увеличивает Сопротивление магии на %s1%",
       "arguments": [
         {
           "argumentName": "s1",
@@ -41,11 +41,11 @@
       ]
     },
     {
-      "name": "Psyche",
+      "name": "Психика",
       "iconName": "ArmorRare4",
       "rarity": "rare",
       "slot": "all",
-      "description": "Increases Max MP by %s1%",
+      "description": "Увеличивает Макс. МР на %s1%",
       "arguments": [
         {
           "argumentName": "s1",
@@ -54,11 +54,11 @@
       ]
     },
     {
-      "name": "Punish",
+      "name": "Наказание",
       "iconName": "ArmorEpic1",
       "rarity": "epic",
       "slot": "all",
-      "description": "When taking direct damage from Basic Attacks, has a (melee weapons %s1% / ranged weapons %s2%) chance to increase the attacker's Attack Speed by\n-%s3% for 4s. Trigger Interval: 30s",
+      "description": "При получении прямого урона от базовых атак имеет шанс (оружие ближнего боя %s1% / оружие дальнего боя %s2%) снизить Скорость атаки атакующего на -%s3% на 4 с. Интервал срабатывания: 30 с",
       "arguments": [
         {
           "argumentName": "s1",
@@ -75,11 +75,11 @@
       ]
     },
     {
-      "name": "Physical Resistance",
+      "name": "Физическое сопротивление",
       "iconName": "ArmorEpic2",
       "rarity": "epic",
       "slot": "all",
-      "description": "When taking direct Physical Damage, has a \n%s1%chance to increase Armor by %s2% for 4s. Trigger Interval: 30s.",
+      "description": "При получении прямого физического урона имеет шанс %s1% увеличить Броню на %s2% на 4 с. Интервал срабатывания: 30 с.",
       "arguments": [
         {
           "argumentName": "s1",
@@ -92,11 +92,11 @@
       ]
     },
     {
-      "name": "Valor Force",
+      "name": "Сила доблести",
       "iconName": "ArmorEpic3",
       "rarity": "epic",
       "slot": "all",
-      "description": "When affected by hard control effects (Stun, Fear,\nFrozen, Knockup, Petrify), has a %s1% chance to\nincrease Crowd Control Resistance by %s2% for 4s.\nCooldown: 30s",
+      "description": "При воздействии эффектов жесткого контроля (Оглушение, Страх, Заморозка, Подбрасывание, Окаменение) имеет шанс %s1% увеличить Сопротивление эффектам контроля на %s2% на 4 с. Перезарядка: 30 с.",
       "arguments": [
         {
           "argumentName": "s1",
@@ -109,11 +109,11 @@
       ]
     },
     {
-      "name": "Rebound",
+      "name": "Отскок",
       "iconName": "ArmorEpic4",
       "rarity": "epic",
       "slot": "all",
-      "description": "Taking direct damage from Basic Attacks has a\nchance (%s2% for ranged weapons / %s1% for melee\nweapons) to grant a buff for 5s: Taking direct\ndamage from Basic Attacks has a chance (%s2% for\nranged weapons / %s1% for melee weapons) to deal\n%s3% Physical Damage to the attacker.\nTrigger Interval: 25s.",
+      "description": "Получение прямого урона от базовых атак имеет шанс (%s2% для оружия дальнего боя / %s1% для оружия ближнего боя) дать бафф на 5 с: получение прямого урона от базовых атак имеет шанс (%s2% для оружия дальнего боя / %s1% для оружия ближнего боя) нанести %s3% физического урона атакующему. Интервал срабатывания: 25 с.",
       "arguments": [
         {
           "argumentName": "s1",
@@ -130,11 +130,11 @@
       ]
     },
     {
-      "name": "Frenzy",
+      "name": "Бешенство",
       "iconName": "ArmorEpic5",
       "rarity": "epic",
       "slot": "all",
-      "description": "When taking direct damage from Basic Attacks, has\na %s1% chance to increase Attack Speed by %s2% for\n5s.\nTrigger Interval: 30s.",
+      "description": "При получении прямого урона от базовых атак имеет шанс %s1% увеличить Скорость атаки на %s2% на 5 с. Интервал срабатывания: 30 с.",
       "arguments": [
         {
           "argumentName": "s1",
@@ -147,11 +147,11 @@
       ]
     },
     {
-      "name": "Emulate",
+      "name": "Подражание",
       "iconName": "ArmorEpic6",
       "rarity": "epic",
       "slot": "all",
-      "description": "When hit by a critical hit, has %s1% chance\n to increase Basic Attack's Critical Chance\n by %s2% for 5s.\nTrigger Interval: 30s.",
+      "description": "При получении критического удара имеет шанс %s1% увеличить Шанс критического удара базовой атаки на %s2% на 5 с. Интервал срабатывания: 30 с.",
       "arguments": [
         {
           "argumentName": "s1",
@@ -164,11 +164,11 @@
       ]
     },
     {
-      "name": "Magic Resistance",
+      "name": "Магическое сопротивление",
       "iconName": "ArmorEpic7",
       "rarity": "epic",
       "slot": "all",
-      "description": "When hit by Magic Damage, has a %s1% chance to\nincrease Magic Resistance by %s2% for 4s.\nTrigger Interval: 30s.",
+      "description": "При получении магического урона имеет шанс %s1% увеличить Сопротивление магии на %s2% на 4 с. Интервал срабатывания: 30 с.",
       "arguments": [
         {
           "argumentName": "s1",
@@ -181,11 +181,11 @@
       ]
     },
     {
-      "name": "Barrier",
+      "name": "Барьер",
       "iconName": "ArmorEpic8",
       "rarity": "epic",
       "slot": "all",
-      "description": "When taking direct damage from skills, has a %s1%\nchance to gain  \n[Target-based Max HP %s2%] Shield\nPoints for 4s.\nTrigger Interval: 30s.",
+      "description": "При получении прямого урона от умений имеет шанс %s1% получить Щит на [3%~15%] от Макс. ОЗ цели на 4 с. Интервал срабатывания: 30 с.",
       "arguments": [
         {
           "argumentName": "s1",
@@ -198,11 +198,11 @@
       ]
     },
     {
-      "name": "Absorb",
+      "name": "Поглощение",
       "iconName": "ArmorEpic9",
       "rarity": "epic",
       "slot": "all",
-      "description": "When taking direct damage from skills, has a %s1%\nchance to restore %s2% HP and %s3% MP.\nTrigger Interval: 30s.",
+      "description": "При получении прямого урона от умений имеет шанс %s1% восстановить %s2% ОЗ и %s3% МР. Интервал срабатывания: 30 с.",
       "arguments": [
         {
           "argumentName": "s1",
@@ -219,11 +219,11 @@
       ]
     },
     {
-      "name": "Aggression",
+      "name": "Агрессия",
       "iconName": "ArmorEpic10",
       "rarity": "epic",
       "slot": "all",
-      "description": "When gaining a Shield, %s1% chance to increase\nBasic Attack Critical Rate by %s2% for 4s\nCooldown: 30s.",
+      "description": "При получении Щита имеет шанс %s1% увеличить Шанс критического удара базовой атаки на %s2% на 4 с. Перезарядка: 30 с.",
       "arguments": [
         {
           "argumentName": "s1",
@@ -236,11 +236,11 @@
       ]
     },
     {
-      "name": "Relentlessness",
+      "name": "Неумолимость",
       "iconName": "ArmorEpic11",
       "rarity": "epic",
       "slot": "all",
-      "description": "When gaining a Shield, %s1% chance to increase\nSkill Critical Rate by %s2% for 4s\nCooldown: 30s.",
+      "description": "При получении Щита имеет шанс %s1% увеличить Шанс критического удара умения на %s2% на 4 с. Перезарядка: 30 с.",
       "arguments": [
         {
           "argumentName": "s1",
@@ -253,11 +253,11 @@
       ]
     },
     {
-      "name": "Footwork",
+      "name": "Маневрирование",
       "iconName": "ArmorEpic12",
       "rarity": "epic",
       "slot": "all",
-      "description": "When dodging a Basic Attack, %s1% chance to\nheal for %s2%.\nCooldown: 20s.",
+      "description": "При уклонении от базовой атаки имеет шанс %s1% восстановить %s2% ОЗ. Перезарядка: 20 с.",
       "arguments": [
         {
           "argumentName": "s1",
@@ -270,11 +270,11 @@
       ]
     },
     {
-      "name": "Intimidate",
+      "name": "Запугивание",
       "iconName": "ArmorExclusiveLgdr1",
       "rarity": "legendary",
       "slot": "Chest",
-      "description": "When using Chest skills, deals \n[Damage Rate: %s1%] Magic Damage to nearby enemies\nand reduces their Movement Speed by %s3% and\ndamage dealt by %s2% for 4s.\nTrigger Interval: 10s",
+      "description": "При использовании умений брони наносит %s1% магического урона ближайшим врагам и снижает их Скорость передвижения на %s3% и наносимый урон на %s2% на 4 с. Интервал срабатывания: 10 с",
       "arguments": [
         {
           "argumentName": "s1",
@@ -291,11 +291,11 @@
       ]
     },
     {
-      "name": "Charge Up",
+      "name": "Заряд",
       "iconName": "ArmorExclusiveLgdr2",
       "rarity": "legendary",
       "slot": "Chest",
-      "description": "When using Chest skills, detonates after 1s to deal \n[Damage Rate: %s1%] Physical\nDamage to nearby enemies and modify Attack\nSpeed by %s2% for 4s.\nTrigger Interval: 10s",
+      "description": "При использовании умений брони взрывается через 1 с, нанося %s1% физического урона ближайшим врагам и изменяя Скорость атаки на %s2% на 4 с. Интервал срабатывания: 10 с",
       "arguments": [
         {
           "argumentName": "s1",
@@ -308,11 +308,11 @@
       ]
     },
     {
-      "name": "Pain Relief",
+      "name": "Облегчение боли",
       "iconName": "ArmorExclusiveLgdr3",
       "rarity": "legendary",
       "slot": "Chest",
-      "description": "When using Chest skills, restores %s1% HP and \n %s2%MP to nearby allies.\nTrigger Interval: 10s.",
+      "description": "При использовании умений брони восстанавливает %s1% ОЗ и %s2% МР ближайшим союзникам. Интервал срабатывания: 10 с.",
       "arguments": [
         {
           "argumentName": "s1",
@@ -325,11 +325,11 @@
       ]
     },
     {
-      "name": "Protection",
+      "name": "Защита",
       "iconName": "ArmorExclusiveLgdr4",
       "rarity": "legendary",
       "slot": "Boots",
-      "description": "When using Boots Skills, the character gains an\nadditional  \n[Target-based Max HP %s1%] Shield Value\nfor 4s.\nTrigger Interval: 20s",
+      "description": "При использовании умений ботинок персонаж получает дополнительный Щит в размере %s1% от Макс. ОЗ цели на 4 с. Интервал срабатывания: 20 с",
       "arguments": [
         {
           "argumentName": "s1",
@@ -338,11 +338,11 @@
       ]
     },
     {
-      "name": "Deception",
+      "name": "Обман",
       "iconName": "ArmorExclusiveLgdr5",
       "rarity": "legendary",
       "slot": "Boots",
-      "description": "When using Boots skills,\n throw a trap at your feet;\n When triggered by an enemy,\n deal \n[Damage Rate: %s1%] Physical Damage\n and stuns them for %s2%.\nTrigger Interval: 20s",
+      "description": "При использовании умений ботинок, бросает под ноги ловушку; при срабатывании врагом, наносит %s1% физического урона и оглушает его на %s2%. Интервал срабатывания: 20 с",
       "arguments": [
         {
           "argumentName": "s1",
@@ -355,11 +355,11 @@
       ]
     },
     {
-      "name": "Divine Blessing",
+      "name": "Божественное благословение",
       "iconName": "ArmorExclusiveLgdr6",
       "rarity": "legendary",
       "slot": "Boots",
-      "description": "When using Boot skills, restores %s1% HP and\nbecomes immune to control effects for 2s.\nCooldown: 20s",
+      "description": "При использовании умений ботинок восстанавливает %s1% ОЗ и становится невосприимчивым к эффектам контроля на 2 с. Перезарядка: 20 с",
       "arguments": [
         {
           "argumentName": "s1",
@@ -368,11 +368,11 @@
       ]
     },
     {
-      "name": "Roar",
+      "name": "Рев",
       "iconName": "ArmorLgdr1",
       "rarity": "legendary",
       "slot": "all",
-      "description": "When affected by hard control effects (Stun, Fear,\nFreeze, Knockup, Petrify), has a %s1% chance to cast\na Bellow that deals \n[Damage Rate: %s2%]\n Physical Damage to nearby\nenemies and inflicts Fear for 1.5s.\nTrigger Interval: 30s.",
+      "description": "При воздействии эффектов жесткого контроля (Оглушение, Страх, Заморозка, Подбрасывание, Окаменение) имеет шанс %s1% издать Рев, который наносит %s2% физического урона ближайшим врагам и накладывает Страх на 1,5 с. Интервал срабатывания: 30 с.",
       "arguments": [
         {
           "argumentName": "s1",
@@ -385,11 +385,11 @@
       ]
     },
     {
-      "name": "Counter",
+      "name": "Контратака",
       "iconName": "ArmorLgdr2",
       "rarity": "legendary",
       "slot": "all",
-      "description": "When taking direct damage from Basic Attacks, has\na %s1% chance to trigger: for the next 5 seconds,\nany direct damage from Basic Attacks reflects %s2%\nMagic Damage to the attacker and modifies their\nArmor by %s3% for 4s.\nCooldown: 25s.",
+      "description": "При получении прямого урона от базовых атак имеет шанс %s1% сработать: в течение следующих 5 секунд любой прямой урон от базовых атак отражает %s2% магического урона атакующему и изменяет их Броню на %s3% на 4 с. Перезарядка: 25 с.",
       "arguments": [
         {
           "argumentName": "s1",
@@ -406,11 +406,11 @@
       ]
     },
     {
-      "name": "Muzzle",
+      "name": "Намордник",
       "iconName": "ArmorLgdr3",
       "rarity": "legendary",
       "slot": "all",
-      "description": "When taking direct damage from skills, has a %s1%\nchance to deal \n[Damage Rate: %s2%] Magic Damage\n to all enemy targets within the damage source's range,\n drain %s4% MP, and\nreduce the damage they deal by %s3% for 4s.\nTrigger Interval: 30s",
+      "description": "При получении прямого урона от умений имеет шанс %s1% нанести %s2% магического урона всем врагам в радиусе действия источника урона, слить %s4% МР и снизить наносимый ими урон на %s3% на 4 с. Интервал срабатывания: 30 с",
       "arguments": [
         {
           "argumentName": "s1",
@@ -431,11 +431,11 @@
       ]
     },
     {
-      "name": "Fortune",
+      "name": "Удача",
       "iconName": "ArmorLgdr4",
       "rarity": "legendary",
       "slot": "all",
-      "description": "When taking damage equal to more than 25%\nMax HP within 2s, %s1% chance to recover %s2%\nHP and gain Damage Immunity for %s3%\nCooldown: 30s.",
+      "description": "При получении урона, равного более чем 25% от Макс. ОЗ в течение 2 с, имеет шанс %s1% восстановить %s2% ОЗ и получить Неуязвимость к урону на %s3%. Перезарядка: 30 с.",
       "arguments": [
         {
           "argumentName": "s1",
@@ -452,11 +452,11 @@
       ]
     },
     {
-      "name": "Resolve",
+      "name": "Решимость",
       "iconName": "ArmorLgdr5",
       "rarity": "legendary",
       "slot": "all",
-      "description": "When affected by Hard Control effects (Stun, Fear, Freeze, Knockup, Petrify, Sleep), %s1% chance to increase Crowd Control Resistance Rate by %s2% for 4s\nCooldown: 30s",
+      "description": "При воздействии эффектов жесткого контроля (Оглушение, Страх, Заморозка, Подбрасывание, Окаменение, Сон) имеет шанс %s1% увеличить Коэффициент сопротивления эффектам контроля на %s2% на 4 с. Перезарядка: 30 с",
       "arguments": [
         {
           "argumentName": "s1",

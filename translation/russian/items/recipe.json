@@ -3,71 +3,71 @@
   "recipe": [
     {
       "id": "strength-potion-recipe",
-      "name": "Strength Potion Recipe",
-      "description": "Increases Strength but reduces Agility and Intelligence",
+      "name": "Рецепт зелья силы",
+      "description": "Увеличивает Силу, но снижает Ловкость и Интеллект",
       "category": "recipe",
       "rarity": "common"
     },
     {
       "id": "agility-potion-recipe",
-      "name": "Agility Potion Recipe",
-      "description": "Increases Agility but reduces Strength",
+      "name": "Рецепт зелья ловкости",
+      "description": "Увеличивает Ловкость, но снижает Силу",
       "category": "recipe",
       "rarity": "common"
     },
     {
       "id": "intelligence-potion-recipe",
-      "name": "Intelligence Potion Recipe",
-      "description": "Increases Intelligence but reduces Strength",
+      "name": "Рецепт зелья интеллекта",
+      "description": "Увеличивает Интеллект, но снижает Силу",
       "category": "recipe",
       "rarity": "common"
     },
     {
       "id": "gathering-potion-recipe",
-      "name": "Gathering Potion Recipe",
-      "description": "Increases Gathering, Gathering Speed and Weight Limit",
+      "name": "Рецепт зелья сбора",
+      "description": "Увеличивает Сбор, Скорость сбора и Лимит веса",
       "category": "recipe",
       "rarity": "common"
     },
     {
       "id": "lethal-potion-recipe",
-      "name": "Lethal Potion Recipe",
-      "description": "Increases Basic Attack Crit but reduces Skill Bonus",
+      "name": "Рецепт смертельного зелья",
+      "description": "Увеличивает Критический урон от базовых атак, но снижает Бонус от умений",
       "category": "recipe",
       "rarity": "common"
     },
     {
       "id": "regeneration-potion-recipe",
-      "name": "Regeneration Potion Recipe",
-      "description": "Increases max HP and HP Recovery",
+      "name": "Рецепт зелья регенерации",
+      "description": "Увеличивает Макс. ОЗ и Восстановление ОЗ",
       "category": "recipe",
       "rarity": "common"
     },
     {
       "id": "ironskin-potion-recipe",
-      "name": "Ironskin Potion Recipe",
-      "description": "Increases Resistances, Block but reduces damage and healing",
+      "name": "Рецепт зелья железной кожи",
+      "description": "Увеличивает Сопротивления, Блок, но снижает урон и исцеление",
       "category": "recipe",
       "rarity": "common"
     },
     {
       "id": "cooldown-potion-recipe",
-      "name": "Cooldown Potion Recipe",
-      "description": "Speeds up cooldown but reduces damage and healing",
+      "name": "Рецепт зелья перезарядки",
+      "description": "Ускоряет перезарядку, но снижает урон и исцеление",
       "category": "recipe",
       "rarity": "common"
     },
     {
       "id": "lifesteal-potion-recipe",
-      "name": "Lifesteal Potion Recipe",
-      "description": "Increases Basic Attack Lifesteal but reduces max HP",
+      "name": "Рецепт зелья вампиризма",
+      "description": "Увеличивает Вампиризм от базовых атак, но снижает Макс. ОЗ",
       "category": "recipe",
       "rarity": "common"
     },
     {
       "id": "burst-potion-recipe",
-      "name": "Burst Potion Recipe",
-      "description": "Increases Skill Bonus and Cooldown",
+      "name": "Рецепт зелья всплеска",
+      "description": "Увеличивает Бонус от умений и Перезарядку",
       "category": "recipe",
       "rarity": "common"
     }
