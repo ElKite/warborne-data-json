@@ -4,153 +4,159 @@
     {
       "id": "vitalis-potion",
       "iconName": "equip_medicine_3_1",
-      "name": "Vitalis Potion",
-      "description": "Immune to movement restrictions (Slow, Immobilize), increases Control Resistance by 86 and Control Reduction by 30% for 9s",
+      "name": "Зелье жизненной силы",
+      "description": "Иммунитет к ограничениям передвижения (Замедление, Обездвиживание), увеличивает Сопротивление контролю на 86 и Снижение контроля на 30% на 9 с",
       "category": "potion",
       "rarity": "rare"
     },
     {
       "id": "enhanced-vitalis-potion",
       "iconName": "equip_medicine_3_2",
-      "name": "Enhanced Vitalis Potion",
-      "description": "Immune to movement restrictions (Slow, Immobilize), increases Control Resistance by 143 and Control Reduction by 45% for 9s",
+      "name": "Улучшенное зелье жизненной силы",
+      "description": "Иммунитет к ограничениям передвижения (Замедление, Обездвиживание), увеличивает Сопротивление контролю на 143 и Снижение контроля на 45% на 9 с",
       "category": "potion",
       "rarity": "rare"
     },
     {
       "id": "advanced-vitalis-potion",
       "iconName": "equip_medicine_3_3",
-      "name": "Advanced Vitalis Potion",
-      "description": "Immune to movement restrictions (Slow, Immobilize), increases Control Resistance by 190 and Control Reduction by 60% for 9s",
+      "name": "Продвинутое зелье жизненной силы",
+      "description": "Иммунитет к ограничениям передвижения (Замедление, Обездвиживание), увеличивает Сопротивление контролю на 190 и Снижение контроля на 60% на 9 с",
       "category": "potion",
       "rarity": "rare"
     },
     {
       "id": "titan-potion",
       "iconName": "equip_medicine_5_1",
-      "name": "Titan Potion",
-      "description": "Grows in size and grants Forced Movement immunity (Knockback, Pull), boosts HP by 96%, and increases both Armor and Magic Resistance by 60 for 6s.",
+      "name": "Зелье титана",
+      "description": "Увеличивает размер и дает иммунитет к принудительному передвижению (Отбрасывание, Притягивание), увеличивает ОЗ на 96% и увеличивает как Броню, так и Магическое сопротивление на 60 на 6 с.",
       "category": "potion",
       "rarity": "rare"
     },
     {
       "id": "enhanced-titan-potion",
       "iconName": "equip_medicine_5_2",
-      "name": "Enhanced Titan Potion",
-      "description": "Grows in size and grants Forced Movement immunity (Knockback, Pull), boosts HP by 159%, and increases both Armor and Magic Resistance by 96 for 6s.",
+      "name": "Улучшенное зелье титана",
+      "description": "Увеличивает размер и дает иммунитет к принудительному передвижению (Отбрасывание, Притягивание), увеличивает ОЗ на 159% и увеличивает как Броню, так и Магическое сопротивление на 96 на 6 с.",
       "category": "potion",
       "rarity": "rare"
     },
     {
       "id": "advanced-titan-potion",
       "iconName": "equip_medicine_5_3",
-      "name": "Advanced Titan Potion",
-      "description": "Grows in size and grants Forced Movement immunity (Knockback, Pull), boosts HP by 211%, and increases both Armor and Magic Resistance by 124 for 6s.",
+      "name": "Продвинутое зелье титана",
+      "description": "Увеличивает размер и дает иммунитет к принудительному передвижению (Отбрасывание, Притягивание), увеличивает ОЗ на 211% и увеличивает как Броню, так и Магическое сопротивление на 124 на 6 с.",
       "category": "potion",
       "rarity": "rare"
     },
     {
       "id": "rejuvenix-flask",
-      "name": "Rejuvenix Flask",
+      "name": "Флакон омоложения",
       "iconName": "equip_medicine_1_1",
-      "description": "Recovers 2.5% HP every second for 9s",
+      "description": "Восстанавливает 2,5% ОЗ каждую секунду в течение 9 с",
       "category": "potion",
       "rarity": "uncommon"
     },
     {
       "id": "enhanced-rejuvenix-flask",
-      "name": "Enhanced Rejuvenix Flask",
+      "name": "Улучшенный флакон омоложения",
       "iconName": "equip_medicine_1_1",
-      "description": "Recovers 3.2% HP every second for 9s",
+      "description": "Восстанавливает 3,2% ОЗ каждую секунду в течение 9 с",
       "category": "potion",
       "rarity": "uncommon"
     },
     {
       "id": "advanced-rejuvenix-flask",
-      "name": "Advanced Rejuvenix Flask",
+      "name": "Продвинутый флакон омоложения",
       "iconName": "equip_medicine_1_1",
-      "description": "Recovers 4% HP every second for 9s",
+      "description": "Восстанавливает 4% ОЗ каждую секунду в течение 9 с",
       "category": "potion",
       "rarity": "uncommon"
     },
     {
       "id": "psyche-infusion",
-      "name": "Psyche Infusion",
+      "name": "Психический настой",
       "iconName": "equip_medicine_4_1",
-      "description": "Restores 2.9% MP every second and increases skill cooldown rate by 30% for 9s",
+      "description": "Восстанавливает 2,9% МР каждую секунду и увеличивает скорость восстановления умений на 30% на 9 с",
       "category": "potion",
       "rarity": "uncommon"
     },
     {
       "id": "enhanced-psyche-infusion",
-      "name": "Enhanced Psyche Infusion",
+      "name": "Улучшенный психический настой",
       "iconName": "equip_medicine_4_2",
-      "description": "Restores 4.8% MP every second and increases skill cooldown rate by 40% for 9s",
+      "description": "Восстанавливает 4,8% МР каждую секунду и увеличивает скорость восстановления умений на 40% на 9 с",
       "category": "potion",
       "rarity": "uncommon"
     },
     {
       "id": "advanced-psyche-infusion",
-      "name": "Advanced Psyche Infusion",
-      "iconName": "equip_medicine_4_3",
-      "description": "Restores 6.4% MP every second and increases skill cooldown rate by 50% for 9s",
+      "name": "Продвинутый психический настой",
+      "description": "Восстанавливает 6,4% МР каждую секунду и увеличивает скорость восстановления умений на 50% на 9 с",
       "category": "potion",
       "rarity": "uncommon"
     },
     {
       "id": "enhanced-warding-potion",
-      "name": "Enhanced Warding Potion",
+      "name": "Улучшенное защитное зелье",
       "iconName": "equip_medicine_6_2",
-      "description": "Use to instantly remove all debuffs and DoT effects from self, restore 25% HP. Increases Healing Received by 150% for 6s",
+      "description": "Используется для мгновенного снятия всех дебаффов и эффектов DoT с себя, восстанавливает 25% ОЗ, дает иммунитет к дебаффам и эффектам DoT, и увеличивает получаемое исцеление на 150%, длится 6 секунд.",
       "category": "potion",
       "rarity": "epic"
     },
     {
       "id": "advanced-warding-potion",
-      "name": "Advanced Warding Potion",
+      "name": "Продвинутое защитное зелье",
       "iconName": "equip_medicine_6_3",
-      "description": "Use to instantly remove all debuffs and DoT effects from self, restore 30% HP. Increases Healing Received by 200% for 6s",
+      "description": "Используется для мгновенного снятия всех дебаффов и эффектов DoT с себя, восстанавливает 30% ОЗ, дает иммунитет к дебаффам и эффектам DoT, и увеличивает получаемое исцеление на 200% на 6 секунд.",
       "category": "potion",
       "rarity": "epic"
     },
     {
       "id": "stealth-potion",
-      "name": "Stealth Potion",
+      "name": "Зелье невидимости",
       "iconName": "icon_Stealth",
-      "description": "Use to enter Stealth for 8s.\nUsing a skill, dealing or taking damage, or inflicting healing breaks Stealth.",
+      "description": "Используется для входа в невидимость на 8 с.\nИспользование умения, нанесение или получение урона, или исцеление прерывает невидимость.",
       "category": "potion",
       "rarity": "rare"
     },
     {
       "id": "mass-haste-matrix",
-      "name": "Mass Haste Matrix",
-      "description": "Increases Movement Speed by 60% for allies within a certain range around the caster, lasting 9s.",
+      "name": "Матрица массовой спешки",
+      "description": "Используется для увеличения Скорости передвижения на 60% для до 15 ближайших союзников, длится 9 с.",
       "category": "utility",
       "rarity": "rare"
     },
     {
       "id": "instant-aid-vial",
-      "name": "Instant Aid Vial",
-      "description": "Use to instantly restore 16% Max HP plus 1600 HP.",
+      "name": "Флакон мгновенной помощи",
+      "description": "Используется для мгновенного восстановления 16% от Макс. ОЗ плюс 1600 ОЗ.",
       "category": "healing",
       "rarity": "rare"
     },
     {
       "id": "aegis-draught",
-      "name": "Aegis Draught",
+      "name": "Напиток Эгиды",
       "iconName": "Invincible_Potion",
-      "description": "Use to remove and gain immunity to Damage Over Time and Debuff effects. For 6s, immune to damage, Damage Over Time, Debuffs, and Control, while dealing 50% reduced damage.",
+      "description": "Используется для снятия и получения иммунитета к эффектам урона со временем и дебаффам. В течение 6 с, иммунитет к урону, урону со временем, дебаффам и контролю, при этом наносимый урон снижен на 50%.",
       "category": "protection",
       "rarity": "legendary"
     },
     {
       "id": "frost-potion",
-      "name": "Enhanced Frost Potion",
+      "name": "Улучшенное морозное зелье",
       "iconName": "equip_medicine_iceblock_2",
-      "description": "Using this grants Frozen and unable to act, gains [Target-based Max HP 150%] Shield for 6s. If the shield exists, Recovers\n[Target-based Max HP 7%] HP per second.. This ability can still be used even when skills are disabled.",
+      "description": "Замораживает и делает неспособным действовать, дает Щит, равный 150% от Макс. ОЗ цели, на 6 с. Если щит существует, восстанавливает ОЗ, равное 7% от Макс. ОЗ цели в секунду. Может быть использовано, когда умения отключены.",
+      "category": "protection",
+      "rarity": "epic"
+    },
+    {
+      "id": "frost-potion",
+      "name": "Улучшенное морозное зелье",
+      "iconName": "equip_medicine_iceblock_2",
+      "description": "Замораживает и делает неспособным действовать после использования, дает Щит, равный 200% от Макс. ОЗ цели, на 6 с. Если щит активен, восстанавливает ОЗ, равное 8% от Макс. ОЗ цели в секунду. Может быть использовано, когда умения отключены.",
       "category": "protection",
       "rarity": "epic"
     }
   ]
 }
-

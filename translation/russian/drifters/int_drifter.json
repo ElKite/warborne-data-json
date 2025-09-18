@@ -47,7 +47,7 @@
       "passive": {
         "gameId": "Paragon_Skill_Int_1_Passive",
         "gearName": "Призрачный пророк",
-        "skillName": "",
+        "skillName": "Резонанс Теней",
         "manaCost": "",
         "cooldown": "",
         "castingRange": "",
@@ -102,7 +102,7 @@
       "passive": {
         "gameId": "Paragon_Skill_Int_2_Passive",
         "gearName": "Соленна",
-        "skillName": "",
+        "skillName": "Отклик Света",
         "manaCost": "",
         "cooldown": "",
         "castingRange": "",
