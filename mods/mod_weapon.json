@@ -10,7 +10,7 @@
       "arguments": [
         {
           "argumentName": "s1",
-          "argumentRange": "[5%~10%]"
+          "argumentRange": "[0.3%~3%]"
         }
       ]
     },
@@ -23,7 +23,7 @@
       "arguments": [
         {
           "argumentName": "s1",
-          "argumentRange": "[2.5%~5%]"
+          "argumentRange": "[0.6%~3%]"
         }
       ]
     },
@@ -32,11 +32,11 @@
       "iconName": "WeaponEpic1",
       "rarity": "epic",
       "slot": "all",
-      "description": "When weapon skills deal direct Physical Damage, has a %s1% chance to modify the target's Armor by   %s2% for 4s. Trigger Interval: 30s",
+      "description": "When weapon skills deal direct Physical Damage, has a %s1% chance to modify the target's Armor by %s2% for 6s. Trigger Interval: 30s",
       "arguments": [
         {
           "argumentName": "s1",
-          "argumentRange": "[15%~30%]"
+          "argumentRange": "[8%~40%]"
         },
         {
           "argumentName": "s2",
@@ -53,11 +53,11 @@
       "arguments": [
         {
           "argumentName": "s1",
-          "argumentRange": "[15%~30%]"
+          "argumentRange": "[8%~40%]"
         },
         {
           "argumentName": "s2",
-          "argumentRange": "[7.5%~15%]"
+          "argumentRange": "[4%~20%]"
         },
         {
           "argumentName": "s3",
@@ -87,7 +87,7 @@
       "iconName": "WeaponEpic4",
       "rarity": "epic",
       "slot": "all",
-      "description": "When dealing direct damage with Basic Attacks,\nhas a %s1% chance to increase Basic Attack\nDamage by %s2% for 6s.\nTrigger Interval: 30s.",
+      "description": "When dealing direct damage with Basic Attacks,\nhas a %s1% chance to increase Basic Attack\nDamage by %s2% for 4s.\nTrigger Interval: 30s.",
       "arguments": [
         {
           "argumentName": "s1",
@@ -129,11 +129,11 @@
       "arguments": [
         {
           "argumentName": "s1",
-          "argumentRange": "[17%~35%]"
+          "argumentRange": "[8%~40%]"
         },
         {
           "argumentName": "s2",
-          "argumentRange": "[-4%~-20%]"
+          "argumentRange": "[-2%~-10%]"
         }
       ]
     },
@@ -142,11 +142,11 @@
       "iconName": "WeaponEpic7",
       "rarity": "epic",
       "slot": "all",
-      "description": "When weapon skills deal direct Magic Damage, has\na %s1% chance to modify the target's Magic\nResistance by %s2% for 4s.\nTrigger Interval: 30s",
+      "description": "When weapon skills deal direct Magic Damage, has\na %s1% chance to modify the target's Magic\nResistance by %s2% for 6s.\nTrigger Interval: 30s",
       "arguments": [
         {
           "argumentName": "s1",
-          "argumentRange": "[17%~35%]"
+          "argumentRange": "[8%~40%]"
         },
         {
           "argumentName": "s2",
@@ -159,11 +159,11 @@
       "iconName": "WeaponEpic8",
       "rarity": "epic",
       "slot": "all",
-      "description": "When weapon skills deal direct damage, has a %s1%\nchance to restore %s2% MP.\nTrigger Interval: 10s.",
+      "description": "When weapon skills deal direct damage, has a %s1%\nchance to restore %s2% MP.\nTrigger Interval: 8s.",
       "arguments": [
         {
           "argumentName": "s1",
-          "argumentRange": "[15%~30%]"
+          "argumentRange": "[10%~50%]"
         },
         {
           "argumentName": "s2",
@@ -172,7 +172,7 @@
       ]
     },
     {
-      "name": "Fortify",
+      "name": "Haste",
       "iconName": "WeaponEpic9",
       "rarity": "epic",
       "slot": "all",
@@ -184,7 +184,7 @@
         },
         {
           "argumentName": "s2",
-          "argumentRange": "[3%~15%]"
+          "argumentRange": "[5%~25%]"
         }
       ]
     },
@@ -261,11 +261,11 @@
       "iconName": "WeaponExclusiveLgdr2",
       "rarity": "legendary",
       "slot": "mace",
-      "description": "Only triggers with Maces\nWhen weapon skills or Basic Attacks deal Direct\nDamage, has a 35% chance to create a disruption\nfield around the caster. Enemies within take %s1%\nreduced Damage and have their Attack Speed\nreduced by %s2% for 4s.\nCooldown: 15s.",
+      "description": "Only triggers with Maces\nWhen weapon skills or Basic Attacks deal Direct\nDamage, has a 35% chance to create a disruption\nfield around the caster. Enemies within take %s1%\nreduced Damage and have their Attack Speed\nreduced by %s2% for 4s.\nCooldown: 20.",
       "arguments": [
         {
           "argumentName": "s1",
-          "argumentRange": "[-5%~-25%]"
+          "argumentRange": "[-6%~-30%]"
         },
         {
           "argumentName": "s2",
@@ -278,7 +278,7 @@
       "iconName": "WeaponExclusiveLgdr3",
       "rarity": "legendary",
       "slot": "axe",
-      "description": "Only triggers with Axes\nWhen gaining the [Bloodthirst] buff, has a 25%\nchance to increase Attack Speed by %s2% and\nDamage by %s1% for 6s.\nTrigger Interval: 20s.",
+      "description": "Only triggers with Axes\nWhen gaining the [Bloodthirst] buff, has a %s3%\nchance to increase Attack Speed by %s2% and\nDamage by %s1% for 6s.\nTrigger Interval: 20s.",
       "arguments": [
         {
           "argumentName": "s1",
@@ -286,6 +286,10 @@
         },
         {
           "argumentName": "s2",
+          "argumentRange": "[8%~40%]"
+        },
+        {
+          "argumentName": "s3",
           "argumentRange": "[8%~40%]"
         }
       ]
@@ -295,7 +299,7 @@
       "iconName": "WeaponExclusiveLgdr4",
       "rarity": "legendary",
       "slot": "bow",
-      "description": "Only triggers with Bows\nWhen arrows deal direct damage, has a %s1%\nchance of creating an explosion at the target\nlocation dealing \n[Damage Rate: %s2%] Physical Damage\n and applying[Target Mark].\n Also stun for 2 seconds.\nTrigger Interval: 15s.",
+      "description": "Only triggers with Bows\nWhen arrows deal direct damage, has a %s1%\nchance of creating an explosion at the target\nlocation dealing \n[Damage Rate: %s2%] Physical Damage\n and applying[Target Mark].\n Also stun for 1.5 seconds.\nTrigger Interval: 20s.",
       "arguments": [
         {
           "argumentName": "s1",
@@ -312,7 +316,7 @@
       "iconName": "WeaponExclusiveLgdr5",
       "rarity": "legendary",
       "slot": "spear",
-      "description": "Only triggers with Spears\nWhen scoring a Critical Hit, has a %s1% chance to\nincrease Attack Speed by %s2% for 6s.\nCooldown: 15s",
+      "description": "Only triggers with Spears\nWhen scoring a Critical Hit, has a %s1% chance to\nincrease Attack Speed by %s2% for 6s.\nCooldown: 20s",
       "arguments": [
         {
           "argumentName": "s1",
@@ -320,7 +324,7 @@
         },
         {
           "argumentName": "s2",
-          "argumentRange": "[13%~65%]"
+          "argumentRange": "[6%~30%]"
         }
       ]
     },
@@ -346,7 +350,7 @@
       "iconName": "WeaponExclusiveLgdr7",
       "rarity": "legendary",
       "slot": "nature",
-      "description": "Only triggers with Bloom Staves\nWhen weapon skills or Basic Attacks directly heal\nan ally with Recovery, has a %s1% * Recovery stacks\nchance to grant  \n[Target-based Max HP %s2%] Shield\nfor 4s.\nTrigger Interval: 15s.\nRecovery: Restores \n[Healing Rate: 12%] HP every\nsecond for 12s, stacking up to 3 times.",
+      "description": "Only triggers with Bloom Staves\nWhen weapon skills or Basic Attacks directly heal\nan ally with Recovery, has a %s1% * Recovery stacks\nchance to grant  \n[Target-based Max HP %s2%] Shield\nfor 4s.\nTrigger Interval: 15s.\nRecovery: Restores \n[Healing Rate: 12%] HP every\nsecond for 12s, stacking up to 3 times.\nTrigger Interval: 20s. ",
       "arguments": [
         {
           "argumentName": "s1",
@@ -371,7 +375,7 @@
         },
         {
           "argumentName": "s2",
-          "argumentRange": "[10%~50%]"
+          "argumentRange": "[12%~60%]"
         }
       ]
     },
@@ -384,11 +388,11 @@
       "arguments": [
         {
           "argumentName": "s1",
-          "argumentRange": "[15%~30%]"
+          "argumentRange": "[12%~30%]"
         },
         {
           "argumentName": "s2",
-          "argumentRange": "[20%~100%]"
+          "argumentRange": "[26%~130%]"
         }
       ]
     },
@@ -418,20 +422,20 @@
       "arguments": [
         {
           "argumentName": "s1",
-          "argumentRange": "[15%~30%]"
+          "argumentRange": "[12%~60%]"
         },
         {
           "argumentName": "s2",
-          "argumentRange": "[30~15]"
+          "argumentRange": "[30~12]"
         }
       ]
     },
     {
-      "name": "Renovate",
+      "name": "Retrofit",
       "iconName": "WeaponExclusiveLgdr12",
       "rarity": "legendary",
       "slot": "gun",
-      "description": "When Weapon Skills or Basic Attacks deal direct\n damage, has a %s1% chance to restore 1 bullet and \n boosts Basic Attack Damage by %s2% for 5s.\nTrigger Interval: 15s.",
+      "description": "When Weapon Skills or Basic Attacks deal direct\n damage, has a %s1% chance to restore 2 bullet and \n boosts Basic Attack Damage by %s2% for 6s.\nTrigger Interval: 15s.",
       "arguments": [
         {
           "argumentName": "s1",
@@ -439,7 +443,7 @@
         },
         {
           "argumentName": "s2",
-          "argumentRange": "[10%~50%]"
+          "argumentRange": "[7%~35%]"
         }
       ]
     },
@@ -456,7 +460,7 @@
         },
         {
           "argumentName": "s2",
-          "argumentRange": "[8%~40%]"
+          "argumentRange": "[16%~80%]"
         },
         {
           "argumentName": "s3",
@@ -469,11 +473,11 @@
       "iconName": "WeaponLgdr2",
       "rarity": "legendary",
       "slot": "all",
-      "description": "When dealing direct damage with Basic Attacks,\nhas a %s1% chance to deal additional\n[Damage Rate: %s2%] Physical Damage \nto the current target and reduce\nMovement Speed by %s3% for 2s.\nTrigger Interval: 30s",
+      "description": "When dealing direct damage with Basic Attacks,\nhas a %s1% chance to deal additional\n[Damage Rate: %s2%] Physical Damage \nto the current target and reduce\nMovement Speed by %s3% for 2s.\nTrigger Interval: 20s",
       "arguments": [
         {
           "argumentName": "s1",
-          "argumentRange": "[15%~30%]"
+          "argumentRange": "[12%~60%]"
         },
         {
           "argumentName": "s2",
@@ -490,7 +494,7 @@
       "iconName": "WeaponLgdr3",
       "rarity": "legendary",
       "slot": "all",
-      "description": "When weapon skills deal direct damage, there is a\n%s1% chance to trigger an explosion at the target\nlocation, dealing \n[Damage Rate: %s2%]Magic Damage \n and increasing\nDamage Resistance by %s3% for 4s.\nTrigger Interval: 30s.",
+      "description": "When weapon skills deal direct damage, there is a\n%s1% chance to trigger an explosion at the target\nlocation, dealing \n[Damage Rate: %s2%]Magic Damage \n and increasing\nDamage Resistance by %s3% for 6s.\nTrigger Interval: 30s.",
       "arguments": [
         {
           "argumentName": "s1",
@@ -498,11 +502,11 @@
         },
         {
           "argumentName": "s2",
-          "argumentRange": "[8%~40%]"
+          "argumentRange": "[10%~50%]"
         },
         {
           "argumentName": "s3",
-          "argumentRange": "[-4%~-20%]"
+          "argumentRange": "[-2%~-10%]"
         }
       ]
     },

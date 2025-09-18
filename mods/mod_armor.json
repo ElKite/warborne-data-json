@@ -58,7 +58,7 @@
       "iconName": "ArmorEpic1",
       "rarity": "epic",
       "slot": "all",
-      "description": "When taking direct damage from Basic Attacks, has a (melee weapons %s1% / ranged weapons %s2%) chance to increase the attacker's Attack Speed by\n-%s3% for 4s. Trigger Interval: 30s",
+      "description": "When taking direct damage from Basic Attacks, has a (melee weapons %s1% / ranged weapons %s2%) chance to increase the attacker's Attack Speed by\n-%s3% for 6s. Trigger Interval: 30s",
       "arguments": [
         {
           "argumentName": "s1",
@@ -96,7 +96,7 @@
       "iconName": "ArmorEpic3",
       "rarity": "epic",
       "slot": "all",
-      "description": "When affected by hard control effects (Stun, Fear,\nFrozen, Knockup, Petrify), has a %s1% chance to\nincrease Crowd Control Resistance by %s2% for 4s.\nCooldown: 30s",
+      "description": "When affected by hard control effects (Stun, Fear,\nFrozen, Knockup, Petrify), has a %s1% chance to\nincrease Crowd Control Resistance by %s2% for 6s.\nCooldown: 30s",
       "arguments": [
         {
           "argumentName": "s1",
@@ -104,7 +104,7 @@
         },
         {
           "argumentName": "s2",
-          "argumentRange": "[10~50]"
+          "argumentRange": "[5~25]"
         }
       ]
     },
@@ -134,20 +134,20 @@
       "iconName": "ArmorEpic5",
       "rarity": "epic",
       "slot": "all",
-      "description": "When taking direct damage from Basic Attacks, has\na %s1% chance to increase Attack Speed by %s2% for\n5s.\nTrigger Interval: 30s.",
+      "description": "When taking Direct Damage from Basic Attacks, has a %s1% chance to increase Attack Speed by %s2% for 5s. Enters 30s cooldown after triggering.",
       "arguments": [
         {
           "argumentName": "s1",
-          "argumentRange": "[20%~40%]"
+          "argumentRange": "[8%~40%]"
         },
         {
           "argumentName": "s2",
-          "argumentRange": "[8%~40%]"
+          "argumentRange": "[8=6%~40%]"
         }
       ]
     },
     {
-      "name": "Emulate",
+      "name": "Emulation",
       "iconName": "ArmorEpic6",
       "rarity": "epic",
       "slot": "all",
@@ -155,11 +155,11 @@
       "arguments": [
         {
           "argumentName": "s1",
-          "argumentRange": "[20%~40%]"
+          "argumentRange": "[8%~40%]"
         },
         {
           "argumentName": "s2",
-          "argumentRange": "[10%~50%]"
+          "argumentRange": "[3%~15%]"
         }
       ]
     },
@@ -206,7 +206,7 @@
       "arguments": [
         {
           "argumentName": "s1",
-          "argumentRange": "[15%~30%]"
+          "argumentRange": "[6%~30%]"
         },
         {
           "argumentName": "s2",
@@ -214,7 +214,7 @@
         },
         {
           "argumentName": "s3",
-          "argumentRange": "[5~25]"
+          "argumentRange": "[6~30]"
         }
       ]
     },
@@ -274,11 +274,11 @@
       "iconName": "ArmorExclusiveLgdr1",
       "rarity": "legendary",
       "slot": "Chest",
-      "description": "When using Chest skills, deals \n[Damage Rate: %s1%] Magic Damage to nearby enemies\nand reduces their Movement Speed by %s3% and\ndamage dealt by %s2% for 4s.\nTrigger Interval: 10s",
+      "description": "When using Chest skills, there is a %s4% change to deals \n[Damage Rate: %s1%] Magic Damage to nearby enemies\nand reduces their Movement Speed by %s3% and\ndamage dealt by %s2% for 4s.\nTrigger Interval: 10s",
       "arguments": [
         {
           "argumentName": "s1",
-          "argumentRange": "[12%~60%]"
+          "argumentRange": "[20%~100%]"
         },
         {
           "argumentName": "s2",
@@ -287,6 +287,10 @@
         {
           "argumentName": "s3",
           "argumentRange": "[-6%~-30%]"
+        },
+        {
+          "argumentName": "s4",
+          "argumentRange": "[12%~-60%]"
         }
       ]
     },
@@ -295,11 +299,11 @@
       "iconName": "ArmorExclusiveLgdr2",
       "rarity": "legendary",
       "slot": "Chest",
-      "description": "When using Chest skills, detonates after 1s to deal \n[Damage Rate: %s1%] Physical\nDamage to nearby enemies and modify Attack\nSpeed by %s2% for 4s.\nTrigger Interval: 10s",
+      "description": "When using Chest skills, detonates after 1s to deal \n[Damage Rate: %s1%] Physical\nDamage to nearby enemies and reduce their Attack\nSpeed by %s2% for 6s.\nTrigger Interval: 10s",
       "arguments": [
         {
           "argumentName": "s1",
-          "argumentRange": "[20%~100%]"
+          "argumentRange": "[26%~130%]"
         },
         {
           "argumentName": "s2",
@@ -316,11 +320,11 @@
       "arguments": [
         {
           "argumentName": "s1",
-          "argumentRange": "[1.3%~6.5%]"
+          "argumentRange": "[1.6%~8.2%]"
         },
         {
           "argumentName": "s2",
-          "argumentRange": "[8~40]"
+          "argumentRange": "[10~50]"
         }
       ]
     },
@@ -329,11 +333,11 @@
       "iconName": "ArmorExclusiveLgdr4",
       "rarity": "legendary",
       "slot": "Boots",
-      "description": "When using Boots Skills, the character gains an\nadditional  \n[Target-based Max HP %s1%] Shield Value\nfor 4s.\nTrigger Interval: 20s",
+      "description": "When using Boots Skills, the character gains an additional  \n[Target-based Max HP %s1%] Shield Value for 4s.\nTrigger Interval: 20s",
       "arguments": [
         {
           "argumentName": "s1",
-          "argumentRange": "[4%~20%]"
+          "argumentRange": "[5%~25%]"
         }
       ]
     },
@@ -342,15 +346,15 @@
       "iconName": "ArmorExclusiveLgdr5",
       "rarity": "legendary",
       "slot": "Boots",
-      "description": "When using Boots skills,\n throw a trap at your feet;\n When triggered by an enemy,\n deal \n[Damage Rate: %s1%] Physical Damage\n and stuns them for %s2%.\nTrigger Interval: 20s",
+      "description": "When using Boots skills, throw a trap at your feet; When triggered by an enemy, deal\n[Damage Rate: %s1%] Physical Damage and stuns them for %s2%.\nTrigger Interval: 20s",
       "arguments": [
         {
           "argumentName": "s1",
-          "argumentRange": "[12%~60%]"
+          "argumentRange": "[16%~80%]"
         },
         {
           "argumentName": "s2",
-          "argumentRange": "[0.4~0.4]"
+          "argumentRange": "[0.4~2]"
         }
       ]
     },
@@ -359,11 +363,15 @@
       "iconName": "ArmorExclusiveLgdr6",
       "rarity": "legendary",
       "slot": "Boots",
-      "description": "When using Boot skills, restores %s1% HP and\nbecomes immune to control effects for 2s.\nCooldown: 20s",
+      "description": "When using Boot skills, restores %s1% HP and\nbecomes immune to control effects for %s2%s.\nCooldown: 20s",
       "arguments": [
         {
           "argumentName": "s1",
-          "argumentRange": "[0.9%~4.5%]"
+          "argumentRange": "[1.3%~6.5%]"
+        },
+        {
+          "argumentName": "s2",
+          "argumentRange": "[0.4%~2]"
         }
       ]
     },
@@ -372,11 +380,11 @@
       "iconName": "ArmorLgdr1",
       "rarity": "legendary",
       "slot": "all",
-      "description": "When affected by hard control effects (Stun, Fear,\nFreeze, Knockup, Petrify), has a %s1% chance to cast\na Bellow that deals \n[Damage Rate: %s2%]\n Physical Damage to nearby\nenemies and inflicts Fear for 1.5s.\nTrigger Interval: 30s.",
+      "description": "When affected by Hard Control effects (Stun, Fear, Frozen, Knockup, Petrify), has a %s1% chance to cast a Bellow that deals %s2% Physical Damage to nearby enemies and inflicts Fear for 1s. Cooldown: 20s after activation.",
       "arguments": [
         {
           "argumentName": "s1",
-          "argumentRange": "[17%~35%]"
+          "argumentRange": "[8%~40%]"
         },
         {
           "argumentName": "s2",
