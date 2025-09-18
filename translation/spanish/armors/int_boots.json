@@ -1,0 +1,130 @@
+{
+  "lastUpdate": "June 6, 2025 6 AM",
+    "boots_intelligence": [
+      {
+        "gameId": "Shoes_Int_4",
+        "gearIcon" : "SpecImage_SANDALS2",
+        "gearName": "Arcaneflow Boots",
+        "skillName": "Abundance",
+        "manaCost": "",
+        "cooldown": "28",
+        "castingRange": "6",
+        "type": "skill",
+        "description": "Increases Movement Speed by 50% and restores 8 MP every second for 5s.",
+        "tierUnlock": "1",
+        "rarity": "rare",
+        "stats": {
+          "hp": "675",
+          "dmgBonus": "9.6%",
+          "mpRecovery": "10"
+        }
+      },
+      {
+        "gameId": "Shoes_Int_1",
+        "gearIcon" : "SpecImage_SANDALS1",
+        "gearName": "Blinkstep Boots",
+        "skillName": "Flash Step",
+        "manaCost": "",
+        "cooldown": "23",
+        "castingRange": "12",
+        "type": "skill",
+        "description": "Dash 12m in the target direction. Restore [Healing Rate:150%] Vitality and 25 MP.",
+        "tierUnlock": "1",
+        "rarity": "epic"
+      },
+      {
+        "gameId": "Shoes_Int_3",
+        "gearIcon" : "SpecImage_SANDALS4",
+        "gearName": "Frostwalker Boots",
+        "skillName": "Frost",
+        "manaCost": "",
+        "cooldown": "28",
+        "castingRange": "6",
+        "type": "skill",
+        "description": "Increases Movement Speed by 55% for 5s. Creates a frost path that lasts 4s. Enemies in the path are slowed by 40% and their Attack Speed is reduced by 45% for 2s.",
+        "tierUnlock": "1",
+        "rarity": "epic"
+      },
+      {
+        "gameId": "Shoes_Int_5",
+        "gearIcon" : "SpecImage_SANDALS5",
+        "gearName": "Miasma Stompers",
+        "skillName": "Decay",
+        "manaCost": "",
+        "cooldown": "28",
+        "castingRange": "6",
+        "type": "skill",
+        "description": "Increases Movement Speed by 55%, lasting 5s; creates a path of corruption lasting 4s along movement path.\nEnemies in the path suffer 35% reduced damage dealt and\n30% reduced healing received for 5s.",
+        "tierUnlock": "1",
+        "rarity": "epic"
+      },
+      {
+        "gameId": "Shoes_Int_6",
+        "gearIcon" : "SpecImage_SANDALS6",
+        "gearName": "Shifter's Strides",
+        "skillName": "Displacement",
+        "manaCost": "",
+        "cooldown": "28",
+        "castingRange": "16",
+        "type": "skill",
+        "description": "Grants a  \n[Target-based Max HP 25%] shield lasting 4s and\nswaps positions with target player.",
+        "tierUnlock": "1",
+        "rarity": "epic"
+      },
+      {
+        "gameId": "Shoes_Int_7",
+        "gearIcon" : "SpecImage_SANDALS7",
+        "gearName": "Phantomstep Boots",
+        "skillName": "Ghost",
+        "manaCost": "",
+        "cooldown": "46",
+        "castingRange": "6",
+        "type": "skill",
+        "description": "After a cast time of 1.5 seconds, enters Ghost Form, increasing Movement Speed by 70%, gaining Immunity to damage and control effects for 3 seconds. Cannot cast other Skills or Attack while in Ghost Form.",
+        "tierUnlock": "1",
+        "rarity": "legendary",
+        "stats": {
+          "hp": "755",
+          "dmgBonus": "9.9%",
+          "mpRecovery": "10"
+        }
+      },
+      {
+        "gameId": "Shoes_Int_2",
+        "gearIcon" : "SpecImage_SANDALS3",
+        "gearName": "Savagefoot Boots",
+        "skillName": "Berserk",
+        "manaCost": "",
+        "cooldown": "28",
+        "castingRange": "6",
+        "type": "skill",
+        "description": "Increases Movement Speed by 70% and Damage by 20% for 5s. When the effect ends, reduces Damage Resistance by 20% for 5s.",
+        "tierUnlock": "1",
+        "rarity": "legendary",
+        "stats": {
+          "hp": "755",
+          "dmgBonus": "9.9%",
+          "mpRecovery": "10"
+        }
+      },
+      {
+        "isActive": false,
+        "gearIcon" : "SpecImage_SANDALS8",
+        "gameId": "Shoes_Int_8",
+        "gearName": "Shoes_Int_8",
+        "skillName": "Shoes_Int_8",
+        "manaCost": "",
+        "cooldown": "",
+        "castingRange": "",
+        "type": "skill",
+        "description": "",
+        "tierUnlock": "1",
+        "rarity": "legendary",
+        "stats": {
+          "hp": "",
+          "dmgBonus": "",
+          "mpRecovery": ""
+        }
+      }
+    ]
+}

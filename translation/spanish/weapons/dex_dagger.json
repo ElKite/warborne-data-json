@@ -1,0 +1,231 @@
+{
+  "lastUpdate": "June 6, 2025 6 AM",
+  "passive": {
+    "gameId": "Dagger_Passive",
+    "skillName": "Bleed",
+    "manaCost": "",
+    "cooldown": "",
+    "castingRange": "",
+    "type": "passive",
+    "description": "Dealing damage inflicts [Bleed], dealing \n[Damage Rate: 30%] Physical Damage every second for 8s, stacking up to\n6 times (stacks do not boost damage).\nAt max stacks, triggers Hemorrhage, dealing  \n[Damage Rate: 100%] Physical Damage + True Damage equal to 4%\nof the target's current HP and removes all [Bleed] stacks.\nBasic Attack Damage Bonuses affect the base damage\nand basic attack critical hits can cause the damage to\ncrit."
+  },
+  "basicAttacks": [
+    {
+      "gameId": "DaggerAttack_2",
+      "skillName": "Bleeding Thrust",
+      "manaCost": "0",
+      "cooldown": "1",
+      "castingRange": "7",
+      "type": "basic",
+      "description": "[Basic Attack]:Deals \n[Damage Rate: 100%] Physical\nDamage and applies 1 stack of [Bleed]. \nCan cast [Bleeding Thrust] every 6s.\nDash toward an enemy target, dealing \n[Damage Rate: 160%] Physical Damage and inflicting 2 stacks of [Bleed]",
+      "tierUnlock": "2"
+    },
+    {
+      "gameId": "DaggerAttack_4",
+      "skillName": "Ricocheting Blades",
+      "manaCost": "0",
+      "cooldown": "1",
+      "castingRange": "12",
+      "type": "basic",
+      "description": "[Basic Attack]:Deals \n[Damage Rate: 100%] Physical\nDamage and applies 1 stack of [Bleed]. \nCan cast [Ricochet] every 6s.\nThrows a blade at the target that deals \n[Damage Rate: 120%] Physical Damage, inflicts 1 stack of [Bleed], and\nreduces their Movement Speed by 40% for 2s. After which\nit bounces to 1 enemy behind up to 4 times",
+      "tierUnlock": "4"
+    },
+    {
+      "gameId": "DaggerAttack_3",
+      "skillName": "Armor Breaker",
+      "manaCost": "0",
+      "cooldown": "1",
+      "castingRange": "3.5",
+      "type": "basic",
+      "description": "Can cast [Armor Breaker] every 5s. Deals [Damage Rate: 200%] Physical Damage to nearby enemies, inflicting 1 stack of [Bleed], and reducing their Armor by 10 for 4s. [Bleed]: Deals [Damage Rate: 30%] Physical Damage per second for 8s, stacking up to 6 times.",
+      "tierUnlock": "6"
+    }
+  ],
+  "commonSkills": [
+    {
+      "gameId": "Dagger_Common_Skill_1",
+      "skillName": "Whirling Blades",
+      "manaCost": "14",
+      "cooldown": "8.4",
+      "castingRange": "12",
+      "type": "common",
+      "description": "Throws 3 blades forward. Each blade deals  \n[Damage Rate: 80%] Physical Damage to all enemies hit. Upon\nreaching max range, the blades return, dealing  \n[Damage Rate: 80%] Physical Damage to those hit and inflicting 1\nstack of [Bleed]\nMultiple blade hits on the same target beyond the first\ndeal 30% reduced damage",
+      "tierUnlock": "1"
+    },
+    {
+      "gameId": "Dagger_Common_Skill_2",
+      "skillName": "Phase Blade",
+      "manaCost": "20",
+      "cooldown": "14",
+      "castingRange": "13",
+      "type": "common",
+      "description": "Dashes 3m backward while firing a Phase Blade forward\nthat deals \n[Damage Rate: 100%] Physical Damage to the\nfirst enemy hit, inflicting 1 stack of [Bleed] and Stunning\nfor 0.75s, while also marking them for 5s.\nRecast the skill within 15m while a mark exists to\ninstantly appear behind the target, dealing \n[Damage Rate: 160%] Physical Damage and gaining +30% Attack Speed\nfor 5s",
+      "tierUnlock": "3"
+    },
+    {
+      "gameId": "Dagger_Common_Skill_3",
+      "skillName": "Crippling Strike",
+      "manaCost": "19",
+      "cooldown": "12",
+      "castingRange": "4",
+      "type": "common",
+      "description": "Strike an enemy twice, dealing \n[Damage Rate: 180%]\nPhysical Damage, applying 1 stack of [Bleed] and\nDisarming them for 4s. Increases Basic Attack Damage by\n25% for 5s.",
+      "tierUnlock": "5"
+    },
+    {
+      "gameId": "Dagger_Common_Skill_4",
+      "skillName": "Smoke Grenade",
+      "manaCost": "19",
+      "cooldown": "15",
+      "castingRange": "8",
+      "type": "common",
+      "description": "Throws a smoke grenade to create a smoke screen for 6s.\nEnemies inside are Slowed by 40% and have a 55% chance\nto miss Basic Attacks. Also deals \n[Damage Rate: 25%]\nPhysical Damage every second",
+      "tierUnlock": "7"
+    },
+    {
+      "gameId": "Dagger_Common_Skill_5",
+      "skillName": "Shadow Move",
+      "manaCost": "27",
+      "cooldown": "22",
+      "castingRange": "6",
+      "type": "common",
+      "description": "Instantly removes control effects and enters Stealth.\nWhile in Stealth, gains immunity to movement-limiting\neffects (Slow, Immobilize) for 2s. Also increases damage\nby 7% for 6s, stacking up to 2 times.\nCan be recast once within 6s, but doing so will not remove\ncontrol effects again.\nUsing a skill, dealing damage or inflicting healing breaks\nStealth",
+      "tierUnlock": "8"
+    }
+  ],
+  "skills": [
+    {
+      "gameId": "Dagger_LongDagger",
+      "gearIcon": "SpecImage_DAGGER7",
+      "gearName": "Hemoblades",
+      "skillName": "Rend and Reap",
+      "manaCost": "18",
+      "cooldown": "1.5",
+      "castingRange": "11",
+      "type": "skill",
+      "description": "Leaps to the target and strikes, dealing \n[Damage Rate: 220%] Physical Damage and applying 2 stacks of [Bleed].Recovers \n[Healing Rate: 132%] HP.\nGains 1 charge every 20s, up to 2 charges",
+      "tierUnlock": "2",
+      "rarity": "rare",
+      "stats": {
+        "attackPower": "148",
+        "tenacity": "45",
+        "ms": "0.3",
+        "as": "1"
+      }
+    },
+    {
+      "gameId": "Dagger_BloodDagger",
+      "gearIcon": "SpecImage_DAGGER1",
+      "gearName": "Twilight Blades",
+      "skillName": "Blade Dance",
+      "manaCost": "25",
+      "cooldown": "15",
+      "castingRange": "10",
+      "type": "skill",
+      "description": "Teleports toward the target direction, leaving a dagger at the original location. Upon arrival, deals [Damage Rate: 180%] Physical Damage and drains 25 MP to nearby enemies, while also inflicting 2 stacks of [Bleed]; recasting the skill within 5 seconds returns to the dagger's location, dealing [Damage Rate: 180%] Physical Damage and draining 25 MP to nearby enemies, while also inflicting 2 stacks of [Bleed].",
+      "tierUnlock": "2",
+      "rarity": "epic",
+      "stats": {
+        "attackPower": "155",
+        "tenacity": "45",
+        "ms": "0.3",
+        "as": "1"
+      }
+    },
+    {
+      "gameId": "Dagger_DeathDagger",
+      "gearIcon": "SpecImage_DAGGER2",
+      "gearName": "Soulfangs",
+      "skillName": "Soul Snare",
+      "manaCost": "20",
+      "cooldown": "16",
+      "castingRange": "7",
+      "type": "skill",
+      "description": "Inflicts the enemy with a Soul Snare, dealing  \n[Damage Rate: 150%] Physical Damage and linking with the target,\nsilencing both parties for 5s. During this period, the caster\ngains [Soul Snare]. The link breaks if distance exceeds\n12m. \n[Soul Snare]\nCritical Rate: +30%\nDamage Resistance: +50%\nAttack Speed: +30%\nCannot use skills",
+      "tierUnlock": "2",
+      "rarity": "epic",
+      "stats": {
+        "attackPower": "155",
+        "tenacity": "45",
+        "ms": "0.3",
+        "as": "1"
+      }
+    },
+    {
+      "gameId": "Dagger_Dagger",
+      "gearIcon": "SpecImage_DAGGER5",
+      "gearName": "Bloodpiercers",
+      "skillName": "Rupture Thrust",
+      "manaCost": "28",
+      "cooldown": "23",
+      "castingRange": "9",
+      "type": "skill",
+      "description": "Thrusts in the target's direction, dealing \n[Damage Rate: 140%] Physical Damage and inflicting 2 stacks of [Bleed].\nSkill's second stage can be cast within 5s: Dash toward\ntarget direction, dealing \n[Damage Rate: 225%] Physical\nDamage and inflicting 2 stacks of [Bleed] to all enemies\nhit. Deals \n[Damage Rate: 450%] Physical Damage against\nenemies with less than 40% HP.",
+      "tierUnlock": "2",
+      "rarity": "epic",
+      "stats": {
+        "attackPower": "155",
+        "tenacity": "45",
+        "ms": "0.3",
+        "as": "1"
+      }
+    },
+    {
+      "gameId": "TwinDagger_BladeWind",
+      "gearIcon": "SpecImage_DAGGER4",
+      "gearName": "Bloodfury Blades",
+      "skillName": "Crimson Frenzy",
+      "manaCost": "25",
+      "cooldown": "20",
+      "castingRange": "8",
+      "type": "skill",
+      "description": "Deals [Damage Rate: 200%] Physical Damage + True Damage equal to 10% of the target's Max HP to nearby enemies, while also inflicting 2 stacks of [Bleed]. If this skill triggers Hemorrhage, recovers 10% of Max HP and gains 40%+ Movement Speed for 3 seconds.",
+      "tierUnlock": "2",
+      "rarity": "epic",
+      "stats": {
+        "attackPower": "155",
+        "tenacity": "45",
+        "ms": "0.3",
+        "as": "1"
+      }
+    },
+    {
+      "gameId": "TwinDagger_HungerBlood",
+      "gearIcon": "SpecImage_DAGGER6",
+      "gearName": "Bloodthirst",
+      "skillName": "Sanguine Pounce",
+      "manaCost": "22",
+      "cooldown": "23",
+      "castingRange": "12",
+      "type": "skill",
+      "description": "Leaps to the target location, dealing [Damage Rate: 320%] Physical Damage to enemy targets around self upon landing, while also applying 3 stacks of [Bleed] and [Healing Reduction], lasting for 4s. The target cannot be affected by Sanguine Pounce's [Healing Reduction] effect again within 8s. If this skill triggers Hemorrhage, its Cooldown is reduced to 8s. [Healing Reduction]: Cannot receive Heal.",
+      "tierUnlock": "2",
+      "rarity": "legendary",
+      "stats": {
+        "attackPower": "163",
+        "tenacity": "45",
+        "ms": "0.3",
+        "as": "1"
+      }
+    },
+    {
+      "gameId": "Dagger_FastDagger",
+      "gearIcon": "SpecImage_DAGGER3",
+      "gearName": "Scarlet Hunger",
+      "skillName": "Bloodeye Burst",
+      "manaCost": "30",
+      "cooldown": "23",
+      "castingRange": "10",
+      "type": "skill",
+      "description": "Dashes forward, dealing \n[Damage Rate: 150%] Physical\nDamage to all enemies hit, inflicting 2 stacks of [Bleed],\nand reducing Damage Resistance by 20% for 4s.\nSkill's second stage can be cast within 5s:\nDeals \n[Damage Rate: 300%] Physical Damage to enemies\nin a frontal cone, inflicts 3 stacks of [Bleed] while also\nleaping backward",
+      "tierUnlock": "2",
+      "rarity": "legendary",
+      "stats": {
+        "attackPower": "163",
+        "tenacity": "45",
+        "ms": "0.3",
+        "as": "1"
+      }
+    }
+  ]
+}

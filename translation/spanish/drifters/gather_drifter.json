@@ -1,0 +1,172 @@
+{
+  "lastUpdate": "June 6, 2025 6 AM",
+  "drifters": {
+    "paragon_gather_1": {
+      "gameId": "paragon_gather_1",
+      "name": "Mole",
+      "strBonus": "1.3",
+      "dexBonus": "1.3",
+      "intBonus": "1.3",
+      "baseStr": "20",
+      "baseDex": "20",
+      "baseInt": "20",
+      "stats": {
+        "Max HP Bonus": "%",
+        "Max MP Bonus": "%",
+        "Attack Speed Bonus": "%",
+        "Casting Speed Bonus": "%",
+        "Skill Cooldown Rate Bonus": "%",
+        "Physical Damage Bonus": "%",
+        "Magic Damage Bonus": "%",
+        "Healing Bonus": "%",
+        "Damage Bonus (PvE)": "%",
+        "Critical Rate": "%",
+        "Tenacity Penetration": "%",
+        "Armor": "",
+        "Magic Resistance": "",
+        "Block": "",
+        "Control Resistance": ""
+      },
+      "supportStationBonus": {
+        "supportBonus": "Gathering Rate & Yield",
+        "supportMalus": "9.5% & 9.9%",
+        "supportBonusValue": "",
+        "supportMalusValue": ""
+      },
+      "skill": {
+        "gameId": "Avatar_Skill_Gather_1",
+        "gearName": "Mole",
+        "skillName": "Mole's Escape",
+        "manaCost": "27",
+        "cooldown": "44",
+        "castingRange": "14",
+        "type": "skill",
+        "description": "Jumps backward 6 meters while throwing a robotic\ngrappling hook in the target direction, dealing \n[Damage Rate: 110%] Magic Damage to the first enemy hit and\nbinding them for I Os. Enemies attempting to leave the\nbinding range are pulled back to the center and take\n[Damage Rate: 142%] Magic Damage.",
+        "tierUnlock": "1"
+      },
+      "passive": {
+        "gameId": "Avatar_Skill_Gather_1_Passive",
+        "gearName": "Mole",
+        "skillName": "Survivability Resilience",
+        "manaCost": "N/A",
+        "cooldown": "N/A",
+        "castingRange": "N/A",
+        "type": "passive",
+        "description": "Increases own weight limit by 200",
+        "tierUnlock": "4"
+      }
+    },
+    "paragon_gather_4": {
+      "isActive": false,
+      "gameId": "paragon_gather_4",
+      "name": "TBA",
+      "strBonus": "N/A",
+      "dexBonus": "N/A",
+      "intBonus": "N/A",
+      "baseStr": "",
+      "baseDex": "",
+      "baseInt": "",
+      "stats": {
+        "Max HP Bonus": "%",
+        "Max MP Bonus": "%",
+        "Attack Speed Bonus": "%",
+        "Casting Speed Bonus": "%",
+        "Skill Cooldown Rate Bonus": "%",
+        "Physical Damage Bonus": "%",
+        "Magic Damage Bonus": "%",
+        "Healing Bonus": "%",
+        "Damage Bonus (PvE)": "%",
+        "Critical Rate": "%",
+        "Tenacity Penetration": "%",
+        "Armor": "",
+        "Magic Resistance": "",
+        "Block": "",
+        "Control Resistance": ""
+      },
+      "supportStationBonus": {
+        "supportBonus": "N/A",
+        "supportMalus": "",
+        "supportBonusValue": "",
+        "supportMalusValue": ""
+      },
+      "skill": {
+        "gameId": "Avatar_Skill_Gather_Engineer_Shield",
+        "gearName": "N/A",
+        "skillName": "N/A",
+        "manaCost": "N/A",
+        "cooldown": "N/A",
+        "castingRange": "N/A",
+        "type": "skill",
+        "description": "N/A",
+        "tierUnlock": "1"
+      },
+      "passive": {
+        "gameId": "Avatar_Skill_Gather_Engineer_Passive",
+        "gearName": "N/A",
+        "skillName": "N/A",
+        "manaCost": "N/A",
+        "cooldown": "N/A",
+        "castingRange": "N/A",
+        "type": "passive",
+        "description": "N/A",
+        "tierUnlock": "4"
+      }
+    },
+    "paragon_gather_3": {
+      "isActive": false,
+      "gameId": "paragon_gather_3",
+      "name": "TBA",
+      "strBonus": "N/A",
+      "dexBonus": "N/A",
+      "intBonus": "N/A",
+      "baseStr": "",
+      "baseDex": "",
+      "baseInt": "",
+      "stats": {
+        "Max HP Bonus": "%",
+        "Max MP Bonus": "%",
+        "Attack Speed Bonus": "%",
+        "Casting Speed Bonus": "%",
+        "Skill Cooldown Rate Bonus": "%",
+        "Physical Damage Bonus": "%",
+        "Magic Damage Bonus": "%",
+        "Healing Bonus": "%",
+        "Damage Bonus (PvE)": "%",
+        "Critical Rate": "%",
+        "Tenacity Penetration": "%",
+        "Armor": "",
+        "Magic Resistance": "",
+        "Block": "",
+        "Control Resistance": ""
+      },
+      "supportStationBonus": {
+        "supportBonus": "N/A",
+        "supportMalus": "",
+        "supportBonusValue": "",
+        "supportMalusValue": ""
+      },
+      "skill": {
+        "gameId": "Avatar_Skill_Gather_Scout_StunTrap",
+        "gearName": "N/A",
+        "skillName": "N/A",
+        "manaCost": "N/A",
+        "cooldown": "N/A",
+        "castingRange": "N/A",
+        "type": "skill",
+        "description": "N/A",
+        "tierUnlock": "1"
+      },
+      "passive": {
+        "gameId": "Avatar_Skill_Gather_Scout_Passive",
+        "gearName": "N/A",
+        "skillName": "N/A",
+        "manaCost": "N/A",
+        "cooldown": "N/A",
+        "castingRange": "N/A",
+        "type": "passive",
+        "description": "N/A",
+        "tierUnlock": "4"
+      }
+    }
+  }
+}

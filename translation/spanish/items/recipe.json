@@ -1,0 +1,75 @@
+{
+  "lastUpdate": "June 6, 2025 6 AM",
+  "recipe": [
+    {
+      "id": "strength-potion-recipe",
+      "name": "Strength Potion Recipe",
+      "description": "Increases Strength but reduces Agility and Intelligence",
+      "category": "recipe",
+      "rarity": "common"
+    },
+    {
+      "id": "agility-potion-recipe",
+      "name": "Agility Potion Recipe",
+      "description": "Increases Agility but reduces Strength",
+      "category": "recipe",
+      "rarity": "common"
+    },
+    {
+      "id": "intelligence-potion-recipe",
+      "name": "Intelligence Potion Recipe",
+      "description": "Increases Intelligence but reduces Strength",
+      "category": "recipe",
+      "rarity": "common"
+    },
+    {
+      "id": "gathering-potion-recipe",
+      "name": "Gathering Potion Recipe",
+      "description": "Increases Gathering, Gathering Speed and Weight Limit",
+      "category": "recipe",
+      "rarity": "common"
+    },
+    {
+      "id": "lethal-potion-recipe",
+      "name": "Lethal Potion Recipe",
+      "description": "Increases Basic Attack Crit but reduces Skill Bonus",
+      "category": "recipe",
+      "rarity": "common"
+    },
+    {
+      "id": "regeneration-potion-recipe",
+      "name": "Regeneration Potion Recipe",
+      "description": "Increases max HP and HP Recovery",
+      "category": "recipe",
+      "rarity": "common"
+    },
+    {
+      "id": "ironskin-potion-recipe",
+      "name": "Ironskin Potion Recipe",
+      "description": "Increases Resistances, Block but reduces damage and healing",
+      "category": "recipe",
+      "rarity": "common"
+    },
+    {
+      "id": "cooldown-potion-recipe",
+      "name": "Cooldown Potion Recipe",
+      "description": "Speeds up cooldown but reduces damage and healing",
+      "category": "recipe",
+      "rarity": "common"
+    },
+    {
+      "id": "lifesteal-potion-recipe",
+      "name": "Lifesteal Potion Recipe",
+      "description": "Increases Basic Attack Lifesteal but reduces max HP",
+      "category": "recipe",
+      "rarity": "common"
+    },
+    {
+      "id": "burst-potion-recipe",
+      "name": "Burst Potion Recipe",
+      "description": "Increases Skill Bonus and Cooldown",
+      "category": "recipe",
+      "rarity": "common"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "lastUpdate": "June 6, 2025 6 AM",
+  "chest_intelligence": [
+    {
+      "gameId": "Cloth_Int_3",
+      "gearIcon": "SpecImage_ROBE3",
+      "gearName": "Vigorcloak",
+      "skillName": "Heal",
+      "manaCost": "",
+      "cooldown": "32",
+      "castingRange": "7",
+      "type": "skill",
+      "description": "Instantly restores [Healing Rate: 120%] HP to nearby allies.",
+      "tierUnlock": "1",
+      "rarity": "rare"
+    },
+    {
+      "gameId": "Cloth_Int_1",
+      "gearIcon": "SpecImage_ROBE1",
+      "gearName": "Cleansing Robe",
+      "skillName": "Purify",
+      "manaCost": "",
+      "cooldown": "28",
+      "castingRange": "6",
+      "type": "skill",
+      "description": "Immediately removes all control effects, restores \n[Healing Rate:  180%] HP, and grants Control Immunity for 2s. Can be used while skills are disabled",
+      "tierUnlock": "1",
+      "rarity": "epic"
+    },
+    {
+      "gameId": "Cloth_Int_4",
+      "gearIcon": "SpecImage_ROBE4",
+      "gearName": "Archaneweaver",
+      "skillName": "Mana Font",
+      "manaCost": "",
+      "cooldown": "32",
+      "castingRange": "7",
+      "type": "skill",
+      "description": "Creates a 7m radius Mana Font around the caster, lasting 6s Restores 10 MP to allies in range every 1s Increases casting speed of friendly units within by 80%",
+      "tierUnlock": "1",
+      "rarity": "epic"
+    },
+    {
+      "gameId": "Cloth_Int_5",
+      "gearIcon": "SpecImage_ROBE6",
+      "gearName": "Exorcist's Robe",
+      "skillName": "Dispel",
+      "manaCost": "",
+      "cooldown": "28",
+      "castingRange": "16",
+      "type": "skill",
+      "description": "Launches a dispel projectile that deals \n[Damage Rate: 120%] Magic Damage to enemies in the impact area, removes all buffs and Shield effects. Reduces target's physical damage dealt by 40%",
+      "tierUnlock": "1",
+      "rarity": "epic"
+    },
+    {
+      "gameId": "Cloth_Int_7",
+      "gearIcon": "SpecImage_ROBE2",
+      "gearName": "Repulsor Mantle",
+      "skillName": "Repulse",
+      "manaCost": "",
+      "cooldown": "30",
+      "castingRange": "6",
+      "type": "skill",
+      "description": "Deals [Damage Rate: 200%] Magic Damage to nearby enemies, disarms them for 4s and knocks them back 10m, and reduces their Movement Speed by 40% for 4s.",
+      "tierUnlock": "1",
+      "rarity": "epic"
+    },
+    {
+      "gameId": "Cloth_Int_8",
+      "gearIcon": "SpecImage_ROBE7",
+      "gearName": "Warding Shroud",
+      "skillName": "Barrier",
+      "manaCost": "",
+      "cooldown": "28",
+      "castingRange": "6",
+      "type": "skill",
+      "description": "Gains a shield equal to 45% of the target's Max HP for 6s. Restores 10 MP each time damage is taken while the shield is active.",
+      "tierUnlock": "1",
+      "rarity": "legendary",
+      "stats": {
+        "hp": "755",
+        "dmgBonus": "56%",
+        "armor": "64",
+        "magicResi": "119"
+      }
+    },
+    {
+      "gameId": "Cloth_Int_2",
+      "gearIcon": "SpecImage_ROBE5",
+      "gearName": "Dreadcloak",
+      "skillName": "Panic",
+      "manaCost": "",
+      "cooldown": "46",
+      "castingRange": "",
+      "type": "skill",
+      "description": "Creates a panic curse field around the caster that lasts\n6s\nEnemies within 6m who use skills take \n[Damage Rate: 200%] Magic Damage and are affected by Fear for 1.5s",
+      "tierUnlock": "1",
+      "rarity": "legendary",
+      "stats": {
+        "hp": "755",
+        "dmgBonus": "56%",
+        "armor": "64",
+        "magicResi": "119"
+      }
+    },
+    {
+      "gameId": "Cloth_Int_10",
+      "gearIcon": "SpecImage_ROBE8",
+      "gearName": "Aegis Robe",
+      "skillName": "Warding",
+      "manaCost": "",
+      "cooldown": "29",
+      "castingRange": "6",
+      "type": "skill",
+      "description": "Gains +120 Armor (scales with Power) for 6s. While active, when taking damage from Basic Attacks or Skills, reduces the attacker's damage output by 40% and Movement Speed by 30% for 4s.",
+      "tierUnlock": "1",
+      "rarity": "epic",
+      "stats": {
+        "hp": "",
+        "dmgBonus": "",
+        "mpRecovery": ""
+      }
+    }
+  ]
+}

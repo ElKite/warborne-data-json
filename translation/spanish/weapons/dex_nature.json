@@ -1,0 +1,234 @@
+{
+  "lastUpdate": "June 6, 2025 6 AM",
+  "passive": {
+    "gameId": "Nature_Passive",
+    "skillName": "Natural Armor",
+    "manaCost": "",
+    "cooldown": "",
+    "castingRange": "",
+    "type": "passive",
+    "description": "Gains 1 stack of Natural Armor every 5s, stacking up to 4 times. Each stack increases Damage Resistance by 8%. 1 stack is lost for each instance of damage taken."
+  },
+  "basicAttacks": [
+    {
+      "gameId": "NatureAttack_1",
+      "skillName": "Evil Seed",
+      "manaCost": "",
+      "cooldown": "0.5",
+      "castingRange": "14",
+      "type": "basic",
+      "description": "[Basic Attack]:Deals \n[Damage Rate: 80%] Magic Damage. Throws an [Evil Seed] after 5 Basic Attacks.\nThrows an Evil Seed at the target location, creating a\nthorn zone that lasts 5s. The zone deals \n[Damage Rate: 40%] Magic Damage every second to up to 5 enemies and\nreduces their Movement Speed by 25%.",
+      "tierUnlock": "2"
+    },
+    {
+      "gameId": "Nature_Common_Attack2",
+      "skillName": "Soothing Mist",
+      "manaCost": "",
+      "cooldown": "1.4",
+      "castingRange": "16",
+      "type": "basic",
+      "description": "Basic Attacks become [Soothing Mist].\nReleases Soothing Mist in the target direction, dealing \n[Damage Rate: 70%] Magic Damage to enemies hit, while\napplying 1 stack of [Recovery] to allies.\n[Recovery]: Restores HP every second for 12s, stacking up\nto 3 times.\nHP recovery at 1 | 2 | 3 stacks: \n[Healing Rate: 12%] | \n[Healing Rate: 18%] | \n[Healing Rate: 24%]",
+      "tierUnlock": "4"
+    },
+    {
+      "gameId": "NatureAttack_3",
+      "skillName": "Healing Seed",
+      "manaCost": "",
+      "cooldown": "2.3",
+      "castingRange": "14",
+      "type": "basic",
+      "description": "Basic Attacks become [Healing Seed].\nThrows a healing seed at the target location that blooms,\nhealing nearby allies for \n[Healing Rate: 66%] HP and\napplying 1 stack of [Recovery]\n[Recovery]: Restores HP every second for 12s, stacking up\nto 3 times.\nHP recovery at 1 | 2 | 3 stacks: \n[Healing Rate: 12%] | \n[Healing Rate: 18%] | \n[Healing Rate: 24%]",
+      "tierUnlock": "6"
+    }
+  ],
+  "commonSkills": [
+    {
+      "gameId": "Nature_Common_Skill_1",
+      "skillName": "Winding Vines",
+      "manaCost": "20",
+      "cooldown": "14",
+      "castingRange": "12",
+      "type": "common",
+      "description": "After a brief delay, creates an entangling zone lasting 4s.\nDeals \n[Damage Rate: 90%] Magic Damage every second\nand immobilizes enemies that enter for 1.5s.",
+      "tierUnlock": "1"
+    },
+    {
+      "gameId": "Nature_Common_Skill_2",
+      "skillName": "Energize",
+      "manaCost": "",
+      "cooldown": "14",
+      "castingRange": "8",
+      "type": "common",
+      "description": "Creates an energizing aura around the caster, lasting 5 seconds. Restores [Healing Rate: 39%] HP and 6 MP every second to up to 10 nearby allies.",
+      "tierUnlock": "3"
+    },
+    {
+      "gameId": "Nature_Common_Skill_3",
+      "skillName": "Vitality Seed",
+      "manaCost": "19",
+      "cooldown": "14",
+      "castingRange": "8",
+      "type": "common",
+      "description": "Applies Vitality Seeds to up to 5 nearby allies, healing for \n[Healing Rate: 96%] HP and applying 1 stack of\n[Recovery].\nVitality Seeds increase Cast Speed by 40% and\nAttack Speed by 25% for 6s.\n[Recovery]: Restores HP every second for 12s, stacking up\nto 3 times\nHP recovery at 1 | 2 | 3 stacks: \n[Healing Rate: 12%] | \n[Healing Rate: 18%] | \n[Healing Rate: 24%]",
+      "tierUnlock": "5"
+    },
+    {
+      "gameId": "Nature_Common_Skill_4",
+      "skillName": "Regenerate",
+      "manaCost": "19",
+      "cooldown": "14",
+      "castingRange": "14",
+      "type": "common",
+      "description": "Releases restorative energy at the target location, healing\nallies. Healing amount increases based on target's\n[Recovery] stacks.\n[Recovery] stacks: 0|1 |2|3\nRecovers HP: \n[Healing Rate: 90%] | \n[Healing Rate: 114%] | \n[Healing Rate: 138%] | \n[Healing Rate: 162%]",
+      "tierUnlock": "8"
+    },
+    {
+      "gameId": "Nature_Common_Skill_5",
+      "skillName": "Freshness",
+      "manaCost": "21",
+      "cooldown": "18",
+      "castingRange": "14",
+      "type": "common",
+      "description": "Cleanses all Hard Control (Stun, Fear, Freeze, Knockup,\nPetrify, Sleep), Silence, and 2 DoT effects on the caster\nand up to 20 nearby allies. Also heals for \n[Healing Rate: 72%] HP, applies 1 stack of [Recovery], and prevents the\nnext 3 Hard Control or Silence effects. The effect lasts 4s.\nCan be used while skills are disabled.\n[Recovery]: Restores HP every second for 12s, stacking up\nto 3 times.\nHP recovery at 1 | 2 | 3 stacks \n[Healing Rate: 12%] | \n[Healing Rate: 18%] | \n[Healing Rate: 24%]",
+      "tierUnlock": "7"
+    }
+  ],
+  "skills": [
+    {
+      "gameId": "Nature_MoonFire",
+      "gearIcon": "SpecImage_NATURE1",
+      "gearName": "Eclipse Conduit",
+      "skillName": "Crater Surge",
+      "manaCost": "21",
+      "cooldown": "18",
+      "castingRange": "12",
+      "type": "skill",
+      "description": "Creates 3 explosions in the target area. Each explosion deals \n[Damage Rate: 100%] Magic Damage to players\n([Damage Rate: 200%] Magic Damage to mobs). The caster is healed for \n[Healing Rate: 72%] HP if at least one enemy is hit.",
+      "tierUnlock": "2",
+      "rarity": "rare",
+      "stats": {
+        "attackPower": "148",
+        "as": "1"
+      }
+    },
+    {
+      "gameId": "Nature_TreeSkin",
+      "gearIcon": "SpecImage_NATURE2",
+      "gearName": "Thornward Staff",
+      "skillName": "Thorn Barrier",
+      "manaCost": "28",
+      "cooldown": "18",
+      "castingRange": "8",
+      "type": "skill",
+      "description": "Grants Thorn Barrier to up to 5 nearby allies.\nThorn Barrier increases Damage Resistance by 20%, Cast Speed by 40% and\nAttack Speed by 25% for 6s.\nWhen taking direct damage, recovers \n[Healing Rate: 66%]\nHP up to 6 times; also Slows the attacker by 25% for 3s.",
+      "tierUnlock": "2",
+      "rarity": "epic",
+      "stats": {
+        "attackPower": "155",
+        "as": "1"
+      }
+    },
+    {
+      "gameId": "Nature_HealRain",
+      "gearIcon": "SpecImage_NATURE3",
+      "gearName": "Harmony's Staff",
+      "skillName": "Rain of Serenity",
+      "manaCost": "30",
+      "cooldown": "23",
+      "castingRange": "12",
+      "type": "skill",
+      "description": "Creates a Rain of Serenity at the target location for 8s.\nAllies in the rain gain 25% Damage Resistance and recover \n[Healing Rate: 30%] HP every second. Deals \n[Damage Rate: 50%] Magic Damage to enemies in the field every 1 second",
+      "tierUnlock": "2",
+      "rarity": "epic",
+      "stats": {
+        "attackPower": "155",
+        "as": "1"
+      }
+    },
+    {
+      "gameId": "Nature_Tranquility",
+      "gearIcon": "SpecImage_NATURE4",
+      "gearName": "Verdant Embrace",
+      "skillName": "Healing Bloom",
+      "manaCost": "18",
+      "cooldown": "4.6",
+      "castingRange": "12",
+      "type": "skill",
+      "description": "Creates a Healing Bloom aura around the caster. Allies within gain 15% increased Healing Received. Consumes 3 MP every second to restore [Healing Rate: 27%] HP to nearby allies.",
+      "tierUnlock": "2",
+      "rarity": "epic",
+      "stats": {
+        "attackPower": "155",
+        "as": "1"
+      }
+    },
+    {
+      "gameId": "Nature_TwineSeed",
+      "gearIcon": "SpecImage_NATURE6",
+      "gearName": "Tendril's Grasp",
+      "skillName": "Entangling Growth",
+      "manaCost": "23",
+      "cooldown": "18",
+      "castingRange": "16",
+      "type": "skill",
+      "description": "Launches Root Worms in the target direction. Upon\nhitting an enemy target, it will bounce to other enemy\ntargets within 7 meters up to 9 times. Each target can be\nhit a maximum of 3 times.\nEach hit deals \n[Damage Rate: 120%] Magic Damage\nStuns the target for 1s, and reduces damage dealt by 20% for 9s.",
+      "tierUnlock": "2",
+      "rarity": "epic",
+      "stats": {
+        "attackPower": "155",
+        "as": "1"
+      }
+    },
+    {
+      "gameId": "Nature_NatureToxin",
+      "gearIcon": "SpecImage_NATURE8",
+      "gearName": "VenomStave",
+      "skillName": "Toxine Injection",
+      "manaCost": "23",
+      "cooldown": "19",
+      "castingRange": "14",
+      "type": "skill",
+      "description": "Inflicts natural toxins on the target, dealing [Damage Rate: 80%] Magic Damage every 1 second while reducing Attack Speed by 30% and Movement Speed by 30% for 4 seconds. The toxin's duration is refreshed whenever the target takes damage from the caster's Weapon Skills.",
+      "tierUnlock": "2",
+      "rarity": "epic",
+      "stats": {
+        "attackPower": "",
+        "as": ""
+      }
+    },
+    {
+      "gameId": "Nature_HolyDeer",
+      "gearIcon": "SpecImage_NATURE5",
+      "gearName": "Spirit's Call",
+      "skillName": "Breeze of Resurgence",
+      "manaCost": "30",
+      "cooldown": "23",
+      "castingRange": "24",
+      "type": "skill",
+      "description": "Heals allies along the path for [Healing Rate: 210%] HP, purifies all Crowd Control effects and 5 stacks of Damage over Time, grants Immunity to Damage over Time and increases Healing Received by 35% for 6 seconds.",
+      "tierUnlock": "2",
+      "rarity": "legendary",
+      "stats": {
+        "attackPower": "163",
+        "as": "1"
+      }
+    },
+    {
+      "gameId": "Nature_GodTree",
+      "gearIcon": "SpecImage_NATURE7",
+      "gearName": "Sanctuary of Growth",
+      "skillName": "Divine Rootfall",
+      "manaCost": "37",
+      "cooldown": "46",
+      "castingRange": "14",
+      "type": "skill",
+      "description": "Plants a Divine Rootfall that lasts 20s. After 1s, the tree\nmatures and restores \n[Healing Rate: 24%] HP every\nsecond to nearby allies. When enemies cast skills in\nrange, it shoots sleep seeds that deal \n[Damage Rate: 200%] Magic Damage and inflict Sleep for 2.5s. The tree is destroyed after taking 10 Basic Attack hits",
+      "tierUnlock": "2",
+      "rarity": "legendary",
+      "stats": {
+        "attackPower": "163",
+        "as": "1"
+      }
+    }
+  ]
+}
