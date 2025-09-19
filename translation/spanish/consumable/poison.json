@@ -1,0 +1,29 @@
+{
+  "lastUpdate": "June 6, 2025 6 AM",
+  "poison": [
+    {
+      "id": "paratoxin",
+      "name": "Paratoxin",
+      "iconName": "equip_medicine_2_1",
+      "description": "The target takes \n[Damage Rate: 90%] fixed damage (if a player) or \n[Damage Rate: 180%] fixed damage (if a mob) every second for 9s (does not trigger on-damage effects or receive skill/damage boosts), followed by Reduces Movement Speed by 40%, Slow effect diminishes over 6s",
+      "category": "poison",
+      "rarity": "common"
+    },
+    {
+      "id": "enhanced-paratoxin",
+      "name": "Enhanced Paratoxin",
+      "iconName": "equip_medicine_2_2",
+      "description": "The target takes \n[Damage Rate: 120%] fixed damage (if a player) or \n[Damage Rate: 240%] fixed damage (if a mob) every second for 9s (does not trigger on-damage effects or receive skill/damage boosts), followed by Reduces Movement Speed by 60%, Slow effect diminishes over 6s",
+      "category": "poison",
+      "rarity": "enhanced"
+    },
+    {
+      "id": "advanced-paratoxin",
+      "name": "Advanced Paratoxin",
+      "iconName": "equip_medicine_2_3",
+      "description": "The target takes \n[Damage Rate: 180%] fixed damage (if a player) or \n[Damage Rate: 360%] fixed damage (if a mob) every second for 9s (does not trigger on-damage effects or receive skill/damage boosts), followed by Reduces Movement Speed by 80%, Slow effect diminishes over 6s",
+      "category": "poison",
+      "rarity": "advanced"
+    }
+  ]
+}

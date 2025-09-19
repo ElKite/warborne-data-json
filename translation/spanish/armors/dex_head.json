@@ -1,0 +1,150 @@
+{
+  "lastUpdate": "June 6, 2025 6 AM",
+  "head_dexterity": [
+    {
+      "gameId": "Helm_Dex_2",
+      "gearIcon": "SpecImage_HOOD2",
+      "gearName": "Vital Mantle",
+      "skillName": "Life Flash",
+      "manaCost": "",
+      "cooldown": "60",
+      "castingRange": "",
+      "type": "passive",
+      "description": "When taking damage at below 30% HP, immediately restores \n[Healing Rate: 48%] HP every second for 5s. Trigger Interval: 60s",
+      "tierUnlock": "1",
+      "rarity": "rare",
+      "stats": {
+        "hp": "714",
+        "dmgBonus": "9.8%",
+        "mpRecovery": "5"
+      }
+    },
+    {
+      "gameId": "Helm_Dex_3",
+      "gearIcon": "SpecImage_HOOD1",
+      "gearName": "Stormcaller's Hood",
+      "skillName": "Electrified Strike",
+      "manaCost": "",
+      "cooldown": "30",
+      "castingRange": "",
+      "type": "passive",
+      "description": "When using Basic Attack, the next 5 Basic Attacks (including the triggering one) within 8s cast additional Chain Lightning onto enemy targets. Upon hitting, it automatically ricochets to the nearest target, up to 5 times, dealing \n[Damage Rate: 60%] Physical Damage per hit. (Trigger Interval: 0.6 seconds) Damage is influenced by Basic Attack damage boost and can crit based on Basic Attack critical rate. Cooldown: 30s",
+      "tierUnlock": "1",
+      "rarity": "epic",
+      "stats": {
+        "hp": "714",
+        "dmgBonus": "9.8%",
+        "mpRecovery": "5"
+      }
+    },
+    {
+      "gameId": "Helm_Dex_5",
+      "gearIcon": "SpecImage_HOOD5",
+      "gearName": "Shadeveil Mask",
+      "skillName": "Fade Out",
+      "manaCost": "",
+      "cooldown": "60",
+      "castingRange": "",
+      "type": "passive",
+      "description": "When taking damage at below 30% HP, instantly enters Stealth and increases Movement Speed by 30% for 5s. After 1.5 seconds in Stealth, using a skill, dealing damage, or inflicting healing will break Stealth. Trigger Interval: 60s",
+      "tierUnlock": "1",
+      "rarity": "epic",
+      "stats": {
+        "hp": "714",
+        "dmgBonus": "9.8%",
+        "mpRecovery": "5"
+      }
+    },
+    {
+      "gameId": "Helm_Dex_8",
+      "gearIcon": "SpecImage_HOOD7",
+      "gearName": "Purifier's Shroud",
+      "skillName": "Dodge",
+      "manaCost": "",
+      "cooldown": "25",
+      "castingRange": "",
+      "type": "passive",
+      "description": "When taking damage from Basic Attacks, immediately gains Overclock Reflexes Passive Enhancement 50% Effect for 8s. This effect enters a 25s Cooldown after triggering.",
+      "tierUnlock": "1",
+      "rarity": "epic",
+      "stats": {
+        "hp": "714",
+        "dmgBonus": "9.8%",
+        "mpRecovery": "5"
+      }
+    },
+    {
+      "gameId": "Helm_Dex_7",
+      "gearIcon": "SpecImage_HOOD6",
+      "gearName": "Wrathveil Shade",
+      "skillName": "Rage",
+      "manaCost": "",
+      "cooldown": "25",
+      "castingRange": "",
+      "type": "passive",
+      "description": "When dealing direct damage with Basic Attacks, grants\n+10% Critical Rate and +35% Attack Speed for 6s. Trigger Interval: 25s",
+      "tierUnlock": "1",
+      "rarity": "epic",
+      "stats": {
+        "hp": "714",
+        "dmgBonus": "9.8%",
+        "mpRecovery": "5"
+      }
+    },
+    {
+      "gameId": "Helm_Dex_1",
+      "gearIcon": "SpecImage_HOOD3",
+      "gearName": "Ironwill veil",
+      "skillName": "Defiance",
+      "manaCost": "",
+      "cooldown": "120",
+      "castingRange": "",
+      "type": "passive",
+      "description": "When taking damage at below 20% HP, prevents HP from\nfalling below 1 and regenerates \n[Healing Rate: 36%] HP\nevery second for 4s. Cannot be dispelled.\nTrigger Interval: 120s",
+      "tierUnlock": "1",
+      "rarity": "legendary",
+      "stats": {
+        "hp": "755",
+        "dmgBonus": "9.9%",
+        "mpRecovery": "5"
+      }
+    },
+    {
+      "gameId": "Helm_Dex_4",
+      "gearIcon": "SpecImage_HOOD4",
+      "gearName": "Folly Helm",
+      "skillName": "Break Free",
+      "manaCost": "",
+      "cooldown": "45",
+      "castingRange": "",
+      "type": "passive",
+      "description": "When affected by Hard Control effects (Stun, Fear, Frozen, Knockup, Petrify, Sleep), Silence, or Immobilize, instantly removes all control and debuff effects, grants immunity to all control and debuff effects, increases Speed by 25%, for 3s. This effect enters a 45s cooldown after triggering.",
+      "tierUnlock": "1",
+      "rarity": "legendary",
+      "stats": {
+        "hp": "755",
+        "dmgBonus": "9.9%",
+        "mpRecovery": "5"
+      }
+    },
+    {
+      "isActive": false,
+      "gearIcon": "SpecImage_HOOD8",
+      "gameId": "Helm_Dex_9",
+      "gearName": "Helm_Dex_9",
+      "skillName": "Helm_Dex_9",
+      "manaCost": "",
+      "cooldown": "",
+      "castingRange": "",
+      "type": "skill",
+      "description": "",
+      "tierUnlock": "1",
+      "rarity": "legendary",
+      "stats": {
+        "hp": "",
+        "dmgBonus": "",
+        "mpRecovery": ""
+      }
+    }
+  ]
+}

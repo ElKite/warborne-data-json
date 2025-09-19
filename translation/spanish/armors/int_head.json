@@ -1,0 +1,131 @@
+{
+  "lastUpdate": "June 6, 2025 6 AM",
+  "head_intelligence": [
+    {
+      "gameId": "Helm_Int_7",
+      "gearIcon": "SpecImage_COWL1",
+      "gearName": "Breezeweaver",
+      "skillName": "Amplify",
+      "manaCost": "",
+      "cooldown": "30",
+      "castingRange": "",
+      "type": "passive",
+      "description": "When casting skills, increases Magic Damage dealt by 20% for 6s Trigger Interval: 30s",
+      "tierUnlock": "1",
+      "rarity": "rare",
+      "stats": {
+        "hp": "675",
+        "dmgBonus": "9.6%",
+        "mpRecovery": "10"
+      }
+    },
+    {
+      "gameId": "Helm_Int_1",
+      "gearIcon": "SpecImage_COWL3",
+      "gearName": "Healer's Hood",
+      "skillName": "Swift Aid",
+      "manaCost": "",
+      "cooldown": "20",
+      "castingRange": "",
+      "type": "passive",
+      "description": "When healing, grants target a  \n[Target-based Max HP 20%] shield for 6s Trigger Interval: 20s",
+      "tierUnlock": "1",
+      "rarity": "epic",
+      "stats": {
+        "hp": "714",
+        "dmgBonus": "9.8%",
+        "mpRecovery": "10"
+      }
+    },
+    {
+      "gameId": "Helm_Int_2",
+      "gearIcon": "SpecImage_COWL6",
+      "gearName": "Crimson Breeze",
+      "skillName": "Grievous Wounds",
+      "manaCost": "",
+      "cooldown": "25",
+      "castingRange": "",
+      "type": "passive",
+      "description": "When skills deal damage, inflicts [Damage Rate: 180%] Magic Damage to enemies in range and reduces their healing received by 40% for 6s. This effect enters a 25s cooldown after triggering..",
+      "tierUnlock": "1",
+      "rarity": "epic",
+      "stats": {
+        "hp": "714",
+        "dmgBonus": "9.8%",
+        "mpRecovery": "10"
+      }
+    },
+    {
+      "gameId": "Helm_Int_3",
+      "gearIcon": "SpecImage_COWL5",
+      "gearName": "Earth Vein Hood",
+      "skillName": "Miasma",
+      "manaCost": "",
+      "cooldown": "30",
+      "castingRange": "",
+      "type": "passive",
+      "description": "When skills deal direct damage, creates a venom zone lasting 6s at the target location. Enemies within 5m take [Damage Rate: 55%] Magic Damage every 1s and have their Magic Resistance reduced by 25%. Trigger Interval: 30s.",
+      "tierUnlock": "1",
+      "rarity": "epic",
+      "stats": {
+        "hp": "714",
+        "dmgBonus": "9.8%",
+        "mpRecovery": "10"
+      }
+    },
+    {
+      "gameId": "Helm_Int_4",
+      "gearIcon": "SpecImage_COWL2",
+      "gearName": "Mystic Surge",
+      "skillName": "Overflow",
+      "manaCost": "",
+      "cooldown": "45",
+      "castingRange": "",
+      "type": "passive",
+      "description": "When casting Skills with MP below 40%, immediately gains 15 MP per second for 8s. Trigger Interval: 45s",
+      "tierUnlock": "1",
+      "rarity": "epic",
+      "stats": {
+        "hp": "714",
+        "dmgBonus": "9.8%",
+        "mpRecovery": "10"
+      }
+    },
+    {
+      "gameId": "Helm_Int_5",
+      "gearIcon": "SpecImage_COWL4",
+      "gearName": "Sanctum Shroud",
+      "skillName": "Repulsion",
+      "manaCost": "",
+      "cooldown": "45",
+      "castingRange": "",
+      "type": "passive",
+      "description": "When taking damage at below 40% HP, gains a\n[Target-based Max HP 25%] shield and generates a\nrepulsion field lasting 6s. Enemies touching the field take\nDamage Rate: 100%] Magic Damage and are knocked\nback 7m.\nTrigger Interval: 45s",
+      "tierUnlock": "1",
+      "rarity": "legendary",
+      "stats": {
+        "hp": "755",
+        "dmgBonus": "9.9%",
+        "mpRecovery": "10"
+      }
+    },
+    {
+      "gameId": "Helm_Int_8",
+      "gearIcon": "SpecImage_COWL7",
+      "gearName": "Twilight Mantle",
+      "skillName": "Last Stand",
+      "manaCost": "",
+      "cooldown": "45",
+      "castingRange": "",
+      "type": "passive",
+      "description": "When damage taken within 3s exceeds 35% of max HP,\ncreates a healing wave that restores \n[Healing Rate: 240%]\nHP to nearby allies and removes control effects.\nTrigger Interval: 45s",
+      "tierUnlock": "1",
+      "rarity": "legendary",
+      "stats": {
+        "hp": "755",
+        "dmgBonus": "9.9%",
+        "mpRecovery": "10"
+      }
+    }
+  ]
+}
