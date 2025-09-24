@@ -1,0 +1,129 @@
+{
+  "lastUpdate": "June 6, 2025 6 AM",
+  "boots_dexterity": [
+    {
+      "gameId": "Shoes_Dex_3",
+      "gearIcon": "SpecImage_SHOES5",
+      "gearName": "조롱의 장화",
+      "skillName": "사이드 스텝",
+      "manaCost": "",
+      "cooldown": "27",
+      "castingRange": "9",
+      "type": "skill",
+      "description": "대상 방향으로 9m 이동합니다. 4초 동안 이동 속도가 40% 증가합니다.",
+      "tierUnlock": "1",
+      "rarity": "rare",
+      "stats": {
+        "hp": "675",
+        "dmgBonus": "9.6%",
+        "mpRecovery": "10"
+      }
+    },
+    {
+      "gameId": "Shoes_Dex_1",
+      "gearIcon": "SpecImage_SHOES2",
+      "gearName": "급속의 장화",
+      "skillName": "공속 강화",
+      "manaCost": "",
+      "cooldown": "27",
+      "castingRange": "6",
+      "type": "skill",
+      "description": "5초 동안 이동 속도 60%, 공격 속도 35%가 증가합니다.",
+      "tierUnlock": "1",
+      "rarity": "epic"
+    },
+    {
+      "gameId": "Shoes_Dex_2",
+      "gearIcon": "SpecImage_SHOES1",
+      "gearName": "신속의 신발",
+      "skillName": "우아함",
+      "manaCost": "",
+      "cooldown": "23",
+      "castingRange": "6",
+      "type": "skill",
+      "description": "대상 방향으로 6m 돌진합니다. 5초 동안 치명타 확률이 15% 증가합니다. 최대 2회 중첩되며, 4초 이내에 다시 사용할 수 있습니다.",
+      "tierUnlock": "1",
+      "rarity": "epic"
+    },
+    {
+      "gameId": "Shoes_Dex_4",
+      "gearIcon": "SpecImage_SHOES3",
+      "gearName": "죽음의 발걸음",
+      "skillName": "암살",
+      "manaCost": "",
+      "cooldown": "1.5",
+      "castingRange": "11",
+      "type": "skill",
+      "description": "대상 뒤로 빠르게 돌진하여 [피해 비율: 150%] 물리 피해를 주고 6초 동안 기본 공격 피해가 40% 증가합니다. 20초마다 1충전 획득, 최대 2충전.",
+      "tierUnlock": "1",
+      "rarity": "epic"
+    },
+    {
+      "gameId": "Shoes_Dex_7",
+      "gearIcon": "SpecImage_SHOES6",
+      "gearName": "그림자장막 슬리퍼",
+      "skillName": "은신",
+      "manaCost": "",
+      "cooldown": "27",
+      "castingRange": "6",
+      "type": "skill",
+      "description": "이동 속도가 30% 증가하고, 1초 후 은신 상태에 들어가며 4초 동안 이동 속도가 60% 증가합니다. 스킬 사용, 피해를 주거나 회복을 하면 은신이 해제됩니다.",
+      "tierUnlock": "1",
+      "rarity": "epic"
+    },
+    {
+      "gameId": "Shoes_Dex_9",
+      "gearIcon": "SpecImage_SHOES8",
+      "gearName": "선풍 장화",
+      "skillName": "사이클론",
+      "manaCost": "",
+      "cooldown": "27",
+      "castingRange": "7",
+      "type": "skill",
+      "description": "주변 최대 20명의 아군에게 공격 속도 25%, 주문 시전 속도, 이동 속도를 각각 30% 증가시키며 5초간 지속됩니다.",
+      "tierUnlock": "1",
+      "rarity": "epic",
+      "stats": {
+        "hp": "",
+        "dmgBonus": "",
+        "mpRecovery": ""
+      }
+    },
+    {
+      "gameId": "Shoes_Dex_5",
+      "gearIcon": "SpecImage_SHOES4",
+      "gearName": "회피 장화",
+      "skillName": "탈출",
+      "manaCost": "",
+      "cooldown": "18",
+      "castingRange": "14",
+      "type": "skill",
+      "description": "제어 효과를 해제하고 대상 방향으로 돌진합니다. 2초간 제어 면역을 얻습니다. 스킬이 봉인된 상태에서도 사용 가능합니다.",
+      "tierUnlock": "1",
+      "rarity": "legendary",
+      "stats": {
+        "hp": "755",
+        "dmgBonus": "9.9%",
+        "mpRecovery": "5"
+      }
+    },
+    {
+      "gameId": "Shoes_Dex_8",
+      "gearIcon": "SpecImage_SHOES7",
+      "gearName": "차원도약 슬리퍼",
+      "skillName": "위상 이동",
+      "manaCost": "",
+      "cooldown": "16",
+      "castingRange": "10",
+      "type": "skill",
+      "description": "현재 위치에 표식을 남기고 대상 위치로 돌진합니다. 도착 시 범위 내 적에게 [피해 비율: 200%] 물리 피해를 주고 4초 동안 피해 저항을 15% 감소시킵니다.\n5초 이내에 다시 사용해 원래 위치로 돌아가며 3초 동안 이동 속도가 40% 증가합니다.",
+      "tierUnlock": "1",
+      "rarity": "legendary",
+      "stats": {
+        "hp": "755",
+        "dmgBonus": "9.9%",
+        "mpRecovery": "5"
+      }
+    }
+  ]
+}

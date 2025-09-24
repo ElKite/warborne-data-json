@@ -1,0 +1,123 @@
+{
+  "lastUpdate": "2025년 6월 6일 오전 6시",
+  "chest_strength": [
+    {
+      "gameId": "Cloth_Str_4",
+      "gearIcon": "SpecImage_ARMOR4",
+      "gearName": "수호자의 축복",
+      "skillName": "방어",
+      "manaCost": "",
+      "cooldown": "32",
+      "castingRange": "6 ",
+      "type": "skill",
+      "description": "2.5초 동안 정신을 집중하여 피해 저항이 90% 증가합니다. 집중 중 이동할 수 있지만 속도가 40% 감소합니다.",
+      "tierUnlock": "1",
+      "rarity": "rare"
+    },
+    {
+      "gameId": "Cloth_Str_1",
+      "gearIcon": "SpecImage_ARMOR1",
+      "gearName": "아이기스 플레이트",
+      "skillName": "보호막",
+      "manaCost": "",
+      "cooldown": "32",
+      "castingRange": "7 ",
+      "type": "skill",
+      "description": "주변 아군에게 [대상 최대 HP 20%] 수치의 보호막을 6초 동안 부여합니다. HP가 40% 이하일 경우 보호막 수치가 [대상 최대 HP 35%]로 증가합니다.",
+      "tierUnlock": "1",
+      "rarity": "epic"
+    },
+    {
+      "gameId": "Cloth_Str_2",
+      "gearIcon": "SpecImage_ARMOR2",
+      "gearName": "눈부신 수호",
+      "skillName": "기절",
+      "manaCost": "",
+      "cooldown": "27",
+      "castingRange": "7 ",
+      "type": "skill",
+      "description": "주변 적에게 [피해 비율: 250%] 물리 피해를 주고 2초간 기절시키며, 4초 동안 이동 속도를 40% 감소시킵니다.",
+      "tierUnlock": "1",
+      "rarity": "epic"
+    },
+    {
+      "gameId": "Cloth_Str_6",
+      "gearIcon": "SpecImage_ARMOR6",
+      "gearName": "폭풍 돌격",
+      "skillName": "돌격",
+      "manaCost": "",
+      "cooldown": "32",
+      "castingRange": "7 ",
+      "type": "skill",
+      "description": "5초 동안 지속되는 전쟁의 뿔피리를 울립니다. 7m 내 아군은 피해 저항 30%, 제어 저항 50, 강제 이동(넉백, 끌어당김) 면역 효과를 얻습니다.",
+      "tierUnlock": "1",
+      "rarity": "epic"
+    },
+    {
+      "gameId": "Cloth_Str_8",
+      "gearIcon": "SpecImage_ARMOR7",
+      "gearName": "얽매는 수호구",
+      "skillName": "속박 밧줄",
+      "manaCost": "",
+      "cooldown": "32",
+      "castingRange": "16 ",
+      "type": "skill",
+      "description": "밧줄을 발사해 대상에게 [피해 비율: 100%] 물리 피해를 주고 2초간 속박하며, 서로를 중앙으로 끌어당깁니다.",
+      "tierUnlock": "1",
+      "rarity": "epic"
+    },
+    {
+      "gameId": "Cloth_Str_3",
+      "gearIcon": "SpecImage_ARMOR3",
+      "gearName": "감시자의 갑주",
+      "skillName": "약점 노출",
+      "manaCost": "",
+      "cooldown": "37",
+      "castingRange": "7 ",
+      "type": "skill",
+      "description": "피해 저항을 30% 증가시키고, 6초 동안 약점 노출 장을 생성합니다. 7m 내 적은 주는 피해가 80% 감소하며 은신 상태에 들어갈 수 없습니다.",
+      "tierUnlock": "1",
+      "rarity": "legendary",
+      "stats": {
+        "armor": "331",
+        "magicResi": "251"
+      }
+    },
+    {
+      "gameId": "Cloth_Str_5",
+      "gearIcon": "SpecImage_ARMOR5",
+      "gearName": "마력폭류 갑옷",
+      "skillName": "수렴",
+      "manaCost": "",
+      "cooldown": "27",
+      "castingRange": "7 ",
+      "type": "skill",
+      "description": "시전자 주변에 수렴하는 힘의 장을 생성합니다. 1.5초 후, 7m 내 적에게 [피해 비율: 250%] 물리 피해를 주고 중심으로 끌어당기며, 0.5초간 기절시키고 4초 동안 이동 속도를 30% 감소시킵니다.",
+      "tierUnlock": "1",
+      "rarity": "legendary",
+      "stats": {
+        "armor": "331",
+        "magicResi": "251"
+      }
+    },
+    {
+      "isActive": false,
+      "gearIcon": "SpecImage_ARMOR8",
+      "gameId": "Cloth_Str_9",
+      "gearName": "Cloth_Str_9",
+      "skillName": "Cloth_Str_9",
+      "manaCost": "",
+      "cooldown": "",
+      "castingRange": "",
+      "type": "skill",
+      "description": "",
+      "tierUnlock": "1",
+      "rarity": "legendary",
+      "stats": {
+        "hp": "",
+        "dmgBonus": "",
+        "mpRecovery": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "lastUpdate": "2025년 6월 6일 오전 6시",
+  "boots_intelligence": [
+    {
+      "gameId": "Shoes_Int_4",
+      "gearIcon": "SpecImage_SANDALS2",
+      "gearName": "마력의 신발",
+      "skillName": "풍요",
+      "manaCost": "",
+      "cooldown": "27",
+      "castingRange": "6",
+      "type": "skill",
+      "description": "이동 속도가 50% 증가하고 5초 동안 매초 8 MP를 회복합니다.",
+      "tierUnlock": "1",
+      "rarity": "rare",
+      "stats": {
+        "hp": "675",
+        "dmgBonus": "9.6%",
+        "mpRecovery": "10"
+      }
+    },
+    {
+      "gameId": "Shoes_Int_1",
+      "gearIcon": "SpecImage_SANDALS1",
+      "gearName": "점멸의 신발",
+      "skillName": "점멸 발걸음",
+      "manaCost": "",
+      "cooldown": "23",
+      "castingRange": "12",
+      "type": "skill",
+      "description": "대상 방향으로 12m 돌진합니다. [회복 비율: 150%] 활력을 회복하고 MP 25를 회복합니다.",
+      "tierUnlock": "1",
+      "rarity": "epic"
+    },
+    {
+      "gameId": "Shoes_Int_3",
+      "gearIcon": "SpecImage_SANDALS4",
+      "gearName": "서리걸음 장화",
+      "skillName": "서리",
+      "manaCost": "",
+      "cooldown": "27",
+      "castingRange": "6",
+      "type": "skill",
+      "description": "5초 동안 이동 속도가 55% 증가합니다. 4초 동안 지속되는 서리 경로를 생성합니다. 경로 안의 2초 동안 적은 이동 속도가 40% 감소하고 공격 속도가 45% 감소합니다.",
+      "tierUnlock": "1",
+      "rarity": "epic"
+    },
+    {
+      "gameId": "Shoes_Int_5",
+      "gearIcon": "SpecImage_SANDALS5",
+      "gearName": "독기 장화",
+      "skillName": "부패",
+      "manaCost": "",
+      "cooldown": "27",
+      "castingRange": "6",
+      "type": "skill",
+      "description": "이동 속도가 55% 증가하며, 5초 동안 지속됩니다. 이동 경로에 4초 동안 지속되는 오염의 흔적을 남깁니다.\n경로에 있는 적은 가하는 피해가 35% 감소하고, 받는 치유가 30% 감소합니다. (5초 지속)",
+      "tierUnlock": "1",
+      "rarity": "epic"
+    },
+    {
+      "gameId": "Shoes_Int_6",
+      "gearIcon": "SpecImage_SANDALS6",
+      "gearName": "변위자의 장화",
+      "skillName": "전위",
+      "manaCost": "",
+      "cooldown": "27",
+      "castingRange": "16",
+      "type": "skill",
+      "description": "4초 동안 지속되는 [대상 최대 HP 25%] 보호막을 얻고, 대상 플레이어와 위치를 교환합니다.",
+      "tierUnlock": "1",
+      "rarity": "epic"
+    },
+    {
+      "gameId": "Shoes_Int_7",
+      "gearIcon": "SpecImage_SANDALS7",
+      "gearName": "유령의 신발",
+      "skillName": "유령",
+      "manaCost": "",
+      "cooldown": "37",
+      "castingRange": "6",
+      "type": "skill",
+      "description": "1.2초 시전 후 망령 상태에 들어갑니다. 3초 동안 이동 속도가 70% 증가하며 피해 및 군중 제어 효과에 면역이 됩니다. 망령 상태에서는 다른 스킬을 사용하거나 공격할 수 없습니다.",
+      "tierUnlock": "1",
+      "rarity": "legendary",
+      "stats": {
+        "hp": "755",
+        "dmgBonus": "9.9%",
+        "mpRecovery": "10"
+      }
+    },
+    {
+      "gameId": "Shoes_Int_2",
+      "gearIcon": "SpecImage_SANDALS3",
+      "gearName": "야만인 신발",
+      "skillName": "광폭화",
+      "manaCost": "",
+      "cooldown": "27",
+      "castingRange": "6",
+      "type": "skill",
+      "description": "5초 동안 이동 속도가 70% 증가하고 피해량이 20% 증가합니다. 효과가 끝난 후 5초 동안 피해 저항력이 20% 감소합니다.",
+      "tierUnlock": "1",
+      "rarity": "legendary",
+      "stats": {
+        "hp": "755",
+        "dmgBonus": "9.9%",
+        "mpRecovery": "10"
+      }
+    },
+    {
+      "isActive": false,
+      "gearIcon": "SpecImage_SANDALS8",
+      "gameId": "Shoes_Int_8",
+      "gearName": "Shoes_Int_8",
+      "skillName": "Shoes_Int_8",
+      "manaCost": "",
+      "cooldown": "",
+      "castingRange": "",
+      "type": "skill",
+      "description": "",
+      "tierUnlock": "1",
+      "rarity": "legendary",
+      "stats": {
+        "hp": "",
+        "dmgBonus": "",
+        "mpRecovery": ""
+      }
+    }
+  ]
+}

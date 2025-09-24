@@ -1,0 +1,162 @@
+{
+  "lastUpdate": "June 6, 2025 6 AM",
+  "potions": [
+    {
+      "id": "vitalis-potion",
+      "iconName": "equip_medicine_3_1",
+      "name": "비탈리스 물약",
+      "description": "9초 동안 이동 제한(둔화, 속박)에 면역이 되고, 제어 저항이 86 증가하며 제어 감소가 30% 증가합니다.",
+      "category": "potion",
+      "rarity": "rare"
+    },
+    {
+      "id": "enhanced-vitalis-potion",
+      "iconName": "equip_medicine_3_2",
+      "name": "강화 비탈리스 물약",
+      "description": "9초 동안 이동 제한(둔화, 속박)에 면역이 되고, 제어 저항이 143 증가하며 제어 감소가 45% 증가합니다.",
+      "category": "potion",
+      "rarity": "rare"
+    },
+    {
+      "id": "advanced-vitalis-potion",
+      "iconName": "equip_medicine_3_3",
+      "name": "상급 비  탈리스 물약",
+      "description": "9초 동안 이동 제한(둔화, 속박)에 면역이 되고, 제어 저항이 190 증가하며 제어 감소가 60% 증가합니다.",
+      "category": "potion",
+      "rarity": "rare"
+    },
+    {
+      "id": "titan-potion",
+      "iconName": "equip_medicine_5_1",
+      "name": "타이탄 물약",
+      "description": "크기가 커지고 강제 이동(넉백, 끌어당김)에 면역이 되며, 체력이 96% 증가하고 6초 동안 방어력과 마법 저항력이 각각 60 증가합니다.",
+      "category": "potion",
+      "rarity": "rare"
+    },  
+    {
+      "id": "enhanced-titan-potion",
+      "iconName": "equip_medicine_5_2", 
+      "name": "강화 타이탄 물약",
+      "description": "크기가 커지고 강제 이동(넉백, 끌어당김)에 면역이 되며, 체력이 159% 증가하고 6초 동안 방어력과 마법 저항력이 각각 96 증가합니다.",
+      "category": "potion",
+      "rarity": "rare"
+    },
+    {
+      "id": "advanced-titan-potion",
+      "iconName": "equip_medicine_5_3",
+      "name": "상급 타이탄 물약",
+      "description": "크기가 커지고 강제 이동(넉백, 끌어당김)에 면역이 되며, 체력이 211% 증가하고 6초 동안 방어력과 마법 저항력이 각각 124 증가합니다.",
+      "category": "potion",
+      "rarity": "rare"
+    },
+    {
+      "id": "rejuvenix-flask",
+      "name": "리주브닉스 플라스크",
+      "iconName": "equip_medicine_1_1",
+      "description": "9초 동안 매초 체력을 2.5% 회복합니다.",
+      "category": "potion",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "enhanced-rejuvenix-flask",
+      "name": "강화 리주브닉스 플라스크",
+      "iconName": "equip_medicine_1_1",
+      "description": "9초 동안 매초 체력을 3.2% 회복합니다.",
+      "category": "potion",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "advanced-rejuvenix-flask",
+      "name": "상급 리주브닉스 플라스크",
+      "iconName": "equip_medicine_1_1",
+      "description": "9초 동안 매초 체력을 4% 회복합니다.",
+      "category": "potion",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "psyche-infusion",
+      "name": "정신 주입",
+      "iconName": "equip_medicine_4_1",
+      "description": "9초 동안 매초 마나를 2.9% 회복하고, 스킬 재사용 속도가 30% 빨라집니다.",
+      "category": "potion",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "enhanced-psyche-infusion",
+      "name": "강화 정신 주입",
+      "iconName": "equip_medicine_4_2",
+      "description": "9초 동안 매초 마나를 4.8% 회복하고, 스킬 재사용 속도가 40% 빨라집니다.",
+      "category": "potion",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "advanced-psyche-infusion",
+      "name": "상급 정신 주입",
+      "iconName": "equip_medicine_4_3",
+      "description": "9초 동안 매초 마나를 6.4% 회복하고, 스킬 재사용 속도가 50% 빨라집니다.",
+      "category": "potion",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "enhanced-warding-potion",
+      "name": "강화 수호 물약",
+      "iconName": "equip_medicine_6_2",
+      "description": "즉시 모든 디버프와 지속 피해 효과를 해제하고 체력을 25% 회복하며, 6초 동안 디버프와 지속 피해 효과에 면역이 되고 받는 치유량이 150% 증가합니다.",
+      "category": "potion",
+      "rarity": "epic"
+    },
+    {
+      "id": "advanced-warding-potion",
+      "name": "상급 수호 물약",
+      "iconName": "equip_medicine_6_3",
+      "description": "즉시 모든 디버프와 지속 피해 효과를 해제하고 체력을 30% 회복하며, 6초 동안 디버프와 지속 피해 효과에 면역이 되고 받는 치유량이 200% 증가합니다.",
+      "category": "potion",
+      "rarity": "epic"
+    },
+    {
+      "id": "stealth-potion",
+      "name": "은신 물약",
+      "iconName": "icon_Stealth",
+      "description": "8초 동안 은신 상태가 됩니다.\n스킬 사용, 피해 주기/받기, 치유를 가할 경우 은신이 해제됩니다.",
+      "category": "potion",
+      "rarity": "rare"
+    },
+    {
+      "id": "mass-haste-matrix",
+      "name": "집단 가속 매트릭스",
+      "description": "최대 15명의 아군의 이동 속도를 60% 증가시키며, 효과는 9초 동안 지속됩니다.",
+      "category": "utility",
+      "rarity": "rare"
+    },
+    {
+      "id": "instant-aid-vial",
+      "name": "즉시 치유 바이알",
+      "description": "즉시 최대 체력의 16%와 추가로 1600의 체력을 회복합니다.",
+      "category": "healing",
+      "rarity": "rare"
+    },
+    {
+      "id": "aegis-draught",
+      "name": "아이기스 드래프트",
+      "description": "사용 시 지속 피해와 디버프 효과를 해제하고 면역 상태가 됩니다. 6초 동안 피해, 지속 피해, 디버프, 제어 효과에 면역이 되며, 주는 피해는 50% 감소합니다.",
+      "category": "protection",
+      "rarity": "legendary"
+    },
+    {
+      "id": "frost-potion",
+      "name": "강화 냉기 물약",
+      "iconName": "equip_medicine_iceblock_2",
+      "description": "사용 시 얼어붙어 행동할 수 없게 되지만, 대상 최대 체력의 150%에 해당하는 보호막을 6초 동안 얻습니다. 보호막이 유지되는 동안 매초 대상 최대 체력의 7%에 해당하는 체력을 회복합니다. 스킬이 봉인된 상태에서도 사용할 수 있습니다.",
+      "category": "protection",
+      "rarity": "epic"
+    },
+    {
+      "id": "frost-potion",
+      "name": "강화 냉기 물약",
+      "iconName": "equip_medicine_iceblock_2",
+      "description": "사용 시 얼어붙어 행동할 수 없게 되지만, 대상 최대 체력의 200%에 해당하는 보호막을 6초 동안 얻습니다. 보호막이 유지되는 동안 매초 대상 최대 체력의 8%에 해당하는 체력을 회복합니다. 스킬이 봉인된 상태에서도 사용할 수 있습니다.",
+      "category": "protection",
+      "rarity": "epic"
+    }
+  ]
+}

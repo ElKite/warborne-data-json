@@ -1,0 +1,548 @@
+{
+  "lastUpdate": "June 6, 2025 6 AM",
+  "mods": [
+    {
+      "name": "전진",
+      "iconName": "WeaponRare1",
+      "rarity": "rare",
+      "slot": "all",
+      "description": "기본 공격 피해가 %s1% 증가합니다.",
+      "arguments": [
+        {
+          "argumentName": "s1",
+          "argumentRange": "[0.3%~3%]"
+        }
+      ]
+    },
+    {
+      "name": "전술",
+      "iconName": "WeaponRare2",
+      "rarity": "rare",
+      "slot": "all",
+      "description": "스킬 효과가 %s1% 증가합니다.",
+      "arguments": [
+        {
+          "argumentName": "s1",
+          "argumentRange": "[0.6%~3%]"
+        }
+      ]
+    },
+    {
+      "name": "방어구 파괴자",
+      "iconName": "WeaponEpic1",
+      "rarity": "epic",
+      "slot": "all",
+      "description": "무기 스킬이 직접 물리 피해를 입힐 때, %s1% 확률로 대상의 방어력을 %s2% 변경합니다. (지속: 6초, 발동 간격: 30초)",
+      "arguments": [
+        {
+          "argumentName": "s1",
+          "argumentRange": "[8%~40%]"
+        },
+        {
+          "argumentName": "s2",
+          "argumentRange": "[-4%~-20%]"
+        }
+      ]
+    },
+    {
+      "name": "강화",
+      "iconName": "WeaponEpic2",
+      "rarity": "epic",
+      "slot": "all",
+      "description": "기본 공격이 직접 피해를 입힐 때, (근접 무기 %s1% / 원거리 무기 %s2%) 확률로 [대상 기반 최대 HP %s3%]의 보호막을 얻습니다. (지속: 4초, 발동 간격: 30초)",
+      "arguments": [
+        {
+          "argumentName": "s1",
+          "argumentRange": "[8%~40%]"
+        },
+        {
+          "argumentName": "s2",
+          "argumentRange": "[4%~20%]"
+        },
+        {
+          "argumentName": "s3",
+          "argumentRange": "[3%~15%]"
+        }
+      ]
+    },
+    {
+      "name": "지배",
+      "iconName": "WeaponEpic3",
+      "rarity": "epic",
+      "slot": "all",
+      "description": "무기 스킬이나 기본 공격으로 강력한 군중 제어 효과(기절, 공포, 빙결, 띄우기, 석화)에 걸린 적에게 직접 피해를 줄 때, %s1% 확률로 적의 피해 저항을 %s2% 감소시킵니다. (지속: 4초, 재사용 대기시간: 30초)",
+      "arguments": [
+        {
+          "argumentName": "s1",
+          "argumentRange": "[17%~35%]"
+        },
+        {
+          "argumentName": "s2",
+          "argumentRange": "[-3%~-15%]"
+        }
+      ]
+    },
+    {
+      "name": "우위",
+      "iconName": "WeaponEpic4",
+      "rarity": "epic",
+      "slot": "all",
+      "description": "기본 공격으로 직접 피해를 줄 때, %s1% 확률로 기본 공격 피해가 %s2% 증가합니다. (지속: 4초, 발동 간격: 30초)",
+      "arguments": [
+        {
+          "argumentName": "s1",
+          "argumentRange": "[17%~35%]"
+        },
+        {
+          "argumentName": "s2",
+          "argumentRange": "[7%~35%]"
+        }
+      ]
+    },
+    {
+      "name": "추격",
+      "iconName": "WeaponEpic5",
+      "rarity": "epic",
+      "slot": "all",
+      "description": "기본 공격으로 직접 피해를 줄 때, (근접 무기 %s1% / 원거리 무기 %s2%) 확률로 대상의 이동 속도를 %s3% 변경합니다. (지속: 4초, 발동 간격: 10초)",
+      "arguments": [
+        {
+          "argumentName": "s1",
+          "argumentRange": "[15%~30%]"
+        },
+        {
+          "argumentName": "s2",
+          "argumentRange": "[7.5%~15%]"
+        },
+        {
+          "argumentName": "s3",
+          "argumentRange": "[-7%~-35%]"
+        }
+      ]
+    },
+    {
+      "name": "유린",
+      "iconName": "WeaponEpic6",
+      "rarity": "epic",
+      "slot": "all",
+      "description": "치명타가 발생했을 때, %s1% 확률로 대상의 피해 저항을 %s2% 변경합니다. (지속: 4초, 발동 간격: 30초)",
+      "arguments": [
+        {
+          "argumentName": "s1",
+          "argumentRange": "[8%~40%]"
+        },
+        {
+          "argumentName": "s2",
+          "argumentRange": "[-2%~-10%]"
+        }
+      ]
+    },
+    {
+      "name": "마법 파쇄",
+      "iconName": "WeaponEpic7",
+      "rarity": "epic",
+      "slot": "all",
+      "description": "무기 스킬이 직접 마법 피해를 입힐 때, %s1% 확률로 대상의 마법 저항을 %s2% 변경합니다. (지속: 6초, 발동 간격: 30초)",
+      "arguments": [
+        {
+          "argumentName": "s1",
+          "argumentRange": "[8%~40%]"
+        },
+        {
+          "argumentName": "s2",
+          "argumentRange": "[-4%~-20%]"
+        }
+      ]
+    },
+    {
+      "name": "충전",
+      "iconName": "WeaponEpic8",
+      "rarity": "epic",
+      "slot": "all",
+      "description": "무기 스킬로 직접 피해를 입힐 때, %s1% 확률로 MP를 %s2% 회복합니다. (발동 간격: 8초)",
+      "arguments": [
+        {
+          "argumentName": "s1",
+          "argumentRange": "[10%~50%]"
+        },
+        {
+          "argumentName": "s2",
+          "argumentRange": "[10~50]"
+        }
+      ]
+    },
+    {
+      "name": "신속",
+      "iconName": "WeaponEpic9",
+      "rarity": "epic",
+      "slot": "all",
+      "description": "무기 스킬을 사용할 때, %s1% 확률로 재사용 속도가 %s2% 증가합니다. (지속: 4초, 발동 간격: 30초)",
+      "arguments": [
+        {
+          "argumentName": "s1",
+          "argumentRange": "[20%~40%]"
+        },
+        {
+          "argumentName": "s2",
+          "argumentRange": "[5%~25%]"
+        }
+      ]
+    },
+    {
+      "name": "민첩",
+      "iconName": "WeaponEpic10",
+      "rarity": "epic",
+      "slot": "all",
+      "description": "기본 공격 치명타 발생 시, %s1% 확률로 회피가 %s2% 증가합니다. (지속: 4초, 재사용 대기시간: 30초)",
+      "arguments": [
+        {
+          "argumentName": "s1",
+          "argumentRange": "[8%~40%]"
+        },
+        {
+          "argumentName": "s2",
+          "argumentRange": "[3%~15%]"
+        }
+      ]
+    },
+    {
+      "name": "꿰뚫는 한기",
+      "iconName": "WeaponEpic11",
+      "rarity": "epic",
+      "slot": "all",
+      "description": "무기 스킬로 강력한 군중 제어 효과(기절, 공포, 빙결, 띄우기, 석화, 수면)를 적에게 적용할 때, %s1% 확률로 적의 회복 효과를 %s2% 감소시킵니다. (지속: 4초, 재사용 대기시간: 30초)",
+      "arguments": [
+        {
+          "argumentName": "s1",
+          "argumentRange": "[9%~45%]"
+        },
+        {
+          "argumentName": "s2",
+          "argumentRange": "[-4%~-20%]"
+        }
+      ]
+    },
+    {
+      "name": "흡수",
+      "iconName": "WeaponEpic12",
+      "rarity": "epic",
+      "slot": "all",
+      "description": "무기의 기본 공격이나 스킬로 지속 피해(DOT)를 가할 때, %s1% 확률로 HP를 %s2% 회복합니다. (재사용 대기시간: 20초)",
+      "arguments": [
+        {
+          "argumentName": "s1",
+          "argumentRange": "[8%~40%]"
+        },
+        {
+          "argumentName": "s2",
+          "argumentRange": "[2%~10%]"
+        }
+      ]
+    },
+    {
+      "name": "용맹",
+      "iconName": "WeaponExclusiveLgdr1",
+      "rarity": "legendary",
+      "slot": "sword",
+      "description": "대검에만 발동합니다.\n무기 스킬 또는 기본 공격으로 직접 피해를 입힐 때, %s1% 확률로 [검의 기세] 중첩을 1 얻고, 4초 동안 피해 저항이 %s2% 증가합니다.\n발동 간격: 15초.\n[검의 기세]:\n피해 증가: +3% (중첩당 +3%)\n피해 저항: +4% (중첩당 +4%)\n공격 속도: +4% (중첩당 +4%)",
+      "arguments": [
+        {
+          "argumentName": "s1",
+          "argumentRange": "[15%~30%]"
+        },
+        {
+          "argumentName": "s2",
+          "argumentRange": "[3%~15%]"
+        }
+      ]
+    },
+    {
+      "name": "와해",
+      "iconName": "WeaponExclusiveLgdr2",
+      "rarity": "legendary",
+      "slot": "mace",
+      "description": "철퇴에만 발동합니다.\n무기 스킬 또는 기본 공격으로 직접 피해를 입힐 때, 35% 확률로 시전자 주변에 와해 장을 생성합니다. 범위 내 적은 피해가 %s1% 감소하고, 공격 속도가 %s2% 감소합니다. (지속: 4초, 재사용 대기시간: 20초)",
+      "arguments": [
+        {
+          "argumentName": "s1",
+          "argumentRange": "[-6%~-30%]"
+        },
+        {
+          "argumentName": "s2",
+          "argumentRange": "[-20%~-40%]"
+        }
+      ]
+    },
+    {
+      "name": "기회 포착",
+      "iconName": "WeaponExclusiveLgdr3",
+      "rarity": "legendary",
+      "slot": "axe",
+      "description": "도끼에만 발동합니다.\n[피의 갈망] 버프를 획득할 때, %s3% 확률로 6초 동안 공격 속도가 %s2% 증가하고 피해가 %s1% 증가합니다.\n발동 간격: 20초.",
+      "arguments": [
+        {
+          "argumentName": "s1",
+          "argumentRange": "[2%~10%]"
+        },
+        {
+          "argumentName": "s2",
+          "argumentRange": "[8%~40%]"
+        },
+        {
+          "argumentName": "s3",
+          "argumentRange": "[8%~40%]"
+        }
+      ]
+    },
+    {
+      "name": "폭발",
+      "iconName": "WeaponExclusiveLgdr4",
+      "rarity": "legendary",
+      "slot": "bow",
+      "description": "활에만 발동합니다.\n화살이 직접 피해를 입힐 때, %s1% 확률로 대상 위치에서 폭발을 일으켜 [피해량 비율: %s2%] 물리 피해를 주고 [대상 표식]을 적용하며, 1.5초 동안 기절시킵니다.\n발동 간격: 20초.",
+      "arguments": [
+        {
+          "argumentName": "s1",
+          "argumentRange": "[15%~30%]"
+        },
+        {
+          "argumentName": "s2",
+          "argumentRange": "[20%~100%]"
+        }
+      ]
+    },
+    {
+      "name": "시너지",
+      "iconName": "WeaponExclusiveLgdr5",
+      "rarity": "legendary",
+      "slot": "spear",
+      "description": "창에만 발동합니다.\n치명타 발생 시, %s1% 확률로 6초 동안 공격 속도가 %s2% 증가합니다.\n재사용 대기시간: 20초",
+      "arguments": [
+        {
+          "argumentName": "s1",
+          "argumentRange": "[17%~35%]"
+        },
+        {
+          "argumentName": "s2",
+          "argumentRange": "[6%~30%]"
+        }
+      ]
+    },
+    {
+      "name": "말살",
+      "iconName": "WeaponExclusiveLgdr6",
+      "rarity": "legendary",
+      "slot": "dagger",
+      "description": "단검에만 발동합니다.\n체력이 40% 이하인 적에게 기본 공격 시, %s1% 확률로 추가 [피해량 비율: %s2%] 물리 피해를 입히고 [출혈] 2중첩을 부여합니다.\n발동 간격: 15초.\n[출혈]: 매초 [피해량 비율: 30%] 물리 피해를 8초 동안 가하며 최대 6중첩 가능합니다. 최대 중첩 시 [출혈]이 사라지고 [피해량 비율: 100%] 물리 피해를 즉시 입힙니다.",
+      "arguments": [
+        {
+          "argumentName": "s1",
+          "argumentRange": "[15%~30%]"
+        },
+        {
+          "argumentName": "s2",
+          "argumentRange": "[20%~100%]"
+        }
+      ]
+    },
+    {
+      "name": "야생의 성장",
+      "iconName": "WeaponExclusiveLgdr7",
+      "rarity": "legendary",
+      "slot": "nature",
+      "description": "개화 지팡이에만 발동합니다.\n무기 스킬 또는 기본 공격으로 아군을 직접 회복시킬 때, [회복] 중첩 × %s1% 확률로 [대상 기반 최대 HP %s2%]의 보호막을 4초간 부여합니다.\n발동 간격: 15초.\n[회복]: 매초 [치유량 비율: 12%] HP를 12초 동안 회복하며 최대 3중첩까지 가능.\n발동 간격: 20초.",
+      "arguments": [
+        {
+          "argumentName": "s1",
+          "argumentRange": "[7.5%~15%]"
+        },
+        {
+          "argumentName": "s2",
+          "argumentRange": "[3%~15%]"
+        }
+      ]
+    },
+    {
+      "name": "빙결 폭발",
+      "iconName": "WeaponExclusiveLgdr8",
+      "rarity": "legendary",
+      "slot": "ice",
+      "description": "얼음 보주에만 발동합니다.\n무기 스킬 또는 기본 공격으로 직접 피해를 입힐 때, %s1% 확률로 대상 위치에서 빙결 폭발을 일으켜 [피해량 비율: %s2%] 마법 피해를 주고 반경 4m 내 모든 적에게 [빙결]을 적용합니다.\n발동 간격: 20초.\n[빙결]: 이동 속도가 4초 동안 -40% 감소하며, 시간이 지남에 따라 점차 완화됩니다.",
+      "arguments": [
+        {
+          "argumentName": "s1",
+          "argumentRange": "[15%~30%]"
+        },
+        {
+          "argumentName": "s2",
+          "argumentRange": "[12%~60%]"
+        }
+      ]
+    },
+    {
+      "name": "화염 폭발",
+      "iconName": "WeaponExclusiveLgdr9",
+      "rarity": "legendary",
+      "slot": "fire",
+      "description": "화포에만 발동합니다.\n무기 스킬 또는 기본 공격으로 직접 피해를 입힐 때, %s1% 확률로 대상 위치에서 화염 폭발을 일으켜 [피해량 비율: %s2%] 마법 피해를 주고 [화상] 2중첩을 부여합니다.\n발동 간격: 15초.\n[화상]: 매초 [피해량 비율: 25%] 마법 피해를 8초 동안 주며, 최대 6중첩까지 가능합니다. 6중첩 시 효과가 사라지고 반경 4m 내 적에게 [피해량 비율: 80%] 마법 피해를 추가로 입힙니다.",
+      "arguments": [
+        {
+          "argumentName": "s1",
+          "argumentRange": "[12%~30%]"
+        },
+        {
+          "argumentName": "s2",
+          "argumentRange": "[26%~130%]"
+        }
+      ]
+    },
+    {
+      "name": "축복",
+      "iconName": "WeaponExclusiveLgdr10",
+      "rarity": "legendary",
+      "slot": "holy",
+      "description": "광휘 지팡이에만 발동합니다.\n무기 스킬 또는 기본 공격으로 아군을 직접 치유할 때, %s1% 확률로 대상의 피해 저항이 %s2% 증가합니다. (지속: 5초, 발동 간격: 15초)",
+      "arguments": [
+        {
+          "argumentName": "s1",
+          "argumentRange": "[15%~30%]"
+        },
+        {
+          "argumentName": "s2",
+          "argumentRange": "[5%~25%]"
+        }
+      ]
+    },
+    {
+      "name": "저주",
+      "iconName": "WeaponExclusiveLgdr11",
+      "rarity": "legendary",
+      "slot": "curse",
+      "description": "공허 지팡이에만 발동합니다.\n무기 스킬 또는 기본 공격으로 적에게 지속 피해(DoT)를 입힐 때, %s1% 확률로 [역병] 2중첩을 부여합니다.\n발동 간격: %s2%s.\n[역병]: 3초마다 [피해량 비율: 20%] 마법 피해를 13초 동안 입히며, 최대 10중첩까지 가능합니다.",
+      "arguments": [
+        {
+          "argumentName": "s1",
+          "argumentRange": "[12%~60%]"
+        },
+        {
+          "argumentName": "s2",
+          "argumentRange": "[30~12]"
+        }
+      ]
+    },
+    {
+      "name": "개조",
+      "iconName": "WeaponExclusiveLgdr12",
+      "rarity": "legendary",
+      "slot": "gun",
+      "description": "무기 스킬 또는 기본 공격으로 직접 피해를 입힐 때, %s1% 확률로 탄환 2발을 회복하고 6초 동안 기본 공격 피해가 %s2% 증가합니다.\n발동 간격: 15초.",
+      "arguments": [
+        {
+          "argumentName": "s1",
+          "argumentRange": "[15%~30%]"
+        },
+        {
+          "argumentName": "s2",
+          "argumentRange": "[7%~35%]"
+        }
+      ]
+    },
+    {
+      "name": "대지진",
+      "iconName": "WeaponLgdr1",
+      "rarity": "legendary",
+      "slot": "all",
+      "description": "무기 스킬로 강력한 제어 효과(기절, 공포, 빙결, 넉업, 석화) 또는 끌어당김 효과를 가할 때, %s1% 확률로 대상 위치에 지진을 발생시킵니다. 1.5초 후 [피해량 비율: %s2%] 물리 피해를 주고 %s3초 동안 기절시킵니다.\n재사용 대기시간: 30초.",
+      "arguments": [
+        {
+          "argumentName": "s1",
+          "argumentRange": "[22%~45%]"
+        },
+        {
+          "argumentName": "s2",
+          "argumentRange": "[16%~80%]"
+        },
+        {
+          "argumentName": "s3",
+          "argumentRange": "[0.3~1.5]"
+        }
+      ]
+    },
+    {
+      "name": "찢어발기기",
+      "iconName": "WeaponLgdr2",
+      "rarity": "legendary",
+      "slot": "all",
+      "description": "기본 공격으로 직접 피해를 입힐 때, %s1% 확률로 추가 [피해량 비율: %s2%] 물리 피해를 가하고, 대상의 이동 속도를 %s3% 감소시킵니다. (지속: 2초)\n발동 간격: 20초.",
+      "arguments": [
+        {
+          "argumentName": "s1",
+          "argumentRange": "[12%~60%]"
+        },
+        {
+          "argumentName": "s2",
+          "argumentRange": "[20%~100%]"
+        },
+        {
+          "argumentName": "s3",
+          "argumentRange": "[-10%~-50%]"
+        }
+      ]
+    },
+    {
+      "name": "응보",
+      "iconName": "WeaponLgdr3",
+      "rarity": "legendary",
+      "slot": "all",
+      "description": "무기 스킬이 직접 피해를 입힐 때, %s1% 확률로 대상 위치에서 폭발을 일으켜 [피해량 비율: %s2%] 마법 피해를 주고, 자신의 피해 저항이 6초 동안 %s3% 증가합니다.\n발동 간격: 30초.",
+      "arguments": [
+        {
+          "argumentName": "s1",
+          "argumentRange": "[15%~30%]"
+        },
+        {
+          "argumentName": "s2",
+          "argumentRange": "[10%~50%]"
+        },
+        {
+          "argumentName": "s3",
+          "argumentRange": "[-2%~-10%]"
+        }
+      ]
+    },
+    {
+      "name": "피의 원한",
+      "iconName": "WeaponLgdr4",
+      "rarity": "legendary",
+      "slot": "all",
+      "description": "무기 기본 공격 또는 스킬로 직접 피해를 입힐 때, %s1% 확률로 잃은 체력 10%마다 %s2% 피해 증가 버프 1중첩을 얻습니다. 버프는 4초 동안 지속되며 최대 5중첩 가능합니다.\n재사용 대기시간: 30초.",
+      "arguments": [
+        {
+          "argumentName": "s1",
+          "argumentRange": "[8%~40%]"
+        },
+        {
+          "argumentName": "s2",
+          "argumentRange": "[0.6%~3%]"
+        }
+      ]
+    },
+    {
+      "name": "섀도우스텝",
+      "iconName": "WeaponLgdr5",
+      "rarity": "legendary",
+      "slot": "all",
+      "description": "무기 스킬 사용 시, %s1% 확률로 무기 전용 스킬의 재사용 대기시간을 %s2초 감소시킵니다.\n재사용 대기시간: 30초.",
+      "arguments": [
+        {
+          "argumentName": "s1",
+          "argumentRange": "[9%~45%]"
+        },
+        {
+          "argumentName": "s2",
+          "argumentRange": "[0.4%~2%]"
+        }
+      ]
+    }
+  ]
+}

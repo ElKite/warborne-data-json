@@ -1,0 +1,75 @@
+{
+  "lastUpdate": "June 6, 2025 6 AM",
+  "recipe": [
+    {
+      "id": "strength-potion-recipe",
+      "name": "힘의 물약 제작법",
+      "description": "힘이 증가하지만 민첩과 지능이 감소합니다",
+      "category": "recipe",
+      "rarity": "common"
+    },
+    {
+      "id": "agility-potion-recipe",
+      "name": "민첩의 물약 제작법",
+      "description": "민첩이 증가하지만 힘이 감소합니다",
+      "category": "recipe",
+      "rarity": "common"
+    },
+    {
+      "id": "intelligence-potion-recipe",
+      "name": "지능의 물약 제작법",
+      "description": "지능이 증가하지만 힘이 감소합니다",
+      "category": "recipe",
+      "rarity": "common"
+    },
+    {
+      "id": "gathering-potion-recipe",
+      "name": "채집의 물약 제작법",
+      "description": "채집, 채집 속도 및 무게 한도가 증가합니다",
+      "category": "recipe",
+      "rarity": "common"
+    },
+    {
+      "id": "lethal-potion-recipe",
+      "name": "치명타의 물약 제작법",
+      "description": "기본 공격 치명타가 증가하지만 스킬 보너스가 감소합니다",
+      "category": "recipe",
+      "rarity": "common"
+    },
+    {
+      "id": "regeneration-potion-recipe",
+      "name": "재생의 물약 제작법",
+      "description": "최대 HP와 HP 회복이 증가합니다",
+      "category": "recipe",
+      "rarity": "common"
+    },
+    {
+      "id": "ironskin-potion-recipe",
+      "name": "강철 피부의 물약 제작법",
+      "description": "저항과 방어가 증가하지만 피해와 치유가 감소합니다",
+      "category": "recipe",
+      "rarity": "common"
+    },
+    {
+      "id": "cooldown-potion-recipe",
+      "name": "재사용 대기시간 단축 물약 제작법",
+      "description": "재사용 대기시간이 빨라지지만 피해와 치유가 감소합니다",
+      "category": "recipe",
+      "rarity": "common"
+    },
+    {
+      "id": "lifesteal-potion-recipe",
+      "name": "생명 흡수의 물약 제작법",
+      "description": "기본 공격 생명 흡수가 증가하지만 최대 HP가 감소합니다",
+      "category": "recipe",
+      "rarity": "common"
+    },
+    {
+      "id": "burst-potion-recipe",
+      "name": "폭발의 물약 제작법",
+      "description": "스킬 보너스와 재사용 대기시간이 증가합니다",
+      "category": "recipe",
+      "rarity": "common"
+    }
+  ]
+}

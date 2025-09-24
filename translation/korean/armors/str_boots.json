@@ -1,0 +1,124 @@
+{
+  "lastUpdate": "2025년 6월 6일 오전 6시",
+  "boots_strength": [
+    {
+      "gameId": "Shoes_Str_4",
+      "gearIcon": "SpecImage_BOOTS4",
+      "gearName": "활력 부츠",
+      "skillName": "활력",
+      "manaCost": "",
+      "cooldown": "27",
+      "castingRange": "6",
+      "type": "skill",
+      "description": "이동 속도가 50% 증가하고 매초 [회복 비율: 24%] HP를 5초 동안 회복합니다.",
+      "tierUnlock": "1",
+      "rarity": "rare",
+      "stats": {
+        "hp": "675",
+        "dmgBonus": "9.6%"
+      }
+    },
+    {
+      "gameId": "Shoes_Str_5",
+      "gearIcon": "SpecImage_BOOTS5",
+      "gearName": "분노걸음",
+      "skillName": "복수",
+      "manaCost": "",
+      "cooldown": "27",
+      "castingRange": "6",
+      "type": "skill",
+      "description": "HP가 10% 잃을 때마다 이동 속도 17% 증가와 피해량 4.5% 증가 효과를 1중첩 획득합니다. 지속시간 5초, 최대 7중첩까지 가능합니다.",
+      "tierUnlock": "1",
+      "rarity": "epic",
+      "stats": {
+        "hp": "714",
+        "dmgBonus": "9.8%"
+      }
+    },
+    {
+      "gameId": "Shoes_Str_2",
+      "gearIcon": "SpecImage_BOOTS1",
+      "gearName": "방벽 발걸음",
+      "skillName": "수호자",
+      "manaCost": "",
+      "cooldown": "27",
+      "castingRange": "10",
+      "type": "skill",
+      "description": "대상 위치로 도약합니다. 착지 시 주변 아군에게 [대상 최대 HP 22%] 보호막을 6초 동안 부여합니다.",
+      "tierUnlock": "1",
+      "rarity": "epic",
+      "stats": {
+        "hp": "714",
+        "dmgBonus": "9.8%"
+      }
+    },
+    {
+      "gameId": "Shoes_Str_1",
+      "gearIcon": "SpecImage_BOOTS2",
+      "gearName": "타이탄 워커",
+      "skillName": "거인의 성장",
+      "manaCost": "",
+      "cooldown": "41",
+      "castingRange": "6",
+      "type": "skill",
+      "description": "이동 속도 30%, 최대 HP 및 현재 HP 80% 증가, 강제 이동(끌어당김, 넉백)에 면역 효과를 6초 동안 얻습니다.",
+      "tierUnlock": "1",
+      "rarity": "epic",
+      "stats": {
+        "hp": "714",
+        "dmgBonus": "9.8%"
+      }
+    },
+    {
+      "gameId": "Shoes_Str_6",
+      "gearIcon": "SpecImage_BOOTS6",
+      "gearName": "선봉의 행진",
+      "skillName": "선봉대",
+      "manaCost": "",
+      "cooldown": "27",
+      "castingRange": "6",
+      "type": "skill",
+      "description": "둔화 및 속박 효과를 제거합니다. 4초 동안 이동 속도 80% 증가 및 둔화, 속박 면역을 얻습니다.",
+      "tierUnlock": "1",
+      "rarity": "epic",
+      "stats": {
+        "hp": "714",
+        "dmgBonus": "9.8%"
+      }
+    },
+    {
+      "gameId": "Shoes_Str_3",
+      "gearIcon": "SpecImage_BOOTS3",
+      "gearName": "충격 헤비 부츠",
+      "skillName": "돌진",
+      "manaCost": "",
+      "cooldown": "37",
+      "castingRange": "14",
+      "type": "skill",
+      "description": "앞으로 돌진하며 경로상의 적에게 5회 [피해 비율: 50%] 물리 피해를 주고 매번 4m 밀쳐냅니다. 지형에 부딪힌 적은 2초간 기절합니다. 돌진 중 제어 효과에 면역이 되며 피해 저항 +80%를 얻습니다.",
+      "tierUnlock": "1",
+      "rarity": "legendary",
+      "stats": {
+        "hp": "755",
+        "dmgBonus": "9.9%"
+      }
+    },
+    {
+      "gameId": "Shoes_Str_7",
+      "gearIcon": "SpecImage_BOOTS7",
+      "gearName": "눈사태 부츠",
+      "skillName": "산악 충돌",
+      "manaCost": "",
+      "cooldown": "27",
+      "castingRange": "9",
+      "type": "skill",
+      "description": "대상 위치로 도약해 [피해 비율: 150%] 물리 피해를 주고 착지 시 적을 1초간 공중에 띄웁니다. 이후 방향을 조정하여 다시 도약, [피해 비율: 150%] 물리 피해와 1초간 공중 띄우기를 가합니다. 스킬 지속시간 동안 제어 효과에 면역이 되며 피해 저항 +80%를 얻습니다.",
+      "tierUnlock": "1",
+      "rarity": "legendary",
+      "stats": {
+        "hp": "755",
+        "dmgBonus": "9.9%"
+      }
+    }
+  ]
+}

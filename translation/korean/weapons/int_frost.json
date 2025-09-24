@@ -1,0 +1,234 @@
+{
+  "lastUpdate": "2025년 6월 6일 오전 6시",
+  "passive": {
+    "gameId": "IceStaff_Passive",
+    "skillName": "빙결 보호막",
+    "manaCost": "",
+    "cooldown": "",
+    "castingRange": "",
+    "type": "passive",
+    "description": "10초 동안 피해를 받지 않으면 대상 최대 HP의 15%에 해당하는 보호막을 얻습니다. 기본 공격 피해를 받으면 공격자에게 [서리]를 부여합니다. [서리]: 공격 속도와 이동 속도를 4초 동안 30% 감소시킵니다."
+  },
+  "basicAttacks": [
+    {
+      "gameId": "IceStaffAttack_1",
+      "skillName": "얼음 폭발",
+      "manaCost": "4",
+      "cooldown": "0.46",
+      "castingRange": "16",
+      "type": "basic",
+      "description": "[기본 공격]: [피해 비율: 90%] 마법 피해를 줍니다.\n[얼음 폭발]은 5초마다 사용할 수 있습니다.\n대상에게 [피해 비율: 150%] 마법 피해를 주고 1.5초 동안 속박합니다.",
+      "tierUnlock": "2"
+    },
+    {
+      "gameId": "IceStaffAttack_3",
+      "skillName": "서리 구역",
+      "manaCost": "",
+      "cooldown": "2.7",
+      "castingRange": "16",
+      "type": "basic",
+      "description": "[기본 공격]이 [서리 구역]으로 교체됩니다.\n대상 방향에 깊은 서리 지대를 생성하여 범위 내 적에게 [피해 비율: 130%] 마법 피해를 주고 4초 동안 이동 속도를 25% 감소시킵니다.",
+      "tierUnlock": "4"
+    },
+    {
+      "gameId": "IceStaffAttack_2",
+      "skillName": "서리 파편",
+      "manaCost": "",
+      "cooldown": "1.3",
+      "castingRange": "16",
+      "type": "basic",
+      "description": "[기본 공격]이 [서리 파편]으로 교체됩니다.\n지연 후 대상 방향으로 서리 파편 3개를 발사하여 각각 [피해 비율: 110%] 마법 피해를 줍니다.\n첫 번째 이후 파편의 피해는 25% 감소합니다.",
+      "tierUnlock": "6"
+    }
+  ],
+  "commonSkills": [
+    {
+      "gameId": "IceStaff_Common_Skill_3",
+      "skillName": "서리 광선",
+      "manaCost": "18",
+      "cooldown": "11",
+      "castingRange": "16",
+      "type": "common",
+      "description": "3초간 채널링하여 대상 방향으로 서리 광선을 발사합니다.\n적중 시 플레이어에게 0.5초마다 [피해 비율: 60%] 마법 피해 (몹에게는 [피해 비율: 120%])를 주고 3초간 [서리 광선 둔화]를 부여합니다. 최대 5중첩 가능합니다.\n[서리 광선 둔화]: 이동 속도 -8% (중첩 가능)",
+      "tierUnlock": "1"
+    },
+    {
+      "gameId": "IceStaff_Common_Skill_4",
+      "skillName": "수정 서리",
+      "manaCost": "23",
+      "cooldown": "18",
+      "castingRange": "16",
+      "type": "common",
+      "description": "대상 방향으로 수정 서리를 발사합니다.\n첫 번째 적에게 적중 시 폭발하여 [피해 비율: 250%] 마법 피해를 주고, 범위 내 적을 2초 동안 속박합니다.",
+      "tierUnlock": "3"
+    },
+    {
+      "gameId": "IceStaff_Common_Skill_2",
+      "skillName": "서리 점멸",
+      "manaCost": "18",
+      "cooldown": "11",
+      "castingRange": "10",
+      "type": "common",
+      "description": "주변 적에게 [피해 비율: 200%] 마법 피해를 주고 0.5초 동안 빙결시킨 후, 대상 방향으로 점멸합니다.",
+      "tierUnlock": "5"
+    },
+    {
+      "gameId": "IceStaff_Common_Skill_5",
+      "skillName": "서리 벽",
+      "manaCost": "23",
+      "cooldown": "18",
+      "castingRange": "6",
+      "type": "common",
+      "description": "시전자 앞에 8초 동안 지속되는 서리 벽을 생성합니다.\n벽 안의 적은 이동 속도가 70% 감소하며 매초 [피해 비율: 50%] 마법 피해를 받고 [한기] 중첩을 얻습니다. 최대 2중첩.\n[한기]: 최대 중첩 시 1.5초간 빙결되며 6초 동안 [한기]에 면역이 됩니다.",
+      "tierUnlock": "7"
+    },
+    {
+      "gameId": "IceStaff_Common_Skill_6",
+      "skillName": "서리 포효",
+      "manaCost": "23",
+      "cooldown": "18",
+      "castingRange": "9",
+      "type": "common",
+      "description": "대상 방향으로 서리 포효를 방출하여 [피해 비율: 150%] 마법 피해를 주고, 적을 14m 밀쳐내며 4초 동안 이동 속도와 공격 속도를 30% 감소시킵니다.",
+      "tierUnlock": "8"
+    }
+  ],
+  "skills": [
+    {
+      "gameId": "IceStaff_Frost",
+      "gearIcon": "SpecImage_FROST1",
+      "gearName": "얼음의 결정",
+      "skillName": "서리 폭류",
+      "manaCost": "23",
+      "cooldown": "18",
+      "castingRange": "11",
+      "type": "skill",
+      "description": "3초간 채널링하여 대상 방향으로 서리 바람을 방출합니다.\n플레이어에게 0.5초마다 [피해 비율: 100%] 마법 피해 (몹에게는 [피해 비율: 200%])를 주고 3초 동안 이동 속도를 30% 감소시킵니다.\n시전 중 천천히 이동할 수 있습니다.",
+      "tierUnlock": "2",
+      "rarity": "rare",
+      "stats": {
+        "attackPower": "148",
+        "as": "0.66"
+      }
+    },
+    {
+      "gameId": "IceStaff_Icicle",
+      "gearIcon": "SpecImage_FROST2",
+      "gearName": "전율의 뇌옥",
+      "skillName": "동상",
+      "manaCost": "25",
+      "cooldown": "23",
+      "castingRange": "12",
+      "type": "skill",
+      "description": "대상 위치에 5초간 지속되는 얼어붙은 소용돌이를 생성합니다.\n범위 내 적의 이동 속도를 60% 감소시키고 매초 [피해 비율: 90%] 마법 피해를 줍니다.",
+      "tierUnlock": "2",
+      "rarity": "epic",
+      "stats": {
+        "attackPower": "155",
+        "as": "0.66"
+      }
+    },
+    {
+      "gameId": "IceStaff_Chillhowl",
+      "gearIcon": "SpecImage_FROST4",
+      "gearName": "서리 파편 가면",
+      "skillName": "서리 메아리",
+      "manaCost": "23",
+      "cooldown": "18",
+      "castingRange": "14",
+      "type": "skill",
+      "description": "대상에게 얼음 투사체를 발사하여 [피해 비율: 160%] 마법 피해를 주고 30% 둔화 및 [한기]를 4초 동안 부여합니다.\n그 후 최대 9회 인근 대상에게 무작위로 튕깁니다. 주변에 적이 없으면 시전자에게 되돌아옵니다.\n자신에게 되돌아오면 대상 최대 HP의 10%에 해당하는 보호막을 4초간 얻습니다. 보호막이 지속되는 동안 기본 공격 피해를 받으면 공격자에게 [서리]를 부여합니다.\n[서리]: 공격 속도와 이동 속도를 4초 동안 30% 감소.\n[한기]: 3중첩 시 즉시 1.5초 동안 빙결 상태가 됩니다.",
+      "tierUnlock": "2",
+      "rarity": "epic",
+      "stats": {
+        "attackPower": "155",
+        "as": "0.66"
+      }
+    },
+    {
+      "gameId": "IceStaff_GreatFrost",
+      "gearIcon": "SpecImage_FROST5",
+      "gearName": "신성의 빙하",
+      "skillName": "서리 신성",
+      "manaCost": "13",
+      "cooldown": "1.5",
+      "castingRange": "14",
+      "type": "skill",
+      "description": "대상 위치에 15초간 지속되는 서리 신성을 설치합니다.\n적이 발동시키면 [피해 비율: 250%] 마법 피해를 주고 이동 속도를 35%, 치유 효과를 15% 감소시킵니다. (6초 지속)\n15초마다 1충전, 최대 3회 충전 가능합니다.",
+      "tierUnlock": "2",
+      "rarity": "epic",
+      "stats": {
+        "attackPower": "155",
+        "as": "0.66"
+      }
+    },
+    {
+      "gameId": "IceStaff_IcePhase",
+      "gearIcon": "SpecImage_FROST6",
+      "gearName": "얼어붙은 도관",
+      "skillName": "빙결 전환",
+      "manaCost": "27",
+      "cooldown": "27",
+      "castingRange": "20",
+      "type": "skill",
+      "description": "대상 방향으로 냉기의 구체를 발사하여 범위 내 적에게 1초마다 [피해 비율: 50%] 마법 피해를 주고 3초 동안 이동 속도를 30% 감소시킵니다.\n4초 안에 스킬을 다시 사용하면 현재 구체 위치로 점멸하며, [피해 비율: 250%] 마법 피해와 1.5초간 빙결 효과를 부여하고, 범위 내 아군에게 대상 최대 HP의 15% 보호막을 부여합니다.\n보호막 지속 중 기본 공격 피해를 받으면 공격자에게 [서리]를 부여합니다.\n[서리]: 공격 속도와 이동 속도를 4초 동안 30% 감소.\n점멸은 지형을 넘어 이동할 수 있으며, 도달할 수 없는 위치일 경우 인접한 도달 가능 지점으로 이동합니다.",
+      "tierUnlock": "2",
+      "rarity": "epic",
+      "stats": {
+        "attackPower": "155",
+        "as": "0.66"
+      }
+    },
+    {
+      "gameId": "IceStaff_IceSliver",
+      "gearIcon": "SpecImage_FROST8",
+      "gearName": "파쇄 얼음 조각",
+      "skillName": "얼음 파편",
+      "manaCost": "23",
+      "cooldown": "18",
+      "castingRange": "6",
+      "type": "skill",
+      "description": "모든 제어 효과를 해제하고 10초 동안 주위에 6개의 얼음 파편을 생성합니다.\n활성화 동안 시전 속도가 40% 증가하고 피해 저항이 25% 증가합니다.\n다른 무기 스킬로 피해를 줄 때마다 얼음 파편 1개가 발사되어 [피해 비율: 100%] 마법 피해를 주고 4초간 공격 속도를 10% 감소시킵니다. 최대 4중첩.",
+      "tierUnlock": "2",
+      "rarity": "epic",
+      "stats": {
+        "attackPower": "",
+        "as": ""
+      }
+    },
+    {
+      "gameId": "IceStaff_Permafrost",
+      "gearIcon": "SpecImage_FROST3",
+      "gearName": "얼음의 지배자",
+      "skillName": "얼음 폭발",
+      "manaCost": "24",
+      "cooldown": "20",
+      "castingRange": "14",
+      "type": "skill",
+      "description": "대상 위치에 0.7초 후 형성되는 서리 수정체를 생성하여 [피해 비율: 75%] 마법 피해와 1.5초 빙결 효과를 부여합니다.\n1초 후 수정체가 폭발하여 [피해 비율: 400%] 마법 피해를 주고 6초 동안 이동 속도와 공격 속도를 40% 감소시킵니다.",
+      "tierUnlock": "2",
+      "rarity": "legendary",
+      "stats": {
+        "attackPower": "163",
+        "as": "0.66"
+      }
+    },
+    {
+      "gameId": "IceStaff_IceAvatar",
+      "gearIcon": "SpecImage_FROST7",
+      "gearName": "서리의 부름",
+      "skillName": "서리의 부름",
+      "manaCost": "21",
+      "cooldown": "18",
+      "castingRange": "6",
+      "type": "skill",
+      "description": "자신에게 극한추위의 힘을 부여받아 20초 동안 감속과 정신효과에 면역이 되며, [서리검격]과 [서리이동] 스킬을 획득합니다.\n--[서리검격]--\n얼음 검을 전방으로 발사하여 [피해 비율: 120%] 마법 피해를 주고 [저체온] 1중첩과 4초간 이동 속도 30% 감소를 부여합니다.\n[저체온]이 6중첩되면 [심연의 서리] 상태에 들어갑니다.\n[심연의 서리]: 기본 공격 및 이동 불가 (1.5초 지속).\n--[서리이동]--\n제어효과를 즉시 제거하고 대상 방향으로 도약합니다.",
+      "tierUnlock": "2",
+      "rarity": "legendary",
+      "stats": {
+        "attackPower": "163",
+        "as": "0.66"
+      }
+    }
+  ]
+}
