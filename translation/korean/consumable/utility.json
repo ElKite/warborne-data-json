@@ -1,0 +1,267 @@
+{
+  "lastUpdate": "June 6, 2025 6 AM",
+  "utility": [
+    {
+      "id": "cleansing-herb",
+      "name": "정화초",
+      "iconName": "RecoverRatioHPAndDisperse",
+      "description": "모든 제어 효과를 즉시 해제하고 최대 체력의 35%를 회복합니다.\n스킬이 봉인된 상태에서도 사용할 수 있습니다.",
+      "category": "healing",
+      "rarity": "common"
+    },
+    {
+      "id": "battle-standard",
+      "name": "전투 깃발",
+      "description": "전투 깃발을 꽂아 아군을 고무하여, 반경 내 아군의 피해량과 방어력이 10% 증가하며 효과는 120초 동안 지속됩니다.",
+      "category": "support",
+      "rarity": "common"
+    },
+    {
+      "id": "slumberdart",
+      "name": "수면 화살",
+      "description": "대상을 20초 동안 잠재웁니다.",
+      "category": "crowd-control",
+      "rarity": "common"
+    },
+    {
+      "id": "mass-healing-elixir",
+      "name": "집단 치유 엘릭서",
+      "description": "사용 시 최대 15명의 아군에게 즉시 4000의 체력을 회복시킵니다.",
+      "category": "healing",
+      "rarity": "common"
+    },
+    {
+      "id": "mass-restoration-device",
+      "name": "집단 회복 장치",
+      "description": "최대 15명의 아군이 30초 동안 매초 체력의 3%를 회복합니다.\nPvP 피해를 받을 경우 회복이 중단됩니다.",
+      "category": "healing",
+      "rarity": "common"
+    },
+    {
+      "id": "mass-stealth-projector",
+      "name": "집단 은신 발생기",
+      "description": "주변 아군에게 20초 동안 은신을 부여합니다.\n스킬 사용, 피해 주기, 치유를 가하면 은신이 해제됩니다.",
+      "category": "utility",
+      "rarity": "common"
+    },
+    {
+      "id": "webspinner-launcher",
+      "name": "거미줄 발사기",
+      "description": "대상 위치로 투척하여 폭발 시 범위 내 적을 7초 동안 속박합니다. 이 효과는 저항할 수 없습니다.",
+      "category": "crowd-control",
+      "rarity": "common"
+    },
+    {
+      "id": "venom-sac",
+      "name": "맹독 주머니",
+      "description": "맹독 주머니를 떨어뜨려 10초 동안 범위 내 적의 속도를 제한하는 구역을 생성합니다.\n[이동 속도 상한 1.5m/s 적용; 이동 스킬 사용 불가]",
+      "category": "crowd-control",
+      "rarity": "common"
+    },
+    {
+      "id": "phoenix-matrix",
+      "name": "불사조 매트릭스",
+      "iconName": "RebornDevice",
+      "description": "쓰러진 아군이 즉시 스스로 부활할 수 있는 능력을 부여합니다.",
+      "category": "support",
+      "rarity": "rare"
+    },
+    {
+      "id": "instant-aid-vial-ex",
+      "name": "즉시 치유 바이알 EX",
+      "iconName": "RecoverRatioHP",
+      "description": "즉시 최대 체력의 20%와 추가로 2000의 체력을 회복합니다.",
+      "category": "healing",
+      "rarity": "enhanced"
+    },
+    {
+      "id": "instant-aid-vial-ultra",
+      "name": "즉시 치유 바이알 울트라",
+      "description": "즉시 최대 체력의 24%와 추가로 2400의 체력을 회복합니다.",
+      "category": "healing",
+      "rarity": "ultra"
+    },
+    {
+      "id": "aegis-draught-ex",
+      "name": "아이기스 드래프트 EX",
+      "description": "사용 시 모든 지속 피해와 디버프 효과를 해제하고 면역 상태가 됩니다. 6초 동안 피해, 지속 피해, 디버프, 제어에 면역이 되며, 주는 피해는 25% 감소합니다.",
+      "category": "protection",
+      "rarity": "enhanced"
+    },
+    {
+      "id": "aegis-draught-ultra",
+      "name": "아이기스 드래프트 울트라",
+      "description": "사용 시 모든 지속 피해와 디버프 효과를 해제하고 면역 상태가 됩니다. 6초 동안 피해, 지속 피해, 디버프, 제어에 면역이 됩니다.",
+      "category": "protection",
+      "rarity": "ultra"
+    },
+    {
+      "id": "heartbeat-detector",
+      "name": "심장 박동 탐지기",
+      "description": "10초마다 적 최대 10명을 탐지하여 90초 동안 미니맵에 표시합니다.",
+      "category": "detection",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "vanishing-powder",
+      "name": "은폐 가루",
+      "description": "반경 15m 내 아군 최대 15명을 위장시켜 비플레이어 유닛(몹, 방어 구조물 등)에게 탐지되지 않게 합니다. 공격을 시작하거나 적 플레이어에게 접근하면 효과가 해제됩니다.",
+      "category": "stealth",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "motion-dampening-field-kit",
+      "name": "감속 장치 키트",
+      "description": "적을 둔화시키는 감속 장치를 배치합니다. 다른 중장비 구조물과 배치 제한을 공유하며, 이는 워밴드 기술로 늘릴 수 있습니다.\n--[감속 장치]--\n범위 내 적의 이동 속도 상한을 1m/s로 설정합니다.",
+      "category": "structure-kit",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "lookout-tower-kit",
+      "name": "감시탑 키트",
+      "description": "적 플레이어를 공격하는 감시탑을 배치합니다. 다른 중장비 구조물과 배치 제한을 공유하며, 이는 워밴드 기술로 늘릴 수 있습니다.\n--[미사일 포격]--\n지정 위치(사거리: 10~40m)에 집중 미사일을 발사하며, 각 미사일은 최대 체력의 12%에 해당하는 물리 피해를 줍니다.",
+      "category": "structure-kit",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "healing-base-kit",
+      "name": "치유 기지 키트",
+      "description": "주기적으로 아군을 치유하고 받는 치유량을 증가시키는 치유 기지를 배치합니다. 다른 중장비 구조물과 배치 제한을 공유하며, 이는 워밴드 기술로 늘릴 수 있습니다.\n--[치유 기지: 받는 치유 증가]--\n범위 내 아군의 받는 치유량이 20% 증가합니다.\n--[현장 치유]--\n주기마다 체력이 가장 낮은 아군 3명을 선택해 체력의 20%를 회복시킵니다.",
+      "category": "structure-kit",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "heavy-blaster-turret-kit",
+      "name": "중형 블래스터 포탑 키트",
+      "description": "강력한 중형 블래스터 포탑을 배치합니다. 다른 중장비 구조물과 배치 제한을 공유하며, 이는 워밴드 기술로 늘릴 수 있습니다.\n--[중기관총 사격]--\n0.5초마다 MP 3을 소모해 방사능 탄환을 지정 방향으로 난사하며(사거리: 6~40m), 최대 체력의 10% 물리 피해를 주고 10% 확률로 방사능 잔류를 부여합니다.\n방사능 잔류: 30초 동안 받는 치유량이 35% 감소하며 최대 2번 중첩됩니다.\n--[충격파]--\n대상에게 충격파를 발사해 5초간 기절시키고, 잠시 후 폭발하여 범위 내 적의 MP를 500 감소시킵니다.",
+      "category": "structure-kit",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "heavy-railgun-turret-kit",
+      "name": "중형 레일건 포탑 키트",
+      "description": "강력한 공성 무기인 중형 레일건 포탑을 배치하며, 2명이 조작해야 합니다. 다른 중장비 구조물과 배치 제한을 공유하며, 이는 워밴드 기술로 늘릴 수 있습니다.\n--[테슬라 레일건]--\n사거리 200m의 방향으로 강력한 레일건을 발사해 플레이어에게 최대 체력의 30% 피해(몹에게는 5%)를 주고 6m 밀쳐내며, 10% 확률로 이온화를 부여합니다. 건물에는 [피해 비율: 100%] + 최대 내구도의 0.8%만큼의 공성 피해를 줍니다.\n이온화: 30초 동안 방어력과 마법 저항력이 100% 감소합니다.",
+      "category": "structure-kit",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "sabo-explosive",
+      "name": "사보 폭탄",
+      "description": "3분 후 폭발하는 사보 폭탄을 설치합니다. 일반 공격에는 면역이지만 다른 플레이어가 해체할 수 있습니다.\n--[사보 폭발]--\n반경 7m 내 플레이어에게 [피해 비율: 2000%] 물리 피해 / 몹에게 [피해 비율: 500%] 물리 피해를 줍니다.\n건물에는 [피해 비율: 1000%] + [건물 최대 내구도 15%]만큼의 공성 피해를 줍니다.",
+      "category": "explosive",
+      "rarity": "rare"
+    },
+    {
+      "id": "vision-lens",
+      "name": "관측 렌즈",
+      "description": "24시간 동안 지속되는 원거리 관측 장치를 소환해 적을 감시하고 은신 유닛을 탐지합니다. 한 번에 1개만 존재할 수 있습니다.\n--[정찰]--\n대상 지역을 15초 동안 탐색하여 범위 내 적에게 정찰 표식을 부여합니다.\n[정찰 표식]\n은신이 해제되고 받는 피해가 20% 증가합니다.",
+      "category": "detection",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "sentry-bot",
+      "name": "경비 로봇",
+      "description": "작은 지역을 순찰하며 적을 공격하는 경비 로봇을 소환합니다. 한 번에 1개만 존재할 수 있으며 72시간 동안 지속됩니다. 베인홀드 채굴지나 균열 같은 인스턴스 맵에서는 배치할 수 없습니다.",
+      "category": "deployable",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "autonomic-harvester-kit",
+      "name": "자동 수확기 키트",
+      "description": "3600초마다 반경 30m 내 자원을 채취하는 소형 수확 드론 5기를 배치합니다. 한 번에 1개만 존재할 수 있습니다.",
+      "category": "structure-kit",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "boost-station-kit",
+      "name": "강화 장치 키트",
+      "description": "다른 플레이어의 능력을 강화하는 기계를 설치합니다. 한 번에 1개만 존재할 수 있습니다.",
+      "category": "structure-kit",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "demolisher",
+      "name": "철거차",
+      "description": "가장 가까운 건물을 근접 공격하는 근접 철거차를 소환합니다.",
+      "category": "vehicle",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "ranged-demolisher",
+      "name": "원거리 철거차",
+      "description": "가장 가까운 건물을 원거리에서 폭격하는 원거리 철거차를 소환합니다.",
+      "category": "vehicle",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "giant-demolisher",
+      "name": "거대 철거차",
+      "description": "가장 가까운 건물을 근접 공격하는 강력한 거대 철거차를 소환합니다.",
+      "category": "vehicle",
+      "rarity": "rare"
+    },
+    {
+      "id": "giant-ranged-demolisher",
+      "name": "거대 원거리 철거차",
+      "description": "가장 가까운 건물을 원거리에서 폭격하는 강력한 거대 원거리 철거차를 소환합니다.",
+      "category": "vehicle",
+      "rarity": "rare"
+    },
+    {
+      "id": "light-blaster-turret",
+      "name": "경형 블래스터 포탑",
+      "description": "1시간 동안 지속되는 자동 포탑을 소환하여 주변 적을 공격합니다. 한 번에 1개만 존재할 수 있으며, 화맥, 지하 광산 등 인스턴스 맵에는 배치할 수 없습니다.",
+      "category": "deployable",
+      "rarity": "common"
+    },
+    {
+      "id": "shadowveil-thicket",
+      "name": "그림자 덤불",
+      "description": "1시간 동안 지속되는 그림자 덤불을 소환하여 들어온 유닛에게 은신을 부여합니다. 이 덤불은 마법 저항력이 매우 낮으며 최대 3개까지 존재할 수 있습니다.\n덤불은 균열, 채굴지, 베인홀드 채굴지 같은 어두운 지하 지역에서만 심을 수 있습니다.",
+      "category": "deployable",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "team-rally-matrix-t8",
+      "name": "팀 집결 매트릭스 T8",
+      "description": "최대 레벨 35 이하의 팀원 3명을 소환할 수 있는 T8 팀 집결 신호기를 소환합니다. 한 번에 1개만 존재할 수 있습니다.",
+      "category": "teleport",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "team-rally-matrix-t9",
+      "name": "팀 집결 매트릭스 T9",
+      "description": "최대 레벨 40 이하의 팀원 4명을 소환할 수 있는 T9 팀 집결 신호기를 소환합니다. 한 번에 1개만 존재할 수 있습니다.",
+      "category": "teleport",
+      "rarity": "rare"
+    },
+    {
+      "id": "team-rally-matrix-t10",
+      "name": "팀 집결 매트릭스 T10",
+      "description": "최대 5명의 팀원을 소환할 수 있는 T10 팀 집결 신호기를 소환합니다. 한 번에 1개만 존재할 수 있습니다.",
+      "category": "teleport",
+      "rarity": "epic"
+    },
+    {
+      "id": "warband-rally-beacon",
+      "name": "워밴드 집결 신호기",
+      "description": "최대 15명의 워밴드 구성원을 소환할 수 있는 워밴드 집결 신호기를 소환합니다. 한 번에 1개만 존재할 수 있습니다.",
+      "category": "teleport",
+      "rarity": "rare"
+    },
+    {
+      "id": "advanced-light-blaster-turret",
+      "name": "상급 경형 블래스터 포탑",
+      "description": "24시간 동안 지속되는 강화된 경형 블래스터 포탑을 소환하여 주변 적을 공격합니다. 일반 경형 포탑보다 체력과 저항력이 훨씬 높습니다. 한 번에 1개만 존재할 수 있으며, 베인홀드 채굴지, 균열 같은 인스턴스 맵에는 배치할 수 없습니다.",
+      "category": "deployable",
+      "rarity": "enhanced"
+    },
+    {
+      "id": "spiked-trap",
+      "name": "가시 함정",
+      "description": "가시 함정을 소환하여 24시간 동안 지속됩니다. 범위 내 적의 이동 속도 상한을 1m/s로 제한하고, 12초 동안 매초 [피해 비율: 200%] 물리 피해를 입히는 출혈 효과를 부여합니다. 한 번에 최대 2개까지 존재할 수 있으며, 베인홀드 채굴지, 균열 같은 인스턴스 맵에는 배치할 수 없습니다.",
+      "category": "trap",
+      "rarity": "uncommon"
+    }
+  ]
+}

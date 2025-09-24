@@ -1,0 +1,530 @@
+{
+    "items": [
+        {
+            "id": "wood",
+            "name": "나무",
+            "description": "나무에서 얻을 수 있습니다. 자원 정제소에서 가공 재료로 정제한 후, 워밴드 드리프트마크로 운송하여 진영 공헌도와 워밴드 메달을 획득할 수 있습니다. 모든 워밴드에 필수적인 자원입니다.",
+            "category": "resource",
+            "rarity": "common"
+        },
+        {
+            "id": "scrap-part",
+            "name": "폐부품",
+            "description": "폐품 잔해에서 얻을 수 있습니다. 자원 정제소에서 가공 재료로 정제한 후, 워밴드 드리프트마크로 운송하여 진영 공헌도와 워밴드 메달을 획득할 수 있습니다. 모든 워밴드에 필수적인 자원입니다.",
+            "category": "resource",
+            "rarity": "common"
+        },
+        {
+            "id": "biological-genes",
+            "name": "생물 유전자",
+            "description": "동물에게서 얻을 수 있습니다. 자원 정제소에서 가공 재료로 정제한 후, 워밴드 드리프트마크로 운송하여 진영 공헌도와 워밴드 메달을 획득할 수 있습니다. 모든 워밴드에 필수적인 자원입니다.",
+            "category": "resource",
+            "rarity": "common"
+        },
+        {
+            "id": "cutting-plate",
+            "name": "절단판",
+            "description": "워밴드 자원으로 [나무]를 정제하여 얻습니다. 워밴드 드리프트마크에 제출할 수 있으며, 드리프트마크에서 주조소로 운송해 중요한 구조물을 제작할 수 있습니다.",
+            "category": "crafting-material",
+            "rarity": "common"
+        },
+        {
+            "id": "refined-part",
+            "name": "정제 부품",
+            "description": "워밴드 자원으로 [폐부품]을 정제하여 얻습니다. 워밴드 드리프트마크에 제출할 수 있으며, 드리프트마크에서 주조소로 운송해 중요한 구조물을 제작할 수 있습니다.",
+            "category": "crafting-material",
+            "rarity": "common"
+        },
+        {
+            "id": "pure-biological-genes",
+            "name": "순수 생물 유전자",
+            "description": "워밴드 자원으로 [생물 유전자]를 정제하여 얻습니다. 워밴드 드리프트마크에 제출할 수 있으며, 드리프트마크에서 주조소로 운송해 중요한 구조물을 제작할 수 있습니다.",
+            "category": "crafting-material",
+            "rarity": "common"
+        },
+        {
+            "id": "resin",
+            "name": "수지",
+            "description": "나무에서 얻을 수 있습니다. 드리프트마크의 보급소, 공성 병기 제작소 또는 제작소에서 다양한 유용한 아이템을 제작하는 데 사용됩니다.",
+            "category": "crafting-material",
+            "rarity": "common"
+        },
+        {
+            "id": "scrap-iron",
+            "name": "폐철",
+            "description": "폐품 잔해에서 얻을 수 있습니다. 드리프트마크의 보급소, 공성 병기 제작소 또는 제작소에서 다양한 유용한 아이템을 제작하는 데 사용됩니다.",
+            "category": "crafting-material",
+            "rarity": "common"
+        },
+        {
+            "id": "protein",
+            "name": "단백질",
+            "description": "동물에게서 얻을 수 있습니다. 드리프트마크의 보급소, 공성 병기 제작소 또는 제작소에서 다양한 유용한 아이템을 제작하는 데 사용됩니다.",
+            "category": "crafting-material",
+            "rarity": "common"
+        },
+        {
+            "id": "pure-blood",
+            "name": "순수 혈액",
+            "description": "동물에게서 얻을 수 있습니다. 드리프트마크의 보급소, 공성 병기 제작소 또는 제작소에서 다양한 유용한 아이템을 제작하는 데 사용됩니다.",
+            "category": "crafting-material",
+            "rarity": "uncommon"
+        },
+        {
+            "id": "golden-deer-blood",
+            "name": "황금 사슴의 피",
+            "description": "황금 사슴 왕의 피입니다. 교역소에서 스타폴 토큰으로 판매할 수 있습니다.",
+            "category": "valuable",
+            "rarity": "rare"
+        },
+        {
+            "id": "pure-golden-deer-blood",
+            "name": "순수 황금 사슴의 피",
+            "description": "매우 희귀한 자원입니다. 교역소에서 높은 가격에 거래될 가능성이 있습니다.",
+            "category": "valuable",
+            "rarity": "legendary"
+        },
+        {
+            "id": "crimson-dinosaur-blood",
+            "name": "진홍빛 공룡의 피",
+            "description": "진홍빛 공룡의 피입니다. 교역소에서 스타폴 토큰으로 판매할 수 있습니다.",
+            "category": "valuable",
+            "rarity": "rare"
+        },
+        {
+            "id": "pure-crimson-dinosaur-blood",
+            "name": "순수 진홍빛 공룡의 피",
+            "description": "매우 희귀한 자원입니다. 교역소에서 높은 가격에 거래될 가능성이 있습니다.",
+            "category": "valuable",
+            "rarity": "legendary"
+        },
+        {
+            "id": "drifter-endurance-supplement",
+            "name": "드리프터 체력 보충제",
+            "description": "드리프터 포드에서 사용하여 드리프터의 체력을 20 회복합니다.",
+            "category": "utility",
+            "rarity": "common"
+        },
+        {
+            "id": "common-toxincoil",
+            "name": "일반 톡신코일",
+            "description": "ATHAS의 일반 주민을 위한 생존 물자이며, 교역소에서 스타폴 토큰으로 교환할 수 있습니다.",
+            "category": "currency",
+            "rarity": "common"
+        },
+        {
+            "id": "uncommon-toxincoil",
+            "name": "고급 톡신코일",
+            "description": "ATHAS의 일반 주민을 위한 생존 물자이며, 교역소에서 스타폴 토큰으로 교환할 수 있습니다.",
+            "category": "currency",
+            "rarity": "uncommon"
+        },
+        {
+            "id": "rare-toxincoil",
+            "name": "희귀 톡신코일",
+            "description": "ATHAS의 일반 주민을 위한 생존 물자이며, 교역소에서 스타폴 토큰으로 교환할 수 있습니다.",
+            "category": "currency",
+            "rarity": "rare"
+        },
+        {
+            "id": "epic-toxincoil",
+            "name": "에픽 톡신코일",
+            "description": "ATHAS의 일반 주민을 위한 생존 물자이며, 교역소에서 스타폴 토큰으로 교환할 수 있습니다.",
+            "category": "currency",
+            "rarity": "epic"
+        },
+        {
+            "id": "legendary-toxincoil",
+            "name": "전설 톡신코일",
+            "description": "ATHAS의 일반 주민을 위한 생존 물자이며, 교역소에서 스타폴 토큰으로 교환할 수 있습니다.",
+            "category": "currency",
+            "rarity": "legendary"
+        },
+        {
+            "id": "abandoned-toxincoil",
+            "name": "버려진 톡신코일",
+            "description": "ATHAS의 일반 주민을 위한 생존 물자이며, 교역소에서 스타폴 토큰으로 교환할 수 있습니다.",
+            "category": "currency",
+            "rarity": "abandoned"
+        },
+        {
+            "id": "basic-fire-eater-trap-activator",
+            "name": "기본 화식귀 함정 활성기",
+            "description": "화식귀(V~VI단계)를 유인하는 데 필요한 필수 재료로, 처치 시 풍부한 경험치를 획득할 수 있습니다! 위치: 화식귀 함정",
+            "category": "trap-component",
+            "rarity": "common"
+        },
+        {
+            "id": "advanced-fire-eater-trap-activator",
+            "name": "고급 화식귀 함정 활성기",
+            "description": "화식귀(VII~XI단계)를 유인하는 데 필요한 필수 재료로, 처치 시 풍부한 경험치를 획득할 수 있습니다! 위치: 화식귀 함정",
+            "category": "trap-component",
+            "rarity": "advanced"
+        },
+        {
+            "id": "echo-shard",
+            "name": "에코 샤드",
+            "description": "소형 균열(IV~VI단계)을 탐험하는 데 필요한 필수 재료입니다. 균열에는 풍부한 자원이 있지만, 다른 진영의 플레이어가 공격할 수 있으니 주의해야 합니다! 사용법: 드리프트마크 - 균열 스캐너",
+            "category": "exploration",
+            "rarity": "common"
+        },
+        {
+            "id": "advanced-echo-shard",
+            "name": "고급 에코 샤드",
+            "description": "소형 균열(VII~XI단계)을 탐험하는 데 필요한 필수 재료입니다. 균열에는 풍부한 자원이 있지만, 다른 진영의 플레이어가 공격할 수 있으니 주의해야 합니다! 사용법: 드리프트마크 - 균열 스캐너",
+            "category": "exploration",
+            "rarity": "advanced"
+        },
+        {
+            "id": "driftmark-backup-power",
+            "name": "드리프트마크 예비 전력",
+            "description": "사용 시 즉시 드리프트마크 에너지를 200 회복합니다. 드리프트마크 에너지는 드리프트마크 이동에 사용됩니다.",
+            "category": "utility",
+            "rarity": "common"
+        },
+        {
+            "id": "enhanced-equipment-charging",
+            "name": "강화 장비 충전",
+            "description": "모든 장비를 충전합니다.\n장비 전력을 30분간 40 증가시킵니다.\n효과가 끝나면 장비 내구도가 30% 감소합니다.",
+            "category": "enhancement",
+            "rarity": "enhanced"
+        },
+        {
+            "id": "harvester-guardian-rune",
+            "name": "수확자 수호 룬",
+            "description": "사용 시 반경 50m 내의 적 고대 수호자(수확기 허브 수호자, 외곽 수호자 등)를 최고 룬 명령으로 제어하여 30초 동안 마비시킵니다. 180초 동안 이 효과에 면역이 됩니다.",
+            "category": "control",
+            "rarity": "rare"
+        },
+        {
+            "id": "driftmark-crisis-defense-module",
+            "name": "드리프트마크 위기 방어 모듈",
+            "description": "해당 지역의 아군 드리프트마크에 드리프트마크 방어를 부여하며, 120초 동안 지속됩니다.\n[드리프트마크 방어]\n받는 피해가 50% 감소합니다.",
+            "category": "defense",
+            "rarity": "rare"
+        },
+        {
+            "id": "em-generator",
+            "name": "EM 발생기",
+            "description": "적 드리프트마크 방어 포탑을 무력화하고, 반경 50m 내 아군 드리프트마크 방어 포탑의 공격 속도를 100% 증가시키며 MP 소모를 100% 감소시킵니다. 효과는 120초 동안 지속됩니다.",
+            "category": "tactical",
+            "rarity": "uncommon"
+        },
+        {
+            "id": "field-repair-materials",
+            "name": "현장 수리 자재",
+            "description": "파워 메크: 용접차량, 구조물, 방어 건물의 융합 및 수리에 필요한 필수 자재입니다.",
+            "category": "repair",
+            "rarity": "common"
+        },
+        {
+            "id": "power-mech-welder",
+            "name": "파워 메크: 용접차량",
+            "description": "강력한 파워 메크: 용접차량을 소환합니다.",
+            "category": "vehicle",
+            "rarity": "rare"
+        },
+        {
+            "id": "faction-change-card",
+            "name": "진영 변경 카드",
+            "description": "진영 변경 시 자동으로 사용되며, 진영 공헌도를 100% 유지한 채 무료로 진영을 변경할 수 있습니다.",
+            "category": "utility",
+            "rarity": "rare"
+        },
+        {
+            "id": "mechanical-mount",
+            "name": "기계 탈것",
+            "description": "무작위 기계 탈것을 지급합니다.",
+            "category": "mount",
+            "rarity": "uncommon"
+        },
+        {
+            "id": "war-horn",
+            "name": "전쟁의 뿔피리",
+            "description": "자신의 진영이 점령한 지도에서 사용합니다. 해당 지도에서 수확기 허브에 전쟁을 선포합니다. 6시간 준비 기간 이후, 워밴드 구성원들은 해당 지도에서 비워밴드 유닛에 대해 적대적이 됩니다. 전쟁 시간 동안 수확기 허브를 점령할 수 있습니다.",
+            "category": "warfare",
+            "rarity": "rare"
+        },
+        {
+            "id": "truce-horn",
+            "name": "휴전의 뿔피리",
+            "description": "전쟁이 선포된 지도에서 사용하여 선포를 중단합니다.",
+            "category": "warfare",
+            "rarity": "rare"
+        },
+        {
+            "id": "great-booster-kit",
+            "name": "위대한 강화 키트",
+            "description": "위대한 강화 키트는 추격 상점에서 구입할 수 있습니다. 이 키트는 드리프트마스터 레벨을 30으로, 드리프트마크를 7레벨로 올려줍니다.",
+            "category": "progression",
+            "rarity": "legendary"
+        },
+        {
+            "id": "active-exergy",
+            "name": "활성 엑서지",
+            "description": "워밴드 드리프트마크에 제출하여 진영 공헌도와 워밴드 메달을 획득할 수 있으며, 워밴드 기술 업그레이드 및 강력한 전쟁 무기 제작에 사용됩니다.",
+            "category": "currency",
+            "rarity": "common"
+        },
+        {
+            "id": "juvenile-cannon-beast",
+            "name": "유체포수",
+            "description": "워밴드 드리프트마크에 제출하여 진영 공헌도와 워밴드 메달을 획득합니다. 드리프트마크의 야수 차량 제작소에서 포수 야수를 번식하는 데 사용됩니다.",
+            "category": "beast",
+            "rarity": "uncommon"
+        },
+        {
+            "id": "juvenile-charge-beast",
+            "name": "유체돌격수",
+            "description": "워밴드 드리프트마크에 제출하여 진영 공헌도와 워밴드 메달을 획득합니다. 드리프트마크의 야수 차량 제작소에서 돌격 야수를 번식하는 데 사용됩니다.",
+            "category": "beast",
+            "rarity": "uncommon"
+        },
+        {
+            "id": "juvenile-behemoth",
+            "name": "유체 베히모스",
+            "description": "워밴드 드리프트마크에 제출하여 진영 공헌도와 워밴드 메달을 획득합니다. 드리프트마크의 야수 차량 제작소에서 강력한 베히모스를 번식하는 데 사용됩니다.",
+            "category": "beast",
+            "rarity": "rare"
+        },
+        {
+            "id": "juvenile-warp-beast",
+            "name": "유체 왜곡수",
+            "description": "워밴드 드리프트마크에 제출하여 진영 공헌도와 워밴드 메달을 획득합니다. 드리프트마크의 야수 차량 제작소에서 왜곡수를 번식하는 데 사용됩니다.",
+            "category": "beast",
+            "rarity": "rare"
+        },
+        {
+            "id": "juvenile-beast-generator",
+            "name": "유체 야수 생성기",
+            "description": "무작위 유체 워밴드 야수 차량을 지급합니다.",
+            "category": "generator",
+            "rarity": "rare"
+        },
+        {
+            "id": "core-engine",
+            "name": "코어 엔진",
+            "description": "희귀하고 매우 가치 있는 엔진으로 여전히 작동 상태입니다. 워밴드 드리프트마크에 제출하여 진영 공헌도와 워밴드 메달을 획득할 수 있습니다. 기계 차량 제작소에서 대형 공성 무기를 제작하는 데 사용됩니다.",
+            "category": "engine",
+            "rarity": "rare"
+        },
+        {
+            "id": "nomad-post-kit",
+            "name": "유목 기지 키트",
+            "description": "신속한 이동, 장비 수리, 드리프터 지원, 지하 시장 접근이 가능한 유목 기지를 설치합니다. (점령 지역에서만 배치 가능)",
+            "category": "structure-kit",
+            "rarity": "uncommon"
+        },
+        {
+            "id": "warband-building-upgrade-material",
+            "name": "워밴드 건물 업그레이드 자재",
+            "description": "워밴드 건설기와 중장 방어 구조물을 업그레이드하는 데 사용됩니다. 주조소에서 제작됩니다.",
+            "category": "upgrade-material",
+            "rarity": "common"
+        },
+
+        {
+            "id": "t8-artificial-exergy-vein-kit",
+            "name": "[T8] 인공 엑서지 광맥 키트",
+            "description": "자연 광맥보다 더 높은 농도의 T8 워밴드 엑서지 광맥을 설치하여 채광 효율을 20% 증가시킵니다. 고갈 시 사라집니다. 동시에 존재할 수 있는 인공 워밴드 광맥은 1개뿐입니다.",
+            "category": "structure-kit",
+            "rarity": "rare"
+        },
+        {
+            "id": "t10-artificial-exergy-vein-kit",
+            "name": "[T10] 인공 엑서지 광맥 키트",
+            "description": "자연 광맥보다 더 높은 농도의 T10 워밴드 엑서지 광맥을 설치하여 채광 효율을 20% 증가시킵니다. 고갈 시 사라집니다. 동시에 존재할 수 있는 인공 워밴드 광맥은 1개뿐입니다.",
+            "category": "structure-kit",
+            "rarity": "epic"
+        },
+        {
+            "id": "foundry-kit",
+            "name": "주조소 키트",
+            "description": "수확기 허브를 강화하고 다양한 중장 구조물을 건설하는 데 필수적인 주조소를 설치합니다. 발전소 근처에만 지을 수 있습니다. 동시에 1개만 존재할 수 있습니다.",
+            "category": "structure-kit",
+            "rarity": "rare"
+        },
+        {
+            "id": "exergy-refinery-kit",
+            "name": "엑서지 정제소 키트",
+            "description": "활성 엑서지를 추출하는 엑서지 정제소를 설치합니다. 엑서지 균열 근처에만 지을 수 있습니다. 동시에 1개만 존재할 수 있습니다.",
+            "category": "structure-kit",
+            "rarity": "rare"
+        },
+        {
+            "id": "warband-deployment-nomad-post-kit",
+            "name": "워밴드 배치 유목 기지 키트",
+            "description": "워밴드 배치 유목 기지를 설치하여 모든 워밴드 구성원이 이곳으로 집결할 수 있습니다. 동시에 2개까지만 존재할 수 있습니다.",
+            "category": "structure-kit",
+            "rarity": "rare"
+        },
+        {
+            "id": "hell-scourge-com-station-kit",
+            "name": "지옥 채찍 통신 기지 키트",
+            "description": "지옥 채찍 통신 기지를 설치하여 인접 지도에 저궤도 폭격을 가능하게 합니다. 동시에 1개만 존재할 수 있습니다.\n--[레일건 폭격]--\n궤도 레일건을 조준하여 목표 지역을 120초 동안 연속 폭격합니다. 0.5초마다 반경 12m 내 적에게 최대 HP 기반 [대상 최대 HP 20%] 물리 피해를 주고 양자 붕괴를 부여합니다. 건물에는 [피해율: 600%] + [대상 건물 내구도 상한 0.4%]의 최대 내구도를 공성 피해로 줍니다.\n폭격당한 땅은 2일간 건설 불가.\n[양자 붕괴]\n최대 HP가 5% 감소하며, 최대 10중첩, 1800초 동안 지속됩니다 (전투를 떠나도 몹에게 지속).",
+            "category": "structure-kit",
+            "rarity": "legendary"
+        },
+        {
+            "id": "advanced-outpost-sentry-bot-kit",
+            "name": "고급 전초 감시 로봇 키트",
+            "description": "주변을 순찰하며 적을 공격하는 고급 워밴드 감시 로봇을 설치합니다. 동시에 최대 3개까지 존재할 수 있습니다.\n화염 지맥, 지하 광산, 기타 인스턴스 맵에는 배치할 수 없습니다.",
+            "category": "structure-kit",
+            "rarity": "rare"
+        },
+        {
+            "id": "top-tier-battle-group-watchtower-kit",
+            "name": "최상급 전투 집단 감시탑 키트",
+            "description": "넓은 구역을 순찰하며 적을 공격하는 최상급 전투 유닛 감시 로봇을 설치합니다. 동시에 최대 3개까지 존재할 수 있습니다.\n화염 지맥 동굴, 지하 갱도, 기타 던전 맵에는 배치할 수 없습니다.",
+            "category": "structure-kit",
+            "rarity": "epic"
+        },
+        {
+            "id": "warband-harvester-node-kit",
+            "name": "워밴드 수확기 노드 키트",
+            "description": "워밴드 수확기 노드를 설치하여 워밴드가 지도 내 수확기 허브를 공격하고 점령할 권리를 부여합니다. 동시에 1개만 존재할 수 있습니다.\n딥마치 링 구역에만 제한됩니다.",
+            "category": "structure-kit",
+            "rarity": "rare"
+        },
+        {
+            "id": "warning-sign-kit",
+            "name": "경고 표지판 키트",
+            "description": "메시지가 적힌 경고 표지판을 설치합니다. 동시에 3개만 존재할 수 있습니다.",
+            "category": "structure-kit",
+            "rarity": "common"
+        },
+        {
+            "id": "mod-core",
+            "name": "MOD 코어",
+            "description": "MOD 기계에서 MOD를 제작할 수 있게 해줍니다.\nMOD 기계는 지하 시장에서 찾을 수 있으며, 사용하려면 드리프트마스터 레벨 30이 필요합니다.",
+            "category": "crafting-component",
+            "rarity": "rare"
+        },
+        {
+            "id": "mod-calibrator",
+            "name": "MOD 보정기",
+            "description": "전설 MOD의 능력을 초기화하는 데 사용됩니다.",
+            "category": "utility",
+            "rarity": "rare"
+        },
+        {
+            "id": "starfall-tokens",
+            "name": "스타폴 토큰",
+            "description": "드리프트마크 건설, 기술 연구, 아이템 제작, 장비 구매에 사용됩니다.",
+            "category": "currency",
+            "rarity": "common"
+        },
+        {
+            "id": "repair-tickets",
+            "name": "수리 티켓",
+            "description": "장비 수리 시 스타폴 토큰 대신 1:1 비율로 사용할 수 있습니다.",
+            "category": "currency",
+            "rarity": "common"
+        },
+        {
+            "id": "exergy",
+            "name": "엑서지",
+            "description": "드리프트마크에서 기반 시설 건설 및 기술 연구에 사용됩니다.",
+            "category": "currency",
+            "rarity": "common"
+        },
+        {
+            "id": "faction-medals",
+            "name": "진영 메달",
+            "description": "지하 시장의 진영 상점에서 희귀 아이템과 교환할 수 있습니다.",
+            "category": "currency",
+            "rarity": "uncommon"
+        },
+        {
+            "id": "faction-contribution",
+            "name": "진영 공헌도",
+            "description": "주간 진영 공헌도. 매주 진영 공헌 보급 상자를 여는 데 사용됩니다.",
+            "category": "currency",
+            "rarity": "common"
+        },
+        {
+            "id": "pvp-contribution",
+            "name": "PvP 공헌도",
+            "description": "PvP 공헌도",
+            "category": "currency",
+            "rarity": "common"
+        },
+        {
+            "id": "pvp-medals",
+            "name": "PvP 메달",
+            "description": "지하 시장의 전쟁 보급소에서 귀중한 아이템과 교환할 수 있습니다.",
+            "category": "currency",
+            "rarity": "uncommon"
+        },
+        {
+            "id": "ancient-battle-scar-fragment",
+            "name": "고대 전투 상흔 조각",
+            "description": "여러 개의 고대 전투 상흔 조각을 합성하여 원하는 전투 상흔을 제작할 수 있습니다.",
+            "category": "crafting-component",
+            "rarity": "rare"
+        },
+        {
+            "id": "warband-medals",
+            "name": "워밴드 메달",
+            "description": "워밴드 드리프트마크의 워밴드 상점에서 희귀 아이템과 교환할 수 있습니다.",
+            "category": "currency",
+            "rarity": "uncommon"
+        },
+        {
+            "id": "data-fragment",
+            "name": "데이터 조각",
+            "description": "장비 잠금을 해제하는 데 필요한 자재입니다.",
+            "category": "unlock-material",
+            "rarity": "common"
+        },
+        {
+            "id": "veinhold-currency",
+            "name": "베인홀드 화폐",
+            "description": "엑서지 잔여 파편에서 변환된 화폐로, 베인홀드 채굴 상점에서 귀중한 보상과 교환할 수 있습니다.",
+            "category": "currency",
+            "rarity": "common"
+        },
+        {
+            "id": "season-merit",
+            "name": "시즌 공훈",
+            "description": "시즌 공훈",
+            "category": "currency",
+            "rarity": "common"
+        },
+        {
+            "id": "promotion-medal",
+            "name": "승급 메달",
+            "description": "후발 플레이어가 워밴드 드리프트마크의 승급 병참관에게 제출하여 보급품과 교환할 수 있습니다.\n플레이어가 보급품을 교환할 때마다 워밴드는 추가로 \"활성 엑서지\"를 획득합니다.",
+            "category": "currency",
+            "rarity": "uncommon"
+        },
+        {
+            "id": "spray-token",
+            "name": "스프레이 토큰",
+            "description": "스프레이 사용에 필요한 스프레이 페인트 토큰",
+            "category": "cosmetic",
+            "rarity": "common"
+        },
+        {
+            "id": "void-exergy",
+            "name": "공허 엑서지",
+            "description": "일식 균열에서 등장하는 몬스터 처치 후 획득합니다. 지하 시장의 균열 상인에게서 아이템과 교환할 수 있습니다.",
+            "category": "currency",
+            "rarity": "uncommon"
+        },
+        {
+            "id": "solarbite",
+            "name": "솔라바이트",
+            "description": "경매 입찰에 사용되며, 이클립시움으로 교환할 수 있습니다.",
+            "category": "currency",
+            "rarity": "uncommon"
+        },
+        {
+            "id": "eclipsium",
+            "name": "이클립시움",
+            "description": "이국 상점에서 물품을 구매하는 데 사용됩니다.",
+            "category": "currency",
+            "rarity": "rare"
+        }
+    ]
+}

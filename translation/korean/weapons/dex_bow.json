@@ -1,0 +1,217 @@
+{
+  "lastUpdate": "June 6, 2025 6 AM",
+  "passive": {
+    "gameId": "Bow_Passive",
+    "skillName": "표식",
+    "manaCost": "",
+    "cooldown": "",
+    "castingRange": "",
+    "type": "passive",
+    "description": "무기 스킬이나 기본 공격으로 피해를 입히면 대상에게 8초 동안 [표식]을 남깁니다. [표식]이 5중첩되면 발동되어 [피해 비율: 90%] 물리 피해를 추가로 주고, 2초간 25% 둔화를 적용하며, 시전자에게 2초간 이동 속도 25% 증가를 부여합니다. 또한 다음 3회의 기본 공격 사거리가 6초 동안 3m 증가합니다. 피해는 기본 공격 피해 증가 효과의 영향을 받고, 기본 공격 치명타 확률에 따라 치명타가 발생할 수 있습니다."
+  },
+  "basicAttacks": [
+    {
+      "gameId": "BowAttack_1",
+      "skillName": "분열 화살",
+      "manaCost": "0",
+      "cooldown": "0.89",
+      "castingRange": "14",
+      "type": "basic",
+      "description": "기본 공격이 [분열 화살]로 교체됩니다.\n정면 부채꼴 범위 내 최대 5명의 적에게 [피해 비율: 80%] 물리 피해를 줍니다.",
+      "tierUnlock": "4"
+    },
+    {
+      "gameId": "BowAttack_2",
+      "skillName": "관통 화살",
+      "manaCost": "0",
+      "cooldown": "0.89",
+      "castingRange": "9",
+      "type": "basic",
+      "description": "기본 공격이 [관통 화살]로 교체됩니다. 전방으로 화살을 발사해 경로상의 적에게 [피해 비율: 200%] 물리 피해를 주고, 방어도를 4초간 15 감소시킵니다. 화살은 충전 시간에 따라 사거리가 증가합니다. 1초 동안 충전하면 [피해 비율: 200%] 물리 피해를 주며 [표식]을 적용합니다.",
+      "tierUnlock": "6"
+    },
+    {
+      "gameId": "BowAttack_3",
+      "skillName": "맹독 화살",
+      "manaCost": "0",
+      "cooldown": "0.89",
+      "castingRange": "14",
+      "type": "basic",
+      "description": "[기본 공격]: 대상에게 [피해 비율: 80%] 물리 피해를 줍니다.\n6번째 기본 공격마다 [맹독 화살]로 변환됩니다.\n[맹독 화살]: [피해 비율: 100%] 물리 피해를 주고 [맹독]을 부여합니다.\n[맹독]: 6초 동안 매초 [피해 비율: 15%] 마법 피해를 주며, 최대 3중첩 가능합니다.",
+      "tierUnlock": "2"
+    }
+  ],
+  "commonSkills": [
+    {
+      "gameId": "Bow_Common_Skill_1",
+      "skillName": "폭렬 화살",
+      "manaCost": "19",
+      "cooldown": "12",
+      "castingRange": "6",
+      "type": "common",
+      "description": "12초 동안 폭렬 화살 10개를 얻습니다. 적중한 기본 공격 또는 스킬 화살이 최대 5명의 적에게 [피해 비율: 40%] 물리 피해를 추가로 줍니다. 폭렬 화살은 대상에게만 [표식]을 남깁니다.",
+      "tierUnlock": "5"
+    },
+    {
+      "gameId": "Bow_Common_Skill_2",
+      "skillName": "서리 화살",
+      "manaCost": "21",
+      "cooldown": "14",
+      "castingRange": "6",
+      "type": "common",
+      "description": "12초 동안 서리 화살 10개를 얻습니다. 적중 시 기본 공격과 스킬 화살이 [피해 비율: 50%]의 추가 마법 피해를 주고, 2초 동안 40% 둔화를 적용합니다.",
+      "tierUnlock": "8"
+    },
+    {
+      "gameId": "Bow_Common_Skill_3",
+      "skillName": "수면 화살",
+      "manaCost": "20",
+      "cooldown": "13",
+      "castingRange": "14",
+      "type": "common",
+      "description": "자신을 뒤로 14m 도약하며 전방으로 수면 화살을 발사합니다. 처음 맞은 적에게 [피해 비율: 200%] 물리 피해를 주고 5초 동안 수면 상태로 만듭니다.",
+      "tierUnlock": "4"
+    },
+    {
+      "gameId": "Bow_Common_Skill_4",
+      "skillName": "침묵 화살",
+      "manaCost": "20",
+      "cooldown": "13",
+      "castingRange": "16",
+      "type": "common",
+      "description": "지정 방향으로 침묵 화살을 발사합니다. 처음 적중한 적에게 [피해 비율: 100%] 물리 피해를 줍니다. 2초 후, 반경 5m 내 적들에게 [피해 비율: 180%] 마법 피해를 주고 4초 동안 침묵을 겁니다.",
+      "tierUnlock": "7"
+    },
+    {
+      "gameId": "Bow_Common_Skill_5",
+      "skillName": "구속 화살",
+      "manaCost": "20",
+      "cooldown": "1.5",
+      "castingRange": "14",
+      "type": "common",
+      "description": "전방으로 구속 화살 3개를 발사합니다. 플레이어에게 처음 명중 시 [피해 비율: 100%] 물리 피해를 주고 1.5초 동안 속박합니다.\n몬스터에게는 [피해 비율: 150%] 물리 피해를 줍니다.\n14초마다 1회 충전되며, 최대 2회 충전 가능합니다.",
+      "tierUnlock": "2"
+    }
+  ],
+  "skills": [
+    {
+      "gameId": "Bow_ArrowRain",
+      "gearIcon": "SpecImage_BOW4",
+      "gearName": "방랑자의 활",
+      "skillName": "화살비",
+      "manaCost": "18",
+      "cooldown": "1.5",
+      "castingRange": "14",
+      "type": "skill",
+      "description": "지정 위치에 화살비를 퍼부어 플레이어에게 [피해 비율: 180%] 물리 피해, 몬스터에게 [피해 비율: 270%] 물리 피해를 주고 3초간 30% 둔화를 겁니다.\n12초마다 1회 충전되며, 최대 3회 충전 가능합니다.",
+      "tierUnlock": "3",
+      "rarity": "rare",
+      "stats": {
+        "attackPower": "148",
+        "as": "1"
+      }
+    },
+    {
+      "gameId": "Bow_War",
+      "gearIcon": "SpecImage_BOW1",
+      "gearName": "포식자의 분열활",
+      "skillName": "분열 사격",
+      "manaCost": "23",
+      "cooldown": "18",
+      "castingRange": "6",
+      "type": "skill",
+      "description": "20초 동안 분열 사격 18회를 얻고 공격 속도가 30% 증가합니다. 기본 공격이 적에게 적중할 때마다 추가 화살 2개가 발사되어 각각 [피해 비율: 30%] 마법 피해를 줍니다. 각 분열 사격의 첫 번째 화살만 [표식]을 남깁니다.",
+      "tierUnlock": "2",
+      "rarity": "epic",
+      "stats": {
+        "attackPower": "155",
+        "as": "1"
+      }
+    },
+    {
+      "gameId": "Bow_Eighteen",
+      "gearIcon": "SpecImage_BOW2",
+      "gearName": "키네틱 아크",
+      "skillName": "파워샷",
+      "manaCost": "23",
+      "cooldown": "18",
+      "castingRange": "22",
+      "type": "skill",
+      "description": "지정 방향으로 파워샷을 발사합니다. 처음 적중한 적에게 폭발을 일으켜 최대 5명의 적에게 [피해 비율: 150%] 마법 피해를 주고 기절을 적용합니다. 피해는 비행 거리에 따라 최대 2배까지 증가하며, 기절 지속 시간도 1초에서 최대 3초까지 증가합니다. 폭발 시 [표식] 3중첩을 부여합니다.",
+      "tierUnlock": "2",
+      "rarity": "epic",
+      "stats": {
+        "attackPower": "155",
+        "as": "1"
+      }
+    },
+    {
+      "gameId": "Bow_Thunder",
+      "gearIcon": "SpecImage_BOW5",
+      "gearName": "뇌격궁",
+      "skillName": "번개 화살",
+      "manaCost": "25",
+      "cooldown": "23",
+      "castingRange": "18",
+      "type": "skill",
+      "description": "지정 방향으로 번개 화살을 발사해 적에게 적중 시 폭발하며, 범위 내 적들에게 [피해 비율: 150%] 물리 피해를 주고 낙뢰장을 생성합니다. 낙뢰장은 8초간 지속되며, 반경 6m 내 적에게 매초 [피해 비율: 45%] 물리 피해를 주고 방어도를 4초간 34 감소시킵니다(최대 5중첩). 폭발 시 [표식] 3중첩을 부여합니다.",
+      "tierUnlock": "2",
+      "rarity": "epic",
+      "stats": {
+        "attackPower": "155",
+        "as": "1"
+      }
+    },
+    {
+      "gameId": "Bow_WindArrow",
+      "gearIcon": "SpecImage_BOW6",
+      "gearName": "윈드브레이커",
+      "skillName": "폭풍 화살",
+      "manaCost": "23",
+      "cooldown": "18",
+      "castingRange": "18",
+      "type": "skill",
+      "description": "전방으로 폭풍 화살 3개를 발사해 [피해 비율: 180%] 물리 피해를 주고 공격 속도를 4초간 35% 감소시키며 5m 뒤로 넉백시킵니다. 적이 지형에 충돌하면 2.5초간 기절합니다. 동일 대상에게 여러 발 적중 시 두 번째 화살부터는 피해가 30% 감소합니다.",
+      "tierUnlock": "2",
+      "rarity": "epic",
+      "stats": {
+        "attackPower": "155",
+        "as": "1"
+      }
+    },
+    {
+      "gameId": "Bow_Light",
+      "gearIcon": "SpecImage_BOW3",
+      "gearName": "치유자의 몰락",
+      "skillName": "절단 사격",
+      "manaCost": "18",
+      "cooldown": "1.5",
+      "castingRange": "20",
+      "type": "skill",
+      "description": "지정 방향으로 절단 사격 3발을 발사해 경로상의 적들에게 [피해 비율: 250%] 물리 피해를 주고, 4초 동안 받는 회복량을 20% 감소시킵니다. 동일 대상에게 여러 발 적중 시 두 번째 화살부터는 피해가 30% 감소합니다.\n12초마다 1회 충전되며, 최대 3회 충전 가능합니다.",
+      "tierUnlock": "2",
+      "rarity": "legendary",
+      "stats": {
+        "attackPower": "163",
+        "as": "1"
+      }
+    },
+    {
+      "gameId": "Bow_GravityArrow",
+      "gearIcon": "SpecImage_BOW7",
+      "gearName": "일식궁",
+      "skillName": "그림자 소용돌이",
+      "manaCost": "20",
+      "cooldown": "1.5",
+      "castingRange": "18",
+      "type": "skill",
+      "description": "지정 방향으로 그림자 소용돌이 화살을 발사해 처음 맞은 적에게 [피해 비율: 100%] 물리 피해를 주고 남아있습니다. 0.5초 후, 소용돌이가 폭발하여 반경 7m 내 적들에게 [피해 비율: 280%] 마법 피해를 주고 중심으로 끌어당기며, 3초 동안 40% 둔화를 겁니다. 폭발 시 [표식] 3중첩을 부여합니다.\n15초마다 1회 충전되며, 최대 2회 충전 가능합니다.",
+      "tierUnlock": "2",
+      "rarity": "legendary",
+      "stats": {
+        "attackPower": "163",
+        "as": "1"
+      }
+    }
+  ]
+}

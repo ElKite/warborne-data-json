@@ -1,0 +1,234 @@
+{
+  "lastUpdate": "2025년 6월 6일 오전 6시",
+  "passive": {
+    "gameId": "Gun_BulletCharge",
+    "skillName": "재장전",
+    "manaCost": "",
+    "cooldown": "",
+    "castingRange": "",
+    "type": "passive",
+    "description": "총은 최대 6발까지 장전됩니다. 스킬을 사용하지 않을 때: 탄환이 0발이면 즉시 재장전합니다. 그렇지 않으면 스킬 사용 후 4초 뒤 재장전합니다. 탄환이 1발 늘어날 때마다 재장전 시간이 0.5초 증가합니다. 재장전은 중단할 수 없습니다."
+  },
+  "basicAttacks": [
+    {
+      "gameId": "GunAttack_1",
+      "skillName": "헤드샷",
+      "manaCost": "0",
+      "cooldown": "1",
+      "castingRange": "22",
+      "type": "basic",
+      "description": "[기본 공격]: 대상에게 [피해 비율: 100%] 물리 피해를 줍니다.\n매 4번째 기본 공격은 [헤드샷]으로 변환되어 [피해 비율: 150%] 물리 피해를 주며 반드시 치명타가 발생합니다.",
+      "tierUnlock": "2"
+    },
+    {
+      "gameId": "GunAttack_2",
+      "skillName": "도탄",
+      "manaCost": "0",
+      "cooldown": "1",
+      "castingRange": "22",
+      "type": "basic",
+      "description": "[기본 공격]: 대상에게 [피해 비율: 100%] 물리 피해를 줍니다.\n[도탄]은 6초마다 발동 가능하며 [피해 비율: 180%] 물리 피해를 주고 4초간 30% 둔화를 겁니다. 탄환은 최대 4회까지 적 뒤의 적에게 튕깁니다.",
+      "tierUnlock": "4"
+    },
+    {
+      "gameId": "GunAttack_3",
+      "skillName": "방어구 파괴",
+      "manaCost": "0",
+      "cooldown": "1",
+      "castingRange": "22",
+      "type": "basic",
+      "description": "[기본 공격]: 대상에게 [피해 비율: 100%] 물리 피해를 줍니다.\n[방어구 파괴]는 6초마다 발동할 수 있으며, 경로상의 적에게 [피해 비율: 180%] 물리 피해를 주고 4초간 방어력을 81 감소시킵니다.",
+      "tierUnlock": "6"
+    }
+  ],
+  "commonSkills": [
+    {
+      "gameId": "Gun_Common_Skill_1",
+      "skillName": "함정",
+      "manaCost": "20",
+      "cooldown": "1.5",
+      "castingRange": "12",
+      "type": "common",
+      "description": "대상 위치에 30초 동안 지속되는 함정을 설치합니다. 적이 범위에 들어오면 은신을 2초 동안 해제하고, [대상 최대 HP의 15%] 보호막을 4초간 얻습니다. 둔화 장판을 생성하여 적의 이동 속도를 35% 감소시키고, 2초 후 폭발하여 플레이어에게 [피해 비율: 180%] 물리 피해 (몹에게는 [피해 비율: 270%])를 줍니다. 15초마다 1회 충전되며 최대 2회까지 충전됩니다.",
+      "tierUnlock": "1"
+    },
+    {
+      "gameId": "Gun_Common_Skill_6",
+      "skillName": "빠른 장전",
+      "manaCost": "21",
+      "cooldown": "1.5",
+      "castingRange": "6",
+      "type": "common",
+      "description": "대상 방향으로 6m 이동합니다. 다음 4회의 기본 공격은 6초간 공격 속도 +80%, 피해 +25%가 증가합니다. 탄환 1발을 장전합니다. 16초마다 1회 충전되며 최대 2회까지 충전됩니다.",
+      "tierUnlock": "3"
+    },
+    {
+      "gameId": "Gun_Common_Skill_4",
+      "skillName": "충격 수류탄",
+      "manaCost": "22",
+      "cooldown": "16",
+      "castingRange": "10",
+      "type": "common",
+      "description": "대상 위치에 충격 수류탄을 던져 범위 내 적에게 [피해 비율: 180%] 물리 피해를 주고, 중심으로부터 9m 밀쳐냅니다. 4초간 공격 속도를 30%, 이동 속도를 40% 감소시킵니다. 사용자가 폭발 범위에 있을 경우 9m 밀려납니다.",
+      "tierUnlock": "5"
+    },
+    {
+      "gameId": "Gun_Flashbang",
+      "skillName": "섬광탄",
+      "manaCost": "20",
+      "cooldown": "13",
+      "castingRange": "14",
+      "type": "common",
+      "description": "대상 위치에 섬광탄을 던져 범위 내 적에게 [피해 비율: 200%] 물리 피해를 주고, 은신을 해제하며 적의 기본 공격이 6초 동안 35% 확률로 빗나가게 합니다.",
+      "tierUnlock": "7"
+    },
+    {
+      "gameId": "Gun_Common_Skill_3",
+      "skillName": "조준",
+      "manaCost": "16",
+      "cooldown": "4.6",
+      "castingRange": "6",
+      "type": "common",
+      "description": "조준 모드에 돌입합니다. 기본 공격 피해가 40% 증가하고 사거리가 6m 증가합니다. 이동 속도는 65% 감소합니다. 다시 사용하여 조준 모드를 해제할 수 있습니다.",
+      "tierUnlock": "8"
+    }
+  ],
+  "skills": [
+    {
+      "gameId": "Gun_ShotGun",
+      "gearIcon": "SpecImage_GUN1",
+      "gearName": "분산 코일",
+      "skillName": "산탄 발사",
+      "manaCost": "11",
+      "cooldown": "1.5",
+      "castingRange": "16",
+      "type": "skill",
+      "description": "탄환 2발을 소모하여 전방에 샷건 탄환 두 발을 발사해 범위 내 플레이어에게 [피해 비율: 110%] 물리 피해 (몹에게는 [피해 비율: 220%])를 줍니다. 12초마다 1회 충전되며 최대 3회 충전됩니다.",
+      "tierUnlock": "2",
+      "rarity": "rare",
+      "stats": {
+        "attackPower": "148",
+        "as": "0.83"
+      }
+    },
+    {
+      "gameId": "Gun_GatlinGun",
+      "gearIcon": "SpecImage_GUN2",
+      "gearName": "일제 엄호사격",
+      "skillName": "파수꾼 포화",
+      "manaCost": "30",
+      "cooldown": "24",
+      "castingRange": "20",
+      "type": "skill",
+      "description": "6초 동안 채널링하며 매초 탄환 1발을 소모합니다. 탄환이 모두 소진되면 자동으로 종료됩니다. 시전 중 대상 최대 HP의 40%에 해당하는 보호막을 얻으며, (탄환이 1발 이상 있어야 사용 가능) 전방 부채꼴에 다수의 탄환을 발사하여 0.25초마다 [피해 비율: 85%] 물리 피해를 줍니다. 시전자와의 거리에 따라 피해가 감소하며 최소 70%까지 줄어듭니다. 시전은 방해받지 않으며 회전은 허용됩니다.",
+      "tierUnlock": "2",
+      "rarity": "epic",
+      "stats": {
+        "attackPower": "155",
+        "as": "0.83"
+      }
+    },
+    {
+      "gameId": "Gun_ThreeGun",
+      "gearIcon": "SpecImage_GUN3",
+      "gearName": "버스트파이어 소총",
+      "skillName": "속사",
+      "manaCost": "23",
+      "cooldown": "18",
+      "castingRange": "22",
+      "type": "skill",
+      "description": "대상을 지정하여 0.83초 시전 후 3초 동안 채널링하며, 0.5초마다 탄환 1발을 소모하여 지속적으로 사격합니다. 각 탄환은 [피해 비율: 160%] 물리 피해를 주고, 방어력 16 감소 효과를 6초간 부여하며 최대 3회 중첩됩니다. 탄환이 모두 소모되면 종료됩니다.",
+      "tierUnlock": "2",
+      "rarity": "epic",
+      "stats": {
+        "attackPower": "155",
+        "as": "0.83"
+      }
+    },
+    {
+      "gameId": "Gun_Grenade",
+      "gearIcon": "SpecImage_GUN4",
+      "gearName": "역병 발산",
+      "skillName": "맹독 장막",
+      "manaCost": "11",
+      "cooldown": "4",
+      "castingRange": "20",
+      "type": "skill",
+      "description": "탄환 2발을 소모해 대상 위치에 독성 장막을 발사해 6초간 독성 안개 지대를 생성합니다. 해당 지역은 매초 [피해 비율: 60%] 마법 피해를 주고, 6초 동안 치유량을 25% 감소시킵니다. 12초마다 1회 충전되며 최대 3회 충전됩니다.",
+      "tierUnlock": "2",
+      "rarity": "epic",
+      "stats": {
+        "attackPower": "155",
+        "as": "0.83"
+      }
+    },
+    {
+      "gameId": "Gun_Common_Skill_6",
+      "gearIcon": "SpecImage_GUN5",
+      "gearName": "쉐도우헌터 소총",
+      "skillName": "저격",
+      "manaCost": "10",
+      "cooldown": "1.5",
+      "castingRange": "18",
+      "type": "skill",
+      "description": "탄환 1발을 소모해 대상 방향으로 저격탄을 발사합니다. 첫 번째 적중한 적에게 [피해 비율: 280%] 물리 피해를 줍니다. 2초 동안 충전 시 탄환이 관통하며 [피해 비율: 300%] 물리 피해를 줍니다. 충전 시간에 따라 사거리가 증가합니다. 6초마다 1회 충전되며 최대 6회 충전됩니다.",
+      "tierUnlock": "2",
+      "rarity": "epic",
+      "stats": {
+        "attackPower": "",
+        "as": ""
+      }
+    },
+    {
+      "gameId": "Gun_RayGun",
+      "gearIcon": "SpecImage_GUN8",
+      "gearName": "광자 소총",
+      "skillName": "광자탄",
+      "manaCost": "23",
+      "cooldown": "18",
+      "castingRange": "20",
+      "type": "skill",
+      "description": "전방의 적을 탐색하여 0.3초마다 최대 6명까지 적을 지정합니다 (지정되지 않은 적 우선). 탐색 종료 후 지정된 적에게 에너지 탄환을 발사하며, 대상당 탄환 1발을 소모합니다. 각 탄환은 [피해 비율: 175%] 마법 피해를 주고 은신을 해제하며, 6초 동안 기본 공격이 40% 확률로 빗나가게 합니다.",
+      "tierUnlock": "2",
+      "rarity": "epic",
+      "stats": {
+        "attackPower": "",
+        "as": ""
+      }
+    },
+    {
+      "gameId": "Gun_RifleGun",
+      "gearIcon": "SpecImage_GUN5",
+      "gearName": "공허의 눈",
+      "skillName": "저격수의 심판",
+      "manaCost": "24",
+      "cooldown": "9.6",
+      "castingRange": "30",
+      "type": "skill",
+      "description": "20초 동안 저격 모드에 돌입합니다. 이 동안 이동할 수 없으며 수동으로 해제할 수 있습니다. 기본 공격이 교체되어 탄환 1발을 사용해 대상 방향으로 사격합니다. 경로상의 적에게 [피해 비율: 190%] 물리 피해를 주고, 경로에 있는 적마다 피해가 10%씩 증가해 최대 50%까지 상승합니다.",
+      "tierUnlock": "2",
+      "rarity": "legendary",
+      "stats": {
+        "attackPower": "163",
+        "as": "0.83"
+      }
+    },
+    {
+      "gameId": "Gun_PrismGun",
+      "gearIcon": "SpecImage_GUN7",
+      "gearName": "프리즘 망토",
+      "skillName": "광자 각성",
+      "manaCost": "22",
+      "cooldown": "24",
+      "castingRange": "6",
+      "type": "skill",
+      "description": "20초 동안 광자 각성을 발동합니다. 둔화 및 속박에 면역이 됩니다.\n[프리즘 광선]과 [프리즘 위장]을 획득합니다.\n—[프리즘 광선]—\n전방 범위의 적에게 [피해 비율: 120%] 물리 피해를 주고 MP 5를 흡수합니다. 3회의 광선 후 다음 기본 공격은 강화 광자 광선이 되어 [피해 비율: 135%] 물리 피해와 MP 5 흡수를 줍니다.\n—[프리즘 위장]—\n모든 제어 효과를 제거하고 은신 상태가 되며 2초간 이동 속도 +30%를 얻습니다. 스킬이 봉인된 상태에서도 사용 가능합니다.",
+      "tierUnlock": "2",
+      "rarity": "legendary",
+      "stats": {
+        "attackPower": "163",
+        "as": "0.83"
+      }
+    }
+  ]
+}

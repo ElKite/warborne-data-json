@@ -1,0 +1,142 @@
+{
+  "lastUpdate": "2025년 6월 6일 오전 6시",
+  "head_strength": [
+    {
+      "gameId": "Helm_Str_5",
+      "gearIcon": "SpecImage_HELMET3",
+      "gearName": "분노의 투구",
+      "skillName": "격노",
+      "manaCost": "",
+      "cooldown": "30",
+      "castingRange": "",
+      "type": "passive",
+      "description": "기본 공격으로 직접 피해를 줄 때, 6초 동안 물리 피해가 20% 증가합니다. 발동 간격: 30초",
+      "tierUnlock": "0",
+      "rarity": "rare",
+      "stats": {
+        "hp": "675",
+        "dmgBonus": "9.6%"
+      }
+    },
+    {
+      "gameId": "Helm_Str_4",
+      "gearIcon": "SpecImage_HELMET4",
+      "gearName": "철갑 투구",
+      "skillName": "철벽",
+      "manaCost": "",
+      "cooldown": "60",
+      "castingRange": "",
+      "type": "passive",
+      "description": "HP가 30% 이하일 때 피해를 받으면, 6초 동안 피해 저항이 50% 증가합니다. 발동 간격: 60초",
+      "tierUnlock": "1",
+      "rarity": "epic",
+      "stats": {
+        "hp": "714",
+        "dmgBonus": "9.8%"
+      }
+    },
+    {
+      "gameId": "Helm_Str_3",
+      "gearIcon": "SpecImage_HELMET2",
+      "gearName": "지옥불 면갑",
+      "skillName": "화염성운",
+      "manaCost": "",
+      "cooldown": "30",
+      "castingRange": "",
+      "type": "passive",
+      "description": "기본 공격으로 직접 피해를 줄 때, 6초 동안 시전자 주변에 화염 성운을 생성합니다. 7m 내 적의 마법 저항을 136 감소시키고, 매초 [피해 비율: 50%] 마법 피해를 줍니다. 발동 간격: 30초",
+      "tierUnlock": "1",
+      "rarity": "epic",
+      "stats": {
+        "hp": "714",
+        "dmgBonus": "9.8%"
+      }
+    },
+    {
+      "gameId": "Helm_Str_1",
+      "gearIcon": "SpecImage_HELMET6",
+      "gearName": "파충류 투구",
+      "skillName": "비늘 갑옷",
+      "manaCost": "",
+      "cooldown": "30",
+      "castingRange": "",
+      "type": "passive",
+      "description": "강력한 제어 효과(기절, 공포, 빙결, 에어본, 석화)에 걸렸을 때, [대상 최대 HP 25%] 보호막을 6초 동안 얻습니다. 발동 간격: 30초",
+      "tierUnlock": "1",
+      "rarity": "epic",
+      "stats": {
+        "hp": "714",
+        "dmgBonus": "9.8%"
+      }
+    },
+    {
+      "gameId": "Helm_Str_6",
+      "gearIcon": "SpecImage_HELMET1",
+      "gearName": "야만의 투구",
+      "skillName": "EMP 폭발",
+      "manaCost": "",
+      "cooldown": "30",
+      "castingRange": "",
+      "type": "passive",
+      "description": "기본 공격으로 직접 피해를 줄 때, 현재 위치에서 EMP 폭발을 발동합니다. 1초 후, 6m 내 적에게 [피해 비율: 250%] 물리 피해를 주고, 1초간 기절시키며, 6초 동안 주는 피해를 20% 감소시킵니다. 발동 간격: 30초",
+      "tierUnlock": "1",
+      "rarity": "epic",
+      "stats": {
+        "hp": "714",
+        "dmgBonus": "9.8%"
+      }
+    },
+    {
+      "gameId": "Helm_Str_7",
+      "gearIcon": "SpecImage_HELMET5",
+      "gearName": "폭풍의 장막",
+      "skillName": "모래폭풍",
+      "manaCost": "",
+      "cooldown": "30",
+      "castingRange": "",
+      "type": "passive",
+      "description": "기본 공격으로 직접 피해를 줄 때, 시전자 주변에 6초간 모래폭풍을 생성합니다. 6m 내 적의 이동 속도를 40% 감소시키고 무장 해제시킵니다. 발동 간격: 30초",
+      "tierUnlock": "1",
+      "rarity": "legendary",
+      "stats": {
+        "hp": "755",
+        "dmgBonus": "9.9%"
+      }
+    },
+    {
+      "gameId": "Helm_Str_8",
+      "gearIcon": "SpecImage_HELMET7",
+      "gearName": "감시자의 응시",
+      "skillName": "전방 방어",
+      "manaCost": "",
+      "cooldown": "30",
+      "castingRange": "",
+      "type": "passive",
+      "description": "속박 또는 강제 이동(넉백, 끌어당김)에 걸렸을 때: 즉시 모든 속박, 둔화, 강제 이동 효과를 제거하고, 피해 저항을 25% 증가시키며, 8초 동안 둔화, 속박, 강제 이동에 면역이 됩니다. 발동 간격: 30초",
+      "tierUnlock": "1",
+      "rarity": "legendary",
+      "stats": {
+        "hp": "755",
+        "dmgBonus": "9.9%"
+      }
+    },
+    {
+      "gameId": "Helm_Str_9",
+      "gearIcon": "SpecImage_HELMET8",
+      "gearName": "반격의 투구",
+      "skillName": "방어 강화",
+      "manaCost": "",
+      "cooldown": "25",
+      "castingRange": "",
+      "type": "passive",
+      "description": "5초 안에 기본 공격 피해를 3회 받을 경우, 6초 동안 136의 방어 수치를 얻습니다(능력치에 비례). 발동 후 이 효과는 25초간 재사용 대기 상태에 들어갑니다.",
+      "tierUnlock": "1",
+      "rarity": "epic",
+      "stats": {
+        "hp": "",
+        "dmgBonus": "",
+        "mpRecovery": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "lastUpdate": "2025년 6월 6일 오전 6시",
+  "chest_dexterity": [
+    {
+      "gameId": "Cloth_Dex_6",
+      "gearIcon": "SpecImage_JACKET6",
+      "gearName": "회복 조끼",
+      "skillName": "붕대",
+      "manaCost": "",
+      "cooldown": "32",
+      "castingRange": "6",
+      "type": "skill",
+      "description": "4초 동안 채널링하여 매초 [회복 비율: 48%] 활력을 회복합니다. 채널링 동안 느리게 이동할 수 있습니다.",
+      "tierUnlock": "1",
+      "rarity": "rare"
+    },
+    {
+      "gameId": "Cloth_Dex_3",
+      "gearIcon": "SpecImage_JACKET3",
+      "gearName": "죽음의 망토",
+      "skillName": "마무리",
+      "manaCost": "",
+      "cooldown": "32",
+      "castingRange": "7",
+      "type": "skill",
+      "description": "주변 적들에게 [피해 비율: 100%] 고정 피해를 입힙니다. 대상의 HP가 10% 부족할 때마다 피해량이 15% 증가합니다.",
+      "tierUnlock": "1",
+      "rarity": "epic"
+    },
+    {
+      "gameId": "Cloth_Dex_4",
+      "gearIcon": "SpecImage_JACKET4",
+      "gearName": "보복 코트",
+      "skillName": "반사",
+      "manaCost": "",
+      "cooldown": "37",
+      "castingRange": "6",
+      "type": "skill",
+      "description": "6초 동안 피해 저항이 30% 증가합니다. 이 시간 동안 받은 피해의 100%를 공격자에게 마법 피해로 반사합니다.",
+      "tierUnlock": "1",
+      "rarity": "epic"
+    },
+    {
+      "gameId": "Cloth_Dex_5",
+      "gearIcon": "SpecImage_JACKET7",
+      "gearName": "안개 망토",
+      "skillName": "연막",
+      "manaCost": "",
+      "cooldown": "46",
+      "castingRange": "12",
+      "type": "skill",
+      "description": "반경 12m의 연막을 생성하며, 12초 동안 지속됩니다. 6초 동안 은신 상태에 들어갑니다. 연막 속에서 0.5초마다 다음 기본 공격의 공격 속도가 60% 증가하는 중첩을 획득하며, 6초간 지속되고 최대 8회까지 중첩됩니다. 스킬을 사용하거나 직접 피해 또는 회복을 가하거나 연막을 벗어나면 연막이 사라지고 은신이 해제됩니다.",
+      "tierUnlock": "1",
+      "rarity": "epic"
+    },
+    {
+      "gameId": "Cloth_Dex_7",
+      "gearIcon": "SpecImage_JACKET2",
+      "gearName": "야성의 코트",
+      "skillName": "포효",
+      "manaCost": "",
+      "cooldown": "32",
+      "castingRange": "12",
+      "type": "skill",
+      "description": "대상 방향으로 포효하여 범위 내 적들에게 \n[피해 비율: 200%] 물리 피해를 입힙니다. 또한 이동 속도를 40% 감소시키고, 가하는 피해를 50% 감소시키며, 5초 동안 은신을 해제합니다.",
+      "tierUnlock": "1",
+      "rarity": "epic"
+    },
+    {
+      "gameId": "Cloth_Dex_1",
+      "gearIcon": "SpecImage_JACKET1",
+      "gearName": "레인저의 가죽",
+      "skillName": "방어구 파괴",
+      "manaCost": "",
+      "cooldown": "23",
+      "castingRange": "7",
+      "type": "skill",
+      "description": "주변 적들에게 [피해 비율: 200%] 물리 피해를 입히고, 6초 동안 그들의 피해 저항을 20% 감소시키며, 자신의 피해를 15% 증가시킵니다.",
+      "tierUnlock": "1",
+      "rarity": "legendary",
+      "stats": {
+        "dmgBonus": "25%",
+        "armor": "181",
+        "magicResi": "181"
+      }
+    },
+    {
+      "gameId": "Cloth_Dex_2",
+      "gearIcon": "SpecImage_JACKET5",
+      "gearName": "영웅의 포옹",
+      "skillName": "집결",
+      "manaCost": "",
+      "cooldown": "27",
+      "castingRange": "7",
+      "type": "skill",
+      "description": "시전자 주변에 8초 동안 집결 오라를 생성합니다. 반경 7m 내 아군은 공격 속도 30%와 재사용 대기시간 감소 30% 효과를 얻습니다.",
+      "tierUnlock": "1",
+      "rarity": "legendary",
+      "stats": {
+        "dmgBonus": "25%",
+        "armor": "181",
+        "magicResi": "181"
+      }
+    }
+  ]
+}

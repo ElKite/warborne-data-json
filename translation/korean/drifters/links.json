@@ -1,0 +1,131 @@
+{
+    "lastUpdate": "June 6, 2025 6 AM",
+    "links": [
+        {
+            "linkName": "수호자",
+            "linkBonus": "치유 효과가 4% 증가",
+            "driftersNeeded": "2",
+            "drifters": [
+                { "drifterId": "paragon_int_2" },
+                { "drifterId": "paragon_int_7" },
+                { "drifterId": "paragon_int_11" },
+                { "drifterId": "paragon_int_10" }
+            ]
+        },
+        {
+            "linkName": "숙련자",
+            "linkBonus": "스킬 피해와 치유 효과가 2.5% 강화",
+            "driftersNeeded": "3",
+            "drifters": [
+                { "drifterId": "paragon_str_4" },
+                { "drifterId": "paragon_dex_1" },
+                { "drifterId": "paragon_int_2" }
+            ]
+        },
+        {
+            "linkName": "굳건한 정신",
+            "linkBonus": "군중 제어 저항이 5 증가",
+            "driftersNeeded": "2",
+            "drifters": [
+                { "drifterId": "paragon_str_2" },
+                { "drifterId": "paragon_str_4" },
+                { "drifterId": "paragon_str_5" },
+                { "drifterId": "paragon_str_7" }
+            ]
+        },
+        {
+            "linkName": "파워하우스",
+            "linkBonus": "민첩이 10 증가",
+            "driftersNeeded": "3",
+            "drifters": [
+                { "drifterId": "paragon_str_5" },
+                { "drifterId": "paragon_dex_3" },
+                { "drifterId": "paragon_int_6" }
+            ]
+        },
+        {
+            "linkName": "확고함",
+            "linkBonus": "피해 저항이 2% 증가",
+            "driftersNeeded": "2",
+            "drifters": [
+                { "drifterId": "paragon_str_6" },
+                { "drifterId": "paragon_str_1" },
+                { "drifterId": "paragon_str_3" },
+                { "drifterId": "paragon_str_8" }
+            ]
+        },
+        {
+            "linkName": "특임대",
+            "linkBonus": "근접 피해가 4% 증가",
+            "driftersNeeded": "2",
+            "drifters": [
+                { "drifterId": "paragon_dex_1" },
+                { "drifterId": "paragon_dex_7" },
+                { "drifterId": "paragon_dex_9" },
+                { "drifterId": "paragon_dex_3" }
+            ]
+        },
+        {
+            "linkName": "예지",
+            "linkBonus": "스킬 재사용 대기시간이 2.5% 감소",
+            "driftersNeeded": "3",
+            "drifters": [
+                { "drifterId": "paragon_str_9" },
+                { "drifterId": "paragon_int_9" },
+                { "drifterId": "paragon_dex_7" }
+            ]
+        },
+        {
+            "linkName": "전략적 사고",
+            "linkBonus": "원거리 피해가 4% 증가",
+            "driftersNeeded": "2",
+            "drifters": [
+                { "drifterId": "paragon_int_1" },
+                { "drifterId": "paragon_int_6" },
+                { "drifterId": "paragon_int_4" },
+                { "drifterId": "paragon_int_3" }
+            ]
+        },
+        {
+            "linkName": "활력의 혈통",
+            "linkBonus": "HP가 4% 증가",
+            "driftersNeeded": "3",
+            "drifters": [
+                { "drifterId": "paragon_str_2" },
+                { "drifterId": "paragon_dex_7" },
+                { "drifterId": "paragon_int_3" }
+            ]
+        },
+        {
+            "linkName": "조상의 유산",
+            "linkBonus": "지능이 10 증가",
+            "driftersNeeded": "3",
+            "drifters": [
+                { "drifterId": "paragon_str_3" },
+                { "drifterId": "paragon_dex_4" },
+                { "drifterId": "paragon_int_7" }
+            ]
+        },
+        {
+            "linkName": "자연의 힘",
+            "linkBonus": "기본 공격의 치명타 피해가 8% 증가",
+            "driftersNeeded": "2",
+            "drifters": [
+                { "drifterId": "paragon_dex_2" },
+                { "drifterId": "paragon_dex_5" },
+                { "drifterId": "paragon_dex_6" },
+                { "drifterId": "paragon_dex_8" }
+            ]
+        },
+        {
+            "linkName": "이국의 완력",
+            "linkBonus": "힘이 10 증가",
+            "driftersNeeded": "3",
+            "drifters": [
+                { "drifterId": "paragon_str_1" },
+                { "drifterId": "paragon_dex_9" },
+                { "drifterId": "paragon_int_4" }
+            ]
+        }
+    ]
+}

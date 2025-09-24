@@ -1,0 +1,249 @@
+{
+  "lastUpdate": "2025년 6월 6일 오전 6시",
+  "passive": {
+    "gameId": "Sword_Passive",
+    "skillName": "기운과 칼날",
+    "manaCost": "",
+    "cooldown": "",
+    "castingRange": "",
+    "type": "passive",
+    "description": "기운과 칼날 패시브 [가속]: 전투 중 매초 [가속] 1중첩을 얻으며, 기본 공격으로 피해를 주면 2중첩, 치명타 시 4중첩, 기본 공격 피해를 받으면 1중첩, 스킬 피해를 받으면 2중첩을 획득합니다. [가속] 10중첩 시 [검의 기세]가 1단계 상승합니다. 가속은 20초간 유지됩니다. [검의 기세]: 단계마다 피해 +3%, 공격 속도 +4%, 피해 저항 +4%가 증가하며 8초간 유지됩니다. 최대 6중첩까지 부여되며 시간이 지남에 따라 감소합니다."
+  },
+  "basicAttacks": [
+    {
+      "gameId": "SwordAttack_1",
+      "skillName": "검격",
+      "manaCost": "0",
+      "cooldown": "1.1",
+      "castingRange": "7",
+      "type": "basic",
+      "description": "[기본 공격]: 대상에게 [피해 비율: 130%] 물리 피해를 줍니다.\n[검격]은 6초마다 발동 가능하며, 적에게 돌진하여 [피해 비율: 180%] 물리 피해를 주고 2초 동안 40% 둔화를 겁니다.",
+      "tierUnlock": "2"
+    },
+    {
+      "gameId": "SwordAttack_2",
+      "skillName": "회전 베기",
+      "manaCost": "0",
+      "cooldown": "1.1",
+      "castingRange": "3.5",
+      "type": "basic",
+      "description": "[기본 공격]: 대상에게 [피해 비율: 130%] 물리 피해를 줍니다.\n[회전 베기]는 5초마다 발동 가능하며, 주변 적들에게 [피해 비율: 220%] 물리 피해를 줍니다. 적중 시마다 [대상 최대 HP 3%] 보호막을 4초 동안 얻으며, 최대 5회 중첩됩니다.",
+      "tierUnlock": "4"
+    },
+    {
+      "gameId": "SwordAttack_3",
+      "skillName": "검기 방출",
+      "manaCost": "0",
+      "cooldown": "1.1",
+      "castingRange": "20",
+      "type": "basic",
+      "description": "[기본 공격]: 대상에게 [피해 비율: 130%] 물리 피해를 줍니다.\n[검기 방출]은 6초마다 발동 가능하며, 전방으로 검기를 발산해 [피해 비율: 140%] 물리 피해를 줍니다. 적을 맞히면 이동 속도가 2초간 25% 증가합니다.",
+      "tierUnlock": "6"
+    }
+  ],
+  "commonSkills": [
+    {
+      "gameId": "Sword_Common_Skill_1",
+      "skillName": "진공 베기",
+      "manaCost": "18",
+      "cooldown": "11",
+      "castingRange": "5",
+      "type": "common",
+      "description": "전방을 4회 베어 플레이어에게 [피해 비율: 60%] 물리 피해 (몹에게는 [피해 비율: 90%])를 줍니다. 마지막 일격은 검기를 발산하여 범위 내 모든 적에게 [피해 비율: 150%] 물리 피해를 줍니다.",
+      "tierUnlock": "1"
+    },
+    {
+      "gameId": "Sword_Common_Skill_3",
+      "skillName": "고통의 타격",
+      "manaCost": "20",
+      "cooldown": "13",
+      "castingRange": "10",
+      "type": "common",
+      "description": "대상 위치로 도약해 [피해 비율: 200%] 물리 피해를 주고, 착지 시 주변 적에게 3초간 50% 둔화를 겁니다. 적을 맞히면 [대상 최대 HP 20%] 보호막을 4초 동안 얻습니다.",
+      "tierUnlock": "3"
+    },
+    {
+      "gameId": "Sword_Common_Skill_4",
+      "skillName": "힘으로 베어내기",
+      "manaCost": "18",
+      "cooldown": "11",
+      "castingRange": "10",
+      "type": "common",
+      "description": "충전하며 제어 면역을 얻고 피해 저항이 20% 증가합니다. 충전 중: [피해 비율: 150%] 물리 피해를 주고 0.5초간 기절시킵니다. 1.5초 이상 충전 시 [피해 비율: 200%] 물리 피해와 1.5초 기절을 주며, 지면 충격파를 발생시켜 [피해 비율: 150%] 물리 피해와 4초간 40% 둔화를 겁니다.",
+      "tierUnlock": "5"
+    },
+    {
+      "gameId": "Sword_Common_Skill_5",
+      "skillName": "방어 베기",
+      "manaCost": "20",
+      "cooldown": "13",
+      "castingRange": "6",
+      "type": "common",
+      "description": "3초간 방어 태세에 돌입합니다. 이동 속도가 감소하지만 제어 면역과 피해 저항 +70%를 얻습니다. 이후 범위 내 적에게 [피해 비율: 320%] 물리 피해를 주고 4초간 방어력을 20 감소시킵니다. 방어 태세는 조기 해제 가능합니다.",
+      "tierUnlock": "7"
+    },
+    {
+      "gameId": "Sword_Common_Skill_2",
+      "skillName": "강철의 심장",
+      "manaCost": "20",
+      "cooldown": "13",
+      "castingRange": "6",
+      "type": "common",
+      "description": "즉시 모든 제어 효과를 해제하고 [검의 기세] 1중첩을 얻으며, 8초 동안 피해 저항 +25%와 다음 3회의 기본 공격 공격 속도 +80%를 얻습니다. 스킬이 봉인된 상태에서도 사용 가능합니다.",
+      "tierUnlock": "8"
+    }
+  ],
+  "skills": [
+    {
+      "gameId": "Sword_ZeroSlash",
+      "gearIcon": "SpecImage_SWORD4",
+      "gearName": "강철 클리버",
+      "skillName": "태풍 베기",
+      "manaCost": "23",
+      "cooldown": "18",
+      "castingRange": "10",
+      "type": "skill",
+      "description": "대상 위치로 회전 돌진하여 범위 내 모든 플레이어에게 [피해 비율: 75%] 물리 피해 (몹에게는 [피해 비율: 150%])를 줍니다. [검의 기세] 3중첩 이상일 때 도착 지점에 5초간 회오리를 생성해 매초 [피해 비율: 50%] 물리 피해를 줍니다.",
+      "tierUnlock": "2",
+      "rarity": "rare",
+      "stats": {
+        "attackPower": "148",
+        "tenacity": "30",
+        "ms": "0.3",
+        "as": "0.76"
+      }
+    },
+    {
+      "gameId": "Sword_Claymore",
+      "gearIcon": "SpecImage_SWORD1",
+      "gearName": "망령의 칼날",
+      "skillName": "과부하 베기",
+      "manaCost": "23",
+      "cooldown": "18",
+      "castingRange": "12",
+      "type": "skill",
+      "description": "짧게 충전 후 적에게 돌진하여 4초간 [치유 차단]을 부여하고, [검의 기세] 중첩에 따라 물리 피해를 줍니다. [검의 기세] 중첩: 0 | 1 | 2 | 3-6 물리 피해: [피해 비율: 210%] | [피해 비율: 240%] | [피해 비율: 270%] | [피해 비율: 300%] 3중첩 이상일 경우 추가 폭발을 일으켜 [피해 비율: 200%] 물리 피해와 1.5초 기절을 줍니다. [치유 차단]: 치유 불가.",
+      "tierUnlock": "2",
+      "rarity": "epic",
+      "stats": {
+        "attackPower": "155",
+        "tenacity": "30",
+        "ms": "0.3",
+        "as": "0.76"
+      }
+    },
+    {
+      "gameId": "Sword_Clarent",
+      "gearIcon": "SpecImage_SWORD3",
+      "gearName": "공허의 칼날",
+      "skillName": "강제 관통",
+      "manaCost": "23",
+      "cooldown": "18",
+      "castingRange": "20",
+      "type": "skill",
+      "description": "전방에 강력한 검기를 발산해 [피해 비율: 300%] 마법 피해를 줍니다. [검의 기세] 중첩에 따른 추가 효과: 1중첩: 2초간 30% 둔화 / 2중첩: 2초간 30% 둔화 + 2초 침묵 / 3-6중첩: 4초간 30% 둔화 + 4초 침묵. 3중첩 이상일 경우 추가 검기 2개를 발사하며, 추가 검기의 피해는 30% 감소합니다.",
+      "tierUnlock": "2",
+      "rarity": "epic",
+      "stats": {
+        "attackPower": "155",
+        "tenacity": "45",
+        "ms": "0.3",
+        "as": "0.76"
+      }
+    },
+    {
+      "gameId": "Sword_KingSlash",
+      "gearIcon": "SpecImage_SWORD5",
+      "gearName": "로드 브레이커",
+      "skillName": "군주의 일격",
+      "manaCost": "23",
+      "cooldown": "18",
+      "castingRange": "7",
+      "type": "skill",
+      "description": "적을 8m 밀쳐내고 [피해 비율: 450%] 물리 피해를 줍니다. [검의 기세] 중첩에 따라 6초 동안 적이 주는 피해를 감소시킵니다. [검의 기세] 중첩: 0 | 1 | 2 | 3-6 피해 감소: 20% | 26% | 32% | 38%. 3중첩 이상일 경우 밀쳐내는 거리가 12m로 증가하며 충돌 시 2초 기절을 줍니다.",
+      "tierUnlock": "2",
+      "rarity": "epic",
+      "stats": {
+        "attackPower": "155",
+        "tenacity": "30",
+        "ms": "0.3",
+        "as": "0.76"
+      }
+    },
+    {
+      "gameId": "Sword_Knight",
+      "gearIcon": "SpecImage_SWORD6",
+      "gearName": "거인의 척추검",
+      "skillName": "거인의 보폭",
+      "manaCost": "25",
+      "cooldown": "23",
+      "castingRange": "6",
+      "type": "skill",
+      "description": "강제 이동(끌어오기, 밀쳐내기)에 면역을 얻습니다. 10초간 [검의 기세] 중첩에 따라 공격 범위와 최대 HP가 증가합니다 (해제 불가). [거인의 보폭]을 사용해 [피해 비율: 150%] 물리 피해를 주고 0.5초간 띄울 수 있습니다. [검의 기세] 중첩: 0 | 1 | 2 | 3-6 기본 공격 범위: 1.5 | 2 | 2.5 | 3 최대 HP: 30% | 45% | 60% | 75% 3중첩 이상일 경우 적의 이동 속도와 공격 속도를 30% 감소시키는 거인 오라를 생성합니다.",
+      "tierUnlock": "2",
+      "rarity": "epic",
+      "stats": {
+        "attackPower": "155",
+        "tenacity": "30",
+        "ms": "0.3",
+        "as": "0.76"
+      }
+    },
+    {
+      "gameId": "Sword_Carving",
+      "gearIcon": "SpecImage_SWORD2",
+      "gearName": "수호자의 맹세",
+      "skillName": "소멸의 일격",
+      "manaCost": "27",
+      "cooldown": "27",
+      "castingRange": "12",
+      "type": "skill",
+      "description": "전방으로 돌진하여 모든 적에게 [피해 비율: 250%] 물리 피해를 줍니다. [검의 기세] 중첩에 따라 4초간 피해 저항을 감소시킵니다. [검의 기세] 중첩: 0 | 1 | 2 | 3-6 피해 저항 감소: 15% | 24% | 32% | 40%. 3중첩 이상일 경우 도착 지점에서 적을 끌어당기고 1.8초간 여러 번 베어 0.3초마다 [피해 비율: 30%] 물리 피해를 줍니다.",
+      "tierUnlock": "2",
+      "rarity": "legendary",
+      "stats": {
+        "attackPower": "163",
+        "tenacity": "30",
+        "ms": "0.3",
+        "as": "0.76"
+      }
+    },
+    {
+      "gameId": "Sword_ThousandBlade",
+      "gearIcon": "SpecImage_SWORD7",
+      "gearName": "통치자의 광휘",
+      "skillName": "천검 일격",
+      "manaCost": "23",
+      "cooldown": "18",
+      "castingRange": "12",
+      "type": "skill",
+      "description": "대상 위치로 도약해 수많은 검을 생성합니다. 물리 피해는 [검의 기세] 중첩에 따라 달라집니다. [검의 기세] 중첩: 0 | 1 | 2 | 3-6 물리 피해: [피해 비율: 280%] | [피해 비율: 320%] | [피해 비율: 360%] | [피해 비율: 400%] 3중첩 이상일 경우 외곽으로 두 줄의 검기를 방출해 각각 [피해 비율: 150%] 물리 피해를 주고 1초간 띄웁니다.",
+      "tierUnlock": "2",
+      "rarity": "legendary",
+      "stats": {
+        "attackPower": "163",
+        "tenacity": "30",
+        "ms": "0.3",
+        "as": "0.76"
+      }
+    },
+    {
+      "isActive": false,
+      "gameId": "Sword_BloodSword_skill",
+      "gearIcon": "SpecImage_SWORD8",
+      "gearName": "혈검",
+      "skillName": "",
+      "manaCost": "",
+      "cooldown": "",
+      "castingRange": "",
+      "type": "skill",
+      "description": "",
+      "tierUnlock": "2",
+      "rarity": "legendary",
+      "stats": {
+        "attackPower": "",
+        "as": ""
+      }
+    }
+  ]
+}

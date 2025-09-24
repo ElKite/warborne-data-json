@@ -1,0 +1,126 @@
+{
+  "lastUpdate": "2025년 6월 6일 오전 6시",
+  "chest_intelligence": [
+    {
+      "gameId": "Cloth_Int_3",
+      "gearIcon": "SpecImage_ROBE3",
+      "gearName": "활력 망토",
+      "skillName": "치유",
+      "manaCost": "",
+      "cooldown": "32",
+      "castingRange": "7",
+      "type": "skill",
+      "description": "주변 아군의 HP를 즉시 [회복 비율: 120%] 만큼 회복합니다.",
+      "tierUnlock": "1",
+      "rarity": "rare"
+    },
+    {
+      "gameId": "Cloth_Int_1",
+      "gearIcon": "SpecImage_ROBE1",
+      "gearName": "정화의 로브",
+      "skillName": "정화",
+      "manaCost": "",
+      "cooldown": "27",
+      "castingRange": "6",
+      "type": "skill",
+      "description": "모든 군중 제어 효과를 즉시 제거하고, [회복 비율: 180%] HP를 회복하며 2초간 군중 제어 면역을 얻습니다. 스킬이 비활성화된 상태에서도 사용할 수 있습니다.",
+      "tierUnlock": "1",
+      "rarity": "epic"
+    },
+    {
+      "gameId": "Cloth_Int_4",
+      "gearIcon": "SpecImage_ROBE4",
+      "gearName": "아르카네의 로브",
+      "skillName": "마나샘",
+      "manaCost": "",
+      "cooldown": "32",
+      "castingRange": "7",
+      "type": "skill",
+      "description": "시전자 주변 7m 반경에 6초 동안 마나샘을 생성합니다. 범위 내 아군은 매초 10 MP를 회복하며, 시전 속도가 80% 증가합니다.",
+      "tierUnlock": "1",
+      "rarity": "epic"
+    },
+    {
+      "gameId": "Cloth_Int_5",
+      "gearIcon": "SpecImage_ROBE6",
+      "gearName": "엑소시스트의 로브",
+      "skillName": "해제",
+      "manaCost": "",
+      "cooldown": "27",
+      "castingRange": "16",
+      "type": "skill",
+      "description": "해제 투사체를 발사하여 명중 지점의 적에게 [피해 비율: 120%] 마법 피해를 입히고, 모든 버프와 보호막 효과를 제거합니다. 대상의 물리 피해량을 40% 감소시킵니다.",
+      "tierUnlock": "1",
+      "rarity": "epic"
+    },
+    {
+      "gameId": "Cloth_Int_7",
+      "gearIcon": "SpecImage_ROBE2",
+      "gearName": "반발의 망토",
+      "skillName": "격퇴",
+      "manaCost": "",
+      "cooldown": "27",
+      "castingRange": "6",
+      "type": "skill",
+      "description": "주변 적에게 [피해 비율: 200%] 마법 피해를 입히고, 4초 동안 무장을 해제하며 10m 뒤로 밀쳐냅니다. 또한 이동 속도를 40% 감소시킵니다.",
+      "tierUnlock": "1",
+      "rarity": "epic"
+    },
+    {
+      "gameId": "Cloth_Int_8",
+      "gearIcon": "SpecImage_ROBE7",
+      "gearName": "수호의 장막",
+      "skillName": "보호막",
+      "manaCost": "",
+      "cooldown": "27",
+      "castingRange": "6",
+      "type": "skill",
+      "description": "6초 동안 대상 최대 HP의 45%에 해당하는 보호막을 얻습니다. 보호막이 유지되는 동안 피해를 받을 때마다 MP를 10 회복합니다.",
+      "tierUnlock": "1",
+      "rarity": "legendary",
+      "stats": {
+        "hp": "755",
+        "dmgBonus": "56%",
+        "armor": "64",
+        "magicResi": "119"
+      }
+    },
+    {
+      "gameId": "Cloth_Int_2",
+      "gearIcon": "SpecImage_ROBE5",
+      "gearName": "공포 망토",
+      "skillName": "공황",
+      "manaCost": "",
+      "cooldown": "46",
+      "castingRange": "",
+      "type": "skill",
+      "description": "시전자 주변에 6초 동안 공황 저주장을 생성합니다.\n범위 6m 안의 적이 스킬을 사용하면 [피해 비율: 200%] 마법 피해를 입고 1.5초 동안 공포에 걸립니다.",
+      "tierUnlock": "1",
+      "rarity": "legendary",
+      "stats": {
+        "hp": "755",
+        "dmgBonus": "56%",
+        "armor": "64",
+        "magicResi": "119"
+      }
+    },
+    {
+      "gameId": "Cloth_Int_10",
+      "gearIcon": "SpecImage_ROBE8",
+      "gearName": "아이기스 로브",
+      "skillName": "수호",
+      "manaCost": "",
+      "cooldown": "27",
+      "castingRange": "6",
+      "type": "skill",
+      "description": "6초 동안 방어력이 +120 증가합니다(능력치에 따라 증가). 지속 시간 동안 기본 공격이나 스킬로 피해를 받을 경우, 공격자의 피해량을 40% 감소시키고 이동 속도를 30% 감소시킵니다. (4초 지속)",
+      "tierUnlock": "1",
+      "rarity": "epic",
+      "stats": {
+        "hp": "",
+        "dmgBonus": "",
+        "mpRecovery": ""
+      }
+    }
+  ]
+}

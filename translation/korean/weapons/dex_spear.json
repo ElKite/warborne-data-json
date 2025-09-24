@@ -1,0 +1,231 @@
+{
+  "lastUpdate": "2025년 6월 6일 오전 6시",
+  "passive": {
+    "gameId": "Spear_Passive",
+    "skillName": "창의 상흔",
+    "manaCost": "",
+    "cooldown": "",
+    "castingRange": "",
+    "type": "passive",
+    "description": "무기 스킬 사용 시 [창의 상흔]을 획득합니다:\n다음 4회의 기본 공격이 공격 속도 +60%, 사거리 +2.5m, 생명력 흡수 +30%를 얻습니다. 효과는 6초간 지속됩니다.\n또한 45% 확률로 [대상 최대 HP의 15%]에 해당하는 보호막을 2초간 얻습니다."
+  },
+  "basicAttacks": [
+    {
+      "gameId": "SpearAttack_3",
+      "skillName": "도약 돌격",
+      "manaCost": "0",
+      "cooldown": "0.89",
+      "castingRange": "7",
+      "type": "basic",
+      "description": "[기본 공격]: 대상에게 [피해 비율: 100%] 물리 피해를 줍니다.\n[도약 돌격]은 5초마다 사용할 수 있습니다.\n적 대상에게 돌진하여 [피해 비율: 170%] 물리 피해를 주고 공격 속도를 20% 증가시킵니다. (4초 지속)",
+      "tierUnlock": "2"
+    },
+    {
+      "gameId": "SpearAttack_2",
+      "skillName": "관통 투창",
+      "manaCost": "0",
+      "cooldown": "0.89",
+      "castingRange": "14",
+      "type": "basic",
+      "description": "[기본 공격]: 대상에게 [피해 비율: 100%] 물리 피해를 줍니다.\n기본 공격 5회 후 대상에게 관통 창을 던집니다.\n경로상의 적들에게 [피해 비율: 180%] 물리 피해를 주고 자신의 이동 속도를 20% 증가시킵니다. (2초간 지속)",
+      "tierUnlock": "4"
+    },
+    {
+      "gameId": "SpearAttack_4",
+      "skillName": "휘두르기 일격",
+      "manaCost": "0",
+      "cooldown": "0.89",
+      "castingRange": "4",
+      "type": "basic",
+      "description": "[기본 공격]: 대상에게 [피해 비율: 100%] 물리 피해를 줍니다.\n[휘두르기 일격]은 5초마다 사용할 수 있습니다.\n범위 내 적들에게 [피해 비율: 240%] 물리 피해를 줍니다.\n적중한 적 하나당 피해 저항력이 6% 증가하며, 4초간 지속되고 최대 5중첩 가능합니다.",
+      "tierUnlock": "6"
+    }
+  ],
+  "commonSkills": [
+    {
+      "gameId": "Spear_Common_Skill_1",
+      "skillName": "창 찌르기",
+      "manaCost": "14",
+      "cooldown": "7.4",
+      "castingRange": "7",
+      "type": "common",
+      "description": "전방 원뿔 범위의 적을 연속으로 찔러, 적중마다 [피해 비율: 60%] 물리 피해를 줍니다.\n마지막으로 전방을 베어 [피해 비율: 130%] 물리 피해를 줍니다.",
+      "tierUnlock": "1"
+    },
+    {
+      "gameId": "Spear_Common_Skill_4",
+      "skillName": "창 꿰뚫기",
+      "manaCost": "18",
+      "cooldown": "1.5",
+      "castingRange": "12",
+      "type": "common",
+      "description": "대상 위치에 창을 던져 범위 내 적들에게 [피해 비율: 160%] 물리 피해를 주고, 이동 속도를 25% 감소시킵니다. (3초간 지속)\n창은 6초간 남습니다. 해당 위치로 이동해 회수하면 이동 속도 +20%, 공격 속도 +20% (4초간 지속)를 얻습니다.\n12초마다 1회 충전되며, 최대 2회 충전됩니다.",
+      "tierUnlock": "3"
+    },
+    {
+      "gameId": "Spear_Common_Skill_3",
+      "skillName": "방어의 휘두름",
+      "manaCost": "20",
+      "cooldown": "13",
+      "castingRange": "4",
+      "type": "common",
+      "description": "4초간 정신 집중하여 군중 제어 면역과 피해 저항 +60%를 얻습니다.\n받은 피해의 80%를 물리 피해로 반사합니다.\n또한 0.5초마다 주변 적에게 [피해 비율: 40%] 물리 피해를 줍니다.\n정신 집중 중 스킬을 다시 사용하면 전방으로 돌진하여 [피해 비율: 150%] 물리 피해를 주고 방어력 감소 65를 4초간 부여합니다.",
+      "tierUnlock": "5"
+    },
+    {
+      "gameId": "Spear_Common_Skill_2",
+      "skillName": "창 치솟기",
+      "manaCost": "20",
+      "cooldown": "13",
+      "castingRange": "10",
+      "type": "common",
+      "description": "전방의 적들에게 [피해 비율: 150%] 물리 피해를 주고 1초간 에어본시킵니다.\n6초 내 재사용 시 착지 공격으로 [피해 비율: 150%] 물리 피해를 주고, 범위 내 적들의 이동 속도를 45% 감소시킵니다. (3초간 지속)",
+      "tierUnlock": "7"
+    },
+    {
+      "gameId": "Spear_Common_Skill_5",
+      "skillName": "창 회수",
+      "manaCost": "20",
+      "cooldown": "13",
+      "castingRange": "6",
+      "type": "common",
+      "description": "즉시 군중 제어 효과를 해제하고 전방의 적들에게 [피해 비율: 280%] 물리 피해를 줍니다.\n뒤로 8m 도약하며, 이동 속도를 30% 증가시킵니다. (4초간 지속)\n스킬 사용 불가 상태에서도 사용할 수 있습니다.",
+      "tierUnlock": "8"
+    }
+  ],
+  "skills": [
+    {
+      "gameId": "Spear_SpearDance",
+      "gearIcon": "SpecImage_SPEAR6",
+      "gearName": "별빛 가시",
+      "skillName": "핏빛 폭발",
+      "manaCost": "23",
+      "cooldown": "18",
+      "castingRange": "5",
+      "type": "skill",
+      "description": "전방을 연속으로 휘둘러 적중할 때마다 [피해 비율: 120%] (플레이어 대상) / [피해 비율: 240%] (몬스터 대상) 물리 피해를 줍니다.\n마지막 일격은 [피해 비율: 180%] (플레이어) / [피해 비율: 360%] (몬스터) 물리 피해를 줍니다.\n공격마다 방어력 감소 -22 효과를 부여하며 6초간 지속, 최대 4중첩 가능합니다.",
+      "tierUnlock": "2",
+      "rarity": "rare",
+      "stats": {
+        "attackPower": "148",
+        "tenacity": "30",
+        "ms": "0.3",
+        "as": "1"
+      }
+    },
+    {
+      "gameId": "Spear_Trinity",
+      "gearIcon": "SpecImage_SPEAR3",
+      "gearName": "수호자의 창",
+      "skillName": "정의의 깃발",
+      "manaCost": "25",
+      "cooldown": "23",
+      "castingRange": "10",
+      "type": "skill",
+      "description": "대상 위치로 도약하여 착지 시 [피해 비율: 300%] 물리 피해를 주고, 적을 2.5초간 구속합니다.\n정의의 깃발을 꽂아 8초간 유지되며, 범위 내 아군은 피해 저항 +30%, 공격 속도 +35%를 얻습니다.",
+      "tierUnlock": "2",
+      "rarity": "epic",
+      "stats": {
+        "attackPower": "155",
+        "tenacity": "30",
+        "ms": "0.3",
+        "as": "1"
+      }
+    },
+    {
+      "gameId": "Spear_Fling",
+      "gearIcon": "SpecImage_SPEAR1",
+      "gearName": "폭풍송곳니 창",
+      "skillName": "급류 투창",
+      "manaCost": "23",
+      "cooldown": "18",
+      "castingRange": "12",
+      "type": "skill",
+      "description": "적에게 돌진해 [피해 비율: 150%] 물리 피해를 주고 1초간 기절시킵니다. (군중 제어 저항 무시)\n대상을 뒤로 던져 착지 지점의 적에게 [피해 비율: 200%] 물리 피해를 주고, 이동 속도를 30% 감소시킵니다. (3초간 지속)",
+      "tierUnlock": "2",
+      "rarity": "epic",
+      "stats": {
+        "attackPower": "155",
+        "tenacity": "30",
+        "ms": "0.3",
+        "as": "1"
+      }
+    },
+    {
+      "gameId": "Spear_Sweep",
+      "gearIcon": "SpecImage_SPEAR7",
+      "gearName": "폭풍의 창",
+      "skillName": "소용돌이 폭풍",
+      "manaCost": "25",
+      "cooldown": "21",
+      "castingRange": "7",
+      "type": "skill",
+      "description": "휘두르는 일격으로 [피해 비율: 300%] 물리 피해를 주고 적을 8m 밀쳐냅니다.\n시전자에게 6초간 피해 저항 +50%를 부여합니다.\n또한 8초간 교란장을 생성하여 범위 내 적의 이동 속도를 30% 감소시키고 피해량을 20% 감소시킵니다.",
+      "tierUnlock": "2",
+      "rarity": "epic",
+      "stats": {
+        "attackPower": "155",
+        "tenacity": "30",
+        "ms": "0.3",
+        "as": "1"
+      }
+    },
+    {
+      "gameId": "Spear_DragonBack",
+      "gearIcon": "SpecImage_SPEAR8",
+      "gearName": "드레이크 스파이크",
+      "skillName": "연속 찌르기",
+      "manaCost": "25",
+      "cooldown": "23",
+      "castingRange": "10",
+      "type": "skill",
+      "description": "전방으로 돌진하여 경로상의 적들에게 [피해 비율: 67%] 물리 피해를 줍니다.\n도착 지점에서 전방의 적을 3회 찌르며, 매번 [피해 비율: 67%] 물리 피해를 줍니다.\n적중 시마다 자신의 체력을 [회복 비율: 67%] 만큼 회복합니다.\n6초 내 재사용 가능합니다.",
+      "tierUnlock": "2",
+      "rarity": "epic",
+      "stats": {
+        "attackPower": "155",
+        "tenacity": "30",
+        "ms": "0.3",
+        "as": "1"
+      }
+    },
+    {
+      "gameId": "Spear_SpiritHunter",
+      "gearIcon": "SpecImage_SPEAR4",
+      "gearName": "부식의 창",
+      "skillName": "부패 낙하",
+      "manaCost": "25",
+      "cooldown": "1.5",
+      "castingRange": "12",
+      "type": "skill",
+      "description": "대상 위치에 부식의 창을 던져 [피해 비율: 200%] 물리 피해를 주고, 적의 최대 HP를 15% 감소시킵니다. (4초간 지속)\n5초간 확장되는 부식 지대를 생성하여 적들의 이동 속도를 40% 감소시키고, 매초 [피해 비율: 80%] 마법 피해를 줍니다.\n25초마다 1회 충전되며, 최대 2회 충전됩니다.",
+      "tierUnlock": "2",
+      "rarity": "legendary",
+      "stats": {
+        "attackPower": "163",
+        "tenacity": "30",
+        "ms": "0.3",
+        "as": "1"
+      }
+    },
+    {
+      "gameId": "Spear_Bright",
+      "gearIcon": "SpecImage_SPEAR2",
+      "gearName": "환영의 창",
+      "skillName": "그림자 돌진",
+      "manaCost": "22",
+      "cooldown": "1.5",
+      "castingRange": "12",
+      "type": "skill",
+      "description": "대상 방향으로 돌진해 [피해 비율: 260%] 물리 피해를 주고, 1초간 에어본시킵니다.\n4초간 무장 해제와 이동 속도 30% 감소를 부여합니다.\n18초마다 1회 충전되며, 최대 2회 충전됩니다.",
+      "tierUnlock": "2",
+      "rarity": "legendary",
+      "stats": {
+        "attackPower": "163",
+        "tenacity": "30",
+        "ms": "0.3",
+        "as": "1"
+      }
+    }
+  ]
+}

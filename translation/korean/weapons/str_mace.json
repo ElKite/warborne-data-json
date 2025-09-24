@@ -1,0 +1,256 @@
+{
+  "lastUpdate": "2025년 6월 6일 오전 6시",
+  "passive": {
+    "gameId": "Mace_Passive",
+    "skillName": "수호자",
+    "manaCost": "",
+    "cooldown": "",
+    "castingRange": "",
+    "type": "passive",
+    "description": "무기 스킬 사용 시 6초 동안 받는 피해 저항이 30% 증가하고, 군중 제어 저항이 35 증가합니다."
+  },
+  "basicAttacks": [
+    {
+      "gameId": "MaceAttack_2",
+      "skillName": "휘두르기",
+      "manaCost": "0",
+      "cooldown": "1",
+      "castingRange": "5",
+      "type": "basic",
+      "description": "[기본 공격]: 대상에게 [피해 비율: 120%] 물리 피해를 줍니다.\n[휘두르기]는 4초마다 발동 가능하며, 전방 부채꼴 범위의 모든 플레이어에게 [피해 비율: 240%] 물리 피해 (몹에게는 [피해 비율: 480%] 물리 피해)를 줍니다.",
+      "tierUnlock": "2"
+    },
+    {
+      "gameId": "MaceAttack_1",
+      "skillName": "강타",
+      "manaCost": "0",
+      "cooldown": "1",
+      "castingRange": "3.5",
+      "type": "basic",
+      "description": "[기본 공격]: 대상에게 [피해 비율: 120%] 물리 피해를 줍니다.\n[강타]는 7초마다 발동 가능하며, 범위 내 적에게 [피해 비율: 150%] 물리 피해를 주고, 5명의 아군을 [회복 비율: 90%] HP 만큼 치유합니다. 또한 6초 동안 피해 저항이 15% 증가합니다.",
+      "tierUnlock": "4"
+    },
+    {
+      "gameId": "MaceAttack_3",
+      "skillName": "분쇄 강타",
+      "manaCost": "0",
+      "cooldown": "1",
+      "castingRange": "7",
+      "type": "basic",
+      "description": "[기본 공격]: 대상에게 [피해 비율: 120%] 물리 피해를 줍니다.\n[분쇄 강타]는 6초마다 발동 가능하며, 대상에게 돌진해 [피해 비율: 160%] 물리 피해를 주고 3초 동안 35% 둔화를 겁니다.",
+      "tierUnlock": "6"
+    }
+  ],
+  "commonSkills": [
+    {
+      "gameId": "Mace_Common_Skill_6",
+      "skillName": "광란의 강타",
+      "manaCost": "15",
+      "cooldown": "8.3",
+      "castingRange": "3",
+      "type": "common",
+      "description": "지면을 4회 내려칩니다. 처음 3회는 플레이어에게 [피해 비율: 120%] 물리 피해 (몹에게는 [피해 비율: 180%])를 주며, 마지막 일격은 플레이어에게 [피해 비율: 200%] (몹에게는 [피해 비율: 300%]) 물리 피해를 주고 0.5초 동안 띄워 올립니다.",
+      "tierUnlock": "1"
+    },
+    {
+      "gameId": "Mace_Common_Skill_3",
+      "skillName": "연속 분쇄",
+      "manaCost": "20",
+      "cooldown": "13",
+      "castingRange": "10",
+      "type": "common",
+      "description": "대상 위치로 도약해 [피해 비율: 200%] 물리 피해를 주고, 범위 내 적들을 2.5초 동안 속박합니다.",
+      "tierUnlock": "3"
+    },
+    {
+      "gameId": "Mace_Common_Skill_1",
+      "skillName": "수호자의 영역",
+      "manaCost": "17",
+      "cooldown": "9.3",
+      "castingRange": "12",
+      "type": "common",
+      "description": "대상 위치에 5초간 수호자의 장을 생성합니다. 범위 내 아군의 최대 HP가 25% 증가하며, 강제 이동(끌어오기, 밀쳐내기)과 주요 군중 제어(기절, 공포, 빙결, 띄우기, 석화, 수면)에 면역이 됩니다.",
+      "tierUnlock": "5"
+    },
+    {
+      "gameId": "Mace_Common_Skill_2",
+      "skillName": "침묵의 영역",
+      "manaCost": "15",
+      "cooldown": "8.3",
+      "castingRange": "4",
+      "type": "common",
+      "description": "범위 내 적에게 [피해 비율: 200%] 마법 피해를 주고 4초 동안 침묵의 장을 생성합니다. 범위 내 적은 이동 속도가 25% 감소하며 침묵 상태가 됩니다. 범위를 벗어난 적은 6초 동안 침묵 면역이 됩니다.",
+      "tierUnlock": "7"
+    },
+    {
+      "gameId": "Mace_Common_Skill_4",
+      "skillName": "복수의 번개",
+      "manaCost": "20",
+      "cooldown": "13",
+      "castingRange": "9",
+      "type": "common",
+      "description": "자신 또는 아군 대상에게 [복수의 번개]를 부여합니다.\n[복수의 번개]: 8초 동안 피해 저항이 25% 증가합니다. 피해를 입거나 기본 공격으로 피해를 줄 때마다 대상 위치에 번개가 떨어져 [피해 비율: 51%] 물리 피해를 줍니다. (재사용 대기시간: 0.8초)",
+      "tierUnlock": "8"
+    }
+  ],
+  "skills": [
+    {
+      "gameId": "Mace_1HandMace",
+      "gearIcon": "SpecImage_MACE1",
+      "gearName": "파괴자의 의지",
+      "skillName": "단호한 분쇄",
+      "manaCost": "21",
+      "cooldown": "18",
+      "castingRange": "10",
+      "type": "skill",
+      "description": "대상 위치로 도약해 범위 내 모든 플레이어에게 [피해 비율: 250%] 물리 피해 (몹에게는 [피해 비율: 375%])를 줍니다. 적 한 명당 [대상 최대 HP의 6%] 보호막을 6초 동안 획득하며 최대 5회 중첩됩니다.",
+      "tierUnlock": "2",
+      "rarity": "rare",
+      "stats": {
+        "hp": "320",
+        "attackPower": "133",
+        "tenacity": "20",
+        "ms": "0.3",
+        "as": "0.83"
+      }
+    },
+    {
+      "gameId": "Mace_Common_Skill_5",
+      "gearIcon": "SpecImage_MACE2",
+      "gearName": "중력 망치",
+      "skillName": "분쇄 강타",
+      "manaCost": "25",
+      "cooldown": "23",
+      "castingRange": "4",
+      "type": "skill",
+      "description": "최대 3초간 충전할 수 있으며, 충전 시간에 따라 피해 범위가 확장되며 2초에 도달하면 최대 크기가 됩니다. 충전 중에는 방해받지 않습니다. 충전 중 0.5초마다 범위 내 적에게 [피해 비율: 80%] 물리 피해를 줍니다. 최대 충전 후 사용 시 적을 자신 쪽으로 끌어당기고 [피해 비율: 250%] 물리 피해를 주며 3초 동안 40% 둔화를 겁니다. 충전이 낮을 경우 피해와 둔화만 적용됩니다.",
+      "tierUnlock": "2",
+      "rarity": "epic",
+      "stats": {
+        "hp": "336",
+        "attackPower": "139",
+        "tenacity": "20",
+        "ms": "0.3",
+        "as": "0.83"
+      }
+    },
+    {
+      "gameId": "Mace_DualMace",
+      "gearIcon": "SpecImage_MACE3",
+      "gearName": "심판관",
+      "skillName": "공허 강타",
+      "manaCost": "25",
+      "cooldown": "23",
+      "castingRange": "6",
+      "type": "skill",
+      "description": "지면을 내려쳐 범위 내 적에게 [피해 비율: 300%] 마법 피해를 주고 모든 버프를 해제하며, 적이 주는 피해를 8초간 50% 감소시키고 3초 동안 침묵 상태로 만듭니다. 최대 15명에게 적용됩니다.",
+      "tierUnlock": "2",
+      "rarity": "epic",
+      "stats": {
+        "hp": "336",
+        "attackPower": "139",
+        "tenacity": "20",
+        "ms": "0.3",
+        "as": "0.83"
+      }
+    },
+    {
+      "gameId": "Mace_Hook",
+      "gearIcon": "SpecImage_MACE4",
+      "gearName": "리퍼의 손아귀",
+      "skillName": "갈고리 일격",
+      "manaCost": "22",
+      "cooldown": "16",
+      "castingRange": "18",
+      "type": "skill",
+      "description": "전방으로 기계 갈고리를 발사합니다. 첫 번째로 맞은 적은 1.5초 동안 기절하며 (군중 제어 저항 무시), [피해 비율: 450%] 물리 피해를 받고 시전자 쪽으로 끌려옵니다.",
+      "tierUnlock": "2",
+      "rarity": "epic",
+      "stats": {
+        "hp": "336",
+        "attackPower": "139",
+        "tenacity": "20",
+        "ms": "0.3",
+        "as": "0.83"
+      }
+    },
+    {
+      "gameId": "Mace_ShieldMace_2",
+      "gearIcon": "SpecImage_MACE6",
+      "gearName": "수호자의 코어",
+      "skillName": "방패 강타",
+      "manaCost": "23",
+      "cooldown": "18",
+      "castingRange": "3",
+      "type": "skill",
+      "description": "20초 동안 방패를 들어 제어 면역, 피해 저항 +50%, 공격 범위를 증가시킵니다. 재사용 시 [피해 비율: 300%] 물리 피해를 주고 3초 동안 50% 둔화를 겁니다. 이 상태는 누적 피해가 [대상 최대 HP의 30%]에 도달하면 종료됩니다.",
+      "tierUnlock": "2",
+      "rarity": "epic",
+      "stats": {
+        "hp": "336",
+        "attackPower": "139",
+        "tenacity": "20",
+        "ms": "0.3",
+        "as": "0.83"
+      }
+    },
+    {
+      "gameId": "Mace_CamlannMace",
+      "gearIcon": "SpecImage_MACE5",
+      "gearName": "파괴자의 해머",
+      "skillName": "공허 포식",
+      "manaCost": "27",
+      "cooldown": "27",
+      "castingRange": "20",
+      "type": "skill",
+      "description": "중력탄환 2발을 발사해 만나는 지점에 중력 소용돌이를 생성합니다. 범위 내 적은 이동 속도가 25% 감소합니다. 1.5초 후 소용돌이 속 적에게 [피해 비율: 300%] 마법 피해를 주고 중심으로 끌어당긴 뒤 1초간 기절시킵니다.",
+      "tierUnlock": "2",
+      "rarity": "legendary",
+      "stats": {
+        "hp": "353",
+        "attackPower": "146",
+        "tenacity": "20",
+        "ms": "0.3",
+        "as": "0.83"
+      }
+    },
+    {
+      "gameId": "Mace_ThunderMace",
+      "gearIcon": "SpecImage_MACE7",
+      "gearName": "천둥왕의 분노",
+      "skillName": "천둥 충격",
+      "manaCost": "30",
+      "cooldown": "24",
+      "castingRange": "12",
+      "type": "skill",
+      "description": "대상 위치로 도약해 [피해 비율: 200%] 물리 피해를 주고 1.5초 동안 적을 띄웁니다. 6초간 번개 폭풍 지대를 생성하여 7m 내 적의 피해 저항을 15% 감소시키고 매초 [피해 비율: 70%] 물리 피해를 줍니다.",
+      "tierUnlock": "2",
+      "rarity": "legendary",
+      "stats": {
+        "hp": "353",
+        "attackPower": "146",
+        "tenacity": "20",
+        "ms": "0.3",
+        "as": "0.83"
+      }
+    },
+    {
+      "isActive": false,
+      "gameId": "Mace_Paladin_Shield",
+      "gearIcon": "SpecImage_MACE",
+      "gearName": "성기사의 철퇴",
+      "skillName": "성기사의 방패",
+      "manaCost": "",
+      "cooldown": "",
+      "castingRange": "",
+      "type": "skill",
+      "description": "",
+      "tierUnlock": "2",
+      "rarity": "legendary",
+      "stats": {
+        "attackPower": "",
+        "as": ""
+      }
+    }
+  ]
+}

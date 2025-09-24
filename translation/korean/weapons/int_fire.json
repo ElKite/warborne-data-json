@@ -1,0 +1,217 @@
+{
+  "lastUpdate": "2025년 6월 6일 오전 6시",
+  "passive": {
+    "gameId": "FireStaff_Passive",
+    "skillName": "폭발",
+    "manaCost": "",
+    "cooldown": "",
+    "castingRange": "",
+    "type": "passive",
+    "description": "피해를 주면 [화상]을 부여하여 8초간 매초 [피해 비율: 25%] 마법 피해를 입힙니다. 최대 6중첩 가능 (중첩되어 피해가 증가하지는 않음).\n[화상]이 최대 중첩에 도달하면 주변 최대 5명의 적에게 [피해 비율: 80%] 마법 피해를 주고 모든 [화상] 중첩을 제거합니다."
+  },
+  "basicAttacks": [
+    {
+      "gameId": "FireStaffAttack_1",
+      "skillName": "마그마 분출",
+      "manaCost": "",
+      "cooldown": "0.46",
+      "castingRange": "14",
+      "type": "basic",
+      "description": "0.98초 시전하여 [피해 비율: 120%] 마법 피해를 주고 [화상] 1중첩을 부여합니다.",
+      "tierUnlock": "2"
+    },
+    {
+      "gameId": "FireStaffAttack_2",
+      "skillName": "작열 파편",
+      "manaCost": "",
+      "cooldown": "0.46",
+      "castingRange": "14",
+      "type": "basic",
+      "description": "0.98초 시전 후 대상 방향으로 작열 파편 3개를 발사하여 적중한 적에게 [피해 비율: 120%] 마법 피해를 주고 [화상] 1중첩을 부여합니다.\n같은 대상에게 여러 파편이 적중하면 추가 파편은 25% 감소된 피해를 줍니다.",
+      "tierUnlock": "4"
+    },
+    {
+      "gameId": "FireStaffAttack_3",
+      "skillName": "들불 파편",
+      "manaCost": "",
+      "cooldown": "0.46",
+      "castingRange": "18",
+      "type": "basic",
+      "description": "1.6초 시전 후 대상 위치에 들불 파편을 발사하여 앞으로 두 번 튕깁니다.\n적과 접촉 시 폭발하여 범위 내 적에게 [피해 비율: 120%] 마법 피해를 주고 [화상] 1중첩을 부여합니다.",
+      "tierUnlock": "6"
+    }
+  ],
+  "commonSkills": [
+    {
+      "gameId": "FireStaff_Common_Skill_1",
+      "skillName": "지옥불 폭발",
+      "manaCost": "12",
+      "cooldown": "5.5",
+      "castingRange": "14",
+      "type": "common",
+      "description": "3초간 대상 방향으로 지속적으로 불길을 내뿜어 0.5초마다 [피해 비율: 50%] 마법 피해를 주고 [화상]을 부여합니다.(몬스터의 경우 [피해 비율: 75%])\n시전 중 회전은 가능하나 이동은 불가합니다.",
+      "tierUnlock": "1"
+    },
+    {
+      "gameId": "FireStaff_Common_Skill_2",
+      "skillName": "용암 구체",
+      "manaCost": "18",
+      "cooldown": "11",
+      "castingRange": "18",
+      "type": "common",
+      "description": "0.41초간 시전 후 대상 방향으로 용암 구체를 발사하여 처음 적중한 적에게 달라붙습니다.\n5초간 유지되며 반경 5m 내 적에게 2초마다 [피해 비율: 110%] 마법 피해를 주고 [화상]을 부여합니다.",
+      "tierUnlock": "3"
+    },
+    {
+      "gameId": "FireStaff_Common_Skill_3",
+      "skillName": "폭렬 도약",
+      "manaCost": "18",
+      "cooldown": "11",
+      "castingRange": "10",
+      "type": "common",
+      "description": "대상 방향으로 도약하며 착지 시 주변 적에게 [피해 비율: 250%] 마법 피해를 주고 [화상] 2중첩을 부여합니다.",
+      "tierUnlock": "5"
+    },
+    {
+      "gameId": "FireStaff_Common_Skill_4",
+      "skillName": "기름 영역",
+      "manaCost": "23",
+      "cooldown": "18",
+      "castingRange": "6",
+      "type": "common",
+      "description": "전방에 8초간 유지되는 기름을 뿌려 [기름 코팅]을 부여합니다.\n[기름 코팅]: 4초간 이동 속도 50% 감소.\n[화상] 상태일 경우 [기름 코팅]이 [불안정 화상]으로 바뀌며 6초 동안 다시 부여되지 않습니다.\n[불안정 화상]: 공포 효과를 주고 1.5초간 0.5초마다 [피해 비율: 56%] 마법 피해를 줍니다.",
+      "tierUnlock": "7"
+    },
+    {
+      "gameId": "FireStaff_Common_Skill_5",
+      "skillName": "과충전 모드",
+      "manaCost": "10",
+      "cooldown": "4.6",
+      "castingRange": "6",
+      "type": "common",
+      "description": "과충전 모드를 활성화하여 시전 속도를 60% 증가시키고 마법 피해를 20% 증가시킵니다.\n매초 MP 4를 소모합니다.\n스킬을 다시 사용하면 비활성화되며, MP가 부족하면 자동으로 해제됩니다.",
+      "tierUnlock": "8"
+    }
+  ],
+  "skills": [
+    {
+      "gameId": "FireStaff_Blazing",
+      "gearIcon": "SpecImage_FIRE2",
+      "gearName": "불타는 촉매",
+      "skillName": "지옥불",
+      "manaCost": "23",
+      "cooldown": "18",
+      "castingRange": "14",
+      "type": "skill",
+      "description": "0.82초 시전 후 대상 위치에 불길을 쏘아 [지옥불]을 생성합니다.\n지옥불은 6초간 지속되며 범위 내 모든 플레이어에게 [피해 비율: 70%] 마법 피해 (몬스터에게는 [피해 비율: 140%])를 주고 매초 [화상] 1중첩을 부여합니다.",
+      "tierUnlock": "2",
+      "rarity": "rare",
+      "stats": {
+        "attackPower": "148",
+        "as": "0.58"
+      }
+    },
+    {
+      "gameId": "FireStaff_1HandStaff",
+      "gearIcon": "SpecImage_FIRE1",
+      "gearName": "불꽃의 아귀",
+      "skillName": "용암 폭발",
+      "manaCost": "22",
+      "cooldown": "1.5",
+      "castingRange": "10",
+      "type": "skill",
+      "description": "대상 방향으로 용암 폭발을 발사하여 처음 적중한 대상에게 폭발을 일으켜 [피해 비율: 150%] 마법 피해를 주고 [화상] 1중첩을 부여합니다.\n이 스킬은 충전할 수 있으며, 2초간 충전 시 더욱 강력한 용암 폭발을 발사합니다. [피해 비율: 300%] 마법 피해를 주고 [화상] 2중첩을 부여하며, 폭발 범위 내 모든 적을 8m 밀어냅니다.\n18초마다 1충전 획득, 최대 2충전까지 저장됩니다.",
+      "tierUnlock": "2",
+      "rarity": "epic",
+      "stats": {
+        "attackPower": "155",
+        "as": "0.58"
+      }
+    },
+    {
+      "gameId": "FireStaff_Brimstone",
+      "gearIcon": "SpecImage_FIRE3",
+      "gearName": "불운의 지옥포",
+      "skillName": "작열 파동",
+      "manaCost": "24",
+      "cooldown": "20",
+      "castingRange": "17",
+      "type": "skill",
+      "description": "0.82초 시전 후 대상 위치에 작열 파동 3개를 발사합니다.\n1초 후 불길이 폭발하여 범위 내 적에게 [피해 비율: 240%] 마법 피해를 주고 [화상] 1중첩 및 1초간 공중 띄우기를 부여합니다.\n같은 적이 여러 번 맞을 경우 추가 피해는 50%로 감소합니다.",
+      "tierUnlock": "2",
+      "rarity": "epic",
+      "stats": {
+        "attackPower": "155",
+        "as": "0.58"
+      }
+    },
+    {
+      "gameId": "FireStaff_Common_Skill_5",
+      "gearIcon": "SpecImage_FIRE4",
+      "gearName": "추락의 화포",
+      "skillName": "핵 불꽃",
+      "manaCost": "20",
+      "cooldown": "1.5",
+      "castingRange": "18",
+      "type": "skill",
+      "description": "대상 위치에 핵 불꽃 구체 3개를 발사합니다.\n각 구체는 경로상의 적에게 [피해 비율: 180%] 마법 피해를 주고 [화상] 1중첩과 [작열] 1중첩을 부여합니다.\n같은 대상이 추가로 맞을 경우 원래 피해의 30%만 입힙니다.\n15초마다 1충전 획득, 최대 3충전까지 저장됩니다.\n[작열]: 받는 치유량 5% 감소 (4초간 지속, 최대 3중첩)",
+      "tierUnlock": "2",
+      "rarity": "epic",
+      "stats": {
+        "attackPower": "155",
+        "as": "0.58"
+      }
+    },
+    {
+      "gameId": "FireStaff_Fanning",
+      "gearIcon": "SpecImage_FIRE6",
+      "gearName": "블레이즈럽터",
+      "skillName": "지옥 포화",
+      "manaCost": "25",
+      "cooldown": "23",
+      "castingRange": "18",
+      "type": "skill",
+      "description": "3초간 채널링하여 대상에게 지옥 포화를 발사합니다.\n각 포화는 적중한 적에게 [피해 비율: 40%] 마법 피해를 주고 [화상] 1중첩을 부여하며, 마법 저항을 27 감소시킵니다. (4초간 지속, 최대 6중첩)",
+      "tierUnlock": "2",
+      "rarity": "epic",
+      "stats": {
+        "attackPower": "155",
+        "as": "0.58"
+      }
+    },
+    {
+      "gameId": "FireStaff_Dawnsong",
+      "gearIcon": "SpecImage_FIRE5",
+      "gearName": "태양불꽃",
+      "skillName": "성운 광선",
+      "manaCost": "25",
+      "cooldown": "23",
+      "castingRange": "20",
+      "type": "skill",
+      "description": "0.82초 시전하여 4초간 성운 광선을 채널링합니다.\n범위 내 적에게 0.5초마다 [피해 비율: 85%] 마법 피해를 주고 [화상] 및 [작열] 1중첩을 부여합니다.\n적중할 때마다 피해가 10% 증가하여 최대 50%까지 증가합니다.\n채널링 중 방해받지 않으며 [대상 최대 HP 25%] 보호막을 얻습니다.\n[작열]: 받는 치유량 5% 감소 (4초간 지속, 최대 3중첩)",
+      "tierUnlock": "2",
+      "rarity": "legendary",
+      "stats": {
+        "attackPower": "163",
+        "as": "0.58"
+      }
+    },
+    {
+      "gameId": "FireStaff_LavaCannonade",
+      "gearIcon": "SpecImage_FIRE7",
+      "gearName": "용암 박격포",
+      "skillName": "용암 연사",
+      "manaCost": "17",
+      "cooldown": "9.3",
+      "castingRange": "23",
+      "type": "skill",
+      "description": "20초 동안 [용암 연사] 모드에 돌입합니다. 이 동안 이동 불가하며 해제할 수 있습니다.\n기본 공격 교체: 대상 위치에 마그마를 발사하여 적중 후 앞으로 굴러가며 경로상의 적에게 [피해 비율: 165%] 마법 피해를 주고 [화상] 2중첩을 부여합니다.\n적중할 때마다 피해가 8% 증가하여 최대 40%까지 증가합니다.",
+      "tierUnlock": "2",
+      "rarity": "legendary",
+      "stats": {
+        "attackPower": "163",
+        "as": "0.58"
+      }
+    }
+  ]
+}

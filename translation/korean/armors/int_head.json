@@ -1,0 +1,131 @@
+{
+  "lastUpdate": "2025년 6월 6일 오전 6시",
+  "head_intelligence": [
+    {
+      "gameId": "Helm_Int_7",
+      "gearIcon": "SpecImage_COWL1",
+      "gearName": "바람결 직조자",
+      "skillName": "증폭",
+      "manaCost": "",
+      "cooldown": "30",
+      "castingRange": "",
+      "type": "passive",
+      "description": "스킬 시전 시 6초 동안 마법 피해량이 20% 증가합니다. 발동 간격: 30초",
+      "tierUnlock": "1",
+      "rarity": "rare",
+      "stats": {
+        "hp": "675",
+        "dmgBonus": "9.6%",
+        "mpRecovery": "10"
+      }
+    },
+    {
+      "gameId": "Helm_Int_1",
+      "gearIcon": "SpecImage_COWL3",
+      "gearName": "치유자의 두건",
+      "skillName": "신속한 치유",
+      "manaCost": "",
+      "cooldown": "20",
+      "castingRange": "",
+      "type": "passive",
+      "description": "치유 시 대상에게 [대상 최대 HP 20%]의 보호막을 6초 동안 부여합니다. 발동 간격: 20초",
+      "tierUnlock": "1",
+      "rarity": "epic",
+      "stats": {
+        "hp": "714",
+        "dmgBonus": "9.8%",
+        "mpRecovery": "10"
+      }
+    },
+    {
+      "gameId": "Helm_Int_2",
+      "gearIcon": "SpecImage_COWL6",
+      "gearName": "진홍의 바람",
+      "skillName": "중상",
+      "manaCost": "",
+      "cooldown": "25",
+      "castingRange": "",
+      "type": "passive",
+      "description": "스킬이 피해를 줄 때, 범위 내 적에게 [피해 비율: 180%] 마법 피해를 주고 6초 동안 치유량을 40% 감소시킵니다. 발동 후 25초간 재발동 불가.",
+      "tierUnlock": "1",
+      "rarity": "epic",
+      "stats": {
+        "hp": "714",
+        "dmgBonus": "9.8%",
+        "mpRecovery": "10"
+      }
+    },
+    {
+      "gameId": "Helm_Int_3",
+      "gearIcon": "SpecImage_COWL5",
+      "gearName": "대지맥 두건",
+      "skillName": "독기",
+      "manaCost": "",
+      "cooldown": "30",
+      "castingRange": "",
+      "type": "passive",
+      "description": "스킬이 직접 피해를 입히면 대상 위치에 6초간 독성 지대를 생성합니다. 범위 5m 내 적은 매초 [피해 비율: 55%] 마법 피해를 입고 마법 저항력이 25% 감소합니다. 발동 간격: 30초",
+      "tierUnlock": "1",
+      "rarity": "epic",
+      "stats": {
+        "hp": "714",
+        "dmgBonus": "9.8%",
+        "mpRecovery": "10"
+      }
+    },
+    {
+      "gameId": "Helm_Int_4",
+      "gearIcon": "SpecImage_COWL2",
+      "gearName": "신비한 격류",
+      "skillName": "과잉",
+      "manaCost": "",
+      "cooldown": "45",
+      "castingRange": "",
+      "type": "passive",
+      "description": "MP가 40% 이하일 때 스킬을 시전하면, 즉시 8초 동안 매초 15 MP를 회복합니다. 발동 간격: 45초",
+      "tierUnlock": "1",
+      "rarity": "epic",
+      "stats": {
+        "hp": "714",
+        "dmgBonus": "9.8%",
+        "mpRecovery": "10"
+      }
+    },
+    {
+      "gameId": "Helm_Int_5",
+      "gearIcon": "SpecImage_COWL4",
+      "gearName": "성역의 장막",
+      "skillName": "반발",
+      "manaCost": "",
+      "cooldown": "45",
+      "castingRange": "",
+      "type": "passive",
+      "description": "HP가 40% 이하일 때 피해를 받으면 [대상 최대 HP 25%] 보호막을 얻고 6초간 반발 장을 생성합니다. 장에 닿은 적은 [피해 비율: 100%] 마법 피해를 입고 7m 밀려납니다. 발동 간격: 45초",
+      "tierUnlock": "1",
+      "rarity": "legendary",
+      "stats": {
+        "hp": "755",
+        "dmgBonus": "9.9%",
+        "mpRecovery": "10"
+      }
+    },
+    {
+      "gameId": "Helm_Int_8",
+      "gearIcon": "SpecImage_COWL7",
+      "gearName": "황혼의 망토",
+      "skillName": "최후의 저항",
+      "manaCost": "",
+      "cooldown": "45",
+      "castingRange": "",
+      "type": "passive",
+      "description": "3초 내 받은 피해가 최대 HP의 35%를 초과하면, 주변 아군을 치유하는 파동을 일으켜 [회복 비율: 240%] HP를 회복시키고 군중 제어 효과를 제거합니다. 발동 간격: 45초",
+      "tierUnlock": "1",
+      "rarity": "legendary",
+      "stats": {
+        "hp": "755",
+        "dmgBonus": "9.9%",
+        "mpRecovery": "10"
+      }
+    }
+  ]
+}

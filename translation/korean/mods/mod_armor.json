@@ -1,0 +1,480 @@
+{
+  "lastUpdate": "June 6, 2025 6 AM",
+  "mods": [
+    {
+      "name": "활력",
+      "iconName": "ArmorRare1",
+      "rarity": "rare",
+      "slot": "all",
+      "description": "최대 HP가 %s1% 증가합니다",
+      "arguments": [
+        {
+          "argumentName": "s1",
+          "argumentRange": "[60~300]"
+        }
+      ]
+    },
+    {
+      "name": "방어력",
+      "iconName": "ArmorRare2",
+      "rarity": "rare",
+      "slot": "all",
+      "description": "방어력이 %s1% 증가합니다",
+      "arguments": [
+        {
+          "argumentName": "s1",
+          "argumentRange": "[4.8~24]"
+        }
+      ]
+    },
+    {
+      "name": "마법 방어력",
+      "iconName": "ArmorRare3",
+      "rarity": "rare",
+      "slot": "all",
+      "description": "마법 저항력이 %s1% 증가합니다",
+      "arguments": [
+        {
+          "argumentName": "s1",
+          "argumentRange": "[4.8~24]"
+        }
+      ]
+    },
+    {
+      "name": "정신력",
+      "iconName": "ArmorRare4",
+      "rarity": "rare",
+      "slot": "all",
+      "description": "최대 MP가 %s1% 증가합니다",
+      "arguments": [
+        {
+          "argumentName": "s1",
+          "argumentRange": "[4~20]"
+        }
+      ]
+    },
+    {
+      "name": "징벌",
+      "iconName": "ArmorEpic1",
+      "rarity": "epic",
+      "slot": "all",
+      "description": "기본 공격으로 직접 피해를 입을 때, (근접 무기 %s1% / 원거리 무기 %s2%) 확률로 공격자의 공격 속도를 %s3% 감소시킵니다. (지속: 6초, 발동 간격: 30초)",
+      "arguments": [
+        {
+          "argumentName": "s1",
+          "argumentRange": "[10%~20%]"
+        },
+        {
+          "argumentName": "s2",
+          "argumentRange": "[-20%~40%]"
+        },
+        {
+          "argumentName": "s3",
+          "argumentRange": "[-8%~-40%]"
+        }
+      ]
+    },
+    {
+      "name": "물리 저항",
+      "iconName": "ArmorEpic2",
+      "rarity": "epic",
+      "slot": "all",
+      "description": "직접적인 물리 피해를 받을 때, %s1% 확률로 방어력이 %s2% 증가합니다. (지속: 4초, 발동 간격: 30초)",
+      "arguments": [
+        {
+          "argumentName": "s1",
+          "argumentRange": "[17%~35%]"
+        },
+        {
+          "argumentName": "s2",
+          "argumentRange": "[8%~40%]"
+        }
+      ]
+    },
+    {
+      "name": "용맹의 힘",
+      "iconName": "ArmorEpic3",
+      "rarity": "epic",
+      "slot": "all",
+      "description": "강력한 군중 제어 효과(기절, 공포, 빙결, 띄우기, 석화)를 받을 때, %s1% 확률로 군중 제어 저항력이 %s2% 증가합니다. (지속: 6초, 재사용 대기시간: 30초)",
+      "arguments": [
+        {
+          "argumentName": "s1",
+          "argumentRange": "[17%~35%]"
+        },
+        {
+          "argumentName": "s2",
+          "argumentRange": "[5~25]"
+        }
+      ]
+    },
+    {
+      "name": "반동",
+      "iconName": "ArmorEpic4",
+      "rarity": "epic",
+      "slot": "all",
+      "description": "기본 공격으로 직접 피해를 받을 때, (%s2% 확률 - 원거리 / %s1% 확률 - 근접)로 5초간 버프를 얻습니다.\n해당 버프 중 기본 공격 피해를 받을 경우, (%s2% 확률 - 원거리 / %s1% 확률 - 근접)로 공격자에게 %s3% 물리 피해를 반사합니다. (발동 간격: 25초)",
+      "arguments": [
+        {
+          "argumentName": "s1",
+          "argumentRange": "[10%~20%]"
+        },
+        {
+          "argumentName": "s2",
+          "argumentRange": "[15%~30%]"
+        },
+        {
+          "argumentName": "s3",
+          "argumentRange": "[40%~200%]"
+        }
+      ]
+    },
+    {
+      "name": "광란",
+      "iconName": "ArmorEpic5",
+      "rarity": "epic",
+      "slot": "all",
+      "description": "기본 공격으로 직접 피해를 받을 때, %s1% 확률로 공격 속도가 %s2% 증가합니다. (지속: 5초, 발동 후 재사용 대기시간: 30초)",
+      "arguments": [
+        {
+          "argumentName": "s1",
+          "argumentRange": "[8%~40%]"
+        },
+        {
+          "argumentName": "s2",
+          "argumentRange": "[8=6%~40%]"
+        }
+      ]
+    },
+    {
+      "name": "모방",
+      "iconName": "ArmorEpic6",
+      "rarity": "epic",
+      "slot": "all",
+      "description": "치명타를 맞을 경우, %s1% 확률로 기본 공격의 치명타 확률이 %s2% 증가합니다. (지속: 5초, 발동 간격: 30초)",
+      "arguments": [
+        {
+          "argumentName": "s1",
+          "argumentRange": "[8%~40%]"
+        },
+        {
+          "argumentName": "s2",
+          "argumentRange": "[3%~15%]"
+        }
+      ]
+    },
+    {
+      "name": "마법 저항",
+      "iconName": "ArmorEpic7",
+      "rarity": "epic",
+      "slot": "all",
+      "description": "마법 피해를 받을 때, %s1% 확률로 마법 저항력이 %s2% 증가합니다. (지속: 4초, 발동 간격: 30초)",
+      "arguments": [
+        {
+          "argumentName": "s1",
+          "argumentRange": "[17%~35%]"
+        },
+        {
+          "argumentName": "s2",
+          "argumentRange": "[8%~40%]"
+        }
+      ]
+    },
+    {
+      "name": "보호막",
+      "iconName": "ArmorEpic8",
+      "rarity": "epic",
+      "slot": "all",
+      "description": "스킬로 직접 피해를 받을 때, %s1% 확률로 [대상 기반 최대 HP %s2%]의 보호막을 얻습니다. (지속: 4초, 발동 간격: 30초)",
+      "arguments": [
+        {
+          "argumentName": "s1",
+          "argumentRange": "[17%~35%]"
+        },
+        {
+          "argumentName": "s2",
+          "argumentRange": "[3%~15%]"
+        }
+      ]
+    },
+    {
+      "name": "흡수",
+      "iconName": "ArmorEpic9",
+      "rarity": "epic",
+      "slot": "all",
+      "description": "스킬로 직접 피해를 받을 때, %s1% 확률로 HP %s2%와 MP %s3%를 회복합니다. (발동 간격: 30초)",
+      "arguments": [
+        {
+          "argumentName": "s1",
+          "argumentRange": "[6%~30%]"
+        },
+        {
+          "argumentName": "s2",
+          "argumentRange": "[1.6%~8%]"
+        },
+        {
+          "argumentName": "s3",
+          "argumentRange": "[6~30]"
+        }
+      ]
+    },
+    {
+      "name": "공격성",
+      "iconName": "ArmorEpic10",
+      "rarity": "epic",
+      "slot": "all",
+      "description": "보호막을 얻었을 때, %s1% 확률로 기본 공격 치명타 확률이 %s2% 증가합니다. (지속: 4초, 재사용 대기시간: 30초)",
+      "arguments": [
+        {
+          "argumentName": "s1",
+          "argumentRange": "[8%~40%]"
+        },
+        {
+          "argumentName": "s2",
+          "argumentRange": "[2.5%~12%]"
+        }
+      ]
+    },
+    {
+      "name": "집요함",
+      "iconName": "ArmorEpic11",
+      "rarity": "epic",
+      "slot": "all",
+      "description": "보호막을 얻었을 때, %s1% 확률로 스킬 치명타 확률이 %s2% 증가합니다. (지속: 4초, 재사용 대기시간: 30초)",
+      "arguments": [
+        {
+          "argumentName": "s1",
+          "argumentRange": "[8%~40%]"
+        },
+        {
+          "argumentName": "s2",
+          "argumentRange": "[1.5%~7.5%]"
+        }
+      ]
+    },
+    {
+      "name": "풋워크",
+      "iconName": "ArmorEpic12",
+      "rarity": "epic",
+      "slot": "all",
+      "description": "기본 공격을 회피할 경우, %s1% 확률로 HP를 %s2% 회복합니다. (재사용 대기시간: 20초)",
+      "arguments": [
+        {
+          "argumentName": "s1",
+          "argumentRange": "[10%~50%]"
+        },
+        {
+          "argumentName": "s2",
+          "argumentRange": "[1.6%~8%]"
+        }
+      ]
+    },
+    {
+      "name": "위압",
+      "iconName": "ArmorExclusiveLgdr1",
+      "rarity": "legendary",
+      "slot": "Chest",
+      "description": "가슴 방어구 스킬 사용 시, %s4% 확률로 주변 적에게 [피해 비율: %s1%]의 마법 피해를 주고, 이동 속도를 %s3% 감소시키며 주는 피해를 %s2% 감소시킵니다. (지속: 4초, 발동 간격: 10초)",
+      "arguments": [
+        {
+          "argumentName": "s1",
+          "argumentRange": "[20%~100%]"
+        },
+        {
+          "argumentName": "s2",
+          "argumentRange": "[-3%~-15%]"
+        },
+        {
+          "argumentName": "s3",
+          "argumentRange": "[-6%~-30%]"
+        },
+        {
+          "argumentName": "s4",
+          "argumentRange": "[12%~-60%]"
+        }
+      ]
+    },
+    {
+      "name": "충전",
+      "iconName": "ArmorExclusiveLgdr2",
+      "rarity": "legendary",
+      "slot": "Chest",
+      "description": "가슴 방어구 스킬 사용 시, 1초 후 폭발하여 주변 적에게 [피해 비율: %s1%]의 물리 피해를 주고 공격 속도를 %s2% 감소시킵니다. (지속: 6초, 발동 간격: 10초)",
+      "arguments": [
+        {
+          "argumentName": "s1",
+          "argumentRange": "[26%~130%]"
+        },
+        {
+          "argumentName": "s2",
+          "argumentRange": "[-12%~-60%]"
+        }
+      ]
+    },
+    {
+      "name": "고통 완화",
+      "iconName": "ArmorExclusiveLgdr3",
+      "rarity": "legendary",
+      "slot": "Chest",
+      "description": "가슴 방어구 스킬 사용 시, 주변 아군의 HP를 %s1% 회복하고 MP를 %s2% 회복합니다. (발동 간격: 10초)",
+      "arguments": [
+        {
+          "argumentName": "s1",
+          "argumentRange": "[1.6%~8.2%]"
+        },
+        {
+          "argumentName": "s2",
+          "argumentRange": "[10~50]"
+        }
+      ]
+    },
+    {
+      "name": "보호",
+      "iconName": "ArmorExclusiveLgdr4",
+      "rarity": "legendary",
+      "slot": "Boots",
+      "description": "신발 스킬 사용 시, 추가로 [대상 기반 최대 HP %s1%]에 해당하는 보호막을 얻습니다. (지속: 4초, 발동 간격: 20초)",
+      "arguments": [
+        {
+          "argumentName": "s1",
+          "argumentRange": "[5%~25%]"
+        }
+      ]
+    },
+    {
+      "name": "기만",
+      "iconName": "ArmorExclusiveLgdr5",
+      "rarity": "legendary",
+      "slot": "Boots",
+      "description": "신발 스킬 사용 시, 발밑에 함정을 설치합니다. 적이 밟을 경우 [피해 비율: %s1%]의 물리 피해를 입히고 %s2% 동안 기절시킵니다. (발동 간격: 20초)",
+      "arguments": [
+        {
+          "argumentName": "s1",
+          "argumentRange": "[16%~80%]"
+        },
+        {
+          "argumentName": "s2",
+          "argumentRange": "[0.4~2]"
+        }
+      ]
+    },
+    {
+      "name": "신의 축복",
+      "iconName": "ArmorExclusiveLgdr6",
+      "rarity": "legendary",
+      "slot": "Boots",
+      "description": "신발 스킬 사용 시, HP를 %s1% 회복하고 %s2% 동안 군중 제어 효과에 면역이 됩니다. (재사용 대기시간: 20초)",
+      "arguments": [
+        {
+          "argumentName": "s1",
+          "argumentRange": "[1.3%~6.5%]"
+        },
+        {
+          "argumentName": "s2",
+          "argumentRange": "[0.4%~2]"
+        }
+      ]
+    },
+    {
+      "name": "포효",
+      "iconName": "ArmorLgdr1",
+      "rarity": "legendary",
+      "slot": "all",
+      "description": "강력한 군중 제어 효과(기절, 공포, 빙결, 띄우기, 석화)를 받을 때, %s1% 확률로 포효를 발동하여 주변 적에게 %s2% 물리 피해를 입히고 1초간 공포에 빠뜨립니다. (발동 후 재사용 대기시간: 20초)",
+      "arguments": [
+        {
+          "argumentName": "s1",
+          "argumentRange": "[8%~40%]"
+        },
+        {
+          "argumentName": "s2",
+          "argumentRange": "[20%~100%]"
+        }
+      ]
+    },
+    {
+      "name": "반격",
+      "iconName": "ArmorLgdr2",
+      "rarity": "legendary",
+      "slot": "all",
+      "description": "기본 공격으로 직접 피해를 받을 때, %s1% 확률로 발동합니다: 5초 동안 기본 공격 피해를 받을 경우 공격자에게 %s2% 마법 피해를 반사하고, 방어력을 %s3% 변경합니다. (지속: 4초, 재사용 대기시간: 25초)",
+      "arguments": [
+        {
+          "argumentName": "s1",
+          "argumentRange": "[15%~30%]"
+        },
+        {
+          "argumentName": "s2",
+          "argumentRange": "[16%~80%]"
+        },
+        {
+          "argumentName": "s3",
+          "argumentRange": "[-4%~-20%]"
+        }
+      ]
+    },
+    {
+      "name": "재갈",
+      "iconName": "ArmorLgdr3",
+      "rarity": "legendary",
+      "slot": "all",
+      "description": "스킬로 직접 피해를 받을 때, %s1% 확률로 [피해 비율: %s2%]의 마법 피해를 피해 범위 내 모든 적에게 주고, MP를 %s4% 소모시키며 4초 동안 적이 주는 피해를 %s3% 감소시킵니다. (발동 간격: 30초)",
+      "arguments": [
+        {
+          "argumentName": "s1",
+          "argumentRange": "[15%~30%]"
+        },
+        {
+          "argumentName": "s2",
+          "argumentRange": "[12%~60%]"
+        },
+        {
+          "argumentName": "s3",
+          "argumentRange": "[-4%~-20%]"
+        },
+        {
+          "argumentName": "s4",
+          "argumentRange": "[5~25]"
+        }
+      ]
+    },
+    {
+      "name": "행운",
+      "iconName": "ArmorLgdr4",
+      "rarity": "legendary",
+      "slot": "all",
+      "description": "2초 안에 최대 HP의 25%를 초과하는 피해를 받을 경우, %s1% 확률로 HP를 %s2% 회복하고 %s3% 동안 피해 면역을 얻습니다. (재사용 대기시간: 30초)",
+      "arguments": [
+        {
+          "argumentName": "s1",
+          "argumentRange": "[6%~30%]"
+        },
+        {
+          "argumentName": "s2",
+          "argumentRange": "[1.6%~8%]"
+        },
+        {
+          "argumentName": "s3",
+          "argumentRange": "[0.4%~2%]"
+        }
+      ]
+    },
+    {
+      "name": "결의",
+      "iconName": "ArmorLgdr5",
+      "rarity": "legendary",
+      "slot": "all",
+      "description": "강력한 군중 제어 효과(기절, 공포, 빙결, 띄우기, 석화, 수면)를 받을 경우, %s1% 확률로 군중 제어 저항률이 %s2% 증가합니다. (지속: 4초, 재사용 대기시간: 30초)",
+      "arguments": [
+        {
+          "argumentName": "s1",
+          "argumentRange": "[6%~30%%]"
+        },
+        {
+          "argumentName": "s2",
+          "argumentRange": "[1.9%~9.5%]"
+        }
+      ]
+    }
+  ]
+}

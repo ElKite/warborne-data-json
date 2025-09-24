@@ -1,0 +1,150 @@
+{
+  "lastUpdate": "2025년 6월 6일 오전 6시",
+  "head_dexterity": [
+    {
+      "gameId": "Helm_Dex_2",
+      "gearIcon": "SpecImage_HOOD2",
+      "gearName": "생명의 망토",
+      "skillName": "생명섬광",
+      "manaCost": "",
+      "cooldown": "60",
+      "castingRange": "",
+      "type": "passive",
+      "description": "HP가 30% 이하일 때 피해를 받으면, 즉시 5초 동안 매초 [회복 비율: 48%] HP를 회복합니다.\n발동 간격: 60초",
+      "tierUnlock": "1",
+      "rarity": "rare",
+      "stats": {
+        "hp": "714",
+        "dmgBonus": "9.8%",
+        "mpRecovery": "5"
+      }
+    },
+    {
+      "gameId": "Helm_Dex_3",
+      "gearIcon": "SpecImage_HOOD1",
+      "gearName": "폭풍소환사의 두건",
+      "skillName": "전격 일격",
+      "manaCost": "",
+      "cooldown": "30",
+      "castingRange": "",
+      "type": "passive",
+      "description": "기본 공격 사용 시, 8초 동안 다음 5회의 기본 공격(발동 공격 포함)이 적 대상에게 추가 연쇄 번개를 발사합니다. 명중 시 가장 가까운 대상에게 최대 5회까지 튕기며, 명중마다 \n[피해 비율: 60%] 물리 피해를 줍니다. (발동 간격: 0.6초)\n피해량은 기본 공격 피해 증가 효과의 영향을 받으며, 기본 공격 치명타 확률에 따라 치명타가 발생할 수 있습니다.\n재사용 대기시간: 30초",
+      "tierUnlock": "1",
+      "rarity": "epic",
+      "stats": {
+        "hp": "714",
+        "dmgBonus": "9.8%",
+        "mpRecovery": "5"
+      }
+    },
+    {
+      "gameId": "Helm_Dex_5",
+      "gearIcon": "SpecImage_HOOD5",
+      "gearName": "그늘장막 가면",
+      "skillName": "사라지기",
+      "manaCost": "",
+      "cooldown": "60",
+      "castingRange": "",
+      "type": "passive",
+      "description": "HP가 30% 이하일 때 피해를 받으면, 즉시 은신 상태에 들어가며 5초 동안 이동 속도가 30% 증가합니다. 은신 상태에서 1.5초가 지난 뒤 스킬 사용, 피해, 회복 효과 발생 시 은신이 해제됩니다.\n발동 간격: 60초",
+      "tierUnlock": "1",
+      "rarity": "epic",
+      "stats": {
+        "hp": "714",
+        "dmgBonus": "9.8%",
+        "mpRecovery": "5"
+      }
+    },
+    {
+      "gameId": "Helm_Dex_8",
+      "gearIcon": "SpecImage_HOOD7",
+      "gearName": "정화자의 두건",
+      "skillName": "회피",
+      "manaCost": "",
+      "cooldown": "25",
+      "castingRange": "",
+      "type": "passive",
+      "description": "기본 공격 피해를 받을 때, 즉시 8초 동안 회피 강화 50% 효과를 얻습니다. 발동 후 25초의 재사용 대기시간에 들어갑니다.",
+      "tierUnlock": "1",
+      "rarity": "epic",
+      "stats": {
+        "hp": "714",
+        "dmgBonus": "9.8%",
+        "mpRecovery": "5"
+      }
+    },
+    {
+      "gameId": "Helm_Dex_7",
+      "gearIcon": "SpecImage_HOOD6",
+      "gearName": "분노장막 그림자",
+      "skillName": "격노",
+      "manaCost": "",
+      "cooldown": "25",
+      "castingRange": "",
+      "type": "passive",
+      "description": "기본 공격으로 직접 피해를 줄 때, 6초 동안 치명타 확률 +10%와 공격 속도 +35%를 얻습니다.\n발동 간격: 25초",
+      "tierUnlock": "1",
+      "rarity": "epic",
+      "stats": {
+        "hp": "714",
+        "dmgBonus": "9.8%",
+        "mpRecovery": "5"
+      }
+    },
+    {
+      "gameId": "Helm_Dex_1",
+      "gearIcon": "SpecImage_HOOD3",
+      "gearName": "철의 의지 장막",
+      "skillName": "도전",
+      "manaCost": "",
+      "cooldown": "120",
+      "castingRange": "",
+      "type": "passive",
+      "description": "HP가 20% 이하일 때 피해를 받으면, HP가 1 이하로 떨어지지 않게 막고, 4초 동안 매초 [회복 비율: 36%] HP를 회복합니다. 해제 불가.\n발동 간격: 120초",
+      "tierUnlock": "1",
+      "rarity": "legendary",
+      "stats": {
+        "hp": "755",
+        "dmgBonus": "9.9%",
+        "mpRecovery": "5"
+      }
+    },
+    {
+      "gameId": "Helm_Dex_4",
+      "gearIcon": "SpecImage_HOOD4",
+      "gearName": "광기의 투구",
+      "skillName": "해방",
+      "manaCost": "",
+      "cooldown": "45",
+      "castingRange": "",
+      "type": "passive",
+      "description": "강력한 군중 제어 효과(기절, 공포, 빙결, 에어본, 석화, 수면), 침묵 또는 속박 상태일 때, 즉시 모든 제어 및 디버프 효과를 해제하고, 3초 동안 모든 제어 및 디버프 효과에 면역이 되며 이동 속도가 25% 증가합니다. 발동 후 45초의 재사용 대기시간에 들어갑니다.",
+      "tierUnlock": "1",
+      "rarity": "legendary",
+      "stats": {
+        "hp": "755",
+        "dmgBonus": "9.9%",
+        "mpRecovery": "5"
+      }
+    },
+    {
+      "isActive": false,
+      "gearIcon": "SpecImage_HOOD8",
+      "gameId": "Helm_Dex_9",
+      "gearName": "Helm_Dex_9",
+      "skillName": "Helm_Dex_9",
+      "manaCost": "",
+      "cooldown": "",
+      "castingRange": "",
+      "type": "skill",
+      "description": "",
+      "tierUnlock": "1",
+      "rarity": "legendary",
+      "stats": {
+        "hp": "",
+        "dmgBonus": "",
+        "mpRecovery": ""
+      }
+    }
+  ]
+}
