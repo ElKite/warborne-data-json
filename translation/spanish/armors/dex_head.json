@@ -10,7 +10,7 @@
       "cooldown": "60",
       "castingRange": "",
       "type": "passive",
-      "description": "When taking damage at below 30% HP, immediately restores \n[Healing Rate: 48%] HP every second for 5s. Trigger Interval: 60s",
+      "description": "When taking damage at below 30% HP, immediately restores [Healing Rate: 48%] HP every second for 5s. \nTrigger Interval: 60s",
       "tierUnlock": "1",
       "rarity": "rare",
       "stats": {
@@ -28,7 +28,7 @@
       "cooldown": "30",
       "castingRange": "",
       "type": "passive",
-      "description": "When using Basic Attack, the next 5 Basic Attacks (including the triggering one) within 8s cast additional Chain Lightning onto enemy targets. Upon hitting, it automatically ricochets to the nearest target, up to 5 times, dealing \n[Damage Rate: 60%] Physical Damage per hit. (Trigger Interval: 0.6 seconds) Damage is influenced by Basic Attack damage boost and can crit based on Basic Attack critical rate. Cooldown: 30s",
+      "description": "When using Basic Attack, the next 5 Basic Attacks (including the triggering one) within 8s cast additional Chain Lightning onto enemy targets. Upon hitting, it automatically ricochets to the nearest target, up to 5 times, dealing [Damage Rate: 60%] Physical Damage per hit. (\nTrigger Interval: 0.6 seconds) Damage is influenced by Basic Attack damage boost and can crit based on Basic Attack critical rate. \nCooldown: 30s",
       "tierUnlock": "1",
       "rarity": "epic",
       "stats": {
@@ -46,7 +46,7 @@
       "cooldown": "60",
       "castingRange": "",
       "type": "passive",
-      "description": "When taking damage at below 30% HP, instantly enters Stealth and increases Movement Speed by 30% for 5s. After 1.5 seconds in Stealth, using a skill, dealing damage, or inflicting healing will break Stealth. Trigger Interval: 60s",
+      "description": "When taking damage at below 30% HP, instantly enters Stealth and increases Movement Speed by 30% for 5s. After 1.5 seconds in Stealth, using a skill, dealing damage, or inflicting healing will break Stealth. \nTrigger Interval: 60s",
       "tierUnlock": "1",
       "rarity": "epic",
       "stats": {
@@ -82,7 +82,7 @@
       "cooldown": "25",
       "castingRange": "",
       "type": "passive",
-      "description": "When dealing direct damage with Basic Attacks, grants\n+10% Critical Rate and +35% Attack Speed for 6s. Trigger Interval: 25s",
+      "description": "When dealing direct damage with Basic Attacks, grants+10% Critical Rate and +35% Attack Speed for 6s. \nTrigger Interval: 25s",
       "tierUnlock": "1",
       "rarity": "epic",
       "stats": {
@@ -100,7 +100,7 @@
       "cooldown": "120",
       "castingRange": "",
       "type": "passive",
-      "description": "When taking damage at below 20% HP, prevents HP from\nfalling below 1 and regenerates \n[Healing Rate: 36%] HP\nevery second for 4s. Cannot be dispelled.\nTrigger Interval: 120s",
+      "description": "When taking damage at below 20% HP, prevents HP fromfalling below 1 and regenerates [Healing Rate: 36%] HPevery second for 4s. Cannot be dispelled.\nTrigger Interval: 120s",
       "tierUnlock": "1",
       "rarity": "legendary",
       "stats": {

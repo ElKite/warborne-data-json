@@ -23,7 +23,7 @@
       "cooldown": "32",
       "castingRange": "7 ",
       "type": "skill",
-      "description": "> Grants a shield with  \n[Target-based Max HP 20%] Shield Value to nearby allies for 6s. When HP is below 40%, the Shield Value increases to  \n[Target-based Max HP 35%].",
+      "description": "> Grants a shield with  [Target-based Max HP 20%] Shield Value to nearby allies for 6s. When HP is below 40%, the Shield Value increases to  [Target-based Max HP 35%].",
       "tierUnlock": "1",
       "rarity": "epic"
     },
@@ -62,7 +62,7 @@
       "cooldown": "32",
       "castingRange": "16 ",
       "type": "skill",
-      "description": "Shoots a grappling rope that deals \n[Damage Rate: 100%] Physical Damage to the target, Immobilizes them for 2s, and pulls both toward the middle.",
+      "description": "Shoots a grappling rope that deals [Damage Rate: 100%] Physical Damage to the target, Immobilizes them for 2s, and pulls both toward the middle.",
       "tierUnlock": "1",
       "rarity": "epic"
     },

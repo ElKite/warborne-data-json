@@ -117,7 +117,7 @@
       "id": "stealth-potion",
       "name": "Stealth Potion",
       "iconName": "icon_Stealth",
-      "description": "Use to enter Stealth for 8s.\nUsing a skill, dealing or taking damage, or inflicting healing breaks Stealth.",
+      "description": "Use to enter Stealth for 8s.Using a skill, dealing or taking damage, or inflicting healing breaks Stealth.",
       "category": "potion",
       "rarity": "rare"
     },

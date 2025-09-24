@@ -54,7 +54,7 @@
         "cooldown": "28",
         "castingRange": "6",
         "type": "skill",
-        "description": "Increases Movement Speed by 55%, lasting 5s; creates a path of corruption lasting 4s along movement path.\nEnemies in the path suffer 35% reduced damage dealt and\n30% reduced healing received for 5s.",
+        "description": "Increases Movement Speed by 55%, lasting 5s; creates a path of corruption lasting 4s along movement path.Enemies in the path suffer 35% reduced damage dealt and30% reduced healing received for 5s.",
         "tierUnlock": "1",
         "rarity": "epic"
       },
@@ -67,7 +67,7 @@
         "cooldown": "28",
         "castingRange": "16",
         "type": "skill",
-        "description": "Grants a  \n[Target-based Max HP 25%] shield lasting 4s and\nswaps positions with target player.",
+        "description": "Grants a  [Target-based Max HP 25%] shield lasting 4s andswaps positions with target player.",
         "tierUnlock": "1",
         "rarity": "epic"
       },

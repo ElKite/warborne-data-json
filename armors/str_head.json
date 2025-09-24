@@ -10,7 +10,7 @@
       "cooldown": "30",
       "castingRange": "",
       "type": "passive",
-      "description": "When dealing direct damage with Basic Attacks, increases Physical Damage by 20% for 6s. Trigger Interval: 30s",
+      "description": "When dealing direct damage with Basic Attacks, increases Physical Damage by 20% for 6s. \nTrigger Interval: 30s",
       "tierUnlock": "0",
       "rarity": "rare",
       "stats": {
@@ -27,7 +27,7 @@
       "cooldown": "60",
       "castingRange": "",
       "type": "passive",
-      "description": "When taking damage at below 30% HP, increases Damage Resistance by 50% for 6s. Trigger Interval: 60s",
+      "description": "When taking damage at below 30% HP, increases Damage Resistance by 50% for 6s. \nTrigger Interval: 60s",
       "tierUnlock": "1",
       "rarity": "epic",
       "stats": {
@@ -44,7 +44,7 @@
       "cooldown": "30",
       "castingRange": "",
       "type": "passive",
-      "description": "When dealing direct Basic Attack Damage, creates a Flame Star around the caster that lasts 6s. Enemies within 7m have their Magic Resistance reduced by 40 (Magic Resistance Reduction), and take [Damage Rate: 50%] Magic Damage every 1s.Trigger Interval: 30s",
+      "description": "When dealing direct Basic Attack Damage, creates a Flame Star around the caster that lasts 6s. Enemies within 7m have their Magic Resistance reduced by 40 (Magic Resistance Reduction), and take [Damage Rate: 50%] Magic Damage every 1s.\nTrigger Interval: 30s",
       "tierUnlock": "1",
       "rarity": "epic",
       "stats": {
@@ -61,7 +61,7 @@
       "cooldown": "30",
       "castingRange": "",
       "type": "passive",
-      "description": "When affected by hard control effects (Stun, Fear, Deep Freeze, Knockup, Petrify): Gains a  \n[Target-based Max HP 25%] shield for 6s. Trigger Interval: 30s Skill",
+      "description": "When affected by hard control effects (Stun, Fear, Deep Freeze, Knockup, Petrify): Gains a  [Target-based Max HP 25%] shield for 6s. \nTrigger Interval: 30s Skill",
       "tierUnlock": "1",
       "rarity": "epic",
       "stats": {
@@ -78,7 +78,7 @@
       "cooldown": "30",
       "castingRange": "",
       "type": "passive",
-      "description": "When dealing direct Basic Attack Damage, triggers an EMP blast at current position. After 1s, deals \n[Damage Rate: 250%] Physical Damage to enemies within 6m, Stuns them for 1s and reduces their damage dealt by 20% for 6s Trigger Interval: 30s",
+      "description": "When dealing direct Basic Attack Damage, triggers an EMP blast at current position. After 1s, deals [Damage Rate: 250%] Physical Damage to enemies within 6m, Stuns them for 1s and reduces their damage dealt by 20% for 6s \nTrigger Interval: 30s",
       "tierUnlock": "1",
       "rarity": "epic",
       "stats": {
@@ -95,7 +95,7 @@
       "cooldown": "30",
       "castingRange": "",
       "type": "passive",
-      "description": "When dealing direct Basic Attack Damage, creates a sandstorm around the caster, lasting 6s. Enemies within 6m are slowed by 40% and disarmed. Trigger Interval: 30s",
+      "description": "When dealing direct Basic Attack Damage, creates a sandstorm around the caster, lasting 6s. Enemies within 6m are slowed by 40% and disarmed. \nTrigger Interval: 30s",
       "tierUnlock": "1",
       "rarity": "legendary",
       "stats": {
@@ -112,7 +112,7 @@
       "cooldown": "30",
       "castingRange": "",
       "type": "passive",
-      "description": "When affected by Immobilize or Forced Movement (Knockback, Pull): Immediately removes all Immobilize, Slow and Forced Movement effects, and increases Damage Resistance by 25%, grants immunity to Slow, Immobilize, and Forced Movement for 8s. Trigger Interval: 30s.",
+      "description": "When affected by Immobilize or Forced Movement (Knockback, Pull): Immediately removes all Immobilize, Slow and Forced Movement effects, and increases Damage Resistance by 25%, grants immunity to Slow, Immobilize, and Forced Movement for 8s. \nTrigger Interval: 30s.",
       "tierUnlock": "1",
       "rarity": "legendary",
       "stats": {

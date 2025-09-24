@@ -17,7 +17,7 @@
       "cooldown": "1",
       "castingRange": "14",
       "type": "basic",
-      "description": "Replaces Basic Attack with [Split Arrow].\nDeals \n[Damage Rate: 80%] Physical Damage to up to 5\nenemies in a frontal cone",
+      "description": "Replaces Basic Attack with [Split Arrow].Deals [Damage Rate: 80%] Physical Damage to up to 5enemies in a frontal cone",
       "tierUnlock": "4"
     },
     {
@@ -37,7 +37,7 @@
       "cooldown": "1",
       "castingRange": "14",
       "type": "basic",
-      "description": "[Basic Attack]:Deals \n[Damage Rate: 80%] Physical\nDamage to the target. \nEvery 6th Basic Attack becomes [Venom Arrow].\nDeals \n[Damage Rate: 100%] Physical Damage and inflicts\nVenom. \n[Venom]\nDeals \n[Damage Rate: 15%] Magic Damage every second\nfor 6s. Stacks up to 3 times ..",
+      "description": "[Basic Attack]:Deals [Damage Rate: 80%] PhysicalDamage to the target. Every 6th Basic Attack becomes [Venom Arrow].Deals [Damage Rate: 100%] Physical Damage and inflictsVenom. [Venom]Deals [Damage Rate: 15%] Magic Damage every secondfor 6s. Stacks up to 3 times ..",
       "tierUnlock": "2"
     }
   ],
@@ -69,7 +69,7 @@
       "cooldown": "",
       "castingRange": "",
       "type": "common",
-      "description": " Fires a sleep arrow forward while self-knockback 14m. Deals \n[Damage Rate: 200%] Physical Damage on first enemy hit and applies Sleep for 5 seconds.",
+      "description": " Fires a sleep arrow forward while self-knockback 14m. Deals [Damage Rate: 200%] Physical Damage on first enemy hit and applies Sleep for 5 seconds.",
       "tierUnlock": "4"
     },
     {
@@ -89,7 +89,7 @@
       "cooldown": "1.5",
       "castingRange": "14",
       "type": "common",
-      "description": "Fires three binding arrows forward. The first player hit by\neach takes \n[Damage Rate: 100%] Physical Damage\n(\n[Damage Rate: 150%] Physical Damage to mobs) and is\nImmobilized for 1.5s.\nGains 1 charge every 14s, up to 2 charges.",
+      "description": "Fires three binding arrows forward. The first player hit byeach takes [Damage Rate: 100%] Physical Damage([Damage Rate: 150%] Physical Damage to mobs) and isImmobilized for 1.5s.Gains 1 charge every 14s, up to 2 charges.",
       "tierUnlock": "2"
     }
   ],
@@ -103,7 +103,7 @@
       "cooldown": "1.5",
       "castingRange": "14",
       "type": "skill",
-      "description": "Rains arrows down at the target location, dealing \n[Damage Rate: 180%] Physical Damage to players\n(\n[Damage Rate: 270%] Physical Damage to mobs) and\ninflicting 30% Slow for 3s.\nGains 1 charge every 12s, up to 3 charges",
+      "description": "Rains arrows down at the target location, dealing [Damage Rate: 180%] Physical Damage to players([Damage Rate: 270%] Physical Damage to mobs) andinflicting 30% Slow for 3s.Gains 1 charge every 12s, up to 3 charges",
       "tierUnlock": "3",
       "rarity": "rare",
       "stats": {
@@ -171,7 +171,7 @@
       "cooldown": "18",
       "castingRange": "18",
       "type": "skill",
-      "description": "Fires three Tempest Arrows forward, dealing \n[Damage Rate: 180%] Physical Damage, reducing Attack Speed by\n35% for 4s, and knocking targets back 5m. Enemies\nknocked into terrain are Stunned for 2.5s.\nWhen multiple arrows hit the same target, the damage\nfrom arrows beyond the first is reduced by 30%.",
+      "description": "Fires three Tempest Arrows forward, dealing [Damage Rate: 180%] Physical Damage, reducing Attack Speed by35% for 4s, and knocking targets back 5m. Enemiesknocked into terrain are Stunned for 2.5s.When multiple arrows hit the same target, the damagefrom arrows beyond the first is reduced by 30%.",
       "tierUnlock": "2",
       "rarity": "epic",
       "stats": {
@@ -188,7 +188,7 @@
       "cooldown": "1.5",
       "castingRange": "20",
       "type": "skill",
-      "description": "Shoots 3 Severance Shots in the target direction, dealing \n[Damage Rate: 250%] Physical Damage to enemies hit\nalong the path, reducing their healing received by 20% for\n4s.\nWhen multiple Severance Shots hit the same target, the\ndamage of arrows beyond the first is reduced by 30%.\nGains 1 charge every 12s, up to 3 charges",
+      "description": "Shoots 3 Severance Shots in the target direction, dealing [Damage Rate: 250%] Physical Damage to enemies hitalong the path, reducing their healing received by 20% for4s.When multiple Severance Shots hit the same target, thedamage of arrows beyond the first is reduced by 30%.Gains 1 charge every 12s, up to 3 charges",
       "tierUnlock": "2",
       "rarity": "legendary",
       "stats": {

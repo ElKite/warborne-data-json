@@ -58,7 +58,7 @@
       "iconName": "ArmorEpic1",
       "rarity": "epic",
       "slot": "all",
-      "description": "When taking direct damage from Basic Attacks, has a (melee weapons %s1% / ranged weapons %s2%) chance to increase the attacker's Attack Speed by\n-%s3% for 6s. Trigger Interval: 30s",
+      "description": "When taking direct damage from Basic Attacks, has a (melee weapons %s1% / ranged weapons %s2%) chance to increase the attacker's Attack Speed by-%s3% for 6s. \nTrigger Interval: 30s",
       "arguments": [
         {
           "argumentName": "s1",
@@ -79,7 +79,7 @@
       "iconName": "ArmorEpic2",
       "rarity": "epic",
       "slot": "all",
-      "description": "When taking direct Physical Damage, has a \n%s1%chance to increase Armor by %s2% for 4s. Trigger Interval: 30s.",
+      "description": "When taking direct Physical Damage, has a %s1%chance to increase Armor by %s2% for 4s. \nTrigger Interval: 30s.",
       "arguments": [
         {
           "argumentName": "s1",
@@ -96,7 +96,7 @@
       "iconName": "ArmorEpic3",
       "rarity": "epic",
       "slot": "all",
-      "description": "When affected by hard control effects (Stun, Fear,\nFrozen, Knockup, Petrify), has a %s1% chance to\nincrease Crowd Control Resistance by %s2% for 6s.\nCooldown: 30s",
+      "description": "When affected by hard control effects (Stun, Fear,Frozen, Knockup, Petrify), has a %s1% chance toincrease Crowd Control Resistance by %s2% for 6s.\nCooldown: 30s",
       "arguments": [
         {
           "argumentName": "s1",
@@ -113,7 +113,7 @@
       "iconName": "ArmorEpic4",
       "rarity": "epic",
       "slot": "all",
-      "description": "Taking direct damage from Basic Attacks has a\nchance (%s2% for ranged weapons / %s1% for melee\nweapons) to grant a buff for 5s: Taking direct\ndamage from Basic Attacks has a chance (%s2% for\nranged weapons / %s1% for melee weapons) to deal\n%s3% Physical Damage to the attacker.\nTrigger Interval: 25s.",
+      "description": "Taking direct damage from Basic Attacks has achance (%s2% for ranged weapons / %s1% for meleeweapons) to grant a buff for 5s: Taking directdamage from Basic Attacks has a chance (%s2% forranged weapons / %s1% for melee weapons) to deal%s3% Physical Damage to the attacker.\nTrigger Interval: 25s.",
       "arguments": [
         {
           "argumentName": "s1",
@@ -151,7 +151,7 @@
       "iconName": "ArmorEpic6",
       "rarity": "epic",
       "slot": "all",
-      "description": "When hit by a critical hit, has %s1% chance\n to increase Basic Attack's Critical Chance\n by %s2% for 5s.\nTrigger Interval: 30s.",
+      "description": "When hit by a critical hit, has %s1% chance to increase Basic Attack's Critical Chance by %s2% for 5s.\nTrigger Interval: 30s.",
       "arguments": [
         {
           "argumentName": "s1",
@@ -168,7 +168,7 @@
       "iconName": "ArmorEpic7",
       "rarity": "epic",
       "slot": "all",
-      "description": "When hit by Magic Damage, has a %s1% chance to\nincrease Magic Resistance by %s2% for 4s.\nTrigger Interval: 30s.",
+      "description": "When hit by Magic Damage, has a %s1% chance toincrease Magic Resistance by %s2% for 4s.\nTrigger Interval: 30s.",
       "arguments": [
         {
           "argumentName": "s1",
@@ -185,7 +185,7 @@
       "iconName": "ArmorEpic8",
       "rarity": "epic",
       "slot": "all",
-      "description": "When taking direct damage from skills, has a %s1%\nchance to gain  \n[Target-based Max HP %s2%] Shield\nPoints for 4s.\nTrigger Interval: 30s.",
+      "description": "When taking direct damage from skills, has a %s1%chance to gain  [Target-based Max HP %s2%] ShieldPoints for 4s.\nTrigger Interval: 30s.",
       "arguments": [
         {
           "argumentName": "s1",
@@ -202,7 +202,7 @@
       "iconName": "ArmorEpic9",
       "rarity": "epic",
       "slot": "all",
-      "description": "When taking direct damage from skills, has a %s1%\nchance to restore %s2% HP and %s3% MP.\nTrigger Interval: 30s.",
+      "description": "When taking direct damage from skills, has a %s1%chance to restore %s2% HP and %s3% MP.\nTrigger Interval: 30s.",
       "arguments": [
         {
           "argumentName": "s1",
@@ -223,7 +223,7 @@
       "iconName": "ArmorEpic10",
       "rarity": "epic",
       "slot": "all",
-      "description": "When gaining a Shield, %s1% chance to increase\nBasic Attack Critical Rate by %s2% for 4s\nCooldown: 30s.",
+      "description": "When gaining a Shield, %s1% chance to increaseBasic Attack Critical Rate by %s2% for 4s\nCooldown: 30s.",
       "arguments": [
         {
           "argumentName": "s1",
@@ -240,7 +240,7 @@
       "iconName": "ArmorEpic11",
       "rarity": "epic",
       "slot": "all",
-      "description": "When gaining a Shield, %s1% chance to increase\nSkill Critical Rate by %s2% for 4s\nCooldown: 30s.",
+      "description": "When gaining a Shield, %s1% chance to increaseSkill Critical Rate by %s2% for 4s\nCooldown: 30s.",
       "arguments": [
         {
           "argumentName": "s1",
@@ -257,7 +257,7 @@
       "iconName": "ArmorEpic12",
       "rarity": "epic",
       "slot": "all",
-      "description": "When dodging a Basic Attack, %s1% chance to\nheal for %s2%.\nCooldown: 20s.",
+      "description": "When dodging a Basic Attack, %s1% chance toheal for %s2%.\nCooldown: 20s.",
       "arguments": [
         {
           "argumentName": "s1",
@@ -274,7 +274,7 @@
       "iconName": "ArmorExclusiveLgdr1",
       "rarity": "legendary",
       "slot": "Chest",
-      "description": "When using Chest skills, there is a %s4% change to deals \n[Damage Rate: %s1%] Magic Damage to nearby enemies\nand reduces their Movement Speed by %s3% and\ndamage dealt by %s2% for 4s.\nTrigger Interval: 10s",
+      "description": "When using Chest skills, there is a %s4% change to deals [Damage Rate: %s1%] Magic Damage to nearby enemiesand reduces their Movement Speed by %s3% anddamage dealt by %s2% for 4s.\nTrigger Interval: 10s",
       "arguments": [
         {
           "argumentName": "s1",
@@ -299,7 +299,7 @@
       "iconName": "ArmorExclusiveLgdr2",
       "rarity": "legendary",
       "slot": "Chest",
-      "description": "When using Chest skills, detonates after 1s to deal \n[Damage Rate: %s1%] Physical\nDamage to nearby enemies and reduce their Attack\nSpeed by %s2% for 6s.\nTrigger Interval: 10s",
+      "description": "When using Chest skills, detonates after 1s to deal [Damage Rate: %s1%] PhysicalDamage to nearby enemies and reduce their AttackSpeed by %s2% for 6s.\nTrigger Interval: 10s",
       "arguments": [
         {
           "argumentName": "s1",
@@ -316,7 +316,7 @@
       "iconName": "ArmorExclusiveLgdr3",
       "rarity": "legendary",
       "slot": "Chest",
-      "description": "When using Chest skills, restores %s1% HP and \n %s2%MP to nearby allies.\nTrigger Interval: 10s.",
+      "description": "When using Chest skills, restores %s1% HP and  %s2%MP to nearby allies.\nTrigger Interval: 10s.",
       "arguments": [
         {
           "argumentName": "s1",
@@ -333,7 +333,7 @@
       "iconName": "ArmorExclusiveLgdr4",
       "rarity": "legendary",
       "slot": "Boots",
-      "description": "When using Boots Skills, the character gains an additional  \n[Target-based Max HP %s1%] Shield Value for 4s.\nTrigger Interval: 20s",
+      "description": "When using Boots Skills, the character gains an additional  [Target-based Max HP %s1%] Shield Value for 4s.\nTrigger Interval: 20s",
       "arguments": [
         {
           "argumentName": "s1",
@@ -346,7 +346,7 @@
       "iconName": "ArmorExclusiveLgdr5",
       "rarity": "legendary",
       "slot": "Boots",
-      "description": "When using Boots skills, throw a trap at your feet; When triggered by an enemy, deal\n[Damage Rate: %s1%] Physical Damage and stuns them for %s2%.\nTrigger Interval: 20s",
+      "description": "When using Boots skills, throw a trap at your feet; When triggered by an enemy, deal[Damage Rate: %s1%] Physical Damage and stuns them for %s2%.\nTrigger Interval: 20s",
       "arguments": [
         {
           "argumentName": "s1",
@@ -363,7 +363,7 @@
       "iconName": "ArmorExclusiveLgdr6",
       "rarity": "legendary",
       "slot": "Boots",
-      "description": "When using Boot skills, restores %s1% HP and\nbecomes immune to control effects for %s2%s.\nCooldown: 20s",
+      "description": "When using Boot skills, restores %s1% HP andbecomes immune to control effects for %s2%s.\nCooldown: 20s",
       "arguments": [
         {
           "argumentName": "s1",
@@ -380,7 +380,7 @@
       "iconName": "ArmorLgdr1",
       "rarity": "legendary",
       "slot": "all",
-      "description": "When affected by Hard Control effects (Stun, Fear, Frozen, Knockup, Petrify), has a %s1% chance to cast a Bellow that deals %s2% Physical Damage to nearby enemies and inflicts Fear for 1s. Cooldown: 20s after activation.",
+      "description": "When affected by Hard Control effects (Stun, Fear, Frozen, Knockup, Petrify), has a %s1% chance to cast a Bellow that deals %s2% Physical Damage to nearby enemies and inflicts Fear for 1s. \nCooldown: 20s after activation.",
       "arguments": [
         {
           "argumentName": "s1",
@@ -397,7 +397,7 @@
       "iconName": "ArmorLgdr2",
       "rarity": "legendary",
       "slot": "all",
-      "description": "When taking direct damage from Basic Attacks, has\na %s1% chance to trigger: for the next 5 seconds,\nany direct damage from Basic Attacks reflects %s2%\nMagic Damage to the attacker and modifies their\nArmor by %s3% for 4s.\nCooldown: 25s.",
+      "description": "When taking direct damage from Basic Attacks, hasa %s1% chance to trigger: for the next 5 seconds,any direct damage from Basic Attacks reflects %s2%Magic Damage to the attacker and modifies theirArmor by %s3% for 4s.\nCooldown: 25s.",
       "arguments": [
         {
           "argumentName": "s1",
@@ -418,7 +418,7 @@
       "iconName": "ArmorLgdr3",
       "rarity": "legendary",
       "slot": "all",
-      "description": "When taking direct damage from skills, has a %s1%\nchance to deal \n[Damage Rate: %s2%] Magic Damage\n to all enemy targets within the damage source's range,\n drain %s4% MP, and\nreduce the damage they deal by %s3% for 4s.\nTrigger Interval: 30s",
+      "description": "When taking direct damage from skills, has a %s1%chance to deal [Damage Rate: %s2%] Magic Damage to all enemy targets within the damage source's range, drain %s4% MP, andreduce the damage they deal by %s3% for 4s.\nTrigger Interval: 30s",
       "arguments": [
         {
           "argumentName": "s1",
@@ -443,7 +443,7 @@
       "iconName": "ArmorLgdr4",
       "rarity": "legendary",
       "slot": "all",
-      "description": "When taking damage equal to more than 25%\nMax HP within 2s, %s1% chance to recover %s2%\nHP and gain Damage Immunity for %s3%\nCooldown: 30s.",
+      "description": "When taking damage equal to more than 25%Max HP within 2s, %s1% chance to recover %s2%HP and gain Damage Immunity for %s3%\nCooldown: 30s.",
       "arguments": [
         {
           "argumentName": "s1",

@@ -17,7 +17,7 @@
       "cooldown": "0.5",
       "castingRange": "16",
       "type": "basic",
-      "description": "[Basic Attack]: Deals \n[Damage Rate: 90%] Magic Damage. \nCan cast [Holy Feather] every 5s.\nDeals \n[Damage Rate: 150%] Magic Damage to the target\nand heals \n[Healing Rate: 90%] HP for up to 3 allies within\n14m.",
+      "description": "[Basic Attack]: Deals [Damage Rate: 90%] Magic Damage. Can cast [Holy Feather] every 5s.Deals [Damage Rate: 150%] Magic Damage to the targetand heals [Healing Rate: 90%] HP for up to 3 allies within14m.",
       "tierUnlock": "2"
     },
     {
@@ -27,7 +27,7 @@
       "cooldown": "0.5",
       "castingRange": "12",
       "type": "basic",
-      "description": "Replaces Basic Attack with [Holy Smite].\nAfter a 0.5s cast, calls down holy smite at the target\nlocation, dealing \n[Damage Rate: 80%] Magic Damage to\nall players (\n[Damage Rate: 160%] Magic Damage to\nmobs). Heals the caster for \n[Healing Rate: 57%] HP if\nhitting at least one enemy.",
+      "description": "Replaces Basic Attack with [Holy Smite].After a 0.5s cast, calls down holy smite at the targetlocation, dealing [Damage Rate: 80%] Magic Damage toall players ([Damage Rate: 160%] Magic Damage tomobs). Heals the caster for [Healing Rate: 57%] HP ifhitting at least one enemy.",
       "tierUnlock": "4"
     },
     {
@@ -37,7 +37,7 @@
       "cooldown": "0.5",
       "castingRange": "14",
       "type": "basic",
-      "description": "Replaces Basic Attack with [Holy Heal].\nAfter a 1.5s cast, performs holy healing at the target\nlocation, restoring \n[Healing Rate: 108%] HP to allies in range.",
+      "description": "Replaces Basic Attack with [Holy Heal].After a 1.5s cast, performs holy healing at the targetlocation, restoring [Healing Rate: 108%] HP to allies in range.",
       "tierUnlock": "6"
     }
   ],
@@ -49,7 +49,7 @@
       "cooldown": "9.3",
       "castingRange": "18",
       "type": "common",
-      "description": "Projects a holy wave in the target direction, dealing \n[Damage Rate: 200%] Magic Damage to all players\n([Damage Rate: 300%] Magic Damage to mobs) in its\npath. The wave automatically returns when reaching max\nrange, healing up to 5 nearby allies for \n[Healing Rate: 90%] HP.",
+      "description": "Projects a holy wave in the target direction, dealing [Damage Rate: 200%] Magic Damage to all players([Damage Rate: 300%] Magic Damage to mobs) in itspath. The wave automatically returns when reaching maxrange, healing up to 5 nearby allies for [Healing Rate: 90%] HP.",
       "tierUnlock": "1"
     },
     {
@@ -59,7 +59,7 @@
       "cooldown": "15",
       "castingRange": "10",
       "type": "common",
-      "description": "Channels divine link on target for 6s, also granting the\ncaster  \n[Target-based Max HP 15%] Shield for 4s. Can\nmove slowly while channeling.\nWhen targeting an ally, heals them for \n[Healing Rate: 120%] HP every second.\nWhen targeting an enemy, deals \n[Damage Rate: 100%]\nMagic Damage every second.",
+      "description": "Channels divine link on target for 6s, also granting thecaster  [Target-based Max HP 15%] Shield for 4s. Canmove slowly while channeling.When targeting an ally, heals them for [Healing Rate: 120%] HP every second.When targeting an enemy, deals [Damage Rate: 100%]Magic Damage every second.",
       "tierUnlock": "3"
     },
     {
@@ -69,7 +69,7 @@
       "cooldown": "13",
       "castingRange": "14",
       "type": "common",
-      "description": "Projects holy energy at the target location. On impact,\nrestores \n[Healing Rate: 90%] HP and grants a\n[Target-based Max HP 20%] shield for 4s to allies in\nrange.",
+      "description": "Projects holy energy at the target location. On impact,restores [Healing Rate: 90%] HP and grants a[Target-based Max HP 20%] shield for 4s to allies inrange.",
       "tierUnlock": "5"
     },
     {
@@ -89,7 +89,7 @@
       "cooldown": "14",
       "castingRange": "14",
       "type": "common",
-      "description": "Cleanses all Slow and Immobilize effects and 2 Debuff\neffects from the caster and up to 20 nearby allies and\nrestores \n[Healing Rate: 120%] HP. Also prevents the next 3\nImmobilize and Immune to Slow effects within 4s.",
+      "description": "Cleanses all Slow and Immobilize effects and 2 Debuffeffects from the caster and up to 20 nearby allies andrestores [Healing Rate: 120%] HP. Also prevents the next 3Immobilize and Immune to Slow effects within 4s.",
       "tierUnlock": "8"
     }
   ],
@@ -103,7 +103,7 @@
       "cooldown": "14",
       "castingRange": "16",
       "type": "skill",
-      "description": "Grants a shield of  \n[Target-based Max HP 25%] to the\ncaster or an ally for 4s.\nWhen the shield breaks, deals \n[Damage Rate: 250%] Magic\nDamage to nearby enemies.",
+      "description": "Grants a shield of  [Target-based Max HP 25%] to thecaster or an ally for 4s.When the shield breaks, deals [Damage Rate: 250%] MagicDamage to nearby enemies.",
       "tierUnlock": "2",
       "rarity": "rare",
       "stats": {
@@ -137,7 +137,7 @@
       "cooldown": "18",
       "castingRange": "12",
       "type": "skill",
-      "description": "Launches a Holy Chain that bounces to the nearest allied\ntarget within 9 meters after hitting an ally, restoring \n[Healing Rate: 120%] HP with each hit. It deals  \n[Damage Rate: 100%] Magic Damage to up to 5 enemy targets in\nrange, with damage reduced to 20% for subsequent\nexplosions.\nThe chain can bounce up to 9 times, and each target can\nbe hit a maximum of 3 times.",
+      "description": "Launches a Holy Chain that bounces to the nearest alliedtarget within 9 meters after hitting an ally, restoring [Healing Rate: 120%] HP with each hit. It deals  [Damage Rate: 100%] Magic Damage to up to 5 enemy targets inrange, with damage reduced to 20% for subsequentexplosions.The chain can bounce up to 9 times, and each target canbe hit a maximum of 3 times.",
       "tierUnlock": "2",
       "rarity": "epic",
       "stats": {
@@ -154,7 +154,7 @@
       "cooldown": "18",
       "castingRange": "7",
       "type": "skill",
-      "description": "Creates a holy domain that deals \n[Damage Rate: 300%]\nMagic Damage to enemies in range and knocks them back\n10m. Channels for 3s, healing allies in range for  \n[Healing Rate: 60%] HP every 0.5s and increasing their Damage\nResistance by 10% for 6s. Stacks up to 3 times.",
+      "description": "Creates a holy domain that deals [Damage Rate: 300%]Magic Damage to enemies in range and knocks them back10m. Channels for 3s, healing allies in range for  [Healing Rate: 60%] HP every 0.5s and increasing their DamageResistance by 10% for 6s. Stacks up to 3 times.",
       "tierUnlock": "2",
       "rarity": "epic",
       "stats": {
@@ -171,7 +171,7 @@
       "cooldown": "18",
       "castingRange": "12",
       "type": "skill",
-      "description": "Casts holy radiance at the target location. Heals allies in\nrange for \n[Healing Rate: 120%] HP and deals  \n[Damage Rate: 300%] Magic Damage to enemies, knocking them\nback 7m from the center. Gives enemies 60% chance to\nmiss Basic Attacks and reveals Stealth for 6s.",
+      "description": "Casts holy radiance at the target location. Heals allies inrange for [Healing Rate: 120%] HP and deals  [Damage Rate: 300%] Magic Damage to enemies, knocking themback 7m from the center. Gives enemies 60% chance tomiss Basic Attacks and reveals Stealth for 6s.",
       "tierUnlock": "2",
       "rarity": "epic",
       "stats": {
@@ -188,7 +188,7 @@
       "cooldown": "32",
       "castingRange": "14",
       "type": "skill",
-      "description": "Creates a Blessed Halo at the target location. After 1s,\nheals all allies in range for \n[Healing Rate: 360%] HP,\ncleanses all control effects and 5 debuffs, and grants\nimmunity to Control and Slow for 4s.",
+      "description": "Creates a Blessed Halo at the target location. After 1s,heals all allies in range for [Healing Rate: 360%] HP,cleanses all control effects and 5 debuffs, and grantsimmunity to Control and Slow for 4s.",
       "tierUnlock": "2",
       "rarity": "legendary",
       "stats": {
@@ -205,7 +205,7 @@
       "cooldown": "37",
       "castingRange": "15",
       "type": "skill",
-      "description": "Cleanses an ally or the caster of all Slow and Immobilize\neffects, heals \n[Healing Rate: 360%] HP and grants\nSanctuary for 5s.\nSanctuary grants immunity to Slow and Immobilize, and\nprevents HP from falling below 1. Each 10% of missing\nHP increases healing received by 5%.\nSanctuary cannot be dispelled.",
+      "description": "Cleanses an ally or the caster of all Slow and Immobilizeeffects, heals [Healing Rate: 360%] HP and grantsSanctuary for 5s.Sanctuary grants immunity to Slow and Immobilize, andprevents HP from falling below 1. Each 10% of missingHP increases healing received by 5%.Sanctuary cannot be dispelled.",
       "tierUnlock": "2",
       "rarity": "legendary",
       "stats": {

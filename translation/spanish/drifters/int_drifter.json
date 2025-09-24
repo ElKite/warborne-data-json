@@ -41,7 +41,7 @@
         "cooldown": "46",
         "castingRange": "20",
         "type": "skill",
-        "description": "Focuses dark energy, channeling for 4s. Every 0.8s, launches 5 dark energy spheres forward (total of 25), each dealing [Damage Rate: 50%] Magic Damage to enemy targets and inflicting [Dark Matter Venom], reducing Healing Received by 8%, for 6s. Stacks up to 5 times. The skill cannot be interrupted.]\n[Dark Matter Venom]: Each stack deals [Damage Rate:15%] Magic Damage every 2 seconds (damage increases with stacks) for 12 seconds. Stacks up to 5 times",
+        "description": "Focuses dark energy, channeling for 4s. Every 0.8s, launches 5 dark energy spheres forward (total of 25), each dealing [Damage Rate: 50%] Magic Damage to enemy targets and inflicting [Dark Matter Venom], reducing Healing Received by 8%, for 6s. Stacks up to 5 times. The skill cannot be interrupted.][Dark Matter Venom]: Each stack deals [Damage Rate:15%] Magic Damage every 2 seconds (damage increases with stacks) for 12 seconds. Stacks up to 5 times",
         "tierUnlock": "1"
       },
       "passive": {
@@ -52,7 +52,7 @@
         "cooldown": "",
         "castingRange": "",
         "type": "passive",
-        "description": "Gains 5% Movement Speed for 3s when inflicting an\nenemy with a DoT effect, stacking up to 6 times.",
+        "description": "Gains 5% Movement Speed for 3s when inflicting anenemy with a DoT effect, stacking up to 6 times.",
         "tierUnlock": "4"
       }
     },
@@ -96,7 +96,7 @@
         "cooldown": "42",
         "castingRange": "10",
         "type": "skill",
-        "description": "Links to 8 targets within 10m around the caster,\nchanneling for 4s. Restores \n[Healing Rate: 40%] HP to the\ncaster and linked allies every 0.5s, while dealing  \n[Damage Rate: 70%] Magic Damage to linked enemies.\nCannot be interrupted while channeling.",
+        "description": "Links to 8 targets within 10m around the caster,channeling for 4s. Restores [Healing Rate: 40%] HP to thecaster and linked allies every 0.5s, while dealing  [Damage Rate: 70%] Magic Damage to linked enemies.Cannot be interrupted while channeling.",
         "tierUnlock": "1"
       },
       "passive": {
@@ -151,7 +151,7 @@
         "cooldown": "46",
         "castingRange": "5",
         "type": "skill",
-        "description": "Removes all control effects and gains [Submerge] for\n2.5s\n[Submerge]: Dives underground, becoming immune to all\ndamage and control effects. Increases Movement Speed\nby 40% and recovers\n[Healing Rate: 49%] HP every\nsecond.\nPress skill again to exit [Submerge] early.\nUpon exiting [Submerge], deals \n[Damage Rate: 200%]\nMagic Damage to nearby enemies.\nCan be used while skills are disabled",
+        "description": "Removes all control effects and gains [Submerge] for2.5s[Submerge]: Dives underground, becoming immune to alldamage and control effects. Increases Movement Speedby 40% and recovers[Healing Rate: 49%] HP everysecond.Press skill again to exit [Submerge] early.Upon exiting [Submerge], deals [Damage Rate: 200%]Magic Damage to nearby enemies.Can be used while skills are disabled",
         "tierUnlock": "1"
       },
       "passive": {
@@ -162,7 +162,7 @@
         "cooldown": "0.5",
         "castingRange": "",
         "type": "passive",
-        "description": "Dealing damage with a skill grants 1 stack of Swarm,\nrestoring \n[Healing Rate: 7.5%] HP every 2s for 6s\n(stacks do not boost healing effect). During this time,\nDamage Resistance increases by 5%, stacking up to 5\ntimes. (Cooldown: 0.5s)",
+        "description": "Dealing damage with a skill grants 1 stack of Swarm,restoring [Healing Rate: 7.5%] HP every 2s for 6s(stacks do not boost healing effect). During this time,Damage Resistance increases by 5%, stacking up to 5times. (\nCooldown: 0.5s)",
         "tierUnlock": "4"
       }
     },
@@ -206,7 +206,7 @@
         "cooldown": "46",
         "castingRange": "14",
         "type": "skill",
-        "description": "Applies Serpent's Whisper to the caster or an allied target,\npreventing movement and skill usage for 4s and granting\nimmunity to damage and control. Deals \n[Damage Rate: 58%] Magic Damage to nearby enemies every 0.5s and\napplies [Creeping Stone]\n[Creeping Stone]: Lasts 1s, stacking up to 4 times. Target\nis Petrified and has their Armor reduced by 25% for 2 at\nmax stacks (cannot gain [Creeping Stone] for 6)\nCan be used while skills are disabled. Serpent's Whisper\ncannot be dispelled.",
+        "description": "Applies Serpent's Whisper to the caster or an allied target,preventing movement and skill usage for 4s and grantingimmunity to damage and control. Deals [Damage Rate: 58%] Magic Damage to nearby enemies every 0.5s andapplies [Creeping Stone][Creeping Stone]: Lasts 1s, stacking up to 4 times. Targetis Petrified and has their Armor reduced by 25% for 2 atmax stacks (cannot gain [Creeping Stone] for 6)Can be used while skills are disabled. Serpent's Whispercannot be dispelled.",
         "tierUnlock": "1"
       },
       "passive": {
@@ -217,7 +217,7 @@
         "cooldown": "",
         "castingRange": "",
         "type": "passive",
-        "description": "Retains 1 HP upon taking lethal damage, transforming\ninto a spirit serpent, cleansing all negative effects\n(control, DoT, and debuffs), gaining immunity to control,\ndebuffs and damage for 2s, and +100% Movement Speed,\nand healing 5% HP every 0.5s. (CD: 120s)",
+        "description": "Retains 1 HP upon taking lethal damage, transforminginto a spirit serpent, cleansing all negative effects(control, DoT, and debuffs), gaining immunity to control,debuffs and damage for 2s, and +100% Movement Speed,and healing 5% HP every 0.5s. (CD: 120s)",
         "tierUnlock": "4"
       }
     },
@@ -261,7 +261,7 @@
         "cooldown": "28",
         "castingRange": "12",
         "type": "skill",
-        "description": "    Initiates a Genetic Cascade with the target for 15 seconds, restoring [Healing Rate: 30%] HP per second and increasing damage dealt by 3% for 5 seconds, stacking up to 10 times.\n\n    When the target is an ally, restores [Healing Rate: 30%] HP per second and increases damage dealt by 3% for 5s, stacking up to 10 times.\n\n    When the target is an enemy, deals [Damage Rate:50%] Magic Damage every second and reduces damage dealt by 3% for 5 seconds. Stacks up to 10 times.\n\n    The first link recovers [Healing Rate: 30%] HP per second and increases damage by 3% for 5s, stacking up to 10 times.\n\n    You can link to another target type that was not selected for the first time during the skill duration. The connection breaks if the distance to the target exceeds 25 meters.",
+        "description": "    Initiates a Genetic Cascade with the target for 15 seconds, restoring [Healing Rate: 30%] HP per second and increasing damage dealt by 3% for 5 seconds, stacking up to 10 times.    When the target is an ally, restores [Healing Rate: 30%] HP per second and increases damage dealt by 3% for 5s, stacking up to 10 times.    When the target is an enemy, deals [Damage Rate:50%] Magic Damage every second and reduces damage dealt by 3% for 5 seconds. Stacks up to 10 times.    The first link recovers [Healing Rate: 30%] HP per second and increases damage by 3% for 5s, stacking up to 10 times.    You can link to another target type that was not selected for the first time during the skill duration. The connection breaks if the distance to the target exceeds 25 meters.",
         "tierUnlock": "1"
       },
       "passive": {
@@ -272,7 +272,7 @@
         "cooldown": "0.5",
         "castingRange": "",
         "type": "passive",
-        "description": "After dealing damage 5 times, creates two Yin Vortexes\naround the caster that deal \n[Damage Rate: 100%] Magic\nDamage to enemies hit and reduce healing received by 5%\nfor 4s. Stacks up to 3 times. (Cooldown: 0.5s)\nAfter healing 5 times, creates two Yang Vortexes around\nself that restore \n[Healing Rate: 50%] HP to allies hit and\nincrease healing received by 5% for 4s. Stacks up to 3\ntimes. (Cooldown: 0.5s)",
+        "description": "After dealing damage 5 times, creates two Yin Vortexesaround the caster that deal [Damage Rate: 100%] MagicDamage to enemies hit and reduce healing received by 5%for 4s. Stacks up to 3 times. (\nCooldown: 0.5s)After healing 5 times, creates two Yang Vortexes aroundself that restore [Healing Rate: 50%] HP to allies hit andincrease healing received by 5% for 4s. Stacks up to 3times. (\nCooldown: 0.5s)",
         "tierUnlock": "4"
       }
     },
@@ -316,7 +316,7 @@
         "cooldown": "28",
         "castingRange": "14",
         "type": "skill",
-        "description": "Select an enemy target to summon ravens. After 2\nseconds, ravens dive to attack, dealing \n[Damage Rate: 210%] Magic Damage to up to 10 enemies in range,\ndispelling all buffs, shields, and HoT effects. Applies 50%\nSlow and reduces damage dealt by 50% for 6s. Targets\ncannot gain buffs, shields, or HoT effects during this time.",
+        "description": "Select an enemy target to summon ravens. After 2seconds, ravens dive to attack, dealing [Damage Rate: 210%] Magic Damage to up to 10 enemies in range,dispelling all buffs, shields, and HoT effects. Applies 50%Slow and reduces damage dealt by 50% for 6s. Targetscannot gain buffs, shields, or HoT effects during this time.",
         "tierUnlock": "1"
       },
       "passive": {
@@ -327,7 +327,7 @@
         "cooldown": "0.5",
         "castingRange": "",
         "type": "passive",
-        "description": "Skills grant the caster Raven's Call when dealing damage. Upon reaching 6 stacks, the next skill damage within 8s will deal [Damage Rate: 120%] Magic Damage to up to 5 enemy targets in range, dispel 1 stack of buffs on hit targets, and restore [Healing Rate: 72%] HP to the caster. (Raven's Call ICD: 0.5s, Raven Summon Cooldown: 10s)",
+        "description": "Skills grant the caster Raven's Call when dealing damage. Upon reaching 6 stacks, the next skill damage within 8s will deal [Damage Rate: 120%] Magic Damage to up to 5 enemy targets in range, dispel 1 stack of buffs on hit targets, and restore [Healing Rate: 72%] HP to the caster. (Raven's Call ICD: 0.5s, Raven Summon \nCooldown: 10s)",
         "tierUnlock": "4"
       }
     },
@@ -371,7 +371,7 @@
         "cooldown": "42",
         "castingRange": "10",
         "type": "skill",
-        "description": "Creates a Lunar Domain and channels for 8s. Enemies in range take Starfall strikes on skill use, dealing [Damage Rate: 200%] Magic Damage and draining 20 MP. Allies in range regenerate 8 MP every second and gain a Shield based on 15% of their max HP for 4s.\n\nSkill cannot be interrupted. Increases Movement Speed by 20% while casting skills.",
+        "description": "Creates a Lunar Domain and channels for 8s. Enemies in range take Starfall strikes on skill use, dealing [Damage Rate: 200%] Magic Damage and draining 20 MP. Allies in range regenerate 8 MP every second and gain a Shield based on 15% of their max HP for 4s.Skill cannot be interrupted. Increases Movement Speed by 20% while casting skills.",
         "tierUnlock": "1"
       },
       "passive": {
@@ -426,7 +426,7 @@
         "cooldown": "42",
         "castingRange": "16",
         "type": "skill",
-        "description": "Creates an expanding Sanctification Field at the target\nlocation and channels for 5s.\nCannot be interrupted while channeling.\nCleanses control effects every 0.5s, all debuffs, and 2 DoT\neffects, from up to 20 allies in the field and restores \n[Healing Rate: 25%] HP.",
+        "description": "Creates an expanding Sanctification Field at the targetlocation and channels for 5s.Cannot be interrupted while channeling.Cleanses control effects every 0.5s, all debuffs, and 2 DoTeffects, from up to 20 allies in the field and restores [Healing Rate: 25%] HP.",
         "tierUnlock": "1"
       },
       "passive": {
@@ -437,7 +437,7 @@
         "cooldown": "",
         "castingRange": "",
         "type": "passive",
-        "description": "When healing with skills, the target gains 5% additional\nDamage Resistance for 4s. Stacks up to 6 times",
+        "description": "When healing with skills, the target gains 5% additionalDamage Resistance for 4s. Stacks up to 6 times",
         "tierUnlock": "4"
       }
     },
@@ -481,7 +481,7 @@
         "cooldown": "93",
         "castingRange": "40",
         "type": "skill",
-        "description": "Creates an astral field beneath the caster. After 3s,\nteleports up to 15 teammates in range to the target\nlocation. Upon arrival, deals \n[Damage Rate: 200%] Magic\nDamage to surrounding enemies and Stuns them for 1s.\nAllies gain  \n[Target-based Max HP 20%] Shield, +30%\nMovement Speed effects for 4s.\nIf there's unpassable terrain in the teleportation path,\nteleport to that position instead ..\n Target cannot be teleported by Astral Gate for 10 seconds after teleportation.",
+        "description": "Creates an astral field beneath the caster. After 3s,teleports up to 15 teammates in range to the targetlocation. Upon arrival, deals [Damage Rate: 200%] MagicDamage to surrounding enemies and Stuns them for 1s.Allies gain  [Target-based Max HP 20%] Shield, +30%Movement Speed effects for 4s.If there's unpassable terrain in the teleportation path,teleport to that position instead .. Target cannot be teleported by Astral Gate for 10 seconds after teleportation.",
         "tierUnlock": "1"
       },
       "passive": {
@@ -492,7 +492,7 @@
         "cooldown": "0.5",
         "castingRange": "",
         "type": "passive",
-        "description": "Reduces the cooldown of all skills (not including Tactical\nItem skills) by 0.3s when this skill deals damage.\n(Cooldown: 0.5s)",
+        "description": "Reduces the cooldown of all skills (not including TacticalItem skills) by 0.3s when this skill deals damage.(\nCooldown: 0.5s)",
         "tierUnlock": "4"
       }
     },
@@ -536,7 +536,7 @@
         "cooldown": "44",
         "castingRange": "7",
         "type": "skill",
-        "description": "Channels for 5s, scattering 8 Blood Seeds (up to 40 total) around the caster every second. Each seed explodes 1.5s after landing, dealing \n[Damage Rate: 70%] Magic Damage to up to 5 enemies in range. If at least one enemy is hit by the explosion, the caster regenerates 15% Health. Movement speed is boosted by 30% during channeling, decaying over time. Cannot be interrupted.",
+        "description": "Channels for 5s, scattering 8 Blood Seeds (up to 40 total) around the caster every second. Each seed explodes 1.5s after landing, dealing [Damage Rate: 70%] Magic Damage to up to 5 enemies in range. If at least one enemy is hit by the explosion, the caster regenerates 15% Health. Movement speed is boosted by 30% during channeling, decaying over time. Cannot be interrupted.",
         "tierUnlock": "1"
       },
       "passive": {
@@ -547,7 +547,7 @@
         "cooldown": "25",
         "castingRange": "",
         "type": "passive",
-        "description": "Dealing damage with skills or attacks marks the target. After 6s, the mark detonates, inflicting 30% True Damage of total damage received during the mark’s duration, and restoring 20% Health to the caster. \n(Cooldown: 25s)",
+        "description": "Dealing damage with skills or attacks marks the target. After 6s, the mark detonates, inflicting 30% True Damage of total damage received during the mark’s duration, and restoring 20% Health to the caster. (\nCooldown: 25s)",
         "tierUnlock": "4"
       }
     }

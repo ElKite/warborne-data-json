@@ -117,7 +117,7 @@
       "id": "stealth-potion",
       "name": "은신 물약",
       "iconName": "icon_Stealth",
-      "description": "8초 동안 은신 상태가 됩니다.\n스킬 사용, 피해 주기/받기, 치유를 가할 경우 은신이 해제됩니다.",
+      "description": "8초 동안 은신 상태가 됩니다.스킬 사용, 피해 주기/받기, 치유를 가할 경우 은신이 해제됩니다.",
       "category": "potion",
       "rarity": "rare"
     },

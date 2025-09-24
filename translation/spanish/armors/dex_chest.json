@@ -62,7 +62,7 @@
       "cooldown": "32",
       "castingRange": "12",
       "type": "skill",
-      "description": "Snarls toward the target direction, dealing \n[Damage Rate: 200%] Physical Damage to enemies in range. Reduces\ntheir Movement Speed by 40%, damage dealt by 50%, and\ndisables Stealth for 5s",
+      "description": "Snarls toward the target direction, dealing [Damage Rate: 200%] Physical Damage to enemies in range. Reducestheir Movement Speed by 40%, damage dealt by 50%, anddisables Stealth for 5s",
       "tierUnlock": "1",
       "rarity": "epic"
     },

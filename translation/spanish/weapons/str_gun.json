@@ -17,7 +17,7 @@
       "cooldown": "1.2",
       "castingRange": "22",
       "type": "basic",
-      "description": "[Basic Attack]: Deals \n[Damage Rate: 60%] Physical Damage to the target. Every 4th Basic Attack becomes [Headshot]. Deals \n[Damage Rate: 112%] Physical Damage and always crits.",
+      "description": "[Basic Attack]: Deals [Damage Rate: 60%] Physical Damage to the target. Every 4th Basic Attack becomes [Headshot]. Deals [Damage Rate: 112%] Physical Damage and always crits.",
       "tierUnlock": "2"
     },
     {
@@ -27,7 +27,7 @@
       "cooldown": "1.2",
       "castingRange": "22",
       "type": "basic",
-      "description": "[Basic Attack]: Deals \n[Damage Rate: 60%] Physical Damage to the target. Can cast [Ricochet] every 6s. Deals \n[Damage Rate: 130%] Physical Damage and applies 30% Slow for 4s. Bounces to 1 enemy behind the target up to 4 times.",
+      "description": "[Basic Attack]: Deals [Damage Rate: 60%] Physical Damage to the target. Can cast [Ricochet] every 6s. Deals [Damage Rate: 130%] Physical Damage and applies 30% Slow for 4s. Bounces to 1 enemy behind the target up to 4 times.",
       "tierUnlock": "4"
     },
     {
@@ -49,7 +49,7 @@
       "cooldown": "1.5",
       "castingRange": "12",
       "type": "common",
-      "description": "Places a trap at the target location that lasts 150s. When enemies enter its range, reveals Stealth for 2s and grants a  \n[Target-based Max HP 15%] Shield for 4s. Creates a slowing field, reducing enemy Speed by 35%. After 2s, explodes to deal \n[Damage Rate: 180%] Physical Damage to players (\n[Damage Rate: 270%] Physical Damage to mobs). Gains 1 charge every 15s, up to 2 charges.",
+      "description": "Places a trap at the target location that lasts 150s. When enemies enter its range, reveals Stealth for 2s and grants a  [Target-based Max HP 15%] Shield for 4s. Creates a slowing field, reducing enemy Speed by 35%. After 2s, explodes to deal [Damage Rate: 180%] Physical Damage to players ([Damage Rate: 270%] Physical Damage to mobs). Gains 1 charge every 15s, up to 2 charges.",
       "tierUnlock": "1"
     },
     {
@@ -103,7 +103,7 @@
       "cooldown": "1.5",
       "castingRange": "16",
       "type": "skill",
-      "description": "Consumes 2 bullets to fire two shotgun blasts forward, dealing \n[Damage Rate: 110%] Physical Damage to players (\n[Damage Rate: 220%] Physical Damage to mobs) in range. Gains 1 charge every 12s, up to 3 charges.",
+      "description": "Consumes 2 bullets to fire two shotgun blasts forward, dealing [Damage Rate: 110%] Physical Damage to players ([Damage Rate: 220%] Physical Damage to mobs) in range. Gains 1 charge every 12s, up to 3 charges.",
       "tierUnlock": "2",
       "rarity": "rare",
       "stats": {
@@ -187,7 +187,7 @@
       "cooldown": "19",
       "castingRange": "20",
       "type": "skill",
-      "description": "Scans enemies in front, locking onto 1 enemy every 0.3s, up to 6 (prioritizing unselected enemies). After scanning ends, fires energy projectiles at locked targets, consuming 1 Bullet per target. Each shot deals \n[Damage Rate: 175%] Magic Damage, reveals Stealth, and gives Basic Attacks a 40% chance to miss for 6s",
+      "description": "Scans enemies in front, locking onto 1 enemy every 0.3s, up to 6 (prioritizing unselected enemies). After scanning ends, fires energy projectiles at locked targets, consuming 1 Bullet per target. Each shot deals [Damage Rate: 175%] Magic Damage, reveals Stealth, and gives Basic Attacks a 40% chance to miss for 6s",
       "tierUnlock": "2",
       "rarity": "epic",
       "stats": {
@@ -221,7 +221,7 @@
       "cooldown": "24",
       "castingRange": "6",
       "type": "skill",
-      "description": "Activates Photon Activation for 20s. Immune to Slow and Immobilize. Gains [Prism Beam] and [Prism Camo]—[Photon Beam]—\nDeals [Damage Rate: 120%] Physical Damage and drains 5 MP from enemies in the front area. After 3 beams, the next Basic Attack becomes Enhanced Photon Beam, dealing [Damage Rate: 135%] Physical Damage and draining 5 MP from enemies in the front area.\n—[Photon Camouflagel—\nRemoves all control effects. Gain Stealth and +30% Movement Speed for 2s. Can be used while skills are disabled",
+      "description": "Activates Photon Activation for 20s. Immune to Slow and Immobilize. Gains [Prism Beam] and [Prism Camo]—[Photon Beam]—Deals [Damage Rate: 120%] Physical Damage and drains 5 MP from enemies in the front area. After 3 beams, the next Basic Attack becomes Enhanced Photon Beam, dealing [Damage Rate: 135%] Physical Damage and draining 5 MP from enemies in the front area.—[Photon Camouflagel—Removes all control effects. Gain Stealth and +30% Movement Speed for 2s. Can be used while skills are disabled",
       "tierUnlock": "2",
       "rarity": "legendary",
       "stats": {

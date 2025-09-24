@@ -5,7 +5,7 @@
       "id": "mossgrass-biscuit",
       "name": "Mossgrass Biscuit",
       "iconName": "equip_food_1",
-      "description": "30초 동안 매초 25 + 0.8% 체력을 회복합니다.\nPvP 피해를 받으면 회복이 중단됩니다.",
+      "description": "30초 동안 매초 25 + 0.8% 체력을 회복합니다.PvP 피해를 받으면 회복이 중단됩니다.",
       "category": "food",
       "rarity": "common"
     },
@@ -13,7 +13,7 @@
       "id": "spicy-lizard-stew",
       "name": "매운 도마뱀 스튜",
       "iconName": "equip_food_2",
-      "description": "30초 동안 매초 40 + 1% 체력을 회복합니다.\nPvP 피해를 받으면 회복이 중단됩니다.",
+      "description": "30초 동안 매초 40 + 1% 체력을 회복합니다.PvP 피해를 받으면 회복이 중단됩니다.",
       "category": "food",
       "rarity": "uncommon"
     },
@@ -21,7 +21,7 @@
       "id": "sandcrystal-crab-pot",
       "name": "모래수정 게 냄비요리",
       "iconName": "equip_food_3",
-      "description": "30초 동안 매초 100 + 1.4% 체력을 회복합니다.\nPvP 피해를 받으면 회복이 중단됩니다.",
+      "description": "30초 동안 매초 100 + 1.4% 체력을 회복합니다.PvP 피해를 받으면 회복이 중단됩니다.",
       "category": "food",
       "rarity": "rare"
     },
@@ -29,7 +29,7 @@
       "id": "horseshoe-crab-teppanyaki",
       "name": "투구게 철판구이",
       "iconName": "equip_food_4",
-      "description": "30초 동안 매초 180 + 1.7% 체력을 회복합니다.\nPvP 피해를 받으면 회복이 중단됩니다.",
+      "description": "30초 동안 매초 180 + 1.7% 체력을 회복합니다.PvP 피해를 받으면 회복이 중단됩니다.",
       "category": "food",
       "rarity": "epic"
     },
@@ -37,7 +37,7 @@
       "id": "fire-eater-feast",
       "name": "화염포식 연회요리",
       "iconName": "equip_food_5",
-      "description": "30초 동안 매초 300 + 2% 체력을 회복합니다.\nPvP 피해를 받으면 회복이 중단됩니다.",
+      "description": "30초 동안 매초 300 + 2% 체력을 회복합니다.PvP 피해를 받으면 회복이 중단됩니다.",
       "category": "food",
       "rarity": "legendary"
     }

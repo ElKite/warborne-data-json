@@ -23,7 +23,7 @@
       "cooldown": "28",
       "castingRange": "6",
       "type": "skill",
-      "description": "Immediately removes all control effects, restores \n[Healing Rate:  180%] HP, and grants Control Immunity for 2s. Can be used while skills are disabled",
+      "description": "Immediately removes all control effects, restores [Healing Rate:  180%] HP, and grants Control Immunity for 2s. Can be used while skills are disabled",
       "tierUnlock": "1",
       "rarity": "epic"
     },
@@ -49,7 +49,7 @@
       "cooldown": "28",
       "castingRange": "16",
       "type": "skill",
-      "description": "Launches a dispel projectile that deals \n[Damage Rate: 120%] Magic Damage to enemies in the impact area, removes all buffs and Shield effects. Reduces target's physical damage dealt by 40%",
+      "description": "Launches a dispel projectile that deals [Damage Rate: 120%] Magic Damage to enemies in the impact area, removes all buffs and Shield effects. Reduces target's physical damage dealt by 40%",
       "tierUnlock": "1",
       "rarity": "epic"
     },
@@ -94,7 +94,7 @@
       "cooldown": "46",
       "castingRange": "",
       "type": "skill",
-      "description": "Creates a panic curse field around the caster that lasts\n6s\nEnemies within 6m who use skills take \n[Damage Rate: 200%] Magic Damage and are affected by Fear for 1.5s",
+      "description": "Creates a panic curse field around the caster that lasts6sEnemies within 6m who use skills take [Damage Rate: 200%] Magic Damage and are affected by Fear for 1.5s",
       "tierUnlock": "1",
       "rarity": "legendary",
       "stats": {

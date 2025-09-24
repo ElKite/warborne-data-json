@@ -10,7 +10,7 @@
       "cooldown": "30",
       "castingRange": "",
       "type": "passive",
-      "description": "When casting skills, increases Magic Damage dealt by 20% for 6s Trigger Interval: 30s",
+      "description": "When casting skills, increases Magic Damage dealt by 20% for 6s \nTrigger Interval: 30s",
       "tierUnlock": "1",
       "rarity": "rare",
       "stats": {
@@ -28,7 +28,7 @@
       "cooldown": "20",
       "castingRange": "",
       "type": "passive",
-      "description": "When healing, grants target a  \n[Target-based Max HP 20%] shield for 6s Trigger Interval: 20s",
+      "description": "When healing, grants target a  [Target-based Max HP 20%] shield for 6s \nTrigger Interval: 20s",
       "tierUnlock": "1",
       "rarity": "epic",
       "stats": {
@@ -64,7 +64,7 @@
       "cooldown": "30",
       "castingRange": "",
       "type": "passive",
-      "description": "When skills deal direct damage, creates a venom zone lasting 6s at the target location. Enemies within 5m take [Damage Rate: 55%] Magic Damage every 1s and have their Magic Resistance reduced by 25%. Trigger Interval: 30s.",
+      "description": "When skills deal direct damage, creates a venom zone lasting 6s at the target location. Enemies within 5m take [Damage Rate: 55%] Magic Damage every 1s and have their Magic Resistance reduced by 25%. \nTrigger Interval: 30s.",
       "tierUnlock": "1",
       "rarity": "epic",
       "stats": {
@@ -82,7 +82,7 @@
       "cooldown": "45",
       "castingRange": "",
       "type": "passive",
-      "description": "When casting Skills with MP below 40%, immediately gains 15 MP per second for 8s. Trigger Interval: 45s",
+      "description": "When casting Skills with MP below 40%, immediately gains 15 MP per second for 8s. \nTrigger Interval: 45s",
       "tierUnlock": "1",
       "rarity": "epic",
       "stats": {
@@ -100,7 +100,7 @@
       "cooldown": "45",
       "castingRange": "",
       "type": "passive",
-      "description": "When taking damage at below 40% HP, gains a\n[Target-based Max HP 25%] shield and generates a\nrepulsion field lasting 6s. Enemies touching the field take\nDamage Rate: 100%] Magic Damage and are knocked\nback 7m.\nTrigger Interval: 45s",
+      "description": "When taking damage at below 40% HP, gains a[Target-based Max HP 25%] shield and generates arepulsion field lasting 6s. Enemies touching the field takeDamage Rate: 100%] Magic Damage and are knockedback 7m.\nTrigger Interval: 45s",
       "tierUnlock": "1",
       "rarity": "legendary",
       "stats": {
@@ -118,7 +118,7 @@
       "cooldown": "45",
       "castingRange": "",
       "type": "passive",
-      "description": "When damage taken within 3s exceeds 35% of max HP,\ncreates a healing wave that restores \n[Healing Rate: 240%]\nHP to nearby allies and removes control effects.\nTrigger Interval: 45s",
+      "description": "When damage taken within 3s exceeds 35% of max HP,creates a healing wave that restores [Healing Rate: 240%]HP to nearby allies and removes control effects.\nTrigger Interval: 45s",
       "tierUnlock": "1",
       "rarity": "legendary",
       "stats": {

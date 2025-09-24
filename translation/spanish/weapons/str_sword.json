@@ -17,7 +17,7 @@
       "cooldown": "1.3",
       "castingRange": "7",
       "type": "basic",
-      "description": "[Basic Attack]:Deals \n[Damage Rate: 130%] Physical Damage to enemy target. Can cast [Sword Slash] every 6s. Charges toward an enemy target to deal \n[Damage Rate: 180%] Physical Damage and inflict 40% Slow for 2s.",
+      "description": "[Basic Attack]:Deals [Damage Rate: 130%] Physical Damage to enemy target. Can cast [Sword Slash] every 6s. Charges toward an enemy target to deal [Damage Rate: 180%] Physical Damage and inflict 40% Slow for 2s.",
       "tierUnlock": "2"
     },
     {
@@ -27,7 +27,7 @@
       "cooldown": "1.3",
       "castingRange": "3.5",
       "type": "basic",
-      "description": "[Basic Attack]:Deals \n[Damage Rate: 130%] Physical Damage to enemy target. Can cast [Sword Cleave] every 5. Deals \n[Damage Rate: 220%] Physical Damage to surrounding enemies. Grants  \n[Target-based Max HP 3%] Shield for each enemy hit, lasting 4s. Stacks up to 5 times.",
+      "description": "[Basic Attack]:Deals [Damage Rate: 130%] Physical Damage to enemy target. Can cast [Sword Cleave] every 5. Deals [Damage Rate: 220%] Physical Damage to surrounding enemies. Grants  [Target-based Max HP 3%] Shield for each enemy hit, lasting 4s. Stacks up to 5 times.",
       "tierUnlock": "4"
     },
     {
@@ -37,7 +37,7 @@
       "cooldown": "1.3",
       "castingRange": "20",
       "type": "basic",
-      "description": "[Basic Attack]:Deals \n[Damage Rate: 130%] Physical Damage to enemy target. Can cast [Sword Energy] every 6s. Unleashes sword energy forward, dealing \n[Damage Rate: 140%] Physical Damage to enemies hit. Increases Movement Speed by 25% for 2s if at least 1 enemy is hit.",
+      "description": "[Basic Attack]:Deals [Damage Rate: 130%] Physical Damage to enemy target. Can cast [Sword Energy] every 6s. Unleashes sword energy forward, dealing [Damage Rate: 140%] Physical Damage to enemies hit. Increases Movement Speed by 25% for 2s if at least 1 enemy is hit.",
       "tierUnlock": "6"
     }
   ],
@@ -49,7 +49,7 @@
       "cooldown": "11",
       "castingRange": "5",
       "type": "common",
-      "description": "Performs 4 forward slashes, each dealing \n[Damage Rate: 60%] Physical Damage to players (\n[Damage Rate: 90%] Physical Damage to mobs). The final hit unleashes sword energy forward, dealing \n[Damage Rate: 150%] Physical Damage to all enemies hit.",
+      "description": "Performs 4 forward slashes, each dealing [Damage Rate: 60%] Physical Damage to players ([Damage Rate: 90%] Physical Damage to mobs). The final hit unleashes sword energy forward, dealing [Damage Rate: 150%] Physical Damage to all enemies hit.",
       "tierUnlock": "1"
     },
     {
@@ -59,7 +59,7 @@
       "cooldown": "14",
       "castingRange": "10",
       "type": "common",
-      "description": "Leaps to the target location, dealing \n[Damage Rate: 200%] Physical Damage and inflicting 50% Slow for 3s to nearby enemies upon landing. Gains  \n[Target-based Max HP 20%] Shield for 4s when hitting at least 1 enemy",
+      "description": "Leaps to the target location, dealing [Damage Rate: 200%] Physical Damage and inflicting 50% Slow for 3s to nearby enemies upon landing. Gains  [Target-based Max HP 20%] Shield for 4s when hitting at least 1 enemy",
       "tierUnlock": "3"
     },
     {
@@ -69,7 +69,7 @@
       "cooldown": "11",
       "castingRange": "10",
       "type": "common",
-      "description": "Hold to charge with control immunity and gain +20% Damage Resistance. While charging: Deals \n[Damage Rate: 150%] Physical Damage and Stuns enemies for 0.5s. After charging for 1.5s, deals \n[Damage Rate: 200%] Physical Damage, Stuns for 1.5s and creates a ground wave that deals \n[Damage Rate: 150%] Physical Damage and inflicts 40% Slow for 4s.",
+      "description": "Hold to charge with control immunity and gain +20% Damage Resistance. While charging: Deals [Damage Rate: 150%] Physical Damage and Stuns enemies for 0.5s. After charging for 1.5s, deals [Damage Rate: 200%] Physical Damage, Stuns for 1.5s and creates a ground wave that deals [Damage Rate: 150%] Physical Damage and inflicts 40% Slow for 4s.",
       "tierUnlock": "5"
     },
     {
@@ -103,7 +103,7 @@
       "cooldown": "19",
       "castingRange": "10",
       "type": "skill",
-      "description": "Spins toward the target location, dealing \n[Damage Rate: 75%] Physical Damage to all players (\n[Damage Rate: 150%] Physical Damage to mobs) hit. At 3+ Sword Momentum stacks, creates a tornado on arrival, dealing \n[Damage Rate: 50%] Physical Damage every 1s for 5s.",
+      "description": "Spins toward the target location, dealing [Damage Rate: 75%] Physical Damage to all players ([Damage Rate: 150%] Physical Damage to mobs) hit. At 3+ Sword Momentum stacks, creates a tornado on arrival, dealing [Damage Rate: 50%] Physical Damage every 1s for 5s.",
       "tierUnlock": "2",
       "rarity": "rare",
       "stats": {
@@ -122,7 +122,7 @@
       "cooldown": "19",
       "castingRange": "12",
       "type": "skill",
-      "description": "Briefly charges up and then rushes at the target enemy, inflicting [Heal Block] for 4s and dealing Physical Damage based on [Sword Momentum] stacks. [Sword Momentum] stacks: 0 | 1 | 2 | 3-6 Physical Damage: \n[Damage Rate: 210%] | \n[Damage Rate: 240%] | \n[Damage Rate: 270%] | \n[Damage Rate: 300%] At 3+ stacks, creates an explosion dealing \n[Damage Rate: 200%] Physical Damage and Stunning for 1.5s. [Heal Block]: Cannot receive healing.",
+      "description": "Briefly charges up and then rushes at the target enemy, inflicting [Heal Block] for 4s and dealing Physical Damage based on [Sword Momentum] stacks. [Sword Momentum] stacks: 0 | 1 | 2 | 3-6 Physical Damage: [Damage Rate: 210%] | [Damage Rate: 240%] | [Damage Rate: 270%] | [Damage Rate: 300%] At 3+ stacks, creates an explosion dealing [Damage Rate: 200%] Physical Damage and Stunning for 1.5s. [Heal Block]: Cannot receive healing.",
       "tierUnlock": "2",
       "rarity": "epic",
       "stats": {
@@ -141,7 +141,7 @@
       "cooldown": "19",
       "castingRange": "20",
       "type": "skill",
-      "description": "Unleashes a powerful sword energy toward the target direction, dealing \n[Damage Rate: 300%] Magic Damage to enemies hit. Additional effects based on [Sword Momentum] stacks: 1 stack: 30% Slow for 2s. 2 stacks: 30% Slow for 2s and Silence for 2s. 3-6 stacks: 30% Slow for 4s and Silence for 4s. At 3+ stacks, unleashes 2 extra Sword Energy. Additional Sword Energy deals 30% reduced damage.",
+      "description": "Unleashes a powerful sword energy toward the target direction, dealing [Damage Rate: 300%] Magic Damage to enemies hit. Additional effects based on [Sword Momentum] stacks: 1 stack: 30% Slow for 2s. 2 stacks: 30% Slow for 2s and Silence for 2s. 3-6 stacks: 30% Slow for 4s and Silence for 4s. At 3+ stacks, unleashes 2 extra Sword Energy. Additional Sword Energy deals 30% reduced damage.",
       "tierUnlock": "2",
       "rarity": "epic",
       "stats": {
@@ -160,7 +160,7 @@
       "cooldown": "19",
       "castingRange": "7",
       "type": "skill",
-      "description": "Knocks enemies back 8m and deals \n[Damage Rate: 450%] Physical Damage. Reduces Damage dealt based on [Sword Momentum] stacks for 6s. Sword Momentum] Stacks: 0 | 1 | 2 | 3-6 Reduction to damage dealt: 20% | 26% | 32% | 38% At 3+ stacks, Knockback increased to 12m and Stuns for 2s on collision.",
+      "description": "Knocks enemies back 8m and deals [Damage Rate: 450%] Physical Damage. Reduces Damage dealt based on [Sword Momentum] stacks for 6s. Sword Momentum] Stacks: 0 | 1 | 2 | 3-6 Reduction to damage dealt: 20% | 26% | 32% | 38% At 3+ stacks, Knockback increased to 12m and Stuns for 2s on collision.",
       "tierUnlock": "2",
       "rarity": "epic",
       "stats": {
@@ -179,7 +179,7 @@
       "cooldown": "24",
       "castingRange": "6",
       "type": "skill",
-      "description": "Gains immunity to Forced Movement (Pull, Knockback). Attack range and Max HP increase based on [Sword Momentum] stacks for 10s (Cannot be dispelled) Can use [Titan's Stride] to deal \n[Damage Rate: 150%] Physical Damage and Knockup enemies for 0.5s. [Sword Momentum] Stacks: 0 | 1 | 2 | 3-6 Basic Attack range: 1.5 | 2 | 2.5 | 3 Max HP: 30% |45% | 60% | 75% At 3+ stacks, creates a titan aura that Slows enemies by 30% and reduces Attack Speed by 30%.",
+      "description": "Gains immunity to Forced Movement (Pull, Knockback). Attack range and Max HP increase based on [Sword Momentum] stacks for 10s (Cannot be dispelled) Can use [Titan's Stride] to deal [Damage Rate: 150%] Physical Damage and Knockup enemies for 0.5s. [Sword Momentum] Stacks: 0 | 1 | 2 | 3-6 Basic Attack range: 1.5 | 2 | 2.5 | 3 Max HP: 30% |45% | 60% | 75% At 3+ stacks, creates a titan aura that Slows enemies by 30% and reduces Attack Speed by 30%.",
       "tierUnlock": "2",
       "rarity": "epic",
       "stats": {
@@ -198,7 +198,7 @@
       "cooldown": "30",
       "castingRange": "16",
       "type": "skill",
-      "description": "Dashes forward, dealing \n[Damage Rate: 250%] Physical Damage to all enemies hit. Reduces Damage Resistance based on [Sword Momentum] stacks for 4s. [Sword Momentum] stacks: 0 | 1 | 2 | 3-6 Damage Resistance reduction: 15% | 24% | 32% | 40% At 3+ stacks, Pulls enemies to the center on arrival and slashes multiple times over 1.8s, dealing \n[Damage Rate: 30%] Physical Damage every 0.3s.",
+      "description": "Dashes forward, dealing [Damage Rate: 250%] Physical Damage to all enemies hit. Reduces Damage Resistance based on [Sword Momentum] stacks for 4s. [Sword Momentum] stacks: 0 | 1 | 2 | 3-6 Damage Resistance reduction: 15% | 24% | 32% | 40% At 3+ stacks, Pulls enemies to the center on arrival and slashes multiple times over 1.8s, dealing [Damage Rate: 30%] Physical Damage every 0.3s.",
       "tierUnlock": "2",
       "rarity": "legendary",
       "stats": {
@@ -217,7 +217,7 @@
       "cooldown": "19",
       "castingRange": "12",
       "type": "skill",
-      "description": "Leaps to the target location, creating countless blades. Physical Damage scales with [Sword Momentum] stacks. [Sword Momentum] Stacks: 0 | 1 | 2 | 3-6 Physical Damage: \n[Damage Rate: 280%] | \n[Damage Rate: 320%] | \n[Damage Rate: 360%] | \n[Damage Rate: 400%] At 3+ stacks, creates two sets of blades forming outward, each dealing \n[Damage Rate: 150%] Physical Damage and inflicting 1s Knockup.",
+      "description": "Leaps to the target location, creating countless blades. Physical Damage scales with [Sword Momentum] stacks. [Sword Momentum] Stacks: 0 | 1 | 2 | 3-6 Physical Damage: [Damage Rate: 280%] | [Damage Rate: 320%] | [Damage Rate: 360%] | [Damage Rate: 400%] At 3+ stacks, creates two sets of blades forming outward, each dealing [Damage Rate: 150%] Physical Damage and inflicting 1s Knockup.",
       "tierUnlock": "2",
       "rarity": "legendary",
       "stats": {

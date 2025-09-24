@@ -7,7 +7,7 @@
     "cooldown": "",
     "castingRange": "",
     "type": "passive",
-    "description": "Damage dealt inflicts [Burn], dealing \n[Damage Rate: 25%] Magic Damage every second for 8s, stacking up to 6 times (stacks do not boost damage). When [Burn] reaches max stacks, deals \n[Damage Rate: 80%] Magic Damage to up to 5 enemies near the carrier and removes all [Burn] stacks."
+    "description": "Damage dealt inflicts [Burn], dealing [Damage Rate: 25%] Magic Damage every second for 8s, stacking up to 6 times (stacks do not boost damage). When [Burn] reaches max stacks, deals [Damage Rate: 80%] Magic Damage to up to 5 enemies near the carrier and removes all [Burn] stacks."
   },
   "basicAttacks": [
     {
@@ -17,7 +17,7 @@
       "cooldown": "0.5",
       "castingRange": "14",
       "type": "basic",
-      "description": "Deals \n[Damage Rate: 120%] Magic Damage and applies 1 stack of [Burn].",
+      "description": "Deals [Damage Rate: 120%] Magic Damage and applies 1 stack of [Burn].",
       "tierUnlock": "2"
     },
     {
@@ -27,7 +27,7 @@
       "cooldown": "0.5",
       "castingRange": "14",
       "type": "basic",
-      "description": "Replaces Basic Attack with [Scorching Shard]. After 1.2s cast, fires 3 scorching shards in the target direction, dealing \n[Damage Rate: 120%] Magic Damage to\nenemies hit and inflicting 1 stack of [Burn]. When multiple\nshards hit the same target, additional shards deal 25%\nless damage to the original damage.",
+      "description": "Replaces Basic Attack with [Scorching Shard]. After 1.2s cast, fires 3 scorching shards in the target direction, dealing [Damage Rate: 120%] Magic Damage toenemies hit and inflicting 1 stack of [Burn]. When multipleshards hit the same target, additional shards deal 25%less damage to the original damage.",
       "tierUnlock": "4"
     },
     {
@@ -37,7 +37,7 @@
       "cooldown": "0.5",
       "castingRange": "18",
       "type": "basic",
-      "description": "Replaces Basic Attack with [Wildfire Shard]. After 2s cast, fires a wildfire shard at the target location\nthat bounces forward twice. Explodes on contact with\nenemies, dealing \n[Damage Rate: 120%] Magic Damage\nand inflicting 1 stack of [Burn] to enemies in range.",
+      "description": "Replaces Basic Attack with [Wildfire Shard]. After 2s cast, fires a wildfire shard at the target locationthat bounces forward twice. Explodes on contact withenemies, dealing [Damage Rate: 120%] Magic Damageand inflicting 1 stack of [Burn] to enemies in range.",
       "tierUnlock": "6"
     }
   ],
@@ -49,7 +49,7 @@
       "cooldown": "6",
       "castingRange": "14",
       "type": "common",
-      "description": "Continuously channels flames in target direction for 3s,\ndealing \n[Damage Rate: 50%] Magic Damage and inflicting\n[Burn] to all enemies in range every 0.5s.\nCan rotate but cannot move while channeling\n75% Increased Damage against Monsters.",
+      "description": "Continuously channels flames in target direction for 3s,dealing [Damage Rate: 50%] Magic Damage and inflicting[Burn] to all enemies in range every 0.5s.Can rotate but cannot move while channeling75% Increased Damage against Monsters.",
       "tierUnlock": "1"
     },
     {
@@ -59,7 +59,7 @@
       "cooldown": "11",
       "castingRange": "18",
       "type": "common",
-      "description": "Channels for 0.5s and then launches a molten orb in\ntarget direction that sticks to the first enemy hit, lasting\n5s and dealing \n[Damage Rate: 110%] Magic Damage to\nenemies within 5m every 2s while inflicting 1 stack of\n[Burn].",
+      "description": "Channels for 0.5s and then launches a molten orb intarget direction that sticks to the first enemy hit, lasting5s and dealing [Damage Rate: 110%] Magic Damage toenemies within 5m every 2s while inflicting 1 stack of[Burn].",
       "tierUnlock": "3"
     },
     {
@@ -69,7 +69,7 @@
       "cooldown": "11",
       "castingRange": "10",
       "type": "common",
-      "description": "Jumps in target direction, dealing \n[Damage Rate: 250%]\nMagic Damage and inflicting 2 stacks of [Burn] to nearby\nenemies upon takeoff.",
+      "description": "Jumps in target direction, dealing [Damage Rate: 250%]Magic Damage and inflicting 2 stacks of [Burn] to nearbyenemies upon takeoff.",
       "tierUnlock": "5"
     },
     {
@@ -79,7 +79,7 @@
       "cooldown": "18",
       "castingRange": "6",
       "type": "common",
-      "description": "Sprays oil lasting 8s in front, inflicting [Oil Coating] to\nenemies who enter.\n[Oil Coating]: Reduces Movement Speed by 50% for 4s.\nWhen affected by [Burn], [Oil Coating] is replaced with\n[Volatile Burn] and cannot be inflicted again for 6s.\n[Volatile Burn]: Causes Fear and deals \n[Damage Rate: 56%] Magic Damage every 0.5s for 1.5s.",
+      "description": "Sprays oil lasting 8s in front, inflicting [Oil Coating] toenemies who enter.[Oil Coating]: Reduces Movement Speed by 50% for 4s.When affected by [Burn], [Oil Coating] is replaced with[Volatile Burn] and cannot be inflicted again for 6s.[Volatile Burn]: Causes Fear and deals [Damage Rate: 56%] Magic Damage every 0.5s for 1.5s.",
       "tierUnlock": "7"
     },
     {
@@ -103,7 +103,7 @@
       "cooldown": "18",
       "castingRange": "14",
       "type": "skill",
-      "description": "After 1s cast, launches scorching flames at the target\nlocation to create Hellfire.\nHellfire lasts 6s, dealing \n[Damage Rate: 70%] Magic\nDamage to all players (\n[Damage Rate: 140%] Magic\nDamage to mobs) within and inflicting 1 stack of [Burn]\nevery 1s.",
+      "description": "After 1s cast, launches scorching flames at the targetlocation to create Hellfire.Hellfire lasts 6s, dealing [Damage Rate: 70%] MagicDamage to all players ([Damage Rate: 140%] MagicDamage to mobs) within and inflicting 1 stack of [Burn]every 1s.",
       "tierUnlock": "2",
       "rarity": "rare",
       "stats": {
@@ -137,7 +137,7 @@
       "cooldown": "20",
       "castingRange": "17",
       "type": "skill",
-      "description": "After a 1s cast, launches three scorching surges at the\ntarget location. After 1s, the flames erupt, each dealing \n[Damage Rate: 240%] Magic Damage and inflicting 1\nstack of [Burn] and Knockup for 1s to enemies in range.\nDamage reduces to 50% for enemies that take damage\nfrom more than one scorching surge.",
+      "description": "After a 1s cast, launches three scorching surges at thetarget location. After 1s, the flames erupt, each dealing [Damage Rate: 240%] Magic Damage and inflicting 1stack of [Burn] and Knockup for 1s to enemies in range.Damage reduces to 50% for enemies that take damagefrom more than one scorching surge.",
       "tierUnlock": "2",
       "rarity": "epic",
       "stats": {
@@ -154,7 +154,7 @@
       "cooldown": "1.5",
       "castingRange": "18",
       "type": "skill",
-      "description": "Launches 3 Core Flare orbs at the target location. Each\nnova deals [Damage Rate: 180%] Magic Damage to\nenemies along the way and inflicts 1 stack Of [Burnl and I\nstack Of [Scorch]. Additional nova hits on the same target\ndeal damage equal to 30% Of the original damage\nGains 1 charge every 1 5s, up to 3 charges\n[Scorch): Reduces healing received by 5% for 4s. Stacks up to 3 times",
+      "description": "Launches 3 Core Flare orbs at the target location. Eachnova deals [Damage Rate: 180%] Magic Damage toenemies along the way and inflicts 1 stack Of [Burnl and Istack Of [Scorch]. Additional nova hits on the same targetdeal damage equal to 30% Of the original damageGains 1 charge every 1 5s, up to 3 charges[Scorch): Reduces healing received by 5% for 4s. Stacks up to 3 times",
       "tierUnlock": "2",
       "rarity": "epic",
       "stats": {
@@ -188,7 +188,7 @@
       "cooldown": "23",
       "castingRange": "20",
       "type": "skill",
-      "description": "Channels a starforge beam for 4s after a 1s cast. Deals \n[Damage Rate: 85%] Magic Damage to enemies in range\nevery 0.5s, inflicting 1 stack of [Burn] and [Scorch].\nEach hit increases damage by 10%, up to 50%.\nCannot be interrupted during channeling and grants a\n[Target-based Max HP 25%] shield.\n[Scorch]: Reduces healing received by 5% for 4s. Stacks\nup to 3 times.",
+      "description": "Channels a starforge beam for 4s after a 1s cast. Deals [Damage Rate: 85%] Magic Damage to enemies in rangeevery 0.5s, inflicting 1 stack of [Burn] and [Scorch].Each hit increases damage by 10%, up to 50%.Cannot be interrupted during channeling and grants a[Target-based Max HP 25%] shield.[Scorch]: Reduces healing received by 5% for 4s. Stacksup to 3 times.",
       "tierUnlock": "2",
       "rarity": "legendary",
       "stats": {

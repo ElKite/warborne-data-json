@@ -41,7 +41,7 @@
         "cooldown": "44",
         "castingRange": "14",
         "type": "skill",
-        "description": "Jumps backward 6 meters while throwing a robotic\ngrappling hook in the target direction, dealing \n[Damage Rate: 110%] Magic Damage to the first enemy hit and\nbinding them for I Os. Enemies attempting to leave the\nbinding range are pulled back to the center and take\n[Damage Rate: 142%] Magic Damage.",
+        "description": "Jumps backward 6 meters while throwing a roboticgrappling hook in the target direction, dealing [Damage Rate: 110%] Magic Damage to the first enemy hit andbinding them for I Os. Enemies attempting to leave thebinding range are pulled back to the center and take[Damage Rate: 142%] Magic Damage.",
         "tierUnlock": "1"
       },
       "passive": {
