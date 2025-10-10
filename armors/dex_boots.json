@@ -80,7 +80,7 @@
       "cooldown": "29",
       "castingRange": "7",
       "type": "skill",
-      "description": "Increases Attack Speed by 30%, Spellcasting Speed by 30%, and Movement Speed by 30% for nearby allied targets, lasting 5s.",
+      "description": "Increases Attack Speed by 30%, Spellcasting Speed by 30%, and Movement Speed by 40% for nearby allied targets, lasting 5s.",
       "tierUnlock": "1",
       "rarity": "epic",
       "stats": {

@@ -443,7 +443,7 @@
     },
     "paragon_str_9": {
       "gameId": "paragon_str_9",
-      "name": "Firestorm",
+      "name": "Mad Barrel",
       "strBonus": "1.8",
       "dexBonus": "1.5",
       "intBonus": "0.8",
@@ -475,7 +475,7 @@
       },
       "skill": {
         "gameId": "Paragon_Skill_Str_9",
-        "gearName": "Firestorm",
+        "gearName": "Barrel",
         "skillName": "Cannonade",
         "manaCost": "18",
         "cooldown": "9.3",
@@ -486,13 +486,13 @@
       },
       "passive": {
         "gameId": "Paragon_Skill_Str_9_Passive",
-        "gearName": "Firestorm",
+        "gearName": "Barrel",
         "skillName": "Resolve",
         "manaCost": "",
         "cooldown": "",
         "castingRange": "",
         "type": "passive",
-        "description": "While standing still, gain 1 stack of [Steadfast] every second.[Steadfast]: +2% Critical Rate, +2% Damage Resistance for 3s. Stacks up to 15 times.",
+        "description": "While standing still, gain 1 stack of [Steadfast] every second.\n[Steadfast]: +2% Critical Rate, +2% Damage Resistance for 3s. Stacks up to 15 times.",
         "tierUnlock": "4"
       }
     },

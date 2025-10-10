@@ -41,7 +41,7 @@
         "cooldown": "28",
         "castingRange": "6",
         "type": "skill",
-        "description": "Increases Movement Speed by 55% for 5s. Creates a frost path that lasts 4s. Enemies in the path are slowed by 40% and their Attack Speed is reduced by 45% for 2s.",
+        "description": "Increases Movement Speed by 60% for 5s. Creates a frost path that lasts 4s. Enemies in the path are slowed by 30% and their Attack Speed is reduced by 45% for 2s.",
         "tierUnlock": "1",
         "rarity": "epic"
       },
@@ -54,7 +54,7 @@
         "cooldown": "28",
         "castingRange": "6",
         "type": "skill",
-        "description": "Increases Movement Speed by 55%, lasting 5s; creates a path of corruption lasting 4s along movement path.Enemies in the path suffer 35% reduced damage dealt and30% reduced healing received for 5s.",
+        "description": "Increases Movement Speed by 65%, lasting 5s; creates a path of corruption lasting 4s along movement path.\nEnemies in the path suffer 35% reduced damage dealt and\n30% reduced healing received for 5s.",
         "tierUnlock": "1",
         "rarity": "epic"
       },

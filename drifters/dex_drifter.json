@@ -388,7 +388,7 @@
     },
     "paragon_dex_8": {
       "gameId": "paragon_dex_8",
-      "name": "Stormblade",
+      "name": "Blade",
       "strBonus": "1",
       "dexBonus": "2.4",
       "intBonus": "0.7",
@@ -420,7 +420,7 @@
       },
       "skill": {
         "gameId": "Paragon_Skill_Dex_8",
-        "gearName": "Stormblade",
+        "gearName": "Blade",
         "skillName": "Tempest Slash",
         "manaCost": "29",
         "cooldown": "28",
@@ -431,7 +431,7 @@
       },
       "passive": {
         "gameId": "Paragon_Skill_Dex_8_Passive",
-        "gearName": "Stormblade",
+        "gearName": "Blade",
         "skillName": "Cyclone Reap",
         "manaCost": "",
         "cooldown": "1.3",
