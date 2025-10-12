@@ -497,7 +497,6 @@
       }
     },
     "paragon_str_10": {
-      "isActive": false,
       "gameId": "paragon_str_10",
       "name": "Hela",
       "strBonus": "N/A",
@@ -537,7 +536,7 @@
         "cooldown": "N/A",
         "castingRange": "N/A",
         "type": "skill",
-        "description": "N/A",
+        "description": "Summon a big Bear",
         "tierUnlock": "1"
       },
       "passive": {

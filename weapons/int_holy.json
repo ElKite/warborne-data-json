@@ -214,16 +214,15 @@
       }
     },
     {
-      "isActive": false,
       "gearIcon": "SpecImage_STAFF8",
       "gameId": "HolyStaff_Fulgent",
       "gearName": "Fulgent Staff",
-      "skillName": "",
-      "manaCost": "",
-      "cooldown": "",
-      "castingRange": "",
+      "skillName": "Dark Sun Rises",
+      "manaCost": "30",
+      "cooldown": "38",
+      "castingRange": "14",
       "type": "skill",
-      "description": "",
+      "description": "Summons Black Sun, lasting 15s. Every 3 seconds, the Black Sun deals [Damage Rate: 120%] Magic Damage to enemies in range, inflicts [Charm] for 1 s, and reduces their Magic Resistance by 67 for 5s. This effect can stack up to 5 times.\n(Charm): Moves slowly toward the caster, unable to use Skills or Move during this time.\nThe Black Sun is destroyed after taking 6 instances of Basic Attack Damage",
       "tierUnlock": "2",
       "rarity": "legendary",
       "stats": {

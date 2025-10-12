@@ -228,16 +228,15 @@
       }
     },
     {
-      "isActive": false,
       "gameId": "Sword_BloodSword_skill",
       "gearIcon": "SpecImage_SWORD8",
       "gearName": "Blood Sword",
       "skillName": "",
-      "manaCost": "",
-      "cooldown": "",
-      "castingRange": "",
+      "manaCost": "23",
+      "cooldown": "17",
+      "castingRange": "6",
       "type": "skill",
-      "description": "",
+      "description": "Grants the power of Frothing Rampage, increasing Max HP by 25% for 20s, granting immunity to Forced Movement effects. and auto-gaining 1 stack of [Sword Momentum] every 3s, along with the [Sanguine Wave] and [Siphon Blood] skills.\n --[Sanguine Wave]--\nDeals [Damage Rate: 120%] Magic Damage to enemies in range. Consumes 1 stack of [Sword Momentum] (if available) to send forth a Sanguine Wave, dealing [Damage Rate: 120%] Magic Damage to those hit and healing the caster for [Healing Rate: 18%] HP per enemy hit, up to 5.\n--[Siphon Blood]--\n Deals [Damage Rate: 200%] Magic Damage to up to 10 nearby enemies, inflicts a 30% Slow fos 6s, recovers [Healing Rate: 24%] HP for each enemy hit, and grants [Target-based Max HP 30%] Shield for 6s.",
       "tierUnlock": "2",
       "rarity": "legendary",
       "stats": {

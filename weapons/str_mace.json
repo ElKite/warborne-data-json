@@ -235,16 +235,15 @@
       }
     },
     {
-      "isActive": false,
       "gameId": "Mace_Paladin_Shield",
       "gearIcon": "SpecImage_MACE",
-      "gearName": "Paladin's Mace",
+      "gearName": "Paladin Force",
       "skillName": "Paladin's Shield",
-      "manaCost": "",
-      "cooldown": "",
-      "castingRange": "",
+      "manaCost": "23",
+      "cooldown": "17",
+      "castingRange": "6",
       "type": "skill",
-      "description": "",
+      "description": "Grants Paladin Force, cleansing all DoT and slow effects, and grating immunity to DoT and debuffs for 20s, along with the [Divine Zeal] and [Guardian Shield] Skills.\n [Zeal: Strike 1]: Rush forward, dealing [Damage Rate: 120%] Magic Damage.\n[Zeal: Strike 2]: Deals [Damage Rate: 140%] Magic Damage to enemies in range and slows them for 40% for 2s.\n [Zeal: Strike 3]: Deals [Damage Rate: 160%] Magic Damage to nearby enemies, heal allies around you for [Healing Rate: 72%] HP, increases their Damage Resistance by 20% , Control Resistance by 2000%, for 4s.\n\n--[Guardian Shield]--\nChannels for 4s, during which the caster is Unstoppable, increasing Damage Resistance of allies in range by 45% and restoring [Healing Rate: 90%] HP per second. After channeling ends, deals [Damage Rate: 300%] Magic Damage to surrounding enemies and Stuns them for 2s. Each time damage is taken during channeling, the final damage increases by 10% up to a maxium of 50%.\nClicking the skill again cancels the channeling early.",
       "tierUnlock": "2",
       "rarity": "legendary",
       "stats": {
