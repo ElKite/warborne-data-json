@@ -92,6 +92,24 @@
       }
     },
     {
+      "gameId": "Helm_Int_9",
+      "gearIcon": "SpecImage_COWL7",
+      "gearName": "Hasty Defense Hood",
+      "skillName": "Hasty Defense",
+      "manaCost": "",
+      "cooldown": "",
+      "castingRange": "",
+      "type": "passive",
+      "description": "Increases Armor significantly upon receiving heavy damage",
+      "tierUnlock": "1",
+      "rarity": "epic",
+      "stats": {
+        "hp": "755",
+        "dmgBonus": "9.9%",
+        "mpRecovery": "10"
+      }
+    },
+    {
       "gameId": "Helm_Int_5",
       "gearIcon": "SpecImage_COWL4",
       "gearName": "Sanctum Shroud",

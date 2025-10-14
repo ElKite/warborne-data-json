@@ -498,7 +498,7 @@
     },
     "paragon_str_10": {
       "gameId": "paragon_str_10",
-      "name": "Hela",
+      "name": "Tayana",
       "strBonus": "N/A",
       "dexBonus": "N/A",
       "intBonus": "N/A",
@@ -536,7 +536,7 @@
         "cooldown": "N/A",
         "castingRange": "N/A",
         "type": "skill",
-        "description": "Summon a big Bear",
+        "description": "Summon Tiger to attack enemies",
         "tierUnlock": "1"
       },
       "passive": {
@@ -547,7 +547,7 @@
         "cooldown": "N/A",
         "castingRange": "N/A",
         "type": "passive",
-        "description": "N/A",
+        "description": "When enemies dies nearby, infuses the caster and Loge",
         "tierUnlock": "4"
       }
     }

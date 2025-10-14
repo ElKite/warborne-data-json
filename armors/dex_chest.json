@@ -67,6 +67,19 @@
       "rarity": "epic"
     },
     {
+      "gameId": "Cloth_Dex_10",
+      "gearIcon": "SpecImage_JACKET2",
+      "gearName": "Cleanse Coat",
+      "skillName": "Cleanse",
+      "manaCost": "",
+      "cooldown": "32",
+      "castingRange": "12",
+      "type": "skill",
+      "description": "Remove debuffs and Dot effects in an area",
+      "tierUnlock": "1",
+      "rarity": "epic"
+    },
+    {
       "gameId": "Cloth_Dex_1",
       "gearIcon": "SpecImage_JACKET1",
       "gearName": "Ranger's Hide",

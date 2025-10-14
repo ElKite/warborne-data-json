@@ -119,6 +119,23 @@
         "hp": "755",
         "dmgBonus": "9.9%"
       }
+    },
+    {
+      "gameId": "Shoes_Str_10",
+      "gearIcon" : "SpecImage_BOOTS7",
+      "gearName": "Dark Domain Boots",
+      "skillName": "Dark Domain",
+      "manaCost": "",
+      "cooldown": "",
+      "castingRange": "",
+      "type": "skill",
+      "description": "Leaves a Dark Domain in place and self",
+      "tierUnlock": "1",
+      "rarity": "legendary",
+      "stats": {
+        "hp": "755",
+        "dmgBonus": "9.9%"
+      }
     }
   ]
 }
